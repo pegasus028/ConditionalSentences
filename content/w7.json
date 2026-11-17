@@ -1,0 +1,1625 @@
+{
+ "world": "w7",
+ "lessons": [
+  {
+   "id": "w7l1",
+   "name": "wish / if only + past: wishes about now",
+   "cefr": "B2",
+   "ctype": "wish",
+   "gateway": "p.77",
+   "formula": {
+    "if": "I wish / If only + subject",
+    "result": "past simple (had, knew, didn't …) · were · could + verb"
+   },
+   "uses": [
+    {
+     "use": "Wanting something you don't have",
+     "ex": "I wish I had a bigger desk."
+    },
+    {
+     "use": "Wanting an ability",
+     "ex": "I wish I could draw like you."
+    },
+    {
+     "use": "Grumbling about how things are now",
+     "ex": "If only this bus came more often!"
+    },
+    {
+     "use": "Missing someone",
+     "ex": "I wish you were here with us."
+    },
+    {
+     "use": "Saying no kindly",
+     "ex": "I wish I could help, but I have tutoring tonight."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Use <b>wish</b> or <b>if only</b> with a past form to talk about something now that you want to be different.",
+     "body": [
+      "Sometimes you are not happy with something now. You want it to be different. In English you say <b>I wish</b>, and then you move the verb one step back. Have becomes had. Know becomes knew. Can becomes could. Am, is and are become were. So a girl with no cat says: I wish I had a cat.",
+      "The past form here is not about past time. It is about now. It means: this is not real. Every wish has a Truth (the real fact), and the Truth is the opposite. I wish I had a cat. Truth: I don't have a cat, now. I wish I didn't have a cough. Truth: I have a cough, now. A positive wish hides a negative Truth. A negative wish hides a positive Truth.",
+      "Be careful with three mistakes. First, never use a present form after wish: <s>I wish I have</s> is wrong. Second, never use will or can after wish. Say could, not can. Third, do not use would for your own situation: <s>I wish I would know her name</s> is wrong. For what you have, know, are or can do, use the simple past form: I wish I knew her name.",
+      "For something happening right now, step back from are doing to were doing. They are shouting, so you say: I wish they weren't shouting. After I, he, she and it, careful writers use were. Many people say was when they speak. Both are fine.",
+      "<b>If only</b> means the same as I wish, but the feeling is stronger. It uses the same past forms. It can stand alone, often with an exclamation mark: If only I could remember! Do not mix it up with only if, which gives a condition (something that must happen first). This is the same step back as the second conditional: If I had a cat, I would be happy."
+     ],
+     "examples": [
+      {
+       "s": "I wish I had a cat.",
+       "g": "Truth: I don't have a cat — now. Have steps back to had."
+      },
+      {
+       "s": "If only I didn't have so much homework!",
+       "g": "Truth: I have a lot of homework — now. A negative wish, a positive Truth. If only is stronger than I wish."
+      },
+      {
+       "s": "I wish I could play the guitar.",
+       "g": "Truth: I can't play the guitar — now. Can steps back to could."
+      },
+      {
+       "s": "I wish you were here.",
+       "g": "Truth: you aren't here — now. Are steps back to were."
+      },
+      {
+       "s": "<s>I wish I have a cat.</s>",
+       "g": "Wrong: a present form after wish. Say: I wish I had a cat."
+      }
+     ]
+    },
+    "B2": {
+     "key": "<b>Wish</b> and <b>if only</b> take a past form to show that a present situation is not the way you want it: one step back from reality.",
+     "body": [
+      "When you are unhappy with the way things are now, English uses <b>I wish</b> followed by a verb that has moved one step back: have becomes had, know becomes knew, can becomes could, and am, is or are become were. A student who cannot remember a new classmate's name says: I wish I knew her name. The past form does not point to past time. It is the distance past of the second conditional, and it signals that the idea is imagined, not real.",
+      "Because the wish is imagined, the Truth is its opposite, and the Truth is dated now. I wish I had a cat: Truth, I don't have one. I wish I didn't have a cough: Truth, I have one. Notice that the polarity flips, so a positive wish hides a negative fact and a negative wish hides a positive fact. For an ability, use could: I wish I could play the guitar means that you can't.",
+      "Three errors are common. A present form after wish, as in <s>I wish I have</s>, is the classic one for Thai learners, because Thai does not change the verb. Will and can are also impossible after wish. Finally, would is not used for your own situation or for a state: say I wish I knew her name, not <s>I wish I would know her name</s>. Wish with would has a special job, which you will meet two lessons from now.",
+      "For an action in progress, step back from the present continuous to the past continuous: they are shouting, so I wish they weren't shouting. With I, he, she and it, were is the careful choice in writing and was is normal in speech, so neither is treated as a mistake here.",
+      "<b>If only</b> expresses the same wish with more feeling, and takes exactly the same forms. It needs no result clause: If only I could remember! is a complete sentence. Keep it apart from only if, which states a necessary condition and has nothing to do with wishing."
+     ],
+     "examples": [
+      {
+       "s": "I wish I had a cat.",
+       "g": "Truth: I don't have a cat — now. One step back: have becomes had."
+      },
+      {
+       "s": "If only I didn't have so much homework!",
+       "g": "Truth: I have a lot of homework — now. The polarity flips, and if only adds feeling."
+      },
+      {
+       "s": "I wish I could play the guitar.",
+       "g": "Truth: I can't play it — now. Can becomes could; never can after wish."
+      },
+      {
+       "s": "I wish you were here.",
+       "g": "Truth: you aren't here — now. Are becomes were."
+      },
+      {
+       "s": "<s>I wish I have a cat.</s>",
+       "g": "Wrong: no step back. A present form after wish says it is real. Correct: I wish I had a cat."
+      }
+     ]
+    },
+    "C1": {
+     "key": "After <b>wish</b> and <b>if only</b>, a past form marks distance from reality, not from the present moment, so the situation described is contrary to present fact.",
+     "body": [
+      "English past forms do more than report past time. After <b>wish</b> they express remoteness from reality: the speaker presents a situation as not being the case now. The verb therefore moves one step back, on the staircase of the second conditional and, for a different reason, of reported speech: have to had, know to knew, can to could, will to would, am or is to were. I wish I knew her name is entirely about the present; nothing in it refers to an earlier time.",
+      "Each wish carries an implied opposite fact, the Truth, dated now. I wish I had a cat presupposes that I have none; I wish I didn't have a cough presupposes that I have one. The polarity always reverses. Could expresses a missing ability or opportunity: I wish I could play the guitar. This is why wish belongs with the imagined conditional: If I had a cat, I'd be happier and I wish I had a cat rest on the same Truth.",
+      "The typical learner error is to leave the verb in the present, <s>I wish I have</s>, or to use will or can, since many languages, Thai included, mark a wish with a separate word and leave the verb alone. A second error is would for the speaker's own circumstances or for a state: <s>I wish I would know her name</s>. Would after wish is reserved for another person's willingness to behave differently, which is treated later on this island.",
+      "Continuous meaning steps back in the same way, from are shouting to weren't shouting. With a first or third person singular subject, were is the traditional form and the safe one in formal writing, while was is normal in conversation; the two differ in register, not in correctness. One exception to notice: wish followed by a to-infinitive, as in I wish to make a complaint, is simply a formal way of saying want, and involves no step back.",
+      "<b>If only</b> is the emphatic counterpart of I wish. It takes identical forms, usually stands alone as an exclamation and needs no result clause, though one can be added: If only I could remember her name, I could introduce you. It must not be confused with only if, which introduces a necessary condition."
+     ],
+     "examples": [
+      {
+       "s": "I wish I had a cat.",
+       "g": "Truth: I have no cat — now. The past form marks distance from reality, not past time."
+      },
+      {
+       "s": "If only I didn't have so much homework!",
+       "g": "Truth: I have a great deal of homework — now. Reversed polarity; if only is the emphatic form."
+      },
+      {
+       "s": "I wish I could play the guitar.",
+       "g": "Truth: I can't play it — now. Could is the remote form of can, for a missing ability."
+      },
+      {
+       "s": "I wish you were here.",
+       "g": "Truth: you aren't here — now. Were is the remote form of are."
+      },
+      {
+       "s": "<s>I wish I have a cat.</s>",
+       "g": "Wrong: the present form fails to mark the wish as unreal. Correct: I wish I had a cat."
+      }
+     ]
+    }
+   },
+   "thai": "ถอยหลังหนึ่งก้าว = ถอยห่างจากความจริง: I wish I had a cat. ความจริงคือ ตอนนี้ไม่มีแมว",
+   "items": [
+    {
+     "id": "w7l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "I wish I lived nearer the school."
+      }
+     ],
+     "stem": "What is true about Fah?",
+     "options": [
+      "She lives further from school than she wants.",
+      "She lived near the school in the past.",
+      "She lives near the school at the moment.",
+      "She is going to move nearer the school soon."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: the wish is the opposite of the Truth, and the Truth is dated now.",
+      "The past form \"lived\" is not past time here. After wish it means not real now.",
+      "That is what she wants, not what is true. Flip the wish to find the Truth.",
+      "Nothing in the sentence is a plan. A wish with a past form is imagined, not expected."
+     ],
+     "hint": "The past form after wish: is it about past time, or about distance from what is real?",
+     "why": "After wish, a past form means not real now, so the Truth is the opposite: Fah doesn't live as near the school as she wants.",
+     "truth": "Fah lives further from the school than she wants — now."
+    },
+    {
+     "id": "w7l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Nan",
+       "text": "It's pouring, we're outside the BTS station, and neither of us has an umbrella."
+      }
+     ],
+     "stem": "Which wish fits Nan's situation?",
+     "options": [
+      "I wish we had an umbrella.",
+      "I wish we didn't have an umbrella.",
+      "I wish it rained more often.",
+      "I wish we weren't indoors."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: the Truth is negative (no umbrella), so the wish is positive, one step back.",
+      "The Truth is that they have no umbrella. A negative Truth needs a positive wish.",
+      "It is already raining, and that is the problem. A wish asks for the opposite of the Truth.",
+      "They are outside, not indoors. Check the Truth before you flip it."
+     ],
+     "hint": "Write the Truth first, then flip it.",
+     "why": "The Truth is negative (they have no umbrella now), so the wish is positive, with have one step back: had.",
+     "truth": "They don't have an umbrella — now."
+    },
+    {
+     "id": "w7l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Praew",
+       "text": "If only I knew the answer to question five!"
+      }
+     ],
+     "stem": "How is Praew's sentence different from \"I wish I knew the answer to question five\"?",
+     "options": [
+      "Same wish, with a stronger feeling",
+      "Same wish, but about the past",
+      "It gives a condition, like \"only if\"",
+      "It means Praew knows the answer"
+     ],
+     "answer": 0,
+     "near": 2,
+     "fb": [
+      "Yes: if only is I wish with more feeling, and it takes the same past form.",
+      "Both sentences are about now. Knew is one step back from reality, not past time.",
+      "Only if gives a condition. If only, in that order, is a wish.",
+      "The Truth is the opposite: she doesn't know the answer now."
+     ],
+     "hint": "The verb form is the same in both. So what changes: the time, the Truth, or the feeling?",
+     "why": "If only and I wish take the same forms and have the same Truth; if only simply sounds stronger.",
+     "truth": "Praew doesn't know the answer — now."
+    },
+    {
+     "id": "w7l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Mook",
+       "text": "This game keeps freezing. My phone is five years old!"
+      }
+     ],
+     "stem": "I wish I ___ a newer one.",
+     "options": [
+      "have",
+      "had",
+      "will have",
+      "would have"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "A present form after wish says it is real. Mook's phone is old, so step back once.",
+      "Yes: have steps back to had. Truth: she doesn't have a newer phone now.",
+      "Will never follows wish. This is not a real future; it is an imagined now.",
+      "Would after wish is not for your own situation, or for a state like having something. Use the simple past form."
+     ],
+     "hint": "Is this real now? If not, how many steps back?",
+     "why": "Mook doesn't have a newer phone now, so have takes one step back to had; wish never takes a present form or will.",
+     "truth": "Mook doesn't have a newer phone — now."
+    },
+    {
+     "id": "w7l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "We've lost every doubles match this term."
+      }
+     ],
+     "stem": "I wish we ___ better at doubles.",
+     "options": [
+      "are",
+      "were",
+      "would be",
+      "will be"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "A present form says it is true now. Sadly it is not, so step back once.",
+      "Yes: are steps back to were. Truth: they aren't good at doubles now.",
+      "Would is not used after wish for your own situation, or for a state such as being good at something.",
+      "Will never follows wish. Step back from the real form."
+     ],
+     "hint": "What is the Truth now? Then move the verb one step back.",
+     "why": "The Truth is that they are not good at doubles now, so are takes one step back to were.",
+     "truth": "They aren't good at doubles — now."
+    },
+    {
+     "id": "w7l1-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "stem": "[[If only]] our classroom [[has]] air conditioning! [[It is]] so hot in here [[today]].",
+     "answer": 1,
+     "fix": "had",
+     "fb": [
+      "If only is fine: it starts a strong wish.",
+      "Yes, this is the error: a present form after if only. The classroom has no air conditioning now, so step back to had.",
+      "It is so hot is the real situation, so the present form is right.",
+      "Today is the time cue: the wish is about now."
+     ],
+     "hint": "Which verb describes something that is not real now?",
+     "why": "After if only, the verb for the imagined situation steps back: has becomes had. The second sentence is real, so it stays present.",
+     "truth": "The classroom doesn't have air conditioning — now."
+    },
+    {
+     "id": "w7l1-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Situation",
+       "text": "Ploy lives next to a building site. The noise starts at seven every morning."
+      }
+     ],
+     "stem": "Ploy: If only we ___ (not live) next to a building site!",
+     "accept": [
+      "didn't live",
+      "did not live",
+      "weren't living",
+      "were not living"
+     ],
+     "model": "didn't live",
+     "hint": "The Truth is positive and dated now. Flip it and step back once.",
+     "why": "The Truth is that they live there now, so the wish is negative and one step back: didn't live.",
+     "truth": "Ploy's family lives next to a building site — now."
+    },
+    {
+     "id": "w7l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Situation",
+       "text": "Mint can't speak Korean, so she needs subtitles for every video of her favourite K-pop group."
+      }
+     ],
+     "stem": "Mint: I wish I ___ (can / speak) Korean.",
+     "accept": [
+      "could speak"
+     ],
+     "model": "could speak",
+     "hint": "Which of the two verbs steps back, and what does it become?",
+     "why": "Mint can't speak Korean now, so can takes one step back to could, and speak stays in the base form.",
+     "truth": "Mint can't speak Korean — now."
+    }
+   ]
+  },
+  {
+   "id": "w7l2",
+   "name": "wish / if only + past perfect: regrets",
+   "cefr": "B2",
+   "ctype": "wish",
+   "gateway": "p.77",
+   "formula": {
+    "if": "I wish / If only + subject",
+    "result": "had / hadn't + past participle (V3)"
+   },
+   "uses": [
+    {
+     "use": "Regretting something you did",
+     "ex": "I wish I hadn't spent all my pocket money on stickers."
+    },
+    {
+     "use": "Regretting something you didn't do",
+     "ex": "If only I'd set an alarm!"
+    },
+    {
+     "use": "Gentle criticism of someone else",
+     "ex": "I wish you'd told me earlier."
+    },
+    {
+     "use": "Disappointment about what happened",
+     "ex": "I wish you had been there. The concert was amazing."
+    },
+    {
+     "use": "Learning from a mistake",
+     "ex": "I wish I'd read the question properly. Next time I will."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Use <b>wish</b> or <b>if only</b> with <b>had</b> and the past participle (V3) for a regret: something in the past that you want to change but can't.",
+     "body": [
+      "A regret is a sad feeling about the past. Something happened, or did not happen, and you cannot change it now. For a wish about now, you step back once. For a wish about the past, you step back twice. Went becomes had gone. Forgot becomes had forgotten. So the form is <b>had</b> and the past participle (V3): I wish I had brought an umbrella.",
+      "The Truth (the real fact) is the opposite again, but now it has a past date. I wish I had brought an umbrella. Truth: I didn't bring one, this morning. If only I hadn't left my homework at home! Truth: I left it at home. So ask two questions. Did it happen? When? A past time word, like yesterday or last night, tells you to use had and V3.",
+      "In speech, had is often short: I wish I'd known. After wish, the short form before a V3 is always had. It is not would. You can also wish about another person's past action: I wish you had reminded me about the test. Truth: you didn't remind me.",
+      "Watch three mistakes. The simple past is for wishes about now, so it is wrong for the past: <s>I wish I studied harder last term</s>. Have and V3 is wrong too. You need had. And do not put would have after wish. Keep would have for the result half of a third conditional.",
+      "A regret with wish means almost the same as <b>should have</b>. I should have gone to bed earlier means I wish I had gone to bed earlier. I shouldn't have said that means I wish I hadn't said that. Should have sounds like advice to yourself. Wish shows the feeling. If only shows a stronger feeling."
+     ],
+     "examples": [
+      {
+       "s": "I wish I had brought an umbrella.",
+       "g": "Truth: I didn't bring one — this morning. Two steps back: had and V3."
+      },
+      {
+       "s": "If only I hadn't left my homework at home!",
+       "g": "Truth: I left it at home — this morning. A negative wish, a positive Truth."
+      },
+      {
+       "s": "I wish you had reminded me about the test.",
+       "g": "Truth: you didn't remind me — last week. A wish about another person's past action."
+      },
+      {
+       "s": "I wish I'd gone to bed earlier.",
+       "g": "Truth: I went to bed late — last night. The short form is had. Same idea: I should have gone to bed earlier."
+      },
+      {
+       "s": "<s>I wish I studied harder last term.</s>",
+       "g": "Wrong: only one step back, but last term is past. Say: I wish I had studied harder last term."
+      }
+     ]
+    },
+    "B2": {
+     "key": "<b>Wish</b> and <b>if only</b> with the past perfect express regret: the Truth is a past fact that can no longer be changed.",
+     "body": [
+      "A wish about now steps back once, to the past simple. A wish about the past has to step back twice, because the first step is already used up by past time: went becomes had gone, brought becomes had brought. The form is therefore <b>had</b> and the past participle (V3), the same form as the if half of a third conditional: I wish I had brought an umbrella.",
+      "The Truth is still the opposite of the wish, but it now carries a past date. I wish I had brought an umbrella: Truth, I didn't bring one this morning. If only I hadn't left my homework at home: Truth, I left it there. To choose between the two kinds of wish, ask when the Truth is dated. A past time marker such as yesterday, last night or this morning calls for had and V3.",
+      "In speech had usually contracts: I wish I'd known. After wish, the contraction before a past participle is always had, never would. The regret can also be about what someone else did or failed to do: I wish you had reminded me about the test means that you didn't remind me, and can sound like a gentle criticism.",
+      "Three wrong forms appear often. The past simple belongs to wishes about now, so <s>I wish I studied harder last term</s> does not work in careful English. Have and V3 is not far enough back; you need had. And would have does not follow wish in standard British English or in exams: it belongs in the result half of a third conditional.",
+      "A regret with wish is very close to <b>should have</b>. I should have gone to bed earlier and I wish I had gone to bed earlier describe the same Truth, and I shouldn't have said that matches I wish I hadn't said that. Should have judges the action; wish expresses the feeling; if only makes that feeling stronger. Keep regrets small and useful: say what you will do next time."
+     ],
+     "examples": [
+      {
+       "s": "I wish I had brought an umbrella.",
+       "g": "Truth: I didn't bring one — this morning. Past perfect for a past Truth."
+      },
+      {
+       "s": "If only I hadn't left my homework at home!",
+       "g": "Truth: I left it at home — this morning. The polarity flips; if only is stronger."
+      },
+      {
+       "s": "I wish you had reminded me about the test.",
+       "g": "Truth: you didn't remind me — last week. With another subject it can sound like gentle criticism."
+      },
+      {
+       "s": "I wish I'd gone to bed earlier.",
+       "g": "Truth: I went to bed late — last night. The contraction is had; compare I should have gone to bed earlier."
+      },
+      {
+       "s": "<s>I wish I studied harder last term.</s>",
+       "g": "Wrong: the past simple is for wishes about now. Correct: I wish I had studied harder last term."
+      }
+     ]
+    },
+    "C1": {
+     "key": "With the past perfect, <b>wish</b> and <b>if only</b> present a past situation as contrary to fact: remoteness in reality added to remoteness in time.",
+     "body": [
+      "The past perfect after <b>wish</b> combines two kinds of distance. One step back marks past time; the second marks unreality. English has no separate inflection for a past of the past, so the perfect does the work: brought becomes had brought, didn't leave becomes hadn't left. The clause is built exactly like the condition of a third conditional, and the two share one Truth: I wish I had brought an umbrella; if I had brought one, I wouldn't have got wet.",
+      "The implied fact is the reverse of the wish and is dated in the past. I wish I had brought an umbrella presupposes that I didn't; if only I hadn't left my homework at home presupposes that I did. The decision between past simple and past perfect therefore depends on the date of the Truth, not on the date of the feeling: the regret is felt now, but the fact it reverses is past.",
+      "Had contracts freely, as in I wish I'd known, and after wish a contraction before a past participle can only be had. With a different subject the structure reports disappointment or mild reproach: I wish you had reminded me about the test. A missed ability or opportunity uses could have: I wish I could have stayed longer.",
+      "Three forms are to be avoided. The past simple with a past time reference, <s>I wish I studied harder last term</s>, is heard in casual speech but is not accepted in exams. The present perfect, have and V3, takes no step back at all. Would have after wish is common in some American speech, yet it is non-standard and marked wrong in formal writing: would have belongs to the result clause.",
+      "Regret with wish runs parallel to <b>should have</b>. I should have gone to bed earlier evaluates the action; I wish I had gone to bed earlier reports the feeling about the same fact; if only intensifies it. Polarity follows the same pattern, so shouldn't have said pairs with wish I hadn't said. Since a wished-for past cannot be changed, the natural continuation is a plan: next time I will."
+     ],
+     "examples": [
+      {
+       "s": "I wish I had brought an umbrella.",
+       "g": "Truth: I didn't bring one — this morning. The perfect adds unreality to past time."
+      },
+      {
+       "s": "If only I hadn't left my homework at home!",
+       "g": "Truth: I left it at home — this morning. Reversed polarity, emphatic form."
+      },
+      {
+       "s": "I wish you had reminded me about the test.",
+       "g": "Truth: you didn't remind me — last week. With a different subject: mild reproach."
+      },
+      {
+       "s": "I wish I'd gone to bed earlier.",
+       "g": "Truth: I went to bed late — last night. Contracted had; parallel to I should have gone to bed earlier."
+      },
+      {
+       "s": "<s>I wish I studied harder last term.</s>",
+       "g": "Not accepted in exams: a past Truth needs the past perfect. Correct: I wish I had studied harder last term."
+      }
+     ]
+    }
+   },
+   "thai": "ความจริงคือ ตอนนั้นไม่ได้เอาร่มมา: I wish I had brought an umbrella.",
+   "items": [
+    {
+     "id": "w7l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Nan",
+       "text": "I wish I'd taken the earlier train."
+      }
+     ],
+     "stem": "What is true?",
+     "options": [
+      "Nan didn't take the earlier train.",
+      "Nan took the earlier train.",
+      "Nan would like to take the earlier train tomorrow.",
+      "Nan takes the earlier train every day."
+     ],
+     "answer": 0,
+     "near": 2,
+     "fb": [
+      "Yes: had taken is two steps back, so the Truth is the opposite and it is dated in the past.",
+      "That is the wish, not the Truth. Flip it.",
+      "The short form comes before a V3 (taken), so it is had, not would. The sentence is a regret about the past.",
+      "A habit would be a real present. Had taken points to one past moment that did not happen."
+     ],
+     "hint": "What is the full form of the contraction before a V3? Then flip the wish.",
+     "why": "I'd taken is I had taken: a wish about the past, so the Truth is that Nan did not take that train.",
+     "truth": "Nan didn't take the earlier train — earlier today."
+    },
+    {
+     "id": "w7l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "stem": "Which sentence is a regret about the past, not a wish about now?",
+     "options": [
+      "If only I hadn't stayed up so late.",
+      "If only I didn't feel so sleepy.",
+      "If only I could go back to bed.",
+      "If only this lesson finished earlier."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: hadn't and V3 is two steps back. Truth: I stayed up late, last night.",
+      "Didn't feel is a past form, but only one step back. Its Truth is dated now: I feel sleepy.",
+      "Could is one step back from can. Truth: I can't go back to bed, now.",
+      "Finished is one step back. Truth: the lesson finishes late, as things are now."
+     ],
+     "hint": "Count the steps back in each verb. Which Truth has a past date?",
+     "why": "Only hadn't stayed is two steps back, so only that Truth is dated in the past; the others are wishes about now.",
+     "truth": "I stayed up late — last night."
+    },
+    {
+     "id": "w7l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Mook",
+       "text": "I shouldn't have bought these shoes online. They're too small."
+      }
+     ],
+     "stem": "Which wish means the same?",
+     "options": [
+      "I wish I hadn't bought them online.",
+      "I wish I had bought them online.",
+      "I wish I could buy them online.",
+      "I wish I bought shoes online more often."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: shouldn't have bought and wish I hadn't bought share one Truth: she bought them online.",
+      "Wrong way round. She did buy them online; that is what she regrets.",
+      "Could buy is a wish about now. Mook's problem is something she already did.",
+      "That is a wish about a habit now, and the opposite of her feeling."
+     ],
+     "hint": "What did Mook do? Is she happy about it?",
+     "why": "She bought them online and regrets it, so the wish is negative and about the past: hadn't bought.",
+     "truth": "Mook bought the shoes online — in the past."
+    },
+    {
+     "id": "w7l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "The concert tickets went on sale at nine yesterday morning and sold out in ten minutes. I was in the shower!"
+      }
+     ],
+     "stem": "If only I ___ the website at nine!",
+     "options": [
+      "checked",
+      "had checked",
+      "have checked",
+      "would check"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Checked is only one step back, for a wish about now. Nine o'clock yesterday is past, so step back twice.",
+      "Yes: had and V3 for a regret. Truth: she didn't check the website at nine yesterday.",
+      "Have and V3 takes no step back at all. A regret needs had.",
+      "Would after if only is for someone else's behaviour, and it is not about the past."
+     ],
+     "hint": "When is the Truth dated: now or yesterday? How many steps back is that?",
+     "why": "The moment is over (nine yesterday) and Pim did not check, so the verb goes two steps back: had checked.",
+     "truth": "Pim didn't check the website at nine — yesterday."
+    },
+    {
+     "id": "w7l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Bam",
+       "text": "You told Mum about the surprise party last night! Now it isn't a surprise."
+      }
+     ],
+     "stem": "I wish you ___ her.",
+     "options": [
+      "didn't tell",
+      "hadn't told",
+      "haven't told",
+      "wouldn't have told"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "One step back is for a wish about now. Last night is past, so you need had.",
+      "Yes: hadn't and V3. Truth: you told her, last night.",
+      "Haven't told is a present perfect: no step back at all. A regret about last night needs had.",
+      "Would have belongs in the result half of a third conditional, not after wish."
+     ],
+     "hint": "The telling is finished. Which form takes a past fact and makes it unreal?",
+     "why": "She told Mum last night, so the wish reverses a past fact: two steps back and negative, hadn't told.",
+     "truth": "She told Mum about the party — last night."
+    },
+    {
+     "id": "w7l2-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "stem": "My serve [[is still]] terrible. I wish I [[have listened]] to the coach [[when]] she explained it [[last week]].",
+     "answer": 1,
+     "fix": "had listened",
+     "fb": [
+      "Is still describes the real present, so the present form is right.",
+      "Yes, this is the error: have and V3 takes no step back. A regret about last week needs had listened.",
+      "When is fine: it joins the listening to the coach's real past action, explained.",
+      "Last week is the past time cue that calls for had and V3."
+     ],
+     "hint": "Find the verb for the thing that did not happen. Is it far enough back?",
+     "why": "The regret is about last week, so wish needs had and V3: had listened. Have listened is not a step back.",
+     "truth": "She didn't listen to the coach — last week."
+    },
+    {
+     "id": "w7l2-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Situation",
+       "text": "Fah didn't charge her phone last night. Now it's dead and she can't pay for her bubble tea."
+      }
+     ],
+     "stem": "Fah: I wish I ___ (charge) my phone last night.",
+     "accept": [
+      "had charged",
+      "'d charged"
+     ],
+     "model": "had charged",
+     "hint": "Last night is finished. How many steps back for a past Truth?",
+     "why": "Fah didn't charge it last night, so the wish reverses a past fact: had and the past participle, had charged.",
+     "truth": "Fah didn't charge her phone — last night."
+    },
+    {
+     "id": "w7l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "given": "I should have looked at the timetable before I left home.",
+     "keyword": "WISH",
+     "stem": "I ___ at the timetable before I left home.",
+     "accept": [
+      "wish I had looked",
+      "wish I'd looked",
+      "wish that I had looked",
+      "wish that I'd looked"
+     ],
+     "model": "wish I had looked",
+     "hint": "Should have and a regret share one Truth. Which form follows the key word for a past fact?",
+     "why": "Should have looked means she didn't look, so the regret is wish, then had and V3: I wish I had looked.",
+     "truth": "She didn't look at the timetable — before she left home."
+    }
+   ]
+  },
+  {
+   "id": "w7l3",
+   "name": "wish / if only + would: annoying habits; wish vs hope",
+   "cefr": "B2",
+   "ctype": "wish",
+   "gateway": "p.77",
+   "formula": {
+    "if": "I wish / If only + another person or thing",
+    "result": "would / wouldn't + verb (but: I hope + present / will for a real possibility)"
+   },
+   "uses": [
+    {
+     "use": "Complaining about a habit",
+     "ex": "I wish you wouldn't sing in the library."
+    },
+    {
+     "use": "Wanting someone to act now",
+     "ex": "I wish you'd hurry up! The film starts at six."
+    },
+    {
+     "use": "Things that won't cooperate",
+     "ex": "I wish this printer would work."
+    },
+    {
+     "use": "Waiting for a change in the weather",
+     "ex": "If only the rain would stop!"
+    },
+    {
+     "use": "A real hope: use hope, not wish",
+     "ex": "I hope you get the scholarship."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Use <b>wish</b> with <b>would</b> or <b>wouldn't</b> when you want another person or thing to act differently; use <b>hope</b> for things that can really happen.",
+     "body": [
+      "Sometimes another person does something again and again, and it annoys you. You want them to change. For this, use <b>I wish</b>, then the person, then <b>would</b> or <b>wouldn't</b>, then the verb. I wish you'd stop tapping your pen. I wish my sister wouldn't borrow my charger without asking. The Truth (the real fact): she borrows it, and I don't like it.",
+      "You can also use it for one action that you want right now. I wish you would hurry up! And you can use it for things, as if they had a mind of their own: I wish it would stop raining. I wish this printer would work. Would shows that somebody or something is not willing to do what you want. The short form is the same as for had, but a base verb follows it: I wish you'd listen.",
+      "There are two limits. First, do not use would about yourself. You control your own actions, so <s>I wish I would</s> is wrong. Say I wish I could, or use the simple past form: I wish I didn't lose things so often. Second, do not use would for a state (how things are, not an action), with verbs like be, have, know or live. Say I wish I had more time, not <s>I wish I would have more time</s>.",
+      "Never use will or a present form after wish. Will is one step too near. Step back to would: <s>I wish he will call</s> becomes I wish he would call.",
+      "<b>Hope</b> is different. Use hope for something that can really happen. After hope there is no step back. Use a present form or will: I hope it stops raining soon. I hope you'll like the present. Wish with a past form or would means you do not expect it. So for a friend's exam or match tomorrow, the right verb is hope."
+     ],
+     "examples": [
+      {
+       "s": "I wish you'd stop tapping your pen.",
+       "g": "Truth: you keep tapping — and it annoys me. The short form here is would."
+      },
+      {
+       "s": "I wish my sister wouldn't borrow my charger without asking.",
+       "g": "Truth: she borrows it without asking — again and again."
+      },
+      {
+       "s": "I wish it would stop raining.",
+       "g": "Truth: it is still raining — now. Would works for things too."
+      },
+      {
+       "s": "I hope it stops raining soon.",
+       "g": "A real possibility, so no Truth and no step back: hope and a present form."
+      },
+      {
+       "s": "<s>I wish I would have more time.</s>",
+       "g": "Wrong: would is not for yourself or for a state. Say: I wish I had more time. Truth: I don't have much time — now."
+      }
+     ]
+    },
+    "B2": {
+     "key": "<b>Wish</b> with <b>would</b> complains about what someone or something does and asks for a change; <b>hope</b>, with a present form or will, is for real possibilities.",
+     "body": [
+      "<b>I wish</b> followed by another subject and <b>would</b> or <b>wouldn't</b> is the form for behaviour you want to change. It is typical for habits that annoy you: I wish you'd stop tapping your pen; I wish my sister wouldn't borrow my charger without asking. The Truth is that the behaviour goes on, and the speaker is criticising it. Would is will taken one step back, and here it keeps its meaning of willingness: the other person is not willing to do what you want.",
+      "The same form asks for a single action that you are waiting for right now, as in I wish you would hurry up, and it works for things that seem to refuse to cooperate: I wish it would stop raining; I wish this printer would work. If only can replace I wish for a stronger feeling: If only they'd turn the music down!",
+      "Two limits follow from the idea of willingness. You cannot use would about yourself, because you control your own actions: instead of <s>I wish I would</s>, say I wish I could, or use the past simple, as in I wish I didn't lose things so often. And you cannot use would for a state, with verbs such as be, have, know or live: say I wish I had more time, not <s>I wish I would have more time</s>. States take the past simple.",
+      "Will and present forms never follow wish: <s>I wish he will call</s> must become I wish he would call.",
+      "<b>Hope</b> works differently, because a hope is a real possibility and needs no step back. It is followed by a present form or will, with future meaning: I hope it stops raining soon; I hope you'll like the present. Compare I wish it would stop raining, which suggests the speaker does not expect it to. For good wishes about a real future event, such as a friend's exam or match, the verb is hope."
+     ],
+     "examples": [
+      {
+       "s": "I wish you'd stop tapping your pen.",
+       "g": "Truth: you keep tapping — and it annoys me. The contraction is would, because a base verb follows."
+      },
+      {
+       "s": "I wish my sister wouldn't borrow my charger without asking.",
+       "g": "Truth: she borrows it without asking — a habit I am criticising."
+      },
+      {
+       "s": "I wish it would stop raining.",
+       "g": "Truth: it is still raining — now, and I don't expect it to stop soon."
+      },
+      {
+       "s": "I hope it stops raining soon.",
+       "g": "No Truth: the speaker thinks it can really happen, so hope takes a present form."
+      },
+      {
+       "s": "<s>I wish I would have more time.</s>",
+       "g": "Wrong: not would for your own situation or for a state. Correct: I wish I had more time. Truth: I don't have much time — now."
+      }
+     ]
+    },
+    "C1": {
+     "key": "<b>Wish</b> with <b>would</b> expresses dissatisfaction with someone's or something's unwillingness to act; <b>hope</b> treats the event as an open possibility and takes no remote form.",
+     "body": [
+      "Would after <b>wish</b> is the remote form of volitional will: it presents the desired change as something the other party is unwilling to make. Hence its typical use for criticism of habits, as in I wish you'd stop tapping your pen and I wish my sister wouldn't borrow my charger without asking, and for impatience about one awaited action: I wish you would hurry up. The implied Truth is that the behaviour continues, or that the action has not yet come.",
+      "The construction extends to things and events treated as if they had a will: I wish it would stop raining; I wish this printer would work. Unlike wish with the past simple, it looks forward, towards a change the speaker wants but does not really expect. If only substitutes for I wish with greater force.",
+      "Two restrictions follow. The subject of would cannot normally be the speaker, who controls her own will: <s>I wish I would</s> gives way to I wish I could, or to the past simple, as in I wish I didn't lose things so often. Nor can would describe a state, since states are not acts of will: I wish I had more time, never <s>I wish I would have more time</s>. For someone else's habit the past simple is also possible, but it merely describes; would complains.",
+      "Will and present forms cannot follow wish in this sense: <s>I wish he will call</s> is corrected to would call. The one present pattern, wish with two objects, as in I wish you a happy birthday, is a fixed way of giving good wishes and is not a wish clause at all.",
+      "<b>Hope</b> presents the event as open, so nothing steps back: it takes a present form with future meaning, or will, as in I hope it stops raining soon and I hope you'll like the present. The contrast is one of stance, not of time: I hope she comes treats her coming as a live possibility, whereas I wish she would come implies doubt that she will. Encouragement about a real future event therefore uses hope."
+     ],
+     "examples": [
+      {
+       "s": "I wish you'd stop tapping your pen.",
+       "g": "Truth: the tapping continues — now. Contracted would: unwillingness to change."
+      },
+      {
+       "s": "I wish my sister wouldn't borrow my charger without asking.",
+       "g": "Truth: she borrows it without asking — habitual behaviour, criticised."
+      },
+      {
+       "s": "I wish it would stop raining.",
+       "g": "Truth: it is still raining — now. The rain is treated as if it had a will."
+      },
+      {
+       "s": "I hope it stops raining soon.",
+       "g": "No Truth: an open possibility, so no remote form; present with future meaning."
+      },
+      {
+       "s": "<s>I wish I would have more time.</s>",
+       "g": "Wrong: would is volitional, so it cannot take the speaker as subject or describe a state. Correct: I wish I had more time. Truth: I have little time — now."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w7l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Jane",
+       "text": "I wish you wouldn't leave your wet umbrella on my bag."
+      }
+     ],
+     "stem": "What is Jane doing?",
+     "options": [
+      "Complaining about what her friend keeps doing",
+      "Regretting something she did herself last week",
+      "Promising to move the umbrella a bit later on",
+      "Saying that her friend never does this to her"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: wish and wouldn't complain about another person's habit and ask for a change.",
+      "A regret about your own past uses had and V3. Here the subject is you, and the verb is wouldn't.",
+      "There is no promise here. Wouldn't after wish shows what Jane wants her friend to stop.",
+      "The Truth is the opposite: her friend does this, and it annoys Jane."
+     ],
+     "hint": "Who is the subject after wish? What does the helper verb add?",
+     "why": "Wish, then another person, then wouldn't is a complaint about that person's repeated behaviour: the friend keeps leaving the umbrella there.",
+     "truth": "Her friend keeps leaving the wet umbrella on Jane's bag."
+    },
+    {
+     "id": "w7l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "stem": "Which speaker thinks the thing she talks about can really happen?",
+     "options": [
+      "I hope the coach picks me for Saturday.",
+      "I wish the coach picked me more often.",
+      "If only the coach had picked me last week.",
+      "I wish I could play in Saturday's match."
+     ],
+     "answer": 0,
+     "near": 3,
+     "fb": [
+      "Yes: hope and a present form, with no step back, is for a real possibility.",
+      "Picked is one step back: imagined. Truth: the coach doesn't pick her often.",
+      "Had picked is two steps back: a regret. Truth: the coach didn't pick her last week.",
+      "Saturday is in the future, but could is a step back from can. Truth: she can't play."
+     ],
+     "hint": "Look for the verb that has not stepped back.",
+     "why": "Hope takes a present form because the speaker sees a real possibility; the three wishes all step back, so they are imagined."
+    },
+    {
+     "id": "w7l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "I wish my little sister would knock before she comes into my room."
+      }
+     ],
+     "stem": "What is true?",
+     "options": [
+      "Her sister usually walks in without knocking.",
+      "Her sister always knocks before she comes in.",
+      "Her sister walked in without knocking once, last year.",
+      "Pim is going to knock on the door from now on."
+     ],
+     "answer": 0,
+     "near": 2,
+     "fb": [
+      "Yes: wish and would ask for a change, so the Truth is that the sister doesn't knock.",
+      "That is what Pim wants. The Truth is the opposite.",
+      "One past event would be a regret, with had and V3. Would points to behaviour that still goes on.",
+      "Would is about the sister's behaviour, not Pim's. You can't use it for yourself."
+     ],
+     "hint": "Flip the wish. Is it about one past moment or about behaviour that goes on?",
+     "why": "Wish and would are about behaviour that continues, so the Truth is that the sister comes in without knocking.",
+     "truth": "Pim's sister comes in without knocking — again and again."
+    },
+    {
+     "id": "w7l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Mint",
+       "text": "I've been late for school three times this week."
+      }
+     ],
+     "stem": "I wish I ___ up earlier in the mornings.",
+     "options": [
+      "got",
+      "would get",
+      "will get",
+      "get"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: for your own habit, use the simple past form. Truth: Mint gets up late.",
+      "Would after wish is for another person or thing. You control your own actions, so it is not for yourself.",
+      "Will never follows wish. Step back.",
+      "A present form after wish says it is real. The Truth is that she gets up late."
+     ],
+     "hint": "Who is the subject after wish: the speaker or someone else?",
+     "why": "The subject is I, so would is not possible; her present habit takes one step back: got.",
+     "truth": "Mint gets up late — these days."
+    },
+    {
+     "id": "w7l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fern",
+       "text": "My best friend moved to Chiang Mai last year. We only talk on LINE now."
+      }
+     ],
+     "stem": "I wish she still ___ in Bangkok.",
+     "options": [
+      "lived",
+      "would live",
+      "lives",
+      "will live"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: live is a state here, so use the simple past form. Truth: she lives in Chiang Mai now.",
+      "Would after wish is for an action someone could choose to do, not for a state like living somewhere.",
+      "A present form after wish says it is real. She doesn't live in Bangkok now.",
+      "Will never follows wish."
+     ],
+     "hint": "Is this an action that someone refuses to do, or a state (how things are)?",
+     "why": "Living somewhere is a state, not a behaviour, so wish takes the past simple, lived, not would.",
+     "truth": "Fern's friend lives in Chiang Mai — now."
+    },
+    {
+     "id": "w7l3-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "stem": "We [[have been waiting]] for [[forty minutes]]. I wish the bus [[will come]] [[soon]]!",
+     "answer": 2,
+     "fix": "would come",
+     "fb": [
+      "Have been waiting is real: it started in the past and continues, so the form is right.",
+      "Forty minutes is a length of time, so it is right after for.",
+      "Yes, this is the error: will never follows wish. Step back to would come.",
+      "Soon is fine: it says when the speaker wants the bus to arrive."
+     ],
+     "hint": "One part is real and one part is only wished for. Has the wished-for verb stepped back?",
+     "why": "Will cannot follow wish. For something you want a person or thing to do, step back to would: would come.",
+     "truth": "The bus isn't coming — now."
+    },
+    {
+     "id": "w7l3-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Situation",
+       "text": "Praew is doing her homework. Her little sister is playing a game with the sound on, and Praew wants her to turn it off right now."
+      }
+     ],
+     "stem": "Praew: I wish you ___ (turn) the sound off!",
+     "accept": [
+      "would turn",
+      "'d turn"
+     ],
+     "model": "would turn",
+     "hint": "Praew wants another person to act now. Which helper verb shows that?",
+     "why": "Praew wants another person to do one thing now, so wish takes would and the base verb: would turn.",
+     "truth": "Her sister isn't turning the sound off — now."
+    },
+    {
+     "id": "w7l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Situation",
+       "text": "Fern's friend Bam is in the badminton final tomorrow, and Bam has a real chance."
+      }
+     ],
+     "stem": "Fern: I hope you ___ (win) tomorrow!",
+     "accept": [
+      "win",
+      "will win",
+      "'ll win"
+     ],
+     "model": "win",
+     "hint": "Imagined, or a real possibility? Does the verb need a step back?",
+     "why": "Hope is for a real possibility, so there is no step back: a present form or will follows it."
+    }
+   ]
+  },
+  {
+   "id": "w7l4",
+   "name": "it's (high) time, would rather, as if / as though",
+   "cefr": "C1",
+   "ctype": "wish",
+   "formula": {
+    "if": "It's (high) time + subject · I'd rather + another subject · as if / as though + subject",
+    "result": "past simple (but: I'd rather + base verb for yourself)"
+   },
+   "uses": [
+    {
+     "use": "Saying something is overdue",
+     "ex": "It's time we went home. It's nearly dark."
+    },
+    {
+     "use": "Criticising a delay",
+     "ex": "It's about time you answered my message!"
+    },
+    {
+     "use": "Your own preference",
+     "ex": "I'd rather walk than wait for the bus."
+    },
+    {
+     "use": "A polite request not to do something",
+     "ex": "I'd rather you didn't sit there, sorry."
+    },
+    {
+     "use": "Comparing with something untrue",
+     "ex": "She plans her weekends as if she had no homework at all."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "After <b>it's time</b>, <b>I'd rather</b> with another person, and <b>as if</b>, a past form means not real now: the same step back as wish.",
+     "body": [
+      "Three more phrases use the step back. The first is <b>it's time</b>, then a person, then a past form: It's time we left. This is about now, not the past. The Truth (the real fact): we haven't left yet, and we are a little late. Add high or about to make it stronger: It's high time I cleaned out my school bag. It often sounds like a complaint.",
+      "There is also a simple form with to: It's time to go. This only says that the moment has come. Nobody is late. When a person comes after it's time, do not use will, and do not use to. <s>It's time we go</s> is heard in speech, but exams want It's time we went.",
+      "The second phrase is <b>would rather</b>. The short form is I'd rather. It means prefer. When you talk about your own action, use the base verb (the verb with no to and no ending): I'd rather stay at home tonight. I'd rather not go. I'd rather walk than wait.",
+      "When you want another person to do something, add that person and step back to a past form: I'd rather you didn't tell Mum. I'd rather you stayed a bit longer. This is about now or the future, not the past. It is a soft, polite way to ask. Never use to or will here, and exams do not accept a present form.",
+      "The third phrase is <b>as if</b>, or as though. They mean the same. With a past form, they compare something to a thing that is not true: She talks as if she owned the place. Truth: she doesn't own it. With a present form, the speaker thinks it may be true: It looks as if it's going to rain."
+     ],
+     "examples": [
+      {
+       "s": "It's time we left.",
+       "g": "Truth: we haven't left yet — now. We are a little late."
+      },
+      {
+       "s": "It's high time I cleaned out my school bag.",
+       "g": "Truth: I haven't cleaned it out — and I should. High makes it stronger."
+      },
+      {
+       "s": "I'd rather stay at home tonight.",
+       "g": "My own action: base verb, no to, no step back. Nothing is imagined here."
+      },
+      {
+       "s": "I'd rather you didn't tell Mum.",
+       "g": "Truth: you want to tell her, and I don't want that — now. A polite request."
+      },
+      {
+       "s": "She talks as if she owned the place.",
+       "g": "Truth: she doesn't own it — now."
+      }
+     ]
+    },
+    "B2": {
+     "key": "<b>It's time</b>, <b>would rather</b> with a new subject, and <b>as if</b> all take the distance past: a past form that means not real now.",
+     "body": [
+      "The step back you know from wish appears after three more expressions. <b>It's time</b> followed by a subject and the past simple says that something should already be happening: It's time we left means that we haven't left yet and are slightly late. High or about makes it stronger and more critical: It's high time I cleaned out my school bag. The meaning is present, in spite of the past form.",
+      "Compare the neutral pattern with a to-infinitive: It's time to go, or It's time for us to go. That simply announces the moment, with no idea of lateness. When a subject follows it's time directly, will is impossible and so is a to-infinitive, and the present form in <s>It's time we go</s>, although you may hear it, is not accepted in exams.",
+      "<b>Would rather</b>, usually shortened to I'd rather, expresses a preference. If the preference is about your own action, the base verb follows, without to: I'd rather stay at home tonight; I'd rather not go; I'd rather walk than wait for the bus.",
+      "If you want someone else to do something, a new subject comes in and the verb steps back: I'd rather you didn't tell Mum; I'd rather you stayed a bit longer. The time is now or the future, and the effect is a polite, indirect request. A to-infinitive is wrong here, will is impossible, and a present form such as <s>I'd rather you don't</s> is not accepted in exams. For a regret about something already done, step back twice: I'd rather you hadn't told her.",
+      "<b>As if</b> and <b>as though</b> are interchangeable. Followed by a past form, they make a comparison with something untrue: She talks as if she owned the place, and the Truth is that she doesn't. Followed by a present form, they describe something the speaker thinks may well be true: It looks as if it's going to rain."
+     ],
+     "examples": [
+      {
+       "s": "It's time we left.",
+       "g": "Truth: we haven't left yet — now. Past form, present meaning."
+      },
+      {
+       "s": "It's high time I cleaned out my school bag.",
+       "g": "Truth: I haven't cleaned it out — it is overdue. High adds criticism."
+      },
+      {
+       "s": "I'd rather stay at home tonight.",
+       "g": "Same subject, so the base verb follows; no step back and no Truth."
+      },
+      {
+       "s": "I'd rather you didn't tell Mum.",
+       "g": "Truth: you may tell her, and that is not what I prefer — now or later. A new subject, so step back."
+      },
+      {
+       "s": "She talks as if she owned the place.",
+       "g": "Truth: she doesn't own it — now. A past form after as if means untrue."
+      }
+     ]
+    },
+    "C1": {
+     "key": "<b>It's time</b>, <b>would rather</b> with its own subject, and <b>as if</b> belong to the distance family: their past forms encode a gap between what is said and what is real.",
+     "body": [
+      "The modal remoteness seen in conditionals and wishes extends to a small family of expressions. After <b>it's time</b> with a subject, the past simple signals that the action is not yet happening although it ought to be: It's time we left. The Truth is that we are still here. High time and about time intensify the reproach, as in It's high time I cleaned out my school bag. The reference is wholly present; the form marks the gap between obligation and fact.",
+      "The infinitive patterns, It's time to go and It's time for us to go, are neutral announcements that carry no such gap. In the finite pattern, will is ungrammatical, as is a to-infinitive straight after the subject, and the present, <s>It's time we go</s>, though widespread in speech, counts as non-standard in examinations, which key the past form.",
+      "<b>Would rather</b> states a preference. With no change of subject it takes a bare infinitive: I'd rather stay at home tonight; I'd rather not go; I'd rather walk than wait for the bus. To never appears, and the contraction stands for would, since a base verb follows.",
+      "When the preference concerns someone else's action, a clause with its own subject follows and its verb steps back: I'd rather you didn't tell Mum; I'd rather you stayed a bit longer. The past form keeps the request tentative, and so more polite than please don't. The present, <s>I'd rather you don't</s>, is common in speech but not accepted in exams; will and a to-infinitive are impossible. Where the action is already done, the past perfect expresses the regret: I'd rather you hadn't told her.",
+      "<b>As if</b> and <b>as though</b> introduce a comparison, and the tense shows the speaker's stance. A past form after a present verb marks the comparison as untrue: She talks as if she owned the place. A past perfect makes it an unreal past: She describes the concert as if she had been there. A present form leaves the matter open, or likely: It looks as if it's going to rain. In informal speech like often replaces as if; write as if in exams."
+     ],
+     "examples": [
+      {
+       "s": "It's time we left.",
+       "g": "Truth: we are still here — now. The past form marks the gap between what should be and what is."
+      },
+      {
+       "s": "It's high time I cleaned out my school bag.",
+       "g": "Truth: it hasn't been cleaned out — now. High time intensifies the reproach."
+      },
+      {
+       "s": "I'd rather stay at home tonight.",
+       "g": "No change of subject: bare infinitive, no remote form, nothing counterfactual."
+      },
+      {
+       "s": "I'd rather you didn't tell Mum.",
+       "g": "Truth: the telling is possible and unwanted — now or later. Own subject, remote form, tentative request."
+      },
+      {
+       "s": "She talks as if she owned the place.",
+       "g": "Truth: she doesn't own it — now. The past form marks the comparison as unreal."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w7l4-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "It's high time we left for the stadium."
+      }
+     ],
+     "stem": "What does the coach mean?",
+     "options": [
+      "We should already be on our way.",
+      "We left for the stadium a while ago.",
+      "We still have plenty of time to get there.",
+      "The plan says we leave at this exact minute."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: it's high time and a past form mean it is late, and the action hasn't started yet.",
+      "Left is not past time here. It is the distance past: the Truth is that they haven't left.",
+      "High time means the opposite: the right moment has already passed.",
+      "That neutral meaning needs it's time to leave. The past form adds the idea of being late."
+     ],
+     "hint": "Past form, present meaning. Has the action happened yet?",
+     "why": "After it's high time, the past form means the action should already be happening: they haven't left, and they are late.",
+     "truth": "They haven't left yet — now."
+    },
+    {
+     "id": "w7l4-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Mook",
+       "text": "My cat sits on my homework as if it belonged to her."
+      }
+     ],
+     "stem": "What does Mook think?",
+     "options": [
+      "The homework isn't really the cat's.",
+      "The homework used to be the cat's.",
+      "The homework probably is the cat's.",
+      "The cat sat on the homework yesterday."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: as if and a past form compare with something untrue.",
+      "Belonged is not past time here. It is one step back from reality, about now.",
+      "For something that may be true, as if takes a present form. The past form says it is not true.",
+      "Sits is present, so this is what the cat does now; belonged is not about yesterday."
+     ],
+     "hint": "What does a past form after as if tell you about the comparison?",
+     "why": "As if followed by a past form marks the comparison as unreal: the homework does not belong to the cat.",
+     "truth": "The homework doesn't belong to the cat — now."
+    },
+    {
+     "id": "w7l4-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Jane",
+       "text": "I'd rather you didn't call me after ten."
+      }
+     ],
+     "stem": "What is Jane saying?",
+     "options": [
+      "Please don't call me after ten.",
+      "You called me after ten, and I was upset.",
+      "I prefer not to call you after ten.",
+      "Please call me after ten."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: I'd rather, another person and a past form make a polite request about now or the future.",
+      "A complaint about a past call would need hadn't called. Didn't here is one step back, not past time.",
+      "The person after rather is you, so the calling is done by the listener, not by Jane.",
+      "The verb is negative: didn't call. Jane wants no calls after ten."
+     ],
+     "hint": "Who does the calling? Is didn't about past time here?",
+     "why": "Would rather, then you, then a past form states what Jane prefers the other person to do from now on: not to call after ten.",
+     "truth": "Her friend may call late; Jane prefers that she doesn't — from now on."
+    },
+    {
+     "id": "w7l4-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Mum",
+       "text": "That library book was due back last week, Fern."
+      }
+     ],
+     "stem": "It's high time you ___ it back.",
+     "options": [
+      "took",
+      "take",
+      "will take",
+      "to take"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: it's high time and a subject take the past form. Truth: Fern hasn't taken it back yet.",
+      "You may hear this in speech, but exams want the step back after it's high time and a subject.",
+      "Will is impossible after it's time. The form is a step back, not a future.",
+      "To take follows it's time with no subject. Here there is a subject, you, so a verb with a tense is needed."
+     ],
+     "hint": "There is a subject after time. What form shows that the action is overdue?",
+     "why": "After it's high time and a subject, the verb takes the past form, took, to show the action is overdue.",
+     "truth": "Fern hasn't taken the book back — yet."
+    },
+    {
+     "id": "w7l4-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Ploy",
+       "text": "Shall we get a taxi to Siam?"
+      },
+      {
+       "who": "Nan",
+       "text": "It's only two stops, and the traffic is terrible."
+      }
+     ],
+     "stem": "I'd rather ___ the BTS.",
+     "options": [
+      "take",
+      "to take",
+      "took",
+      "taking"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: would rather and the base verb, because the preference is about Nan's own action.",
+      "No to after would rather. It behaves like would: the base verb comes next.",
+      "The past form is only for a different subject, as in I'd rather you took it. Here Nan speaks about herself.",
+      "An ing form cannot follow would rather."
+     ],
+     "hint": "Whose action is it: the speaker's own or another person's?",
+     "why": "Nan is talking about her own action, so would rather is followed by the base verb with no to."
+    },
+    {
+     "id": "w7l4-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "C1",
+     "stem": "It's [[about time]] the school [[will fix]] the air conditioner; we [[have been]] melting [[since]] May.",
+     "answer": 1,
+     "fix": "fixed",
+     "fb": [
+      "About time is fine: it makes it's time stronger.",
+      "Yes, this is the error: will cannot follow it's time. Step back to the past form, fixed.",
+      "Have been melting is real, from May until now, so the form is right.",
+      "Since and a starting point is correct with have been."
+     ],
+     "hint": "Which verb describes the overdue action? Has it stepped back?",
+     "why": "After it's about time and a subject, the verb takes the past form, fixed; will is never possible there.",
+     "truth": "The air conditioner hasn't been fixed — yet."
+    },
+    {
+     "id": "w7l4-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "C1",
+     "given": "Please don't use my laptop while I'm out.",
+     "keyword": "RATHER",
+     "stem": "I ___ my laptop while I'm out.",
+     "accept": [
+      "would rather you didn't use",
+      "'d rather you didn't use",
+      "would rather you did not use",
+      "'d rather you did not use"
+     ],
+     "model": "would rather you didn't use",
+     "hint": "The preference is about another person's action. What form follows the new subject?",
+     "why": "Would rather with another subject takes a past form for a present or future preference: I would rather you didn't use it.",
+     "truth": "The speaker doesn't want her laptop used — while she is out."
+    },
+    {
+     "id": "w7l4-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Situation",
+       "text": "Jane has never been to Japan, but she has watched hundreds of travel videos. Use the form that shows the comparison is untrue."
+      }
+     ],
+     "stem": "Jane talks about Tokyo as if she ___ (know) every street.",
+     "accept": [
+      "knew"
+     ],
+     "model": "knew",
+     "hint": "Is the comparison true? If not, how many steps back?",
+     "why": "Jane doesn't really know every street, so careful English marks the comparison as untrue with a past form: knew. In speech you may also hear knows.",
+     "truth": "Jane doesn't know every street in Tokyo — now."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w7g",
+  "items": [
+   {
+    "id": "w7g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "wish",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Bam",
+      "text": "If only I understood this chemistry homework!"
+     }
+    ],
+    "stem": "What is true?",
+    "options": [
+     "Bam doesn't understand the homework now.",
+     "Bam understood the homework last term.",
+     "Bam will understand the homework soon.",
+     "Bam understands it, but it took her a long time."
+    ],
+    "answer": 0,
+    "near": 1,
+    "fb": [
+     "Yes: if only and a past form make a wish about now, so the Truth is the opposite.",
+     "Understood is not past time here. It is one step back from reality, about now.",
+     "Nothing here is expected. A past form after if only means imagined.",
+     "That would be real. The step back says the understanding is not real now."
+    ],
+    "hint": "Past form after if only: past time, or one step back from reality?",
+    "why": "If only and a past form make a wish about now, so the Truth is the opposite: Bam doesn't understand it.",
+    "truth": "Bam doesn't understand the homework — now."
+   },
+   {
+    "id": "w7g-2",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "wish",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Jane",
+      "text": "The view from the top of the big wheel is amazing, but my phone is dead."
+     }
+    ],
+    "stem": "I wish I ___ a photo.",
+    "options": [
+     "can take",
+     "could take",
+     "will take",
+     "am taking"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "Can is the real form. Jane's phone is dead, so step back once.",
+     "Yes: can steps back to could. Truth: she can't take a photo now.",
+     "Will never follows wish. This is an imagined now, not a real future.",
+     "A present form after wish says it is really happening. It isn't."
+    ],
+    "hint": "What can't Jane do now? Which verb steps back?",
+    "why": "Jane can't take a photo now, so can takes one step back to could.",
+    "truth": "Jane can't take a photo — now."
+   },
+   {
+    "id": "w7g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "wish",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Ploy",
+      "text": "If only we hadn't missed the last BTS train!"
+     }
+    ],
+    "stem": "What happened?",
+    "options": [
+     "They missed the last train.",
+     "They caught the last train.",
+     "They might miss the last train.",
+     "They miss the last train every night."
+    ],
+    "answer": 0,
+    "near": 1,
+    "fb": [
+     "Yes: hadn't missed is two steps back, so the Truth is the opposite, in the past.",
+     "That is the wish. Flip it to find the Truth.",
+     "It is not a possibility any more. Had and V3 point to a finished past moment.",
+     "A habit would be a real present. This is one past event."
+    ],
+    "hint": "Count the steps back, then flip the wish.",
+    "why": "Hadn't missed is two steps back and negative, so the Truth is past and positive: they missed the train.",
+    "truth": "They missed the last train — earlier tonight."
+   },
+   {
+    "id": "w7g-4",
+    "type": "type",
+    "skill": "form",
+    "ctype": "wish",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Situation",
+      "text": "Pim wrote her whole essay without saving it. Then the laptop battery died."
+     }
+    ],
+    "stem": "Pim: If only I ___ (save) my essay!",
+    "accept": [
+     "had saved",
+     "'d saved"
+    ],
+    "model": "had saved",
+    "hint": "When is the Truth dated? How many steps back?",
+    "why": "Pim didn't save it and the moment is past, so if only takes had and the past participle: had saved.",
+    "truth": "Pim didn't save her essay — before the battery died."
+   },
+   {
+    "id": "w7g-5",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "wish",
+    "cefr": "B2",
+    "stem": "Which sentence complains about something another person keeps doing?",
+    "options": [
+     "I wish you wouldn't read my messages.",
+     "I wish I hadn't read your messages.",
+     "I hope you read my messages.",
+     "I wish I could read your messages."
+    ],
+    "answer": 0,
+    "near": 1,
+    "fb": [
+     "Yes: wish, another person and wouldn't complain about behaviour that goes on.",
+     "Had and V3 with I is a regret about the speaker's own past action.",
+     "Hope and a present form is a real possibility the speaker wants, not a complaint.",
+     "Could is about the speaker's own missing ability now."
+    ],
+    "hint": "Look at the subject after wish and the helper verb.",
+    "why": "Only wish with you and wouldn't is about another person's repeated behaviour that the speaker wants to stop.",
+    "truth": "The other person keeps reading her messages."
+   },
+   {
+    "id": "w7g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "wish",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Nan",
+      "text": "Your audition is tomorrow, isn't it? You've practised so much."
+     }
+    ],
+    "stem": "I ___ it goes really well!",
+    "options": [
+     "hope",
+     "wish",
+     "wished",
+     "am wishing"
+    ],
+    "answer": 0,
+    "near": 1,
+    "fb": [
+     "Yes: goes has not stepped back, and the audition is a real future event.",
+     "After wish the verb must step back. Goes is a present form, so the first verb cannot be wish.",
+     "A past form of wish does not help: goes is still a present form for a real possibility.",
+     "The same problem: any form of wish needs a step back in the next verb."
+    ],
+    "hint": "Look at the verb after the gap: has it stepped back?",
+    "why": "Goes is a present form and the audition is a real future event, so the first verb is hope; wish would need a step back."
+   },
+   {
+    "id": "w7g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "wish",
+    "cefr": "C1",
+    "stem": "[[It's high time]] you [[stop]] playing that blocky game; your project [[is due]] tomorrow and you [[haven't started]] it.",
+    "answer": 1,
+    "fix": "stopped",
+    "fb": [
+     "It's high time is fine: the action is overdue.",
+     "Yes, this is the error. You may hear stop in speech, but after it's high time and a subject, exams want the past form, stopped.",
+     "Is due is a real timetable fact, so the present form is right.",
+     "Haven't started is a real fact up to now, so the present perfect is right."
+    ],
+    "hint": "Which verb depends on the opening phrase? Has it stepped back?",
+    "why": "In exam English, it's high time and a subject take the past form, so stop steps back to stopped. The other verbs state real facts.",
+    "truth": "She hasn't stopped playing — yet."
+   },
+   {
+    "id": "w7g-8",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "wish",
+    "cefr": "C1",
+    "lines": [
+     {
+      "who": "Praew",
+      "text": "Shall I come round at seven on Saturday morning?"
+     },
+     {
+      "who": "Fern",
+      "text": "I sleep until nine at weekends!"
+     }
+    ],
+    "stem": "I'd rather you ___ a bit later, to be honest.",
+    "options": [
+     "came",
+     "come",
+     "will come",
+     "to come"
+    ],
+    "answer": 0,
+    "near": 1,
+    "fb": [
+     "Yes: would rather and a new subject take a past form. It is about Saturday, not the past.",
+     "You may hear this in speech, but exams want the step back after would rather and another subject.",
+     "Will cannot follow would rather. The preference is shown by a step back.",
+     "No to after would rather, with or without a new subject."
+    ],
+    "hint": "The subject changes after rather. What happens to the verb?",
+    "why": "Would rather with a different subject takes a past form for a future preference: came.",
+    "truth": "Praew hasn't come yet; Fern prefers a later time — on Saturday."
+   }
+  ]
+ }
+}

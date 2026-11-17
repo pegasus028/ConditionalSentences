@@ -1,0 +1,246 @@
+{
+  "title": "What-If Worlds: Pim and the Glitch",
+  "cast": [
+    {
+      "name": "Pim",
+      "who": "A 13-year-old M2 student from Bangkok who loves badminton and bubble tea. She fixes broken sentences, one block at a time."
+    },
+    {
+      "name": "Iffy",
+      "who": "A small blocky fox-cat and Pim's guide. She can only speak in conditional sentences, and she hums."
+    },
+    {
+      "name": "The Glitch",
+      "who": "A grey fog that breaks the sentences holding each world together. Everything it says comes out wrong."
+    },
+    {
+      "name": "Cog",
+      "who": "The robot forewoman of the Fact Factory. Facts only."
+    },
+    {
+      "name": "Auntie Bao",
+      "who": "A bubble tea stallholder in Promise Plaza who always has a deal to offer."
+    },
+    {
+      "name": "Mali",
+      "who": "The girl in the yellow hard hat who runs Dream Tycoon."
+    },
+    {
+      "name": "Madam Tock",
+      "who": "The clockwork owl who keeps the yesterdays in Rewind Tower."
+    },
+    {
+      "name": "The Geese",
+      "who": "Two crossing guards in orange vests at Glitch Crossroads, where Then meets Now."
+    },
+    {
+      "name": "Granny Tao",
+      "who": "A block turtle who keeps the tolls on the five Connector Bridges."
+    },
+    {
+      "name": "Kob",
+      "who": "The enormous frog who looks after the wells on Wish Island."
+    },
+    {
+      "name": "The Herons",
+      "who": "Two stone gate guards at the Formal Citadel. They answer only formal speech."
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ch0",
+      "world": null,
+      "title": "The Rainy Evening",
+      "mission": "Follow Iffy to the nine gates and learn to set the two dials: When? Real or imagined?",
+      "after": "Pim knows the rule of the game now: set both dials before you speak. Nine worlds are waiting.",
+      "pages": [
+        {
+          "scene": "home",
+          "text": "Rain hammered on the window of Pim's bedroom. Badminton practice was cancelled, her bubble tea was finished, and her homework was almost done. Almost.\n\n\"[[0|If it rains this hard, our soi always floods|Zero conditional. A fact that is true every time: real, always.]],\" she told her cat, who did not care. \"[[1|If I finish this last maths question, Mum will let me play for half an hour|First conditional. A real, possible future. No will after if.]].\"\n\nShe finished it, more or less, and opened the game on her tablet. What-If Worlds. Everything in it was made of blocks: block trees, block clouds, even a block sun.\n\nBut tonight the loading screen looked wrong. A grey fog was crawling over the title, eating the letters one by one. \"Weird,\" said Pim, and she tapped the screen. Her finger went straight through the glass. Then her hand. Then, with a small pop, the rest of her.",
+          "grammar": "Two real conditionals from ordinary life: a fact (zero) and a possible future (first)."
+        },
+        {
+          "scene": "factory",
+          "text": "Pim landed on a square of grass that was, frankly, too square. Her hands were blocks. Her trainers were blocks. A small orange creature, half fox and half cat, was staring at her. The tag on her collar said Iffy.\n\nBehind them, the grey fog swallowed a bridge, and the bridge fell to pieces. \"[[1|If the Glitch touches you, you will forget the way home|First conditional. A real danger in a possible future.]],\" said Iffy. \"[[0|If a sentence breaks, the thing it holds up falls down|Zero conditional. A law of this world: real, and true every time.]].\"\n\n\"Do you only talk in ifs?\" asked Pim.\n\nIffy nodded, and held up a compass with two dials. One said: When? The other said: Real or imagined? \"[[1|If you set both dials before you speak, your sentences will hold|First conditional. Real and possible, about the future.]].\"\n\n\"And how do I get home?\" asked Pim.\n\nIffy pointed at nine glowing gates. \"[[1|If you repair all nine worlds, the game will send you home|First conditional. A real promise about the future.]]. [[2|If I were you, I would start with the factory|Second conditional, for advice. Truth: Iffy is not Pim. Imagined, now.]].\"",
+          "grammar": "The two dials (When? Real or imagined?) with real conditionals and one imagined one: If I were you."
+        }
+      ]
+    },
+    {
+      "id": "ch1",
+      "world": "w1",
+      "title": "The Fact Factory",
+      "mission": "Restart the machines: every one runs on a rule that is always true.",
+      "after": "The belts are moving and the lights are on. In the Fact Factory, a true rule keeps both halves in the present.",
+      "pages": [
+        {
+          "scene": "factory",
+          "text": "The Fact Factory hummed like a giant fridge. Every machine had a sign on it, and every sign was a rule.\n\n\"[[0|If you press the green button, the belt moves|Zero conditional: if + present, present. It happens every time.]],\" Pim read aloud. She pressed it. The belt moved. \"OK, that's satisfying.\"\n\nA tall robot with a spanner for a hand rolled over. Her badge said Cog, Forewoman. \"Facts only in here,\" she said. \"[[0|If a rule is true every time, we write both halves in the present|Zero conditional. Real, and true always.]]. No maybes. No dreams. [[0|If you want dreams, go to World Three|Zero conditional with an imperative result: an instruction.]].\"\n\nThen Pim saw grey fog curling around the biggest machine. Its sign flickered: \"If you heat ice, it melted.\"\n\n\"That's broken,\" said Pim. \"Ice doesn't melt only in the past. It's always true.\" The machine coughed out a square of black smoke and stopped. So did the next one. And the next.",
+          "grammar": "Zero conditional: if + present, present, for rules and facts; an imperative result for instructions."
+        },
+        {
+          "scene": "factory",
+          "text": "\"[[0|If one machine stops, the whole line stops|Zero conditional. A fact about the factory: true every time.]],\" said Iffy, hiding behind Pim's leg.\n\nPim climbed onto the machine and pulled the last block off the sign: \"melted\". She found a fresh block in the box below, pushed it in and read the sign aloud. \"[[0|If you heat ice, it melts|Zero conditional, repaired: both halves in the present, because it is always true.]].\" The machine purred.\n\n\"Not bad,\" said Cog. \"Next one.\" The Glitch had been busy. The second sign said: \"If water will reach 100 degrees, it boils.\"\n\n\"That one's broken too. No will after if,\" said Pim, surprising herself. She pulled out \"will\" and changed \"reach\" to \"reaches\". The fog hissed and slid away under the door.\n\nCog clapped twice, and the lights came on. \"[[0|If Cog claps twice, the lights come on|Zero conditional. Notice the -s on claps after a name, he, she or it.]],\" Pim told Iffy.\n\nCog pointed at a lever. \"[[0|If the red light flashes, don't touch that|Zero conditional with an imperative result: a safety rule.]].\" Three machines were still silent. Each one was waiting for a rule that only Pim could finish.",
+          "grammar": "Zero conditional repaired: both halves in the present, no will after if, -s after he/she/it, and an imperative result."
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "world": "w2",
+      "title": "Promise Plaza",
+      "mission": "Reopen the market: repair the deals, offers and warnings about the possible future.",
+      "after": "The shutters are up and the promises can be kept again: present after if, and will in the promise.",
+      "pages": [
+        {
+          "scene": "plaza",
+          "text": "World Two smelled of grilled corn and sweet milk tea. Promise Plaza was a market of a hundred block stalls, and every stallholder was shouting an offer.\n\n\"[[1|If you buy two mango cubes, I'll give you a third one free|First conditional: if + present, will. An offer about a possible future.]]!\" called a block hen in a pink apron.\n\nPim stopped at a bubble tea stall, obviously. The owner, Auntie Bao, had pearls the size of dice. \"I need a helper,\" she said. \"[[1|If you carry these cups to the fountain, you can have a large brown sugar tea|First conditional with can: a deal. The result gives permission.]]. But be quick. [[1|If you don't hurry, the ice will melt|First conditional as a warning. Present after if, even for the future.]].\"\n\n\"Deal,\" said Pim.\n\nIffy's ears went flat. \"[[1|If the Glitch finds this market, nobody will be able to keep a promise|First conditional. A real danger in the future.]].\" Right on time, grey fog poured over the rooftops.",
+          "grammar": "First conditional: if + present, will or can, for offers, warnings and deals about a possible future."
+        },
+        {
+          "scene": "plaza",
+          "text": "The fog touched the stall signs, and the promises went wrong. One sign now said: \"If you will come back tomorrow, I give you a discount.\" The stall's shutter slammed down. A promise that was built wrongly could not be kept.\n\n\"Both halves are broken,\" said Pim. \"The if half just takes a photo of the future, so it stays in the present. The will belongs in the promise.\" She moved the blocks and read the sign aloud. \"[[1|If you come back tomorrow, I'll give you a discount|First conditional, repaired: present after if, will in the promise.]].\" The shutter flew up.\n\nStall by stall, Pim swapped the blocks. Auntie Bao poured her tea with extra pearls. \"[[1|If you fix the rest, the plaza might name a drink after you|First conditional with might: a possible result, not a certain one.]].\"\n\n\"[[1|If we stay here drinking, the fog will reach the fountain first|First conditional. A warning about a real, possible future.]],\" said Iffy, tugging her sleeve. Pim sighed, took a very long sip, and ran. Three streets of broken promises were waiting.",
+          "grammar": "First conditional repaired (no will after if), plus a might result for a possible but uncertain future."
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "world": "w3",
+      "title": "Dream Tycoon",
+      "mission": "Rebuild the dream city: imagined things only stand if you step one tense back from reality.",
+      "after": "The city is growing again. Here a past form is not about the past: it means one step away from what is real.",
+      "pages": [
+        {
+          "scene": "tycoon",
+          "text": "World Three was an empty field of green blocks with one sign: \"Dream Tycoon. Say it, build it.\" A girl in a yellow hard hat jumped down from a crane. \"I'm Mali. I run this place. Go on, dream something.\"\n\nPim thought. \"If I have a bubble tea shop, I will give everyone free pearls.\" Nothing happened. One sad grey block fell out of the sky.\n\n\"That sentence is a plan, not a dream,\" said Mali. \"You haven't got a shop. Here, imagined things are built one step back from reality.\"\n\nIffy nodded. \"[[2|If I were you, I would move both verbs one step back|Second conditional, for advice. Truth: Iffy is not Pim.]].\"\n\nPim tried again. \"[[2|If I had a bubble tea shop, I would give everyone free pearls|Second conditional: if + past, would. Truth: she has no shop. Imagined, now.]].\" Blocks rained down. In ten seconds a pink shop stood in front of her, with a queue of block ducks outside.\n\n\"The past form isn't about the past,\" said Mali. \"It's about distance from what's real.\"",
+          "grammar": "Second conditional: if + past, would, for an imagined present; If I were you for advice."
+        },
+        {
+          "scene": "tycoon",
+          "text": "Pim could not stop. \"[[2|If this roof were flat, we could put a badminton court on it|Second conditional with could. Truth: the roof is not flat. Were is the safe form in writing.]].\" The roof went flat. A net appeared.\n\nMali whistled. \"[[2|If more players dreamed like you, my city would grow much faster|Second conditional. Truth: not many players dream like Pim. Imagined, now.]].\"\n\nThen the fog reached the rollercoaster. Its sign flickered: \"If I would have a rollercoaster, I ride it all day.\" The track began to crumble.\n\n\"Broken. No would in the if half,\" said Pim, pushing the blocks around. \"[[2|If I had a rollercoaster, I would ride it all day|Second conditional, repaired: past after if, would in the result. Truth: she has no rollercoaster.]].\" The track snapped back together and a little car rattled past.\n\n\"[[2|If we didn't have six more worlds to save, I would ask for a ride|Second conditional with a negative. Truth: they do have six more worlds to save.]],\" said Iffy sadly. Half the city was still grey, waiting to be imagined properly.",
+          "grammar": "Second conditional with could, a negative, and no would in the if half."
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "world": "w4",
+      "title": "Rewind Tower",
+      "mission": "Climb the tower of yesterdays: you cannot change the past, only imagine it differently.",
+      "after": "Every floor is solid again. An imagined past takes two steps back: had + third form, would have + third form.",
+      "pages": [
+        {
+          "scene": "tower",
+          "text": "The lift in Rewind Tower had no buttons, only a clock running backwards. The doors opened on the first floor, and Pim saw herself. It was yesterday.\n\nYesterday-Pim was leaving the flat without an umbrella. \"Take it!\" Pim shouted. \"It's going to pour!\" Yesterday-Pim walked straight through her like a hologram, and missed the BTS by three seconds.\n\n\"You cannot change it,\" said a clockwork owl on the stairs. Her name plate said Madam Tock. \"The past is locked. You can only imagine it differently, two steps back.\"\n\nPim watched herself get soaked. \"[[3|If I had taken my umbrella, I wouldn't have got wet|Third conditional: had + V3, would have + V3. Truth: she didn't take it, yesterday.]].\"\n\n\"[[3|If you had left two minutes earlier, you would have caught the train|Third conditional. Truth: she left late and missed it, yesterday.]],\" said Iffy helpfully.\n\n\"Thanks, Iffy,\" said Pim. Then she smiled. \"[[3|If Fah hadn't lent me her jacket, I would have frozen in class|Third conditional for relief. Truth: Fah lent it, so Pim was fine.]].\"",
+          "grammar": "Third conditional: if + had + V3, would have + V3, for regret and relief about yesterday."
+        },
+        {
+          "scene": "tower",
+          "text": "The stairs to the next floor were made of sentences, and the fog had got there first. One step said: \"If I have known about the quiz, I would studied.\" When Pim put her foot on it, it cracked.\n\n\"Broken,\" she said. \"Two steps back means had known. And the result needs its past ticket: have, plus the third form.\" She rebuilt the step block by block and read it out. \"[[3|If I had known about the quiz, I would have studied|Third conditional, repaired. Truth: she didn't know about it, yesterday.]].\" The step turned solid gold.\n\nMadam Tock flew up beside her. \"Good. [[3|If you had touched anything on that floor, the tower would have thrown you out|Third conditional. Truth: she touched nothing, so she is still inside.]].\"\n\n\"[[3|If we had climbed faster, we might have reached the top before the fog|Third conditional with might have: a possible past result. Truth: they climbed slowly.]],\" said Iffy. Above them, floor after floor of yesterdays was flickering grey. Pim started to climb.",
+          "grammar": "Third conditional repaired (had known; the have ticket), plus might have for a possible past result."
+        }
+      ]
+    },
+    {
+      "id": "ch5",
+      "world": "w5",
+      "title": "Glitch Crossroads",
+      "mission": "Untangle the signposts where THEN and NOW cross: each half of a sentence takes its own time.",
+      "after": "Both roads are lit. In a mixed conditional, each half is built from its own time: one from then, one from now.",
+      "pages": [
+        {
+          "scene": "crossroads",
+          "text": "World Five was a crossroads in the middle of nowhere. One road was marked Then. The other was marked Now. Two geese in orange vests stood where they met. \"Each half of a sentence takes its own road here,\" said the first goose. \"Imagine a different past, and you can get a different now.\"\n\nPim's stomach growled. \"[[m32|If I had eaten dinner before I opened the game, I wouldn't be so hungry now|Mixed 3/2: imagined past, result now. Truth: she didn't eat, so she is hungry.]].\"\n\n\"[[m32|If you hadn't touched the screen, you would be at home now|Mixed 3/2. Truth: she touched it (then), so she is not at home (now).]],\" said Iffy.\n\n\"It works the other way too,\" said the second goose. \"Take something that is true about you all the time. Imagine it differently, and you get a different past.\" She pointed at a signal lever high on a pole. Pim climbed. She slipped. She climbed again and pulled it.\n\n\"[[m23|If I were a better climber, I would have reached that the first time|Mixed 2/3: a general fact, a past result. Truth: she isn't a great climber, so she slipped.]],\" she said.",
+          "grammar": "Mixed conditionals: imagined past with a result now (3/2), and a general fact with a past result (2/3)."
+        },
+        {
+          "scene": "crossroads",
+          "text": "Then the fog rolled in along both roads at once, and the signposts twisted. The big one in the middle now said: \"If I had slept well, I wouldn't have been tired now.\"\n\n\"That's broken,\" said Pim. \"The first half is last night, fine. But the second half says now, so it only needs one step back. No past ticket.\" She turned the arm of the sign until it clicked, and read it out. \"[[m32|If I had slept well, I wouldn't be tired now|Mixed 3/2, repaired. Truth: the speaker slept badly (then), so she is tired (now).]].\" The two roads lit up together, and the geese honked.\n\nIffy looked at her paws. \"[[m23|If I weren't so afraid of the fog, I would have helped you with that|Mixed 2/3: a general fact about Iffy, a past result. Truth: she is afraid, so she didn't help.]].\"\n\n\"[[m32|If you hadn't warned me about the Glitch, I wouldn't be here to fix anything|Mixed 3/2. Truth: Iffy warned her (then), so Pim is here (now).]],\" said Pim. \"So we're even.\" A dozen signposts still pointed the wrong way. Pim rolled up her sleeves.",
+          "grammar": "Mixed 3/2 repaired (would be, not would have been, for now), and both mixed types in conversation."
+        }
+      ]
+    },
+    {
+      "id": "ch6",
+      "world": "w6",
+      "title": "Connector Bridges",
+      "mission": "Cross the five bridges that will not open for if: unless, as long as, in case, even if, what if.",
+      "after": "All five bridges are open. If is not the only way to join a condition to its result.",
+      "pages": [
+        {
+          "scene": "bridges",
+          "text": "Five bridges crossed the canyon in World Six, and not one of them liked the word if.\n\nAt the first, a block turtle in a toll booth yawned. \"I'm Granny Tao. [[conn|This bridge won't open unless you say the password|Unless = if not. The bridge stays shut if she doesn't say it.]]. And before you ask, the password is unless.\"\n\n\"That's... fine,\" said Pim. \"Unless.\" The bridge opened.\n\nThe second bridge was made of glass. \"[[conn|You can cross as long as you don't look down|As long as = only if. Keep the condition and the deal is on.]],\" said Granny Tao, who had somehow got there first. Pim stared at Iffy's tail and got across.\n\nAt the third bridge the sky turned dark. Iffy handed her a tiny square umbrella. \"[[conn|Take this in case it starts to rain|In case = because it might happen. She takes it now, before the rain.]].\"\n\nPim opened it. Ten seconds later the sky emptied. She was very glad she had not waited to find out.",
+          "grammar": "Connectors other than if: unless (= if not), as long as (= only if), in case (= because it might happen)."
+        },
+        {
+          "scene": "bridges",
+          "text": "The fourth bridge was on fire. Only slightly, but still. \"[[conn|Even if it looks scary, it is completely safe|Even if = the condition changes nothing. Scary or not, it is safe.]],\" said Granny Tao. \"The flames are decoration. Stay off the ropes. [[conn|Otherwise you will get soot on your hands|Otherwise = if you don't. If she doesn't stay off the ropes, she will get soot.]].\"\n\nThe fifth bridge was not there at all. There was only fog, and a sign the Glitch had chewed: \"Unless you don't imagine it, the bridge won't appear.\"\n\n\"Broken. Unless already means if not,\" said Pim. She pulled out \"don't\" and read the sign again. \"[[conn|Unless you imagine it, the bridge won't appear|Unless = if not, repaired: no second negative after unless.]].\"\n\n\"[[conn|What if we imagined a bridge made of giant straws|What if + past: a gentle suggestion, one step back. Truth: there is no bridge yet.]]?\" said Iffy. A bridge of giant straws appeared. It squeaked, but it held.\n\nGranny Tao was waiting on the far side. \"[[conn|You may enter World Seven provided that you repair my other signs first|Provided that = only if. A more formal cousin of as long as.]].\"",
+          "grammar": "Even if, otherwise, what if + past, provided that; and why unless never takes a second negative."
+        }
+      ]
+    },
+    {
+      "id": "ch7",
+      "world": "w7",
+      "title": "Wish Island",
+      "mission": "Clear the three wishing wells: wishes about now, regrets about then, and habits that should stop.",
+      "after": "The wells are clear. A wish shows the distance from what is real: past for now, past perfect for then, would for other people's habits.",
+      "pages": [
+        {
+          "scene": "island",
+          "text": "Wish Island was a ring of sand with three stone wells and one enormous frog. Her name tag said Kob. \"Welcome,\" she croaked. \"The wells don't make wishes come true. They only show how far a wish is from what's real.\"\n\nPim leaned over the first well, marked Now. \"[[wish|I wish I had my phone with me|Wish + past simple: about now. Truth: she doesn't have her phone.]].\" The water showed her phone at home on her bed, at four per cent. \"[[wish|I wish I were at home with it|Wish + were: about now. Truth: she isn't at home.]],\" she added quietly.\n\nThe second well was marked Then. Iffy dropped in a coin. \"[[wish|If only I had learned to say one sentence without an if|If only + past perfect: a regret about the past. Truth: Iffy never learned.]].\"\n\nPim laughed and dropped in her own. \"[[wish|I wish I had saved my game before I touched the screen|Wish + past perfect: a regret about the past. Truth: she didn't save it.]].\" The water showed a loading bar, stuck at zero.",
+          "grammar": "Wish / if only + past simple (about now) and + past perfect (regrets about the past)."
+        },
+        {
+          "scene": "island",
+          "text": "The third well was marked Stop It. Kob looked embarrassed. \"This one is for complaints. [[wish|I wish the seagulls would stop stealing my lunch|Wish + would: someone else's annoying habit. Truth: the seagulls keep stealing it.]].\"\n\nIffy was humming again, the same four notes. \"[[wish|I wish you would hum a different song|Wish + would: about another person's habit. Truth: Iffy keeps humming the same one.]],\" said Pim. Iffy hummed louder.\n\nThen grey fog bubbled up out of all three wells, and coins flew back out. On each one was a broken wish: \"I wish I have wings.\" \"I wish I would be faster.\" \"If only I didn't forget my umbrella yesterday.\"\n\n\"None of these will go in,\" said Pim. \"After wish, the verb is never in the present. You don't use would about yourself. And yesterday needs had.\" She scratched new words onto the first coin and dropped it. \"[[wish|I wish I had wings|Wish + past simple, repaired. Truth: she has no wings. Imagined, now.]].\" Splash. The fog in that well cleared. Kob pushed a whole bucket of coins towards her.",
+          "grammar": "Wish + would for someone else's annoying habit; repairing wishes built with the wrong tense."
+        }
+      ]
+    },
+    {
+      "id": "ch8",
+      "world": "w8",
+      "title": "The Formal Citadel",
+      "mission": "Get past the gate guards, who answer only formal speech: Should you…, Were I…, Had I known…, but for.",
+      "after": "The great gate stands open. In formal English the verb can move to the front, and if disappears.",
+      "pages": [
+        {
+          "scene": "citadel",
+          "text": "The gate of the Formal Citadel was forty blocks high. In front of it stood two stone herons in grey uniforms, as still as statues.\n\n\"Hi,\" said Pim. \"Can you let us in if I say please?\" Nothing. Not even a blink.\n\nIffy pulled her down and whispered. \"[[formal|Should you wish to be heard, you must speak as they do|Formal: Should you wish = If you wish. Should moves to the front and if disappears.]].\"\n\nPim stood up straight and tried to sound like a school announcement. \"Good evening. [[formal|Were I to tell you our whole story, we would be here all night|Formal: Were I to tell = If I told. Imagined. Truth: she isn't going to tell it all.]].\" The first heron's eye moved, so she kept going. \"[[formal|Had I known you were so formal, I would have practised on the way|Formal third conditional: Had I known = If I had known. Truth: she didn't know.]].\"\n\n\"Acceptable,\" said the second heron. \"[[formal|Should you require assistance, ring the bell|Formal: Should you require = If you require, with an instruction as the result.]].\"\n\n\"There's a bell?\" said Pim.",
+          "grammar": "Formal inversion: Should you… (= If you…), Were I to… (= If I…), Had I known… (= If I had known…)."
+        },
+        {
+          "scene": "citadel",
+          "text": "There was a bell, and beside it a brass plate. The fog was already licking at the letters: \"If should you need help, ring. Was I in your place, I would knock. Had I would known, I would have come sooner.\"\n\n\"All three are broken,\" Pim told the herons, very politely. \"When should moves to the front, if disappears. At the front it is always were, never was. And there is no would in the had half.\" She rubbed the plate with her sleeve, and the letters slid into place.\n\nThe first heron read the middle line aloud, slowly. \"[[formal|Were I in your place, I would knock|Formal second conditional: Were I = If I were. Truth: the heron is not in Pim's place.]].\" Pim knocked. The gate opened a crack.\n\n\"[[formal|But for this small fox-cat, I would never have got this far|But for + noun = if it hadn't been for. Truth: Iffy helped, so Pim got here.]],\" said Pim, and she meant it. Iffy bowed.\n\n\"Then bring her,\" said the herons. \"The inner doors are less forgiving.\"",
+          "grammar": "Inversion repaired (no if with should; were, never was; no would after had) and but for + noun."
+        }
+      ]
+    },
+    {
+      "id": "ch9",
+      "world": "w9",
+      "title": "The Final Arena",
+      "mission": "Face the Glitch with everything you know, repair the very first sentence, and send Pim home.",
+      "after": "Every world is whole again, and Pim is home. Set both dials, and any sentence will hold.",
+      "pages": [
+        {
+          "scene": "arena",
+          "text": "The Final Arena was a bowl of grey fog with a mouth made of broken letters. When the Glitch spoke, every word came out wrong. \"If you will challenge me, you lose,\" it roared.\n\nPim's knees were shaking, but her grammar was not. \"That's broken. [[1|If you challenge me, you will lose|First conditional, repaired: present after if, will in the result.]]. Thanks, that one works for me.\" A piece of fog turned into bright blocks and fell.\n\n\"[[0|If you repair a sentence, the fog loses a piece|Zero conditional. A law of the arena: true every time.]],\" whispered Iffy.\n\nThe Glitch tried twice more. \"If I am you, I go home. If you didn't open the game, you are safe now.\"\n\n\"Wrong dials, both times,\" said Pim. \"[[2|If I were you, I would go home|Second conditional, for advice. Truth: the Glitch is not Pim. Imagined, now.]]. And I'd love to. [[m32|If I hadn't opened the game, I would be safe now|Mixed 3/2: imagined past, result now. Truth: she opened it, so she isn't safe yet.]]. Rude, but true.\" Two more pieces fell.",
+          "grammar": "Everything together: zero, first, second and mixed 3/2, each repaired from the Glitch's broken speech."
+        },
+        {
+          "scene": "arena",
+          "text": "The Glitch tried harder. \"Unless you don't stop, I will break every world.\"\n\n\"[[conn|Unless I stop, you will break every world|Unless = if not, repaired: no second negative after unless.]],\" said Pim. \"Noted. I'm not stopping.\"\n\n\"Had I would known you were coming, I built a bigger fog,\" it hissed.\n\n\"[[formal|Had you known I was coming, you would have built a bigger fog|Formal third conditional: Had you known = If you had known. Truth: it didn't know.]],\" said Pim. \"Too late.\" The fog was half its size now.\n\nIts voice was smaller too. \"I wish somebody fix me.\"\n\nPim stopped. That one did not sound like a threat. \"[[wish|I wish somebody would fix me|Wish + would: wanting someone else to act. Truth: nobody has fixed it yet.]],\" she said slowly. \"Is that what you mean?\" The fog nodded.",
+          "grammar": "Unless, formal inversion and wish + would: fixing the form to find the real meaning."
+        },
+        {
+          "scene": "home",
+          "text": "Iffy crept out from behind Pim. \"[[m23|If the Glitch were really a monster, it would have stopped us in World One|Mixed 2/3: a general fact, a past result. Truth: it isn't a monster, and it didn't stop them.]].\"\n\nUnder the fog, cut into the arena floor, was the first sentence of the whole game. Somebody had built it wrongly on day one: \"If you will imagine it, you can build it.\"\n\nPim knelt down, pulled out one block, and read it. \"[[0|If you imagine it, you can build it|Zero conditional with can: a rule that is always true in this game.]].\" The last of the fog folded up into a small grey kitten with square paws. It sneezed. A door of light opened.\n\n\"[[1|If you open the game tomorrow, I will be waiting at the factory gate|First conditional. A real promise about a possible future.]],\" said Iffy.\n\n\"[[conn|I'll come back as long as you learn a new song|As long as = only if. Pim's one condition for coming back.]],\" said Pim, and she stepped through.\n\nPop. Her bedroom. The rain had stopped, and Mum was calling her for dinner. Pim picked up her cat and told her the only thing that made sense. \"[[m32|If I hadn't touched that screen, I wouldn't be this good at ifs now|Mixed 3/2: imagined past, result now. Truth: she touched it, so now she is good at ifs.]].\"",
+          "grammar": "Mixed 2/3, a real conditional with can, a first-conditional promise, as long as, and a last mixed 3/2 at home."
+        }
+      ]
+    }
+  ]
+}

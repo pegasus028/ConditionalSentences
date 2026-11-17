@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<title>The Plaza</title>
+<meta name="theme-color" content="#7fd0ff">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Nunito:wght@700;900&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#16203a;--rule:#16203a}
+*{box-sizing:border-box}html,body{margin:0;height:100%;overflow:hidden;font:700 15px/1.4 "Nunito",system-ui,sans-serif;color:var(--ink);background:#7fd0ff;overscroll-behavior:none}
+#c{position:fixed;inset:0;width:100%;height:100%;display:block;touch-action:none}
+.hudbar{position:fixed;left:0;right:0;top:0;display:flex;align-items:center;gap:8px;padding:calc(8px + env(safe-area-inset-top,0px)) 10px 8px;pointer-events:none;z-index:5}
+.hudbar>*{pointer-events:auto}
+.title{font:400 1.3rem "Lilita One",sans-serif;background:#fff;border:3px solid var(--rule);border-radius:12px;padding:3px 12px;box-shadow:0 4px 0 var(--rule)}
+.pillb{background:#fff;border:3px solid var(--rule);border-radius:99px;padding:4px 12px;font-weight:900;text-decoration:none;color:inherit;box-shadow:0 3px 0 var(--rule);cursor:pointer;font:inherit}
+.sp{flex:1}
+.coin{display:inline-block;width:15px;height:15px;border-radius:4px;background:#ffd23f;border:2px solid #b17d00;vertical-align:-2px;margin-right:4px}
+.tip{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(14px + env(safe-area-inset-bottom,0px));background:rgba(22,32,58,.85);color:#fff;border-radius:99px;padding:6px 16px;font-size:.85rem;z-index:4;white-space:nowrap;max-width:94vw;overflow:hidden;text-overflow:ellipsis}
+.card{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(14px + env(safe-area-inset-bottom,0px));width:min(420px,calc(100% - 20px));background:#fff;border:3px solid var(--rule);border-radius:18px;box-shadow:0 6px 0 var(--rule);padding:14px 16px;z-index:6;border-top:12px solid var(--pc,#3f7cff)}
+.card[hidden],.list[hidden],.tip[hidden]{display:none}
+.card h2{font:400 1.4rem "Lilita One",sans-serif;margin:0}.card p{margin:.2rem 0 .7rem;color:#3d4966}
+.card .row{display:flex;gap:10px;align-items:center}.card small{color:#087f5b;font-weight:900}
+.go{display:inline-block;background:#3ccf7a;color:#07230f;border:3px solid var(--rule);border-radius:12px;padding:8px 20px;font-weight:900;text-decoration:none;box-shadow:0 4px 0 var(--rule);font-size:1.05rem}
+.x{margin-left:auto;background:#f1f5ff;border:3px solid var(--rule);border-radius:12px;padding:6px 12px;font:inherit;cursor:pointer}
+.list{position:fixed;inset:0;z-index:8;background:rgba(127,208,255,.96);overflow:auto;padding:70px 14px 30px}
+.list h2{font:400 1.6rem "Lilita One",sans-serif;margin:0 0 10px}
+.list a.p{display:block;background:#fff;border:3px solid var(--rule);border-left:14px solid var(--pc);border-radius:14px;box-shadow:0 4px 0 var(--rule);padding:10px 14px;margin:10px auto;max-width:520px;text-decoration:none;color:inherit}
+.list a.p b{font:400 1.15rem "Lilita One",sans-serif;display:block}.list a.p span{color:#3d4966}
+.stick{position:fixed;left:14px;bottom:calc(60px + env(safe-area-inset-bottom,0px));width:112px;height:112px;z-index:5;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);gap:3px;opacity:.9}
+.stick button{border:3px solid var(--rule);border-radius:10px;background:#fff;font-weight:900;font-size:1rem;cursor:pointer;touch-action:none;padding:0}
+.stick .u{grid-area:1/2}.stick .l{grid-area:2/1}.stick .r{grid-area:2/3}.stick .d{grid-area:3/2}
+@media (hover:hover) and (pointer:fine){.stick{display:none}}
+</style>
+</head>
+<body>
+<canvas id="c" aria-label="A blocky plaza with portals to learning apps. Use the List button for a plain list of links."></canvas>
+<div class="hudbar"><span class="title">The Plaza</span><span class="sp"></span><span class="pillb" id="bits"><i class="coin"></i><b>0</b></span><button class="pillb" id="listb">☰ List</button></div>
+<div class="stick" aria-hidden="true"><button class="u" data-k="u">▲</button><button class="l" data-k="l">◀</button><button class="r" data-k="r">▶</button><button class="d" data-k="d">▼</button></div>
+<div class="tip" id="tip">Tap the ground to walk · tap a portal to visit it · grab the coins</div>
+<div class="card" id="card" hidden></div>
+<div class="list" id="list" hidden></div>
+<script src="vendor/three.min.js"></script>
+<script src="../art.js"></script>
+<script src="portals.js?v=2026-11-17a"></script>
+<script src="hub.js?v=2026-11-17a"></script>
+</body>
+</html>

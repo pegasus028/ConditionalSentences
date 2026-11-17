@@ -1,0 +1,1212 @@
+{
+ "world": "w5",
+ "lessons": [
+  {
+   "id": "w5l1",
+   "name": "Mixed 3/2: imagined past condition, present result",
+   "cefr": "B2",
+   "ctype": "m32",
+   "formula": {
+    "if": "If + had + V3 (imagined past)",
+    "result": "would / could / might + base verb (now)"
+   },
+   "uses": [
+    {
+     "use": "A past choice you still feel today",
+     "ex": "If I had gone to bed earlier, I wouldn't be so sleepy now."
+    },
+    {
+     "use": "Relief: past luck behind a good present",
+     "ex": "If Fah hadn't lent me her charger, my phone would be dead by now."
+    },
+    {
+     "use": "Gentle criticism: pointing to the cause",
+     "ex": "If you had saved the file, we wouldn't be typing it all again now."
+    },
+    {
+     "use": "Explaining how life is today",
+     "ex": "If we hadn't moved to Bangkok, I'd still be living by the sea."
+    },
+    {
+     "use": "An ability you would have now",
+     "ex": "If I had started piano at six, I could play this song today."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Mixed 3/2 joins an imagined past, with <b>had</b> plus V3, to an imagined result now, with <b>would</b> plus the base verb.",
+     "body": [
+      "Some imagined sentences have two times. The <b>if</b> half is about the past. The result (what happens) is about now. We call this mixed 3/2. The if half comes from type 3. The result half comes from type 2. You use it when something in the past still matters today.",
+      "Build each half on its own. First, the if half. It is an imagined past, so use <b>had</b> plus the past participle (V3). Next, the result. It is imagined and it is now. So use <b>would</b> plus the base verb (the verb with no ending). You can also use <b>could</b> for ability or <b>might</b> for maybe. Do not put <b>have</b> in the result. <b>Have</b> is the past ticket, and this result is not past.",
+      "Remember the staircase. Real to imagined is one step back on each verb. <em>Am</em> becomes <em>were</em>, <em>will</em> becomes <em>would</em>, <em>can</em> becomes <em>could</em>. An imagined past is two steps back. <em>Went</em> becomes <em>had gone</em>, and <em>would</em> becomes <em>would have</em>. The past form does not mean past time here. It means not real. Reported speech uses the same staircase, but for a different reason.",
+      "Now check with Truth lines. A mixed sentence has two Truth lines with two dates. Take <em>If I had slept well last night, I wouldn't be tired now</em>. Truth one: I didn't sleep well, last night. Truth two: I am tired, now. One past date and one now date means mixed 3/2. Two past dates means type 3. A real conditional has no Truth line at all.",
+      "Time words help you. The if half often has a past word like <em>last night</em> or <em>this morning</em>. The result has <em>now</em>, <em>still</em>, <em>today</em> or <em>by now</em>. With those words, <em>would have been</em> is wrong, because it is about the past. Keep <b>would</b> out of the if half too. And do not use <b>will</b>, <b>can</b> or a present verb in an imagined result."
+     ],
+     "examples": [
+      {
+       "s": "If I had slept well last night, I wouldn't be tired now.",
+       "g": "Truth: I didn't sleep well — last night. I am tired — now. Two dates, so mixed 3/2."
+      },
+      {
+       "s": "If Mint hadn't missed the 7.15 train, she would be in class by now.",
+       "g": "Truth: Mint missed the train — this morning. She isn't in class — now. \"By now\" shows the result is present."
+      },
+      {
+       "s": "If we hadn't adopted Mochi three years ago, she might still be living on the street.",
+       "g": "Truth: we adopted Mochi — three years ago. She lives with us — now. \"Might\" means maybe."
+      },
+      {
+       "s": "If I hadn't left my glasses at home this morning, I could read the board now.",
+       "g": "Truth: I left my glasses at home — this morning. I can't read the board — now. \"Could\" is imagined ability."
+      },
+      {
+       "s": "<s>If I had slept well last night, I wouldn't have been tired now.</s>",
+       "g": "Wrong: \"now\" is not past, so no past ticket. Say: I wouldn't be tired now."
+      }
+     ]
+    },
+    "B2": {
+     "key": "In mixed 3/2 the <b>if</b> half is an imagined past (<b>had</b> plus V3) and the result is an imagined present (<b>would</b>, <b>could</b> or <b>might</b> plus the base verb).",
+     "body": [
+      "A mixed conditional is an imagined sentence whose two halves live at different times. In mixed 3/2, the <b>if</b> half is about the past and the result half is about now. Something did or did not happen earlier, and you can still feel the result today. The name is the recipe: the if half comes from the third conditional, and the result half comes from the second.",
+      "Build each half separately, from its own time. Remember the staircase: real to imagined is one step back on each verb, so <em>am</em> becomes <em>were</em>, <em>will</em> becomes <em>would</em> and <em>can</em> becomes <em>could</em>. An imagined past is two steps: <em>went</em> becomes <em>had gone</em>, and <em>would</em> becomes <em>would have</em>. So the if half takes <b>had</b> plus the past participle (V3). The result is imagined but present, so it takes only one step: <b>would</b>, <b>could</b> or <b>might</b> plus the base verb.",
+      "There is no <b>have</b> in the result, because <b>have</b> is the past ticket and this result is not in the past. The past forms here do not show past time; they show distance from reality. Reported speech uses the same staircase for a different reason. <b>Would</b> gives the imagined result, <b>could</b> an imagined ability and <b>might</b> an imagined possibility.",
+      "Check the meaning with the Truth receipt. A mixed sentence has two Truth lines with two different dates. For <em>If I had slept well last night, I wouldn't be tired now</em>, the lines are: I didn't sleep well, last night; I am tired, now. One line dated in the past and one dated now means mixed 3/2. If both lines are dated in the past, it is a plain third conditional. A real conditional has no Truth line, because nothing is denied.",
+      "Look for the time words. The if half often carries a past cue such as <em>last night</em>, <em>this morning</em> or <em>in M1</em>. The result carries a present cue: <em>now</em>, <em>still</em>, <em>today</em> or <em>by now</em>. With one of those in the result, <em>would have been</em> is a time mismatch. Keep <b>would</b> out of the if half, as always, and keep <b>will</b>, <b>can</b> and present forms out of an imagined result."
+     ],
+     "examples": [
+      {
+       "s": "If I had slept well last night, I wouldn't be tired now.",
+       "g": "Truth: I didn't sleep well — last night. I am tired — now. Two receipts, two dates: mixed 3/2."
+      },
+      {
+       "s": "If Mint hadn't missed the 7.15 train, she would be in class by now.",
+       "g": "Truth: Mint missed the train — this morning. She isn't in class — now. \"By now\" dates the result in the present."
+      },
+      {
+       "s": "If we hadn't adopted Mochi three years ago, she might still be living on the street.",
+       "g": "Truth: we adopted Mochi — three years ago. She lives with us — now. \"Might\" gives an imagined possibility; \"still\" is the present cue."
+      },
+      {
+       "s": "If I hadn't left my glasses at home this morning, I could read the board now.",
+       "g": "Truth: I left my glasses at home — this morning. I can't read the board — now. \"Could\" gives imagined ability."
+      },
+      {
+       "s": "<s>If I had slept well last night, I wouldn't have been tired now.</s>",
+       "g": "Time mismatch: \"would have been\" carries the past ticket, but the result is dated now. Fix: I wouldn't be tired now."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Mixed 3/2 dates its halves differently: an imagined past condition, two steps back, and an imagined present result, one step back.",
+     "body": [
+      "A mixed conditional is not a sixth rule; it is what happens when the two halves of an imagined sentence carry different dates. In mixed 3/2 the condition is an imagined past and the result is an imagined present: a past event, or non-event, whose consequence is still with you. The label is a recipe. The <b>if</b> half is borrowed from the third conditional and the result half from the second.",
+      "Each half is built from its own time on the staircase. Real to imagined is one step back on each verb: <em>am</em> to <em>were</em>, <em>have</em> to <em>had</em>, <em>will</em> to <em>would</em>, <em>can</em> to <em>could</em>. An imagined past needs a second step, and because English has no past of the past, that step is the perfect: <em>went</em> to <em>had gone</em>, <em>would</em> to <em>would have</em>. So the condition takes <b>had</b> plus the past participle (V3), and the present result takes <b>would</b>, <b>could</b> or <b>might</b> plus the base verb.",
+      "The forms mean what they mean because of distance. A past form that is not about past time marks a step away from reality, just as backshift in reported speech marks a step away in time: the same staircase, a different reason. That is why the result has no <b>have</b>. <b>Have</b> is the past ticket; it dates a result in the past. A result you can feel now needs distance from reality only, which is one step.",
+      "The Truth receipt confirms the type. Mixed 3/2 gives two Truth lines with two dates: for <em>If I had slept well last night, I wouldn't be tired now</em>, I didn't sleep well, last night, and I am tired, now. Two past dates would make it a third conditional, and the same if half can take either result: <em>I would have caught the bus</em> is over, while <em>I would be at school by now</em> reaches the present. A real conditional denies nothing and has no Truth line.",
+      "The time words carry the decision, so read them before the verbs. Past cues such as <em>last night</em> or <em>in M1</em> belong to the condition; <em>now</em>, <em>still</em>, <em>today</em> and <em>by now</em> belong to the result, and with them <em>would have been</em> is a time mismatch. <b>Would</b> stays out of the if half, and <b>will</b>, <b>can</b> and present forms stay out of an imagined result. One extension: the result can also be an imagined future, as in <em>we would be flying tomorrow</em>."
+     ],
+     "examples": [
+      {
+       "s": "If I had slept well last night, I wouldn't be tired now.",
+       "g": "Truth: I didn't sleep well — last night. I am tired — now. The condition is two steps back, the result one."
+      },
+      {
+       "s": "If Mint hadn't missed the 7.15 train, she would be in class by now.",
+       "g": "Truth: Mint missed the train — this morning. She isn't in class — now. \"By now\" anchors the result in the present."
+      },
+      {
+       "s": "If we hadn't adopted Mochi three years ago, she might still be living on the street.",
+       "g": "Truth: we adopted Mochi — three years ago. She lives with us — now. \"Might\" keeps the imagined result only possible; \"still\" is the present cue."
+      },
+      {
+       "s": "If I hadn't left my glasses at home this morning, I could read the board now.",
+       "g": "Truth: I left my glasses at home — this morning. I can't read the board — now. \"Could\" here means \"would be able to\"."
+      },
+      {
+       "s": "<s>If I had slept well last night, I wouldn't have been tired now.</s>",
+       "g": "Time mismatch: the past ticket \"have\" dates the result in the past, but \"now\" dates it in the present. Fix: I wouldn't be tired now."
+      }
+     ]
+    }
+   },
+   "thai": "ถ้าตอนนั้น… ป่านนี้ก็คง…แล้ว (ตอนนั้น = back then, ป่านนี้ = by now)",
+   "items": [
+    {
+     "id": "w5l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m32",
+     "cefr": "B2",
+     "stem": "Pim says: <em>If I hadn't stayed up watching videos last night, I wouldn't be so sleepy in class now.</em> What is true?",
+     "options": [
+      "Pim stayed up last night, and she is sleepy now.",
+      "Pim went to bed early last night, but she is sleepy now.",
+      "Pim stayed up last night, but she is not sleepy now.",
+      "Pim may stay up tonight, and then she will be sleepy."
+     ],
+     "answer": 0,
+     "near": 2,
+     "fb": [
+      "Yes: each Truth line is the opposite of its half. She stayed up, last night; she is sleepy, now.",
+      "Check the if half. \"Hadn't stayed up\" is imagined, so the truth is the opposite: she did stay up.",
+      "Half right. The result is imagined too: \"wouldn't be sleepy now\" means that she is sleepy now.",
+      "This reads it as a real future. Had plus V3 with \"last night\" is an imagined past, not a plan for tonight."
+     ],
+     "hint": "Write the two Truth lines. Each one is the opposite of its half.",
+     "why": "Both halves are imagined, so each Truth line reverses its half: she did stay up last night, and she is sleepy now.",
+     "truth": "Pim stayed up — last night. She is sleepy — now."
+    },
+    {
+     "id": "w5l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m32",
+     "cefr": "B2",
+     "stem": "<em>If Fern had charged her phone this morning, she could call her mum now.</em> When is each half about?",
+     "options": [
+      "Both halves are about this morning.",
+      "The if half is about now; the result is about this morning.",
+      "Both halves are about now.",
+      "The if half is about this morning; the result is about now."
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Look at the result again. \"Could call\" has no past ticket, and \"now\" dates it in the present.",
+      "The other way round. \"Had charged\" with \"this morning\" is the past half; \"now\" belongs to the result.",
+      "The if half has had plus V3 and \"this morning\". That is two steps back: an imagined past.",
+      "Yes: a past condition and a present result. Two dates, so this is mixed 3/2."
+     ],
+     "hint": "Find the time word in each half, then look at each verb.",
+     "why": "\"Had charged\" with \"this morning\" is an imagined past; \"could call\" with \"now\" is an imagined present. Each half has its own date.",
+     "truth": "Fern didn't charge her phone — this morning. She can't call her mum — now."
+    },
+    {
+     "id": "w5l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m32",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Story",
+       "text": "Mook forgot her umbrella this morning. Now it is pouring, and she is stuck at the BTS station."
+      }
+     ],
+     "stem": "Which sentence matches the story?",
+     "options": [
+      "If Mook had brought her umbrella, she wouldn't have been stuck at the station yesterday.",
+      "If Mook hadn't brought her umbrella, she would be stuck at the station now.",
+      "If Mook had brought her umbrella, she wouldn't be stuck at the station now.",
+      "If Mook brings her umbrella, she won't get stuck at the station."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "The if half is right, but this result is dated yesterday. In the story she is stuck now.",
+      "Write the Truth lines: this one says she did bring it and is not stuck. The story says the opposite.",
+      "Yes: Truth one, she didn't bring it, this morning; Truth two, she is stuck, now.",
+      "This is a real future with no Truth line. The story is about this morning and now, and both things are already decided."
+     ],
+     "hint": "Date the two facts in the story. Which sentence gives those two Truth lines?",
+     "why": "She forgot the umbrella this morning and is stuck now, so the if half is an imagined past and the result an imagined present.",
+     "truth": "Mook didn't bring her umbrella — this morning. She is stuck at the station — now."
+    },
+    {
+     "id": "w5l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "m32",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "You understood that whole Korean interview without subtitles!"
+      },
+      {
+       "who": "Mint",
+       "text": "I know! I started learning from fan subtitles two years ago."
+      }
+     ],
+     "stem": "If Mint hadn't started two years ago, she ___ Korean interviews without subtitles now.",
+     "options": [
+      "can't follow",
+      "couldn't have followed",
+      "didn't follow",
+      "couldn't follow"
+     ],
+     "answer": 3,
+     "near": 1,
+     "fb": [
+      "\"Can't\" is a real present form. This result is imagined, so the verb needs one step back.",
+      "The past ticket \"have\" puts the result in the past, but the time word is \"now\".",
+      "The past simple states a real past fact. An imagined result needs would, could or might.",
+      "Yes: one step back for an imagined ability now, and no past ticket because of \"now\"."
+     ],
+     "hint": "When is the result? Does it need a past ticket?",
+     "why": "The result is about now, so it takes could plus the base verb with no have; the starting was two years ago.",
+     "truth": "Mint started learning — two years ago. She can follow Korean interviews — now."
+    },
+    {
+     "id": "w5l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "m32",
+     "cefr": "B2",
+     "stem": "Praew is still queuing outside the cinema. If she ___ the tickets online yesterday, she would be inside by now.",
+     "options": [
+      "has booked",
+      "had booked",
+      "would have booked",
+      "books"
+     ],
+     "answer": 1,
+     "near": 2,
+     "fb": [
+      "\"Has booked\" is the present perfect, which is a real form. An imagined past needs had, not has.",
+      "Yes: \"yesterday\" and imagined, so two steps back in the if half.",
+      "\"Would\" belongs in the result half. The if half of an imagined past takes had plus V3.",
+      "A present form cannot go with \"yesterday\", and this booking is imagined, not real."
+     ],
+     "hint": "When is the if half? How many steps back does an imagined past take?",
+     "why": "The booking is imagined and dated yesterday, so the if half takes had plus the past participle; would stays in the result.",
+     "truth": "Praew didn't book online — yesterday. She isn't inside — now."
+    },
+    {
+     "id": "w5l1-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "m32",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Story",
+       "text": "This afternoon Bam is at the concert stall. The T-shirt costs 450 baht and she has only 300."
+      }
+     ],
+     "stem": "If Bam [[had saved]] her pocket money [[last month]], she [[would have been]] able to buy the T-shirt [[right now]].",
+     "answer": 2,
+     "fix": "would be",
+     "fb": [
+      "This part is fine: last month is past and imagined, so had plus V3 is right.",
+      "This part is fine: it dates the if half in the past, which matches the story.",
+      "This is the slip. The result is dated right now, so it cannot carry the past ticket. Say \"would be able to buy\".",
+      "This part is fine: the story is about this afternoon, so the result really is about now."
+     ],
+     "hint": "Date each half from the story. Which verb does not match its time word?",
+     "why": "Bam is at the stall now, so the result is present: would plus the base verb. \"Would have been\" belongs to a past result.",
+     "truth": "Bam didn't save her pocket money — last month. She can't buy the T-shirt — now."
+    },
+    {
+     "id": "w5l1-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "m32",
+     "cefr": "B2",
+     "stem": "It is 11 p.m. and Ploy is still doing her homework. If she ___ (not / watch) three episodes after dinner, she would be asleep by now.",
+     "accept": [
+      "hadn't watched",
+      "had not watched"
+     ],
+     "model": "hadn't watched",
+     "hint": "When was the watching? How many steps back for an imagined past?",
+     "why": "The watching was after dinner, in the past, and it really happened, so the if half needs had not plus the past participle.",
+     "truth": "Ploy watched three episodes — after dinner. She isn't asleep — now."
+    },
+    {
+     "id": "w5l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "m32",
+     "cefr": "B2",
+     "given": "Fern missed the try-outs in May, so she isn't in the school badminton team today.",
+     "stem": "If Fern hadn't missed the try-outs in May, she ___ the school badminton team today.",
+     "accept": [
+      "would be in",
+      "'d be in",
+      "could be in",
+      "might be in",
+      "would be on",
+      "'d be on",
+      "could be on",
+      "might be on",
+      "would be part of",
+      "'d be part of",
+      "would be a member of"
+     ],
+     "model": "would be in",
+     "hint": "Look at the time word at the end. Does this result need a past ticket?",
+     "why": "The result is about today, so it takes would plus the base verb with no have, even though the try-outs were in May.",
+     "truth": "Fern missed the try-outs — in May. She isn't in the team — today."
+    }
+   ]
+  },
+  {
+   "id": "w5l2",
+   "name": "Mixed 2/3: a permanent or present condition, past result",
+   "cefr": "C1",
+   "ctype": "m23",
+   "formula": {
+    "if": "If + past simple / were (still true now)",
+    "result": "would / could / might have + V3 (past)"
+   },
+   "uses": [
+    {
+     "use": "An excuse: a lasting fact explains why you didn't",
+     "ex": "If I weren't afraid of heights, I'd have gone up the tower yesterday."
+    },
+    {
+     "use": "Praise: character behind a past success",
+     "ex": "If Jane weren't so calm, she wouldn't have won that tie-break last week."
+    },
+    {
+     "use": "Thanks to a friend",
+     "ex": "If you weren't such a good friend, you wouldn't have waited in the rain yesterday."
+    },
+    {
+     "use": "Gentle criticism of a habit",
+     "ex": "If you checked the group chat more often, you'd have seen the room change."
+    },
+    {
+     "use": "A skill you don't have, and a past chance",
+     "ex": "If I spoke Japanese, I could have helped those tourists yesterday."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Mixed 2/3 takes a fact that is still true now, imagines it away, and joins it to an imagined result in the past.",
+     "body": [
+      "Mixed 2/3 is the other mixed type. The <b>if</b> half is about something true now or always true. It can be a fear, a skill, a habit or where you live. The result (what happened) is about one time in the past. The if half comes from type 2. The result half comes from type 3.",
+      "Build each half on its own. First, the if half. The fact is true now, and you imagine it away. So take one step back: use the past simple, <b>were</b> or <b>could</b>. <em>Am</em> becomes <em>were</em>, <em>like</em> becomes <em>liked</em>, <em>can</em> becomes <em>could</em>. This past form is not past time. It means not real. Reported speech uses the same staircase, but for a different reason.",
+      "Next, the result. It is imagined and it is past, so take two steps back. Use <b>would have</b> plus the past participle (V3). <b>Have</b> is the past ticket. You can also say <b>could have</b> for ability or <b>might have</b> for maybe. Without <b>have</b>, the result is about now or the future. So <em>would go</em> cannot sit with <em>yesterday</em>. And <b>had</b> plus V3 alone is for an if half, not for a result.",
+      "Check with two Truth lines. Take <em>If I weren't afraid of heights, I'd have gone up the tower yesterday</em>. Truth one: I am afraid of heights, always and still now. Truth two: I didn't go up, yesterday. One line says now or always. The other has a past date. That means mixed 2/3.",
+      "Ask one question about the if half: is it still true today? If yes, use the past simple. If it was true only at that past time, use <b>had</b> plus V3. Then the sentence is type 3. Watch two mistakes. Do not leave the if half in the present, even for a true fact. And do not put <b>will</b> or <b>would</b> in the if half."
+     ],
+     "examples": [
+      {
+       "s": "If I weren't afraid of heights, I'd have gone up the tower yesterday.",
+       "g": "Truth: I am afraid of heights — always, still now. I didn't go up — yesterday. Two dates, so mixed 2/3."
+      },
+      {
+       "s": "If Jane weren't so calm under pressure, she wouldn't have won the tie-break last week.",
+       "g": "Truth: Jane is calm — always. She won the tie-break — last week."
+      },
+      {
+       "s": "If I spoke Japanese, I could have helped the tourists at Siam station yesterday.",
+       "g": "Truth: I don't speak Japanese — now. I didn't help them — yesterday. \"Could have\" is imagined ability."
+      },
+      {
+       "s": "If we lived nearer the school, I might not have been late this morning.",
+       "g": "Truth: we don't live near the school — now. I was late — this morning. \"Might\" means maybe."
+      },
+      {
+       "s": "<s>If I weren't afraid of heights, I would go up the tower yesterday.</s>",
+       "g": "Wrong: \"yesterday\" is past, so the result needs the past ticket. Say: I would have gone up."
+      }
+     ]
+    },
+    "B2": {
+     "key": "In mixed 2/3 the <b>if</b> half imagines away something still true now (past simple or <b>were</b>) and the result is an imagined past (<b>would have</b> plus V3).",
+     "body": [
+      "Mixed 2/3 is the mirror of mixed 3/2. The <b>if</b> half imagines away something that is true now or always true: a fear, a skill, a habit, where you live. The result half is about one moment in the past. The recipe is in the name: the if half comes from the second conditional and the result half from the third.",
+      "Build each half from its own time. The if half is an imagined present, so it takes one step back: past simple, <b>were</b> or <b>could</b>. On the staircase, <em>am</em> becomes <em>were</em>, <em>like</em> becomes <em>liked</em> and <em>can</em> becomes <em>could</em>. This past form is not past time; it shows distance from reality, on the same staircase that reported speech uses for a different reason. The result is an imagined past, so it takes two steps: <b>would have</b>, <b>could have</b> or <b>might have</b> plus the past participle (V3).",
+      "Write two Truth lines. For <em>If I weren't afraid of heights, I'd have gone up the tower yesterday</em>: I am afraid of heights, always and still now; I didn't go up, yesterday. One line is dated now or always, the other is dated in the past. That pair of dates is the signature of mixed 2/3.",
+      "The test for the if half is one question: is this still true today? If the condition belonged only to that past moment and is over, such as being ill last Friday, use <b>had</b> plus V3 and you have a plain third conditional. If it is still true, such as not speaking Japanese, the past simple says so.",
+      "Two things go wrong. First, the result loses its past ticket: <em>would go</em> is about now or the future, so with <em>yesterday</em> or <em>last week</em> you need <b>would have</b> plus V3, and <b>had</b> plus V3 alone belongs in an if half. Second, the if half stays in the present or takes <b>will</b> or <b>would</b>. Even a true, permanent fact needs one step back when you imagine it away."
+     ],
+     "examples": [
+      {
+       "s": "If I weren't afraid of heights, I'd have gone up the tower yesterday.",
+       "g": "Truth: I am afraid of heights — always, still now. I didn't go up — yesterday. Two receipts, two dates: mixed 2/3."
+      },
+      {
+       "s": "If Jane weren't so calm under pressure, she wouldn't have won the tie-break last week.",
+       "g": "Truth: Jane is calm — always. She won the tie-break — last week. A lasting quality explains a past event."
+      },
+      {
+       "s": "If I spoke Japanese, I could have helped the tourists at Siam station yesterday.",
+       "g": "Truth: I don't speak Japanese — now. I didn't help them — yesterday. \"Could have\" gives imagined past ability."
+      },
+      {
+       "s": "If we lived nearer the school, I might not have been late this morning.",
+       "g": "Truth: we don't live near the school — now. I was late — this morning. \"Might not have\" keeps the result only possible."
+      },
+      {
+       "s": "<s>If I weren't afraid of heights, I would go up the tower yesterday.</s>",
+       "g": "No past ticket: \"would go\" is about now or the future, but the result is dated yesterday. Fix: I would have gone up."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Mixed 2/3 sets a condition that still holds, one step back, against a single past result, two steps back.",
+     "body": [
+      "Mixed 2/3 runs the other way from mixed 3/2. The condition imagines away something that holds now or permanently, such as a fear, a skill, a habit or an address, and the result is a single event in the past. Because the state was already true when the event happened, and is still true, English keeps the condition in the second-conditional form and gives only the result the third-conditional form.",
+      "Build each half from its own date. The condition is an imagined present, one step back on the staircase: <em>am</em> to <em>were</em>, <em>like</em> to <em>liked</em>, <em>can</em> to <em>could</em>. The past form marks distance from reality, not past time; reported speech climbs the same staircase to mark distance in time. The result is an imagined past, two steps back: <b>would have</b>, <b>could have</b> or <b>might have</b> plus the past participle (V3), where <b>have</b> is the past ticket.",
+      "The Truth receipt has two lines with two dates. For <em>If I weren't afraid of heights, I'd have gone up the tower yesterday</em>: I am afraid of heights, always and still now; I didn't go up, yesterday. A line dated now or always beside a line dated in the past is the signature of mixed 2/3. Speakers use it for excuses, for praise and thanks, and to explain a past event by someone's character.",
+      "The deciding question for the condition is whether it is still true today. A state that belonged only to that moment and is over, such as being ill last Friday, takes <b>had</b> plus V3 and gives an ordinary third conditional. A lasting state takes the past simple, which tells the listener that nothing has changed. You will hear <b>had been</b> for lasting states too; the past simple is simply the more exact choice.",
+      "Errors come in two kinds. The result loses its ticket: <em>would go</em> points at now or the future, so it clashes with <em>yesterday</em> or <em>last week</em>, while <b>had</b> plus V3 alone is a condition form, not a result. Or the condition fails to step back: it stays in the present because the fact is true, or it takes <b>will</b> or <b>would</b>, which belong in the result. Mixed forms are rare in real English, so use one only when the time logic is truly mixed."
+     ],
+     "examples": [
+      {
+       "s": "If I weren't afraid of heights, I'd have gone up the tower yesterday.",
+       "g": "Truth: I am afraid of heights — always, still now. I didn't go up — yesterday. The condition is one step back, the result two."
+      },
+      {
+       "s": "If Jane weren't so calm under pressure, she wouldn't have won the tie-break last week.",
+       "g": "Truth: Jane is calm — always. She won the tie-break — last week. Character explains a past event; here the meaning is praise."
+      },
+      {
+       "s": "If I spoke Japanese, I could have helped the tourists at Siam station yesterday.",
+       "g": "Truth: I don't speak Japanese — now. I didn't help them — yesterday. \"Could have\" means \"would have been able to\"."
+      },
+      {
+       "s": "If we lived nearer the school, I might not have been late this morning.",
+       "g": "Truth: we don't live near the school — now. I was late — this morning. \"Might not have\" keeps the imagined result only possible."
+      },
+      {
+       "s": "<s>If I weren't afraid of heights, I would go up the tower yesterday.</s>",
+       "g": "No past ticket: \"would go\" points at now or the future, but \"yesterday\" dates the result in the past. Fix: I would have gone up."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w5l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m23",
+     "cefr": "C1",
+     "stem": "Nan says: <em>If I liked spicy food, I'd have tried the som tam at the market yesterday.</em> What is true?",
+     "options": [
+      "She didn't like spicy food yesterday, but she does like it now.",
+      "She doesn't like spicy food, and she didn't try the som tam.",
+      "She likes spicy food, so she tried the som tam yesterday.",
+      "She might try the som tam if she starts to like spicy food."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Close, but \"liked\" here is not past time. It is one step back from a fact that is still true: she doesn't like spicy food.",
+      "Yes: Truth one, she doesn't like spicy food, always; Truth two, she didn't try it, yesterday.",
+      "Both halves are imagined, so both truths are the opposite of what the sentence imagines.",
+      "This reads it as a real future. \"I'd have tried\" with \"yesterday\" is an imagined past; nothing is planned."
+     ],
+     "hint": "Is \"liked\" past time here, or one step back from a present fact?",
+     "why": "The past simple imagines away a fact that is still true, and would have plus V3 imagines yesterday differently, so both truths are negative.",
+     "truth": "Nan doesn't like spicy food — always. She didn't try the som tam — yesterday."
+    },
+    {
+     "id": "w5l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m23",
+     "cefr": "C1",
+     "stem": "<em>If Mook could swim, she would have joined the boat trip last Saturday.</em> Which description fits the two halves?",
+     "options": [
+      "The if half is about last Saturday only; the result is about how things are now.",
+      "Both halves are about a possible trip in the future.",
+      "The if half imagines away a present fact; the result is about last Saturday.",
+      "Both halves are about last Saturday only, and nothing is said about now."
+     ],
+     "answer": 2,
+     "near": 3,
+     "fb": [
+      "The other way round. \"Could swim\" has no had plus V3, and the past ticket is in the result.",
+      "Nothing here is open or possible. Both halves are imagined, and \"last Saturday\" is over.",
+      "Yes: she can't swim, now and in general; she didn't join, last Saturday. Two dates: mixed 2/3.",
+      "The result is past, yes. But \"could swim\" is one step back from \"can swim\", so it tells us about now too."
+     ],
+     "hint": "How many steps back is each verb? One step and two steps mean different dates.",
+     "why": "\"Could swim\" is one step back from a present fact, she can't swim; \"would have joined\" is two steps back, an imagined last Saturday.",
+     "truth": "Mook can't swim — now, in general. She didn't join the boat trip — last Saturday."
+    },
+    {
+     "id": "w5l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m23",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Story",
+       "text": "Fern can't ride a bike. Last Sunday her friends cycled round the park, and Fern stayed at home."
+      }
+     ],
+     "stem": "Which sentence explains why Fern stayed at home last Sunday?",
+     "options": [
+      "If Fern could ride a bike, she would have gone with them last Sunday.",
+      "If Fern had ridden a bike, she would be with her friends now.",
+      "If Fern couldn't ride a bike, she would have stayed at home last Sunday.",
+      "If Fern learns to ride a bike, she will go with them next time."
+     ],
+     "answer": 0,
+     "near": 2,
+     "fb": [
+      "Yes: Truth one, she can't ride a bike, still true; Truth two, she didn't go, last Sunday.",
+      "This is mixed 3/2: one past ride and a result now. The story is about a lasting fact and a past Sunday.",
+      "Write the Truth line for the if half: it would mean that she can ride a bike. The story says she can't.",
+      "A real future with no Truth line. It may happen, but it does not explain last Sunday."
+     ],
+     "hint": "Write the story as two Truth lines with dates. Which sentence gives exactly those?",
+     "why": "Not being able to ride is still true and the ride was last Sunday, so the if half is one step back and the result two.",
+     "truth": "Fern can't ride a bike — still true. She didn't go with her friends — last Sunday."
+    },
+    {
+     "id": "w5l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "m23",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Ploy",
+       "text": "Did you try the durian ice cream at the night market last night?"
+      },
+      {
+       "who": "Praew",
+       "text": "No. I can't stand durian. I never could."
+      }
+     ],
+     "stem": "If I liked durian, I ___ it last night, I promise.",
+     "options": [
+      "would try",
+      "will try",
+      "would have tried",
+      "had tried"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "No past ticket: \"would try\" is about now or the future, but the result is dated last night.",
+      "\"Will\" is for a real future. This result is imagined, and last night is over.",
+      "Yes: an imagined past result, two steps back, with the \"have\" ticket.",
+      "Had plus V3 is the form for an imagined past if half. A result needs would, could or might."
+     ],
+     "hint": "When is the result? Is there a past ticket?",
+     "why": "The result is dated last night and did not happen, so it needs would have plus the past participle; the dislike is still true.",
+     "truth": "Praew doesn't like durian — always. She didn't try the ice cream — last night."
+    },
+    {
+     "id": "w5l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "m23",
+     "cefr": "C1",
+     "stem": "Mint has never been a morning person, and she still isn't. If she ___ a morning person, she wouldn't have missed the 6.30 school bus on Monday.",
+     "options": [
+      "is",
+      "would be",
+      "were",
+      "will be"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "The fact is real, but the sentence imagines it away. An imagined present needs one step back from \"is\".",
+      "\"Would\" belongs in the result half, not after \"if\".",
+      "Yes: one step back for a present fact that the speaker imagines away.",
+      "No \"will\" after \"if\", and this is not a real future anyway."
+     ],
+     "hint": "Is the if half real or imagined? How many steps back from the present?",
+     "why": "Mint still isn't a morning person, so the if half imagines a present fact away: one step back, to were.",
+     "truth": "Mint isn't a morning person — always. She missed the bus — on Monday."
+    },
+    {
+     "id": "w5l2-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "m23",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Story",
+       "text": "Jane loves cats. Last night she stopped outside 7-Eleven to feed a stray."
+      }
+     ],
+     "stem": "If Jane [[didn't love]] cats so much, she [[wouldn't stop]] to feed the stray [[outside 7-Eleven]] [[last night]].",
+     "answer": 1,
+     "fix": "wouldn't have stopped",
+     "fb": [
+      "This part is fine: she still loves cats, so the if half is one step back, past simple.",
+      "This is the slip. The result is dated last night, so it needs the past ticket: \"wouldn't have stopped\".",
+      "This part is fine: it only says where the cat was.",
+      "This part is fine: the story says she stopped last night, so the result really is past."
+     ],
+     "hint": "Date each half from the story. Which verb does not match its date?",
+     "why": "The stopping was last night, so the result needs would not have plus the past participle. Her love of cats is still true.",
+     "truth": "Jane loves cats — always. She stopped to feed the stray — last night."
+    },
+    {
+     "id": "w5l2-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "m23",
+     "cefr": "C1",
+     "stem": "Bam doesn't play any instrument. If she played the guitar, she ___ (join) the school band last term.",
+     "accept": [
+      "would have joined",
+      "'d have joined",
+      "would've joined",
+      "could have joined",
+      "could've joined",
+      "might have joined",
+      "might've joined"
+     ],
+     "model": "would have joined",
+     "hint": "When is the result? Count the steps back and check for the past ticket.",
+     "why": "The result is dated last term and did not happen, so it needs would have plus the past participle.",
+     "truth": "Bam doesn't play an instrument — now. She didn't join the band — last term."
+    },
+    {
+     "id": "w5l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "m23",
+     "cefr": "C1",
+     "given": "Pim is so forgetful that she left her PE kit at home yesterday.",
+     "stem": "If Pim weren't so forgetful, she ___ her PE kit at home yesterday.",
+     "accept": [
+      "wouldn't have left",
+      "would not have left"
+     ],
+     "model": "wouldn't have left",
+     "hint": "The if half is still true today. What date does the result carry?",
+     "why": "Leaving the kit happened yesterday, so the imagined opposite is would not have plus the past participle.",
+     "truth": "Pim is forgetful — always. She left her PE kit at home — yesterday."
+    }
+   ]
+  },
+  {
+   "id": "w5l3",
+   "name": "All six types: name the type from the time of each half",
+   "cefr": "B2",
+   "ctype": "mix",
+   "formula": {
+    "if": "Each half: real or imagined? Past, now or future?",
+    "result": "Six names: 0, 1, 2, 3, mixed 3/2, mixed 2/3"
+   },
+   "uses": [
+    {
+     "use": "Zero: facts and habits",
+     "ex": "If I drink bubble tea after six, I can't sleep."
+    },
+    {
+     "use": "First: plans, promises and warnings",
+     "ex": "If you miss the last BTS, call me."
+    },
+    {
+     "use": "Second: dreams and advice",
+     "ex": "If I were you, I'd tell the teacher today."
+    },
+    {
+     "use": "Third: regret and relief about the past",
+     "ex": "If Fah hadn't texted me, I'd have waited in the wrong room."
+    },
+    {
+     "use": "Mixed 3/2: a past cause you still feel",
+     "ex": "If I had charged my phone, it wouldn't be dead now."
+    },
+    {
+     "use": "Mixed 2/3: a lasting fact behind a past event",
+     "ex": "If I liked horror films, I'd have come with you last night."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "To name the type, date each half: is it real or imagined, and is it past, now or future?",
+     "body": [
+      "There are six types, and one method finds them all. Look at each half alone. Ask two questions. Is it real or imagined? When is it? Real halves use normal tenses and have no Truth line. Imagined halves step back, and each one has a Truth line with a date.",
+      "Two types are real. The zero conditional is always true. It uses the present simple in both halves, as in <em>If you heat ice, it melts</em>. The first conditional is a possible future. It uses the present simple after <b>if</b>. The result uses <b>will</b>, <b>might</b>, <b>can</b> or an instruction (an order like <em>wait</em>). Never put <b>will</b> after <b>if</b>.",
+      "Two types are imagined, and both halves have the same time. The second conditional imagines now or the future. It is one step back: past simple or <b>were</b>, then <b>would</b>, <b>could</b> or <b>might</b> plus the base verb. The third conditional imagines the past. It is two steps back: <b>had</b> plus the past participle (V3), then <b>would have</b> plus V3. <b>Have</b> is the past ticket. A past form here means not real, not past time.",
+      "Two types are mixed. They are imagined, but the halves have different times. Mixed 3/2 has a past if half and a result now. Use <b>had</b> plus V3, then <b>would</b> plus the base verb. Look for <em>now</em>, <em>still</em> or <em>by now</em>. Mixed 2/3 has an if half that is still true and a past result. Use the past simple or <b>were</b>, then <b>would have</b> plus V3. The first number names the if half.",
+      "Here is a quick check. Look for <b>had</b> plus V3 in the if half. Look for <b>have</b> after <b>would</b> in the result. Both are there: third. Only the first: mixed 3/2. Only the second: mixed 2/3. Neither, but a past form and <b>would</b>: second. Then read the time words and write the Truth lines. The time decides the type."
+     ],
+     "examples": [
+      {
+       "s": "If it rains this afternoon, we'll play badminton indoors.",
+       "g": "First conditional: real, future. No Truth line. Present after \"if\", then \"will\"."
+      },
+      {
+       "s": "If it were sunny now, we'd be on the court.",
+       "g": "Second conditional. Truth: it isn't sunny — now. We aren't on the court — now."
+      },
+      {
+       "s": "If it had rained yesterday, the match would have been cancelled.",
+       "g": "Third conditional. Truth: it didn't rain — yesterday. The match wasn't cancelled — yesterday."
+      },
+      {
+       "s": "If it hadn't rained last night, the court would be dry now.",
+       "g": "Mixed 3/2. Truth: it rained — last night. The court is wet — now."
+      },
+      {
+       "s": "If our court had a roof, we wouldn't have missed practice yesterday.",
+       "g": "Mixed 2/3. Truth: the court has no roof — still true. We missed practice — yesterday."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Name any conditional by dating each half: real or imagined, and past, present or future.",
+     "body": [
+      "To name any conditional, date each half. Ask two questions about the <b>if</b> half and then about the result: is it real or imagined, and when is it? Real halves keep their normal tenses and have no Truth line, because nothing is denied. Imagined halves step back on the staircase, and each one has a Truth line with a date. Six combinations have names.",
+      "Two types are real. The zero conditional is always true: present simple in both halves, as in <em>If you heat ice, it melts</em>. The first conditional is a possible future: present simple after <b>if</b>, then <b>will</b>, or <b>might</b>, <b>can</b> or an instruction. Remember that there is no <b>will</b> after <b>if</b>. Real or imagined is the speaker's view, not a percentage.",
+      "Two types are imagined, with both halves at the same time. The second conditional imagines now or the future: past simple or <b>were</b>, then <b>would</b>, <b>could</b> or <b>might</b> plus the base verb. That is one step back, and the past form shows distance from reality, not past time. The third conditional imagines the past: <b>had</b> plus the past participle (V3), then <b>would have</b> plus V3. That is two steps back, and <b>have</b> is the past ticket.",
+      "Two types are mixed: imagined, with the halves at different times. Mixed 3/2 has a past if half and a present result: <b>had</b> plus V3, then <b>would</b> plus the base verb, often with <em>now</em>, <em>still</em> or <em>by now</em>. Mixed 2/3 has an if half that is still true now and a past result: past simple or <b>were</b>, then <b>would have</b> plus V3. In each name, the first number is the if half.",
+      "A quick way to read the verbs: look for <b>had</b> plus V3 in the if half and for <b>have</b> after <b>would</b> in the result. Both there: third. Only the first: mixed 3/2. Only the second: mixed 2/3. Neither, but a past form and <b>would</b>: second. Present forms in both halves: zero or first. Then check the time words and the Truth lines, because the time decides, not the label."
+     ],
+     "examples": [
+      {
+       "s": "If it rains this afternoon, we'll play badminton indoors.",
+       "g": "First conditional: real and future, so no Truth line. Present after \"if\"; \"will\" only in the result."
+      },
+      {
+       "s": "If it were sunny now, we'd be on the court.",
+       "g": "Second conditional, one step back. Truth: it isn't sunny — now. We aren't on the court — now."
+      },
+      {
+       "s": "If it had rained yesterday, the match would have been cancelled.",
+       "g": "Third conditional, two steps back. Truth: it didn't rain — yesterday. The match wasn't cancelled — yesterday."
+      },
+      {
+       "s": "If it hadn't rained last night, the court would be dry now.",
+       "g": "Mixed 3/2. Truth: it rained — last night. The court is wet — now. Two dates."
+      },
+      {
+       "s": "If our court had a roof, we wouldn't have missed practice yesterday.",
+       "g": "Mixed 2/3. Truth: the court has no roof — still true. We missed practice — yesterday. Two dates."
+      }
+     ]
+    },
+    "C1": {
+     "key": "The six type names are labels for six combinations of two decisions per half: real or imagined, and when.",
+     "body": [
+      "Every conditional can be named by dating its two halves. For each half ask whether it is real or imagined, and whether it is past, present or future. Real halves keep whatever tense fits their time and deny nothing, so they have no Truth line. Imagined halves step back on the staircase, and each carries a Truth line with a date. The six names are labels for six combinations.",
+      "Two combinations are real. The zero conditional states what is always true, with the present simple in both halves: <em>If you heat ice, it melts</em>. The first conditional is a possible future: a present form after <b>if</b>, because the if half sets the scene and only the result predicts, and then <b>will</b>, <b>might</b>, <b>can</b> or an imperative. Real and imagined are the speaker's view of the situation, not a percentage of likelihood.",
+      "Two are imagined with both halves at one time. The second conditional imagines the present or future, one step back: past simple or <b>were</b>, then <b>would</b>, <b>could</b> or <b>might</b> plus the base verb. The third imagines the past, two steps back: <b>had</b> plus the past participle (V3), then <b>would have</b> plus V3, with <b>have</b> as the past ticket. The past form shows distance from reality, as reported speech uses it to show distance in time.",
+      "Two are mixed: imagined, with the halves at different times. Mixed 3/2 sets a past condition against a present result: <b>had</b> plus V3, then <b>would</b> plus the base verb, usually with <em>now</em>, <em>still</em>, <em>today</em> or <em>by now</em>. Mixed 2/3 sets a condition that is still true against a past result: past simple or <b>were</b>, then <b>would have</b> plus V3. In both labels the first number is the if half, and each gives two Truth lines with two dates.",
+      "The verbs give a fast first reading. <b>Had</b> plus V3 in the if half and <b>have</b> after <b>would</b> in the result: third. Only the first: mixed 3/2. Only the second: mixed 2/3. Neither, with a past form and <b>would</b>: second. Present forms throughout: zero or first, and <b>will</b> or a single future event separates first from zero. Confirm with the time words, because the time decides and the label only follows."
+     ],
+     "examples": [
+      {
+       "s": "If it rains this afternoon, we'll play badminton indoors.",
+       "g": "First conditional: real and future, nothing denied, so no Truth line. The if half sets the scene; only the result predicts."
+      },
+      {
+       "s": "If it were sunny now, we'd be on the court.",
+       "g": "Second conditional, one step back in both halves. Truth: it isn't sunny — now. We aren't on the court — now."
+      },
+      {
+       "s": "If it had rained yesterday, the match would have been cancelled.",
+       "g": "Third conditional, two steps back in both halves. Truth: it didn't rain — yesterday. The match wasn't cancelled — yesterday."
+      },
+      {
+       "s": "If it hadn't rained last night, the court would be dry now.",
+       "g": "Mixed 3/2: condition two steps back, result one. Truth: it rained — last night. The court is wet — now."
+      },
+      {
+       "s": "If our court had a roof, we wouldn't have missed practice yesterday.",
+       "g": "Mixed 2/3: condition one step back, result two. Truth: the court has no roof — still true. We missed practice — yesterday."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w5l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m32",
+     "cefr": "B2",
+     "stem": "Which type is this? <em>If Ploy had set her alarm last night, she wouldn't be running for the BTS now.</em>",
+     "options": [
+      "Third conditional",
+      "Mixed 3/2",
+      "Mixed 2/3",
+      "Second conditional"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The if half fits, but a third conditional result needs \"would have\" plus V3 and a past date. This result is dated now.",
+      "Yes: the if half is an imagined past, last night, and the result is an imagined present, now.",
+      "In mixed 2/3 the if half is still true now and the result is past. Here it is the other way round.",
+      "A second conditional has a past simple if half. \"Had set\" with \"last night\" is two steps back."
+     ],
+     "hint": "Date each half. Which half is past, and which is now?",
+     "why": "Had plus V3 with \"last night\" is an imagined past; would plus the base verb with \"now\" is an imagined present. Past condition, present result.",
+     "truth": "Ploy didn't set her alarm — last night. She is running for the BTS — now."
+    },
+    {
+     "id": "w5l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B2",
+     "stem": "Which type is this? <em>If Mum says yes, I might go to the concert on Saturday.</em>",
+     "options": [
+      "Zero conditional",
+      "Second conditional",
+      "Mixed 2/3",
+      "First conditional"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Zero is for things that are always true. This is about one Saturday that has not come yet.",
+      "A second conditional steps back: \"said\" and \"might\" for a dream. \"Says\" is a present form, and nothing is denied.",
+      "Mixed 2/3 is imagined and has a past result. Nothing here is imagined or past.",
+      "Yes: real and future. Present after \"if\", and \"might\" for a possible result. No Truth line."
+     ],
+     "hint": "Is anything denied here? Is it always true, or about one future time?",
+     "why": "Mum may say yes, so the sentence is real, and Saturday is one future time: present after if, with might in the result."
+    },
+    {
+     "id": "w5l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m23",
+     "cefr": "C1",
+     "stem": "Which type is this? <em>If Fah weren't so shy, she would have asked the singer for a photo yesterday.</em>",
+     "options": [
+      "Mixed 2/3",
+      "Third conditional",
+      "Second conditional",
+      "Mixed 3/2"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: the if half imagines away something still true, and the result is an imagined past, yesterday.",
+      "The result fits, but a third conditional if half needs had plus V3. \"Weren't\" is one step back from a present fact.",
+      "The if half fits, but a second conditional result has no past ticket. \"Would have asked\" is dated yesterday.",
+      "In mixed 3/2 the if half is past and the result is now. Here it is the other way round."
+     ],
+     "hint": "Date each half. Which one is still true today, and which one is over?",
+     "why": "\"Weren't\" is one step back from a fact that is still true; \"would have asked\" with \"yesterday\" is an imagined past result.",
+     "truth": "Fah is shy — always. She didn't ask the singer for a photo — yesterday."
+    },
+    {
+     "id": "w5l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Nan doesn't have a cat, but she has already chosen a name. If she ___ one, she would call it Tofu.",
+     "options": [
+      "has",
+      "had",
+      "will have",
+      "would have"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "She has no cat, so this is imagined. An imagined present needs one step back from \"has\".",
+      "Yes: one step back for an imagined present. The past form shows it is not real.",
+      "No \"will\" after \"if\", and the cat is imagined, not a real future.",
+      "\"Would\" belongs in the result half. It is already there, in \"would call\"."
+     ],
+     "hint": "Is the cat real or imagined? How many steps back?",
+     "why": "Nan has no cat now, so the if half is an imagined present: one step back, to the past simple.",
+     "truth": "Nan doesn't have a cat — now."
+    },
+    {
+     "id": "w5l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "B2",
+     "stem": "Every rainy season it is the same: if it ___ hard for an hour, our soi floods.",
+     "options": [
+      "will rain",
+      "rained",
+      "would rain",
+      "rains"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "No \"will\" after \"if\". The if half sets the scene with a present form.",
+      "A past form would mean a real past or an imagined world. This is true every rainy season, and \"floods\" is present.",
+      "\"Would\" never goes in a plain if half, and nothing here is imagined.",
+      "Yes: always true, so present simple in both halves."
+     ],
+     "hint": "Real or imagined? One time, or every time?",
+     "why": "It happens every rainy season, so it is real and always true: present simple in both halves."
+    },
+    {
+     "id": "w5l3-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Story",
+       "text": "It is lunchtime. Praew has no PE kit today, because she didn't see the teacher's message last night."
+      }
+     ],
+     "stem": "If Praew [[had seen]] the message [[last night]], she [[would bring]] her PE kit [[this morning]].",
+     "answer": 2,
+     "fix": "would have brought",
+     "fb": [
+      "This part is fine: last night is past and imagined, so had plus V3 is right.",
+      "This part is fine: it dates the if half in the past, as in the story.",
+      "This is the slip. This morning is over, so the result needs the past ticket: \"would have brought\".",
+      "This part is fine: at lunchtime, this morning is already in the past."
+     ],
+     "hint": "It is lunchtime now. Is each half past or present?",
+     "why": "At lunchtime both last night and this morning are past, so the result needs would have plus the past participle.",
+     "truth": "Praew didn't see the message — last night. She didn't bring her PE kit — this morning."
+    },
+    {
+     "id": "w5l3-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B2",
+     "stem": "Mum's message to Fern: <em>If the BTS is too crowded at Siam, ___ the next train. There is another one in three minutes.</em>",
+     "options": [
+      "waited for",
+      "wait for",
+      "would wait for",
+      "had waited for"
+     ],
+     "answer": 1,
+     "near": 2,
+     "fb": [
+      "A past form is a step back into an imagined world. The if half is present and real.",
+      "Yes: a real, possible situation, and the result is an instruction.",
+      "\"Would\" is for an imagined result. \"Is\" shows that this is a real, possible situation.",
+      "Had plus V3 is two steps back, for an imagined past. This is about Fern's journey today."
+     ],
+     "hint": "Is the crowded train real and possible, or imagined? What is Mum doing with her sentence?",
+     "why": "The if half is a real present possibility, so the result keeps a real form; here Mum gives an instruction."
+    },
+    {
+     "id": "w5l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "m32",
+     "cefr": "B2",
+     "stem": "Fern forgot to water her basil all last week. If she had watered it, it ___ (still / be) alive today.",
+     "accept": [
+      "would still be",
+      "'d still be",
+      "might still be",
+      "could still be"
+     ],
+     "model": "would still be",
+     "hint": "Find the time word at the end. Does this result need a past ticket?",
+     "why": "The watering was last week, but the result is about today, so it takes would plus the base verb with no have.",
+     "truth": "Fern didn't water her basil — last week. It isn't alive — today."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w5g",
+  "items": [
+   {
+    "id": "w5g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "m32",
+    "cefr": "B2",
+    "stem": "The coach says: <em>If you had done the warm-up properly this morning, your legs wouldn't hurt now.</em> What do we know?",
+    "options": [
+     "The player did the warm-up properly, and her legs are fine.",
+     "The player didn't do the warm-up properly, but her legs are fine now.",
+     "The player didn't do the warm-up properly, and her legs hurt now.",
+     "The player's legs hurt this morning, but they don't hurt now."
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "Both halves are imagined, so both truths are the opposite of what the coach imagines.",
+     "Half right. \"Wouldn't hurt now\" is imagined too, so the truth is that they do hurt now.",
+     "Yes: two Truth lines, two dates. No proper warm-up, this morning; sore legs, now.",
+     "Check the dates. \"This morning\" belongs to the warm-up, and \"now\" to the sore legs."
+    ],
+    "hint": "Write the two Truth lines and date each one.",
+    "why": "Each imagined half reverses to its Truth line: she didn't warm up properly this morning, and her legs hurt now.",
+    "truth": "The player didn't do the warm-up properly — this morning. Her legs hurt — now."
+   },
+   {
+    "id": "w5g-2",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "m23",
+    "cefr": "C1",
+    "lines": [
+     {
+      "who": "Story",
+      "text": "Bam is scared of dogs. Yesterday there was a big dog on her street, so she took the long way home."
+     }
+    ],
+    "stem": "Which sentence says the same as the story?",
+    "options": [
+     "If Bam hadn't taken the long way home, she wouldn't be scared of dogs now.",
+     "If Bam weren't scared of dogs, she wouldn't have taken the long way home yesterday.",
+     "If Bam were scared of dogs, she would have taken the long way home yesterday.",
+     "If Bam isn't scared of dogs tomorrow, she will take the short way home."
+    ],
+    "answer": 1,
+    "near": 2,
+    "fb": [
+     "This turns the story round: it makes the long walk the cause of the fear.",
+     "Yes: Truth one, she is scared of dogs, always; Truth two, she took the long way, yesterday.",
+     "Write the Truth line for the if half: it would mean that she is not scared. The story says she is.",
+     "A real future with no Truth line. It says nothing about yesterday."
+    ],
+    "hint": "Which fact is still true, and which one is dated yesterday?",
+    "why": "Her fear is still true and the long walk was yesterday, so the if half is one step back and the result two.",
+    "truth": "Bam is scared of dogs — always. She took the long way home — yesterday."
+   },
+   {
+    "id": "w5g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "3",
+    "cefr": "B2",
+    "stem": "Which type is this? <em>If the rain had stopped earlier, we would have finished the match yesterday.</em>",
+    "options": [
+     "Mixed 3/2",
+     "Second conditional",
+     "Mixed 2/3",
+     "Third conditional"
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "The if half fits, but in mixed 3/2 the result is about now, with no \"have\". This result is dated yesterday.",
+     "A second conditional is one step back and about now or the future. Both halves here are two steps back.",
+     "In mixed 2/3 the if half is still true now, with a past simple. \"Had stopped\" is an imagined past.",
+     "Yes: both halves are imagined and both are past, so both take two steps back."
+    ],
+    "hint": "Date each half. Do the two halves have the same date or different dates?",
+    "why": "Had plus V3 and would have plus V3 are both two steps back, and both halves are dated yesterday: imagined past in both.",
+    "truth": "The rain didn't stop earlier — yesterday. We didn't finish the match — yesterday."
+   },
+   {
+    "id": "w5g-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "m32",
+    "cefr": "B2",
+    "stem": "Our dance team didn't book the hall last week, so we are practising in the car park today. If we had booked it, we ___ on a proper stage right now.",
+    "options": [
+     "would have danced",
+     "will be dancing",
+     "are dancing",
+     "would be dancing"
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "The past ticket \"have\" dates the result in the past, but the time words are \"right now\".",
+     "\"Will\" is for a real future. This result is imagined: the team is in the car park.",
+     "A present form states a real fact. The stage is imagined, so the verb needs one step back.",
+     "Yes: an imagined result now, one step back, with no past ticket."
+    ],
+    "hint": "When is the result? Does it need a past ticket?",
+    "why": "The result is dated right now and is not real, so it takes would be dancing: one step back, with no have.",
+    "truth": "The team didn't book the hall — last week. They aren't on a proper stage — now."
+   },
+   {
+    "id": "w5g-5",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "m32",
+    "cefr": "B2",
+    "stem": "Fah's phone is at 2% and she is nowhere near a plug. If she ___ her power bank this morning, she could charge it now.",
+    "options": [
+     "packs",
+     "would have packed",
+     "had packed",
+     "has packed"
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "A present form cannot go with \"this morning\" here, and the packing is imagined, not real.",
+     "\"Would\" belongs in the result half. An imagined past if half takes had plus V3.",
+     "Yes: imagined and dated this morning, so two steps back in the if half.",
+     "\"Has packed\" is the present perfect, a real form. An imagined past needs had, not has."
+    ],
+    "hint": "When is the if half? How many steps back does it take?",
+    "why": "The packing is imagined and dated this morning, so the if half takes had plus the past participle.",
+    "truth": "Fah didn't pack her power bank — this morning. She can't charge her phone — now."
+   },
+   {
+    "id": "w5g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "m23",
+    "cefr": "C1",
+    "stem": "Mook hates crowds, and she always has. If she didn't hate crowds, she ___ to the countdown party with us last New Year's Eve.",
+    "options": [
+     "would come",
+     "would have come",
+     "will come",
+     "would have came"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "No past ticket: \"would come\" is about now or the future, but the party was last New Year's Eve.",
+     "Yes: an imagined past result, two steps back, with \"have\" plus the past participle.",
+     "\"Will\" is for a real future. The party is over, and Mook did not come.",
+     "The ticket is there, but \"have\" needs the past participle: come, not came."
+    ],
+    "hint": "When is the result? Check the ticket and the verb after it.",
+    "why": "The party was last New Year's Eve and Mook did not come, so the result needs would have plus the past participle.",
+    "truth": "Mook hates crowds — always. She didn't come to the party — last New Year's Eve."
+   },
+   {
+    "id": "w5g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "1",
+    "cefr": "B2",
+    "stem": "If I [[will see]] Nan [[at lunch]] today, I [[will give]] her [[your notebook]].",
+    "answer": 0,
+    "fix": "see",
+    "fb": [
+     "This is the slip. No \"will\" after \"if\": the if half takes a present form, \"see\".",
+     "This part is fine: it only says when the two girls may meet.",
+     "This part is fine: \"will\" belongs in the result, where the promise is.",
+     "This part is fine: it is simply the thing she will hand over."
+    ],
+    "hint": "Is this real or imagined? Which half makes the promise?",
+    "why": "Lunch is still to come and nothing is denied, so this is a real future: present after if, and will only in the result."
+   },
+   {
+    "id": "w5g-8",
+    "type": "type",
+    "skill": "form",
+    "ctype": "m23",
+    "cefr": "C1",
+    "given": "Praew doesn't have a library card, so she couldn't borrow the novel last Friday.",
+    "stem": "If Praew had a library card, she ___ the novel last Friday.",
+    "accept": [
+     "could have borrowed",
+     "would have borrowed",
+     "'d have borrowed",
+     "could've borrowed",
+     "would've borrowed",
+     "might have borrowed",
+     "might've borrowed",
+     "would have been able to borrow",
+     "'d have been able to borrow",
+     "would've been able to borrow"
+    ],
+    "model": "could have borrowed",
+    "hint": "The if half is still true today. What date does the result carry?",
+    "why": "The borrowing is imagined and dated last Friday, so the result needs could have or would have plus the past participle.",
+    "truth": "Praew doesn't have a library card — now. She didn't borrow the novel — last Friday."
+   }
+  ]
+ }
+}

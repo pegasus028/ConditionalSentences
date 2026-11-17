@@ -1,0 +1,1167 @@
+{
+ "world": "w4",
+ "lessons": [
+  {
+   "id": "w4l1",
+   "name": "The imagined past: if + had + V3, would have + V3 (two steps back)",
+   "cefr": "B2",
+   "ctype": "3",
+   "gateway": "p.76",
+   "formula": {
+    "if": "If + had + past participle (V3)",
+    "result": "would have + past participle (V3)"
+   },
+   "uses": [
+    {
+     "use": "Looking back at a small mistake",
+     "ex": "If I had brought a jumper, I would have enjoyed the film more."
+    },
+    {
+     "use": "Explaining what went wrong",
+     "ex": "If we had read the recipe properly, the brownies would have risen."
+    },
+    {
+     "use": "Imagining a different ending",
+     "ex": "If our team had scored once more, we would have won the cup."
+    },
+    {
+     "use": "Answering 'Why didn't you…?'",
+     "ex": "If I had known you were waiting, I would have hurried."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "To imagine a different past, step back twice: if with had and V3, then would have and V3.",
+     "body": [
+      "Every half of an <em>if</em> sentence has two dials. One dial asks: when? The other asks: real or imagined (not true)? In this world, the time is the past and the thing is imagined. It did not happen. We look back and picture a different past. This pattern is called the third conditional.",
+      "English shows 'imagined' by stepping back on the verb. For an imagined present, step back once: <em>am</em> becomes <em>were</em>, <em>have</em> becomes <em>had</em>, <em>will</em> becomes <em>would</em>, <em>can</em> becomes <em>could</em>. For an imagined past, step back twice: <em>went</em> becomes <em>had gone</em>, and <em>would</em> becomes <em>would have</em>. The form is past, but the job is distance from what is real. Reported speech uses the same staircase for a different reason: distance in time.",
+      "So build two halves. In the <em>if</em> half, use <em>had</em> and the past participle (V3): <em>if I had gone</em>. In the result half (what happens next), use <em>would have</em> and V3: <em>I would have seen her</em>. The little word <em>have</em> is the past ticket. Without it, <em>would go</em> is about now or later. The order is always <em>would</em>, then <em>have</em>, then V3. So say <em>would have gone</em>, never <s>would have went</s> or <s>would have go</s>.",
+      "Check the meaning with a Truth receipt. Write what really happened and put a date on it. Here both halves get a past date. <em>If I had gone, I would have seen her.</em> Truth: I didn't go, and I didn't see her, yesterday. Past time words are your clue: <em>yesterday</em>, <em>last night</em>, <em>this morning</em>, <em>last week</em>. Other patterns say other things. Present forms with <em>will</em>, or present in both halves, are real: no receipt. One step back gives a receipt dated now.",
+      "Watch for three traps. The first is only one step back after <em>if</em>: <s>if I went yesterday</s>. The second is <s>if I have gone</s>. <em>Have gone</em> is about the time up to now, and it is not imagined. You need <em>had</em>. The third is a result with no ticket: <s>I would see her yesterday</s>. Each time, ask the same thing. Is this half about a finished past? Then take two steps."
+     ],
+     "examples": [
+      {
+       "s": "If we had booked on Monday, we would have got front-row seats.",
+       "g": "Truth: we didn't book on Monday, and we didn't get those seats. Both dated in the past."
+      },
+      {
+       "s": "If Fah had read the label, she would have ordered the right size.",
+       "g": "Truth: Fah didn't read the label, and she ordered the wrong size, last week."
+      },
+      {
+       "s": "If it rains, we will cancel. If it rained, we would cancel. If it had rained, we would have cancelled.",
+       "g": "Real, then one step back, then two steps back. Truth of the last one: it didn't rain, and we didn't cancel, on that day."
+      },
+      {
+       "s": "<s>If I have known, I would tell you.</s>",
+       "g": "Fix: If I had known, I would have told you. Truth: I didn't know, and I didn't tell you, yesterday."
+      }
+     ]
+    },
+    "B2": {
+     "key": "The third conditional imagines a different past: both verbs take two steps back, to had plus V3 and would have plus V3.",
+     "body": [
+      "The third conditional sets both dials in a new place. When? The past. Real or imagined? Imagined. The speaker looks back at something that is over and pictures it going differently. Nothing can be changed now, which is why this pattern so often carries a feeling.",
+      "Remember how English marks 'imagined': one step back on each verb. <em>Am</em> becomes <em>were</em>, <em>have</em> becomes <em>had</em>, <em>will</em> becomes <em>would</em>, <em>can</em> becomes <em>could</em>. That gave you the second conditional. When the imagined thing is also in the past, each verb takes a second step: <em>went</em> becomes <em>had gone</em>, and <em>would go</em> becomes <em>would have gone</em>. These are past forms, but their job is distance from reality. Reported speech climbs the same staircase for a different reason: distance in time.",
+      "So the <em>if</em> half takes <em>had</em> plus the past participle (V3), and the result half takes <em>would have</em> plus V3. Think of <em>have</em> as the past ticket. <em>I would go</em> has no ticket, so it is about now or the future; <em>I would have gone</em> is about then. The order never changes: <em>would</em>, then <em>have</em>, then V3. So it is <em>would have gone</em>, not <s>would have went</s> and not <s>would have go</s>.",
+      "To check the meaning, write the Truth receipt, the hidden 'but actually' line, and date it. <em>If I had gone, I would have seen her.</em> Truth: I didn't go, and I didn't see her. Both halves are denied, and both are dated in the past, so past time phrases such as <em>yesterday</em>, <em>last night</em> or <em>this morning</em> are your signal. A sentence with present forms, with or without <em>will</em>, is real and has no receipt. One step back gives a receipt dated now.",
+      "Three slips are common. The first is stopping after one step in the <em>if</em> half: <s>if I went yesterday</s> for <em>if I had gone yesterday</em>. The second is the present perfect: <s>if I have gone</s>. <em>Have gone</em> means up to now and is not imagined, so it cannot do this job. The third is forgetting the ticket in the result: <s>I would see her yesterday</s> for <em>I would have seen her</em>."
+     ],
+     "examples": [
+      {
+       "s": "If we had booked on Monday, we would have got front-row seats.",
+       "g": "Truth: we didn't book on Monday, so we didn't get front-row seats. Both halves are dated in the past."
+      },
+      {
+       "s": "If Fah had read the label, she would have ordered the right size.",
+       "g": "Truth: Fah didn't read the label, so she ordered the wrong size. Notice had read and would have ordered."
+      },
+      {
+       "s": "If it rains, we will cancel. If it rained, we would cancel. If it had rained, we would have cancelled.",
+       "g": "The staircase on one event: real future, imagined now or future, imagined past. Truth of the last one: it didn't rain and we didn't cancel, back then."
+      },
+      {
+       "s": "<s>If I have known, I would tell you.</s>",
+       "g": "Fix: If I had known, I would have told you. Have known is not imagined, and would tell has no past ticket. Truth: I didn't know, so I didn't tell you."
+      }
+     ]
+    },
+    "C1": {
+     "key": "The third conditional is the imagined row of the grid at past time, so distance from reality is marked twice: had plus V3 in the condition, would have plus V3 in the result.",
+     "body": [
+      "Set the two dials for each clause: the time is past, and the speaker's stance is imagined. The third conditional is simply that cell of the grid. The speaker treats a finished situation as if it had gone otherwise, usually because it did not, and that implied opposite fact is what gives the pattern its emotional weight.",
+      "The forms follow from one principle: a past form that is not about past time signals distance from reality. Real to imagined is one step back: <em>am</em> to <em>were</em>, <em>have</em> to <em>had</em>, <em>will</em> to <em>would</em>, <em>can</em> to <em>could</em>. Here the time really is past, and a verb cannot take a second past ending, so the second step borrows the perfect: <em>went</em> becomes <em>had gone</em>, and <em>would go</em> becomes <em>would have gone</em>. Reported speech uses the same staircase to show distance in time rather than in reality.",
+      "Hence <em>had</em> plus the past participle (V3) in the condition, and <em>would have</em> plus V3 in the result. The <em>have</em> is the past ticket: it alone separates <em>would go</em>, an imagined now or future, from <em>would have gone</em>, an imagined then. Because it forms a perfect, the order is fixed, modal then <em>have</em> then V3, which rules out <s>would have went</s> and <s>would have go</s> alike.",
+      "Test the meaning with a Truth receipt: state what actually happened and date it. In a third conditional both clauses are denied and both receipts carry a past date, so past time phrases sit naturally in these sentences. A real conditional, with present forms and often <em>will</em>, denies nothing and has no receipt; one step back gives a receipt dated now. Strictly, 'it did not happen' is a strong tendency rather than a law, but it holds in nearly every sentence you will meet.",
+      "The typical slips are all failures to take the second step. A past simple condition, <s>if I went yesterday</s>, has stepped back only once. The present perfect, <s>if I have gone</s>, is a present form, about the time up to now, and carries no distance at all. A result without the ticket, <s>I would see her yesterday</s>, is still an imagined present. A real past conditional such as <em>If it rained, we stayed in</em> is a different thing: nothing is imagined, so nothing shifts."
+     ],
+     "examples": [
+      {
+       "s": "If we had booked on Monday, we would have got front-row seats.",
+       "g": "Truth: no booking on Monday and no front-row seats; both receipts carry a past date."
+      },
+      {
+       "s": "If Fah had read the label, she would have ordered the right size.",
+       "g": "Truth: she did not read the label and ordered the wrong size; had read and would have ordered both show the second step."
+      },
+      {
+       "s": "If it rains, we will cancel. If it rained, we would cancel. If it had rained, we would have cancelled.",
+       "g": "The staircase on a single event. Only the third denies a past fact. Truth: it did not rain and the event was not cancelled, back then."
+      },
+      {
+       "s": "<s>If I have known, I would tell you.</s>",
+       "g": "Fix: If I had known, I would have told you. The present perfect carries no distance, and the result lacks the ticket. Truth: I did not know, so I did not tell you."
+      }
+     ]
+    }
+   },
+   "thai": "ถ้า(ตอนนั้น)… ก็คงจะ…ไปแล้ว — แต่ความจริงคือ…ไม่ได้…",
+   "items": [
+    {
+     "id": "w4l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "I sent you the homework photo last night. Did you get it?"
+      },
+      {
+       "who": "Mint",
+       "text": "Sorry! If I had charged my phone at school, I would have seen your message."
+      }
+     ],
+     "stem": "What really happened?",
+     "options": [
+      "She charged it but missed the message.",
+      "She didn't charge it and missed the message.",
+      "She didn't charge it but still saw the message.",
+      "She charged it and saw the message."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Half right. The if half is imagined too: 'had charged' means she did not charge it.",
+      "Yes: both halves are imagined, so the Truth is the opposite of each, dated in the past.",
+      "The result half is imagined as well: 'would have seen' means she did not see it.",
+      "That is the imagined world, not the real one. Flip both halves to find the Truth."
+     ],
+     "hint": "Write the Truth receipt for each half. Did it happen?",
+     "why": "Had charged and would have seen are both two steps back, so neither thing happened: no charge at school, no message last night.",
+     "truth": "Mint didn't charge her phone at school, so she didn't see the message last night."
+    },
+    {
+     "id": "w4l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Which sentence tells you that Praew did <b>not</b> bring an umbrella yesterday?",
+     "options": [
+      "If Praew brings an umbrella, she will stay dry.",
+      "If Praew brought an umbrella, she would stay dry.",
+      "If Praew had brought an umbrella, she would have stayed dry.",
+      "If Praew brings an umbrella, she always stays dry."
+     ],
+     "answer": 2,
+     "near": 1,
+     "fb": [
+      "This is a real, possible future. Nothing is denied, so there is no Truth receipt.",
+      "One step back only: an imagined now or future. It says nothing about yesterday.",
+      "Yes: two steps back. Truth: she didn't bring one, and she didn't stay dry, yesterday.",
+      "A real habit, with the present in both halves. It does not tell you about yesterday."
+     ],
+     "hint": "Count the steps back on each verb. Which sentence has a receipt dated in the past?",
+     "why": "Only had brought with would have stayed is two steps back, so only that sentence denies something in the past.",
+     "truth": "Praew didn't bring an umbrella yesterday, so she didn't stay dry."
+    },
+    {
+     "id": "w4l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "We sat in a jam for two hours and got home late. Which time phrase fits? If we had left at six, we would have beaten the traffic ___.",
+     "options": [
+      "tomorrow evening",
+      "yesterday evening",
+      "every evening",
+      "later this evening"
+     ],
+     "answer": 1,
+     "near": 3,
+     "fb": [
+      "Tomorrow is the future, but 'would have beaten' carries the past ticket.",
+      "Yes: had left and would have beaten are both dated in a finished past.",
+      "Every evening is a habit. A habit is real and uses present forms.",
+      "Later this evening has not happened yet, but the jam is already over. Two steps back points to a finished past."
+     ],
+     "hint": "Look at the verbs in both halves. Which date goes on the receipt?",
+     "why": "Had left and would have beaten are two steps back, so the sentence imagines a finished past; only a past time phrase fits.",
+     "truth": "We didn't leave at six yesterday evening, and we didn't beat the traffic."
+    },
+    {
+     "id": "w4l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Mook",
+       "text": "Did you get one of the limited-edition bubble tea cups on Saturday?"
+      },
+      {
+       "who": "Fah",
+       "text": "No. The shop sold out before noon."
+      }
+     ],
+     "stem": "If we had gone in the morning, we ___ one each.",
+     "options": [
+      "would get",
+      "would have get",
+      "would have got",
+      "will get"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "No past ticket: 'would get' is about now or later, but Saturday is over.",
+      "The ticket is there, but after 'have' you need the past participle: got.",
+      "Yes: would, then have, then V3 for an imagined past result.",
+      "Will is for a real future. Saturday is finished, and they did not go in the morning."
+     ],
+     "hint": "When is the result? Is there a past ticket, and what form follows it?",
+     "why": "Saturday is past and they didn't go in the morning, so the result needs would have plus the past participle got.",
+     "truth": "They didn't go in the morning on Saturday, so they didn't get a cup."
+    },
+    {
+     "id": "w4l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "I got soaked on the way home yesterday."
+      }
+     ],
+     "stem": "If I ___ the weather app before I left school, I would have taken my raincoat.",
+     "options": [
+      "checked",
+      "have checked",
+      "check",
+      "had checked"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "One step back only. 'Checked' after if imagines now, but this was yesterday.",
+      "'Have checked' is about the time up to now and is not imagined. The imagined past needs had.",
+      "The present is for a real, possible condition. Yesterday is over, and she did not check.",
+      "Yes: had with V3 in the if half for an imagined past."
+     ],
+     "hint": "When is the if half about? How many steps back do you need?",
+     "why": "It was yesterday and Pim did not check, so the if half needs two steps back: had plus the past participle.",
+     "truth": "Pim didn't check the weather app yesterday, so she didn't take her raincoat."
+    },
+    {
+     "id": "w4l1-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "[[If Nan had revised]] for the vocabulary quiz [[last Thursday]], she [[would get]] full marks [[instead of]] seven out of ten.",
+     "answer": 2,
+     "fix": "would have got",
+     "fb": [
+      "This part is fine: had with V3 in the if half for an imagined past.",
+      "This part is fine: a past time phrase matches two steps back.",
+      "Yes, here: the result is in the past too, so it needs the past ticket: would have got.",
+      "This part is fine: 'instead of' before a noun phrase is normal English."
+     ],
+     "hint": "Both halves are about last Thursday. Does each verb show that?",
+     "why": "The quiz was last Thursday, so the result is past too: would get needs the past ticket, would have got.",
+     "truth": "Nan didn't revise last Thursday, and she got seven out of ten."
+    },
+    {
+     "id": "w4l1-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Praew didn't hear her alarm this morning, so she missed the school van. If she ___ (hear) it, she would have been ready on time.",
+     "accept": [
+      "had heard",
+      "'d heard"
+     ],
+     "model": "had heard",
+     "hint": "The if half is about this morning, and it didn't happen. How many steps back?",
+     "why": "She did not hear it this morning, so the if half is an imagined past: had plus the past participle heard.",
+     "truth": "Praew didn't hear her alarm this morning, so she wasn't ready on time."
+    },
+    {
+     "id": "w4l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Mint forgot her PE kit yesterday, so she sat and watched. Use <b>would</b> and <b>play</b>: If she had packed it the night before, she ___ in the match.",
+     "accept": [
+      "would have played",
+      "would've played",
+      "'d have played"
+     ],
+     "model": "would have played",
+     "hint": "The match was yesterday. Does your verb carry the past ticket?",
+     "why": "The match was yesterday and Mint did not play, so the result needs would have plus the past participle played.",
+     "truth": "Mint didn't pack her PE kit, so she didn't play in the match yesterday."
+    }
+   ]
+  },
+  {
+   "id": "w4l2",
+   "name": "could have / might have, negatives, 'd = had or would, and no would in the if half",
+   "cefr": "B2",
+   "ctype": "3",
+   "gateway": "p.76",
+   "formula": {
+    "if": "If + had / hadn't + V3",
+    "result": "would / could / might (not) have + V3"
+   },
+   "uses": [
+    {
+     "use": "Saying what was possible",
+     "ex": "If we'd had ten more minutes, we could have finished the poster."
+    },
+    {
+     "use": "Saying maybe, not surely",
+     "ex": "If you had asked nicely, she might have said yes."
+    },
+    {
+     "use": "Being glad something happened",
+     "ex": "If Dad hadn't driven us, we would never have made it to the match."
+    },
+    {
+     "use": "Speaking quickly with 'd",
+     "ex": "If she'd seen us, she'd have waved."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "The result can use would have, could have or might have, either half can be negative, and would never goes in the if half.",
+     "body": [
+      "The result half can use three modals (helper verbs like <em>would</em>). <em>Would have</em> means the speaker feels sure about the imagined result. <em>Could have</em> means it was possible, or someone was able to do it. <em>Might have</em> means maybe. All three need the past ticket <em>have</em>, and then the past participle (V3): <em>could have gone</em>, <em>might have gone</em>.",
+      "Both halves can be negative. In the <em>if</em> half, use <em>hadn't</em> and V3: <em>if I hadn't gone</em>. In the result half, use <em>wouldn't have</em>, <em>couldn't have</em> or <em>might not have</em>, and then V3. <em>Couldn't have</em> means it was not possible.",
+      "Be careful with the Truth receipt. Each half is imagined, so the Truth is the opposite. A negative half means it really happened. A positive half means it didn't. <em>If Mum hadn't called me, I wouldn't have woken up in time.</em> Truth: Mum called me, and I woke up in time. Sentences like this often tell a story of good luck.",
+      "In this pattern, <em>would</em> lives only in the result half. The <em>if</em> half takes <em>had</em>. So <s>if I would have gone</s> is wrong. Write <em>if I had gone</em>. You may hear some American speakers say it, but exams mark it wrong.",
+      "In fast speech, <em>had</em> and <em>would</em> both shrink to <em>'d</em>. Look at the next word. If a V3 comes next, <em>'d</em> is <em>had</em>: <em>I'd gone</em>. If a base verb (the plain form) comes next, <em>'d</em> is <em>would</em>: <em>I'd go</em>. If <em>have</em> and a V3 come next, it is <em>would have</em>: <em>I'd have gone</em>. So <em>'d have</em> cannot follow <em>if</em> either."
+     ],
+     "examples": [
+      {
+       "s": "If I had brought my card, I could have bought the album.",
+       "g": "Could have: it was possible. Truth: I didn't bring my card, so I wasn't able to buy it, that day."
+      },
+      {
+       "s": "If we had asked the teacher, she might have given us more time.",
+       "g": "Might have: maybe. Truth: we didn't ask, and we didn't get more time."
+      },
+      {
+       "s": "If Mum hadn't called me, I wouldn't have woken up in time.",
+       "g": "Two negatives. Truth: Mum called me, and I woke up in time, this morning."
+      },
+      {
+       "s": "If I'd seen your message, I'd have replied.",
+       "g": "The first 'd is had, before the V3 seen. The second is would, before have. Truth: I didn't see it, and I didn't reply."
+      },
+      {
+       "s": "<s>If I would have seen it, I would have replied.</s>",
+       "g": "Fix: If I had seen it, I would have replied. Would stays in the result half. Truth: I didn't see it."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Choose would, could or might have for the result you mean, make either half negative with hadn't or wouldn't have, and keep would out of the if half.",
+     "body": [
+      "The imagined past result is not always <em>would have</em>. The modal carries the meaning. <em>Would have</em> is the result the speaker is sure of. <em>Could have</em> says the result was possible, or that someone was able to do it. <em>Might have</em> says perhaps. Whichever you choose, the past ticket stays: the modal, then <em>have</em>, then the past participle (V3). So <em>she could have gone</em>, not <s>she could went</s>.",
+      "Either half can be negative. The condition becomes <em>hadn't</em> plus V3. The result becomes <em>wouldn't have</em>, <em>couldn't have</em> or <em>might not have</em> plus V3. <em>Couldn't have</em> means the result was impossible without the condition.",
+      "Negatives make the Truth receipt worth writing out, because each imagined half flips. A negative clause tells you the thing really happened; a positive clause tells you it didn't. Take <em>If Mum hadn't called me, I wouldn't have woken up in time</em>. Mum did call, and I did wake up in time. Notice that this kind of sentence usually reports good luck rather than a mistake.",
+      "One rule is firm in exam English for the imagined past: <em>would</em> belongs to the result half, and the <em>if</em> half takes <em>had</em>. <s>If I would have gone</s> must be <em>if I had gone</em>. You will hear <em>would have</em> after <em>if</em> from some American speakers, so recognise it, but examiners mark it wrong.",
+      "Finally, the contraction <em>'d</em> hides two different words, and the next word tells you which. Before a past participle it is <em>had</em>: <em>if I'd gone</em>. Before a base verb it is <em>would</em>: <em>I'd go</em>. Before <em>have</em> and a past participle it is <em>would have</em>: <em>I'd have gone</em>. That is why <em>if I'd have gone</em> is the same mistake as the one above, only harder to spot."
+     ],
+     "examples": [
+      {
+       "s": "If I had brought my card, I could have bought the album.",
+       "g": "Could have shows ability or possibility. Truth: I didn't bring my card, so I wasn't able to buy the album that day."
+      },
+      {
+       "s": "If we had asked the teacher, she might have given us more time.",
+       "g": "Might have shows a possible result, not a sure one. Truth: we didn't ask, so we got no extra time."
+      },
+      {
+       "s": "If Mum hadn't called me, I wouldn't have woken up in time.",
+       "g": "Both halves are negative, so both flip. Truth: Mum called me, and I woke up in time."
+      },
+      {
+       "s": "If I'd seen your message, I'd have replied.",
+       "g": "First 'd: had, because seen is a past participle. Second 'd: would, because have follows. Truth: I didn't see it, so I didn't reply."
+      },
+      {
+       "s": "<s>If I would have seen it, I would have replied.</s>",
+       "g": "Fix: If I had seen it, I would have replied. Heard in some American speech, wrong in exams. Truth: I didn't see it."
+      }
+     ]
+    },
+    "C1": {
+     "key": "The result modal is a meaning choice between certainty, ability and possibility; negation flips the Truth of its clause; and would, even hidden inside a contraction, stays out of the condition.",
+     "body": [
+      "<em>Would have</em> is only the default result. The modal is chosen for its meaning. <em>Would have</em> presents the imagined outcome as certain in the speaker's mind; <em>could have</em> presents it as possible, or as something a person was able to do; <em>might have</em> presents it as no more than a chance. In every case the past ticket remains, modal then <em>have</em> then the past participle (V3), so <s>she could went</s> fails for the same reason as a result without <em>have</em>.",
+      "Negation is free in both clauses: <em>hadn't</em> plus V3 in the condition, and <em>wouldn't have</em>, <em>couldn't have</em> or <em>might not have</em> plus V3 in the result. <em>Couldn't have</em> makes the strong claim that the outcome was impossible without the condition.",
+      "Because each clause is imagined, each one implies its opposite, and negation therefore reverses the Truth receipt: a negative clause reports something that did happen, a positive clause something that did not. In <em>If Mum hadn't called me, I wouldn't have woken up in time</em>, she called and I woke. A negative condition of this kind is the usual shape for good fortune, since the fortunate event is real and only its absence is imagined.",
+      "<em>Would</em> is the result's modal, and <em>had</em> already carries all the distance the condition needs, so standard English does not repeat <em>would</em> after <em>if</em>: <s>if I would have gone</s> should be <em>if I had gone</em>. The doubled form is genuinely common in some American speech, which is worth recognising, but most reference grammars reject or ignore it and examiners penalise it.",
+      "The contraction <em>'d</em> stands for either word, and only what follows decides. Before a past participle it is <em>had</em>, as in <em>if I'd gone</em>; before a base verb it is <em>would</em>, as in <em>I'd go</em>; before <em>have</em> and a past participle it is <em>would have</em>, as in <em>I'd have gone</em>. It follows that <em>if I'd have gone</em> is the doubled form in disguise, and is wrong for the same reason."
+     ],
+     "examples": [
+      {
+       "s": "If I had brought my card, I could have bought the album.",
+       "g": "Could have: the purchase was possible in the imagined past. Truth: no card, so no album, that day."
+      },
+      {
+       "s": "If we had asked the teacher, she might have given us more time.",
+       "g": "Might have: the speaker commits only to a chance. Truth: nobody asked, and no extra time was given."
+      },
+      {
+       "s": "If Mum hadn't called me, I wouldn't have woken up in time.",
+       "g": "Both clauses negative, so both receipts are positive. Truth: she called, and I woke in time."
+      },
+      {
+       "s": "If I'd seen your message, I'd have replied.",
+       "g": "The first 'd precedes a past participle, so it is had; the second precedes have, so it is would. Truth: the message went unseen and unanswered."
+      },
+      {
+       "s": "<s>If I would have seen it, I would have replied.</s>",
+       "g": "Fix: If I had seen it, I would have replied. The doubled would is a spoken American variant, not exam English. Truth: I did not see it."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w4l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Bam",
+       "text": "We needed one more player for doubles after school yesterday."
+      },
+      {
+       "who": "Fern",
+       "text": "If I had brought my racket, I could have played with you."
+      }
+     ],
+     "stem": "What does Fern mean?",
+     "options": [
+      "She didn't have her racket, so she wasn't able to play.",
+      "She had her racket, so she was able to play.",
+      "She had her racket, but she wasn't allowed to play.",
+      "She doesn't have a racket, so she isn't able to play now."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: could have played means it was possible in the imagined past. Truth: no racket, no game.",
+      "That is the imagined world. Had brought and could have played are both two steps back, so flip them.",
+      "Could have here is about being able, not about permission, and the if half tells you she didn't have her racket.",
+      "Check the date. Could have with V3 carries the past ticket: this was yesterday."
+     ],
+     "hint": "Flip both halves for the Truth. What does could add: sure, able or maybe?",
+     "why": "Had brought and could have played are two steps back: Fern didn't bring her racket yesterday, so she wasn't able to play.",
+     "truth": "Fern didn't bring her racket yesterday, so she wasn't able to play."
+    },
+    {
+     "id": "w4l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "The girls missed the first bus to the concert last night. In which sentence is the speaker <b>not sure</b> about the imagined result?",
+     "options": [
+      "If we had caught the first bus, we would have got seats.",
+      "If we had caught the first bus, we might have got seats.",
+      "If we had caught the first bus, we would certainly have got seats.",
+      "If we had caught the first bus, we wouldn't have stood all night."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Would have is the result the speaker feels sure about.",
+      "Yes: might have means maybe. Seats were possible, not certain.",
+      "Would certainly have is even more sure, not less.",
+      "Wouldn't have is still sure: the speaker has no doubt about the result."
+     ],
+     "hint": "Which modal means maybe, and which means a sure result?",
+     "why": "Might have with V3 shows a possible result in the imagined past; would have and wouldn't have show a result the speaker is sure about.",
+     "truth": "They didn't catch the first bus last night; seats were only a maybe."
+    },
+    {
+     "id": "w4l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "It was Mum's birthday on Sunday. If Jane hadn't reminded me, I would have forgotten it."
+      }
+     ],
+     "stem": "What really happened?",
+     "options": [
+      "Jane reminded Pim, and Pim remembered the birthday.",
+      "Jane reminded Pim, but Pim forgot the birthday.",
+      "Jane didn't remind Pim, and Pim forgot the birthday.",
+      "Jane didn't remind Pim, but Pim remembered the birthday."
+     ],
+     "answer": 0,
+     "near": 2,
+     "fb": [
+      "Yes: a negative if half means it did happen, and a positive result means it didn't. Jane reminded her; Pim didn't forget.",
+      "The result half is imagined too: 'would have forgotten' means she did not forget.",
+      "That is the imagined world. Flip both halves: 'hadn't reminded' means Jane did remind her.",
+      "'Hadn't reminded' is imagined, so in real life Jane did remind her."
+     ],
+     "hint": "Flip each half: what does a negative become, and what does a positive become?",
+     "why": "Hadn't reminded is imagined, so Jane did remind her; would have forgotten is imagined, so Pim did not forget.",
+     "truth": "Jane reminded Pim on Sunday, so Pim didn't forget the birthday."
+    },
+    {
+     "id": "w4l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Ploy",
+       "text": "The canteen was packed at lunch yesterday. I stood for twenty minutes."
+      }
+     ],
+     "stem": "Fern replies: \"Sorry! If you ___ me you were coming, I wouldn't have given your seat away.\"",
+     "options": [
+      "would have told",
+      "had told",
+      "have told",
+      "told"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Would have belongs in the result half. Some American speakers say this, but exams mark it wrong.",
+      "Yes: had with V3 in the if half; the would have ticket stays in the result.",
+      "'Have told' is about the time up to now and is not imagined. The imagined past needs had.",
+      "One step back only. That imagines now, but lunch was yesterday."
+     ],
+     "hint": "Which half are you filling? Where does would live?",
+     "why": "Lunch was yesterday and Ploy did not tell her, so the if half needs had plus V3; would have is only for the result.",
+     "truth": "Ploy didn't tell Fern she was coming, so Fern gave the seat away yesterday."
+    },
+    {
+     "id": "w4l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Nan didn't know about yesterday's quiz. She says: \"If I'd known about it, I'd have revised.\" What do the two 'd stand for, in order?",
+     "options": [
+      "would, then had",
+      "had, then would",
+      "had, then had",
+      "would, then would"
+     ],
+     "answer": 1,
+     "near": 3,
+     "fb": [
+      "Check what follows each 'd. Before the V3 'known' it is had; before 'have' it is would.",
+      "Yes: 'd before V3 is had; 'd before have and V3 is would.",
+      "The second 'd is followed by have. 'Had have' is not English here: it is would have.",
+      "Would cannot sit in the if half. Before a past participle, 'd is had."
+     ],
+     "hint": "Look at the word straight after each 'd.",
+     "why": "'d before the past participle known is had; 'd before have revised is would. So: If I had known, I would have revised.",
+     "truth": "Nan didn't know about the quiz, so she didn't revise."
+    },
+    {
+     "id": "w4l2-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "If Fern [[had asked]] me yesterday, I [[could lent]] her my charger [[for the whole]] afternoon [[without any problem]].",
+     "answer": 1,
+     "fix": "could have lent",
+     "fb": [
+      "This part is fine: had with V3 in the if half.",
+      "Yes, here: could needs the past ticket too: could have lent.",
+      "This part is fine: 'for the whole afternoon' is normal English.",
+      "This part is fine: 'without any problem' is normal English."
+     ],
+     "hint": "Every modal in an imagined past result needs the same small word. Is it there?",
+     "why": "The result is about yesterday, so could needs the past ticket: could have plus the past participle lent.",
+     "truth": "Fern didn't ask yesterday, so the speaker didn't lend her the charger."
+    },
+    {
+     "id": "w4l2-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Luckily, Nan woke me up on the BTS yesterday. If she ___ (not / wake) me up, I would have missed my stop.",
+     "accept": [
+      "hadn't woken",
+      "had not woken"
+     ],
+     "model": "hadn't woken",
+     "hint": "She did wake you. To imagine the opposite past, which helper verb takes not?",
+     "why": "Nan did wake her yesterday, so the imagined opposite is negative and two steps back: hadn't plus the past participle woken.",
+     "truth": "Nan woke her up yesterday, so she didn't miss her stop."
+    },
+    {
+     "id": "w4l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Luckily, it stayed dry on sports day last Friday. Use <b>would</b>, <b>not</b> and <b>finish</b>: If it had rained, we ___ the relay.",
+     "accept": [
+      "wouldn't have finished",
+      "would not have finished"
+     ],
+     "model": "wouldn't have finished",
+     "hint": "They did finish. Is the imagined result positive or negative, and where does the past ticket go?",
+     "why": "In real life they finished, so the imagined past result is negative: wouldn't have plus the past participle finished.",
+     "truth": "It didn't rain last Friday, so they finished the relay."
+    }
+   ]
+  },
+  {
+   "id": "w4l3",
+   "name": "Regret, relief and criticism; second or third?",
+   "cefr": "B2",
+   "ctype": "3",
+   "gateway": "p.76",
+   "formula": {
+    "if": "Then: If + had + V3 · Now: If + past simple",
+    "result": "Then: would have + V3 · Now: would + verb"
+   },
+   "uses": [
+    {
+     "use": "Regret (my own small mistake)",
+     "ex": "If I'd read the question properly, I wouldn't have lost those marks."
+    },
+    {
+     "use": "Relief (luckily, it didn't happen)",
+     "ex": "Luckily I had my mask. If I hadn't worn it, I would have coughed all day."
+    },
+    {
+     "use": "Criticism or blame",
+     "ex": "If you'd told me the time, I wouldn't have kept you waiting."
+    },
+    {
+     "use": "Reasoning about the past",
+     "ex": "If the shop had been open, the lights would have been on."
+    },
+    {
+     "use": "An excuse",
+     "ex": "If the bus had come on time, I wouldn't have been late, Miss."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "The third conditional shows regret, relief, blame or reasoning about the past; for an imagined now, step back only once.",
+     "body": [
+      "People use the imagined past for four main jobs. The Truth receipt tells you which job it is. Ask two questions. Was the real result good or bad? Whose action was it?",
+      "Regret means you feel sorry about your own action. The real result was bad, and it was your mistake. <em>If I had set my alarm, I wouldn't have missed the bus.</em> Relief is the opposite feeling. Something bad nearly happened, but it didn't, so you feel glad. These sentences often go with <em>luckily</em>.",
+      "Criticism, or blame, points at another person. The <em>if</em> half is about <em>you</em> or <em>she</em>, and the real result was bad. Keep it gentle. Reasoning has no strong feeling. You work out what happened. <em>If Nan had taken the 7.15 train, she would have arrived before us.</em> She isn't here yet, so she probably took a later one.",
+      "Now compare the second and third conditionals. Both are imagined. The difference is the date on the Truth receipt. If the Truth is about now, step back once: a past form, then <em>would</em> and the verb. If the Truth is about a finished past, step back twice: <em>had</em> and the past participle (V3), then <em>would have</em> and V3.",
+      "So look for time clues before you build the verb. <em>Now</em>, <em>right now</em>, <em>today</em> and <em>at the moment</em> point to one step. <em>Yesterday</em>, <em>last night</em> and <em>last Saturday</em> point to two steps. Do not step back too far. <s>If I had had time now</s> is wrong, because the Truth is dated now. And if something is still possible, it is real: use the present and <em>will</em>."
+     ],
+     "examples": [
+      {
+       "s": "If I had set my alarm, I wouldn't have missed the bus.",
+       "g": "Regret. Truth: I didn't set my alarm, and I missed the bus, this morning."
+      },
+      {
+       "s": "Luckily, Pim had a spare charger. If she hadn't lent it to me, my phone would have died.",
+       "g": "Relief. Truth: Pim lent me her charger, and my phone didn't die, yesterday."
+      },
+      {
+       "s": "If you had read the group chat, you would have known about the room change.",
+       "g": "Criticism. Truth: you didn't read the chat, and you didn't know, this morning."
+      },
+      {
+       "s": "If Nan had taken the 7.15 train, she would have arrived before us.",
+       "g": "Reasoning. Truth: Nan didn't arrive before us, so she didn't take that train, this morning."
+      },
+      {
+       "s": "If I knew the way, I would show you. If I had known the way yesterday, we wouldn't have got lost.",
+       "g": "Second, then third. Truth: I don't know the way now. I didn't know it yesterday, and we got lost."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Use the third conditional for regret, relief, criticism and reasoning about the past, and let the date on the Truth decide between second and third.",
+     "body": [
+      "The third conditional is often taught as the grammar of regret, but regret is only one of its jobs. It is any imagined past. To see which job a sentence is doing, write its Truth receipt and ask two things: was the real result good or bad, and whose action was it?",
+      "If the real result was bad and the action was the speaker's own, the sentence is a regret: <em>If I had set my alarm, I wouldn't have missed the bus.</em> If something bad nearly happened but didn't, the sentence shows relief, and it often comes with <em>luckily</em> or <em>thank goodness</em>. The bad result stays safely in the imagined world.",
+      "If the action belongs to someone else and the real result was bad, the sentence is criticism or blame: <em>If you had read the group chat, you would have known.</em> Use it gently. Sometimes there is no feeling at all, only reasoning, when the speaker works out what happened. <em>If Nan had taken the 7.15 train, she would have arrived before us</em>, so she probably took a later one.",
+      "The second and third conditionals are both imagined, so the choice between them is only a question of time. Date the Truth. If it is true now, one step back is enough: a past form, then <em>would</em> plus the verb. If it was true at a finished past time, take two steps: <em>had</em> plus the past participle (V3), then <em>would have</em> plus V3.",
+      "Time cues do the work. <em>Now</em>, <em>right now</em>, <em>today</em> and <em>at the moment</em> call for one step; <em>yesterday</em>, <em>last night</em> and <em>last Saturday</em> call for two. Both mistakes are possible: too few steps for a past event, and too many for a present one, as in <s>if I had had time now</s>. And if the thing is still possible, it is not imagined at all: use the present and <em>will</em>."
+     ],
+     "examples": [
+      {
+       "s": "If I had set my alarm, I wouldn't have missed the bus.",
+       "g": "Regret: my own action, a bad result. Truth: I didn't set my alarm, so I missed the bus this morning."
+      },
+      {
+       "s": "Luckily, Pim had a spare charger. If she hadn't lent it to me, my phone would have died.",
+       "g": "Relief: the bad result stayed imagined. Truth: Pim lent me the charger, so my phone didn't die yesterday."
+      },
+      {
+       "s": "If you had read the group chat, you would have known about the room change.",
+       "g": "Criticism: someone else's action, a bad result. Truth: you didn't read the chat, so you didn't know about the change."
+      },
+      {
+       "s": "If Nan had taken the 7.15 train, she would have arrived before us.",
+       "g": "Reasoning about the past. Truth: she didn't arrive before us, so we work out that she didn't take the 7.15."
+      },
+      {
+       "s": "If I knew the way, I would show you. If I had known the way yesterday, we wouldn't have got lost.",
+       "g": "One step for now, two steps for then. Truth: I don't know the way now; I didn't know it yesterday, so we got lost."
+      }
+     ]
+    },
+    "C1": {
+     "key": "The third conditional is any imagined past, so its force comes from the Truth behind it, and the date of that Truth is all that separates it from the second.",
+     "body": [
+      "Calling the third conditional 'the regret conditional' confuses a form with one of its uses. The form says only that a past situation is being imagined otherwise. What the speaker is doing with it depends on the implied facts: whether the actual outcome was good or bad, and who was responsible for it.",
+      "When the actual outcome was bad and the speaker was responsible, we hear regret. When a bad outcome was avoided, we hear relief, often flagged by <em>luckily</em> or <em>thank goodness</em>; here the condition is typically negative, because the fortunate thing did in fact happen and only its absence is imagined.",
+      "When someone else was responsible for a bad outcome, the same grammar becomes criticism or blame, which is why <em>If you had read the group chat…</em> can sound sharp and is best softened. Finally, the pattern serves plain reasoning about the past: <em>If Nan had taken the 7.15 train, she would have arrived before us</em> invites the conclusion that she took a later one. No feeling is involved, only inference from what we can see.",
+      "Second and third conditionals share the imagined setting and differ only on the time dial. The diagnostic is the date on the Truth receipt. A Truth that holds now takes one step back: a past form, with <em>would</em> plus the verb. A Truth that held at a finished past time takes two: <em>had</em> plus the past participle (V3), with <em>would have</em> plus V3.",
+      "Read the time cues before building either verb. <em>Now</em>, <em>today</em> and <em>at the moment</em> signal one step; <em>yesterday</em>, <em>last night</em> and <em>last Saturday</em> signal two. Learners err in both directions: under-stepping a past event, and over-stepping a present one, as in <s>if I had had time now</s>. Where the outcome is still open, nothing is denied, so the real pattern with a present form and <em>will</em> is the right one."
+     ],
+     "examples": [
+      {
+       "s": "If I had set my alarm, I wouldn't have missed the bus.",
+       "g": "Regret: the speaker's own omission and a bad outcome. Truth: no alarm, and the bus was missed this morning."
+      },
+      {
+       "s": "Luckily, Pim had a spare charger. If she hadn't lent it to me, my phone would have died.",
+       "g": "Relief, with the typical negative condition. Truth: the charger was lent and the phone survived, yesterday."
+      },
+      {
+       "s": "If you had read the group chat, you would have known about the room change.",
+       "g": "Criticism: responsibility is placed on the listener. Truth: the chat went unread, so the change was missed."
+      },
+      {
+       "s": "If Nan had taken the 7.15 train, she would have arrived before us.",
+       "g": "Inference rather than feeling. Truth: she did not arrive first, from which we conclude she did not take the 7.15."
+      },
+      {
+       "s": "If I knew the way, I would show you. If I had known the way yesterday, we wouldn't have got lost.",
+       "g": "The same condition on two dates. Truth: I do not know the way now; I did not know it yesterday, and we got lost."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w4l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fern",
+       "text": "My laptop died in the middle of my project last night. If I hadn't saved it five minutes before, I would have lost everything."
+      }
+     ],
+     "stem": "What is Fern doing with her second sentence?",
+     "options": [
+      "Showing regret about a mistake she made.",
+      "Showing relief that something bad didn't happen.",
+      "Criticising someone else for a mistake.",
+      "Making a promise about what she will do next time."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Regret needs something she is sorry about. Truth: she did save it, and that was the right thing to do.",
+      "Yes. Truth: she saved it, so she lost nothing. The bad result stayed imagined.",
+      "Nobody else is in the sentence, and nobody made a mistake.",
+      "Two steps back looks at a finished past, not at next time."
+     ],
+     "hint": "Write the Truth. Was the real result good or bad, and whose action was it?",
+     "why": "The Truth is that Fern saved her project and lost nothing, so the imagined bad result shows relief.",
+     "truth": "Fern saved her project last night, so she didn't lose anything."
+    },
+    {
+     "id": "w4l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "In which sentence is the speaker sorry about <b>her own</b> mistake?",
+     "options": [
+      "If you had told me earlier, I wouldn't have bought two tickets.",
+      "If Jane hadn't lent me her umbrella, I would have got soaked.",
+      "If I had revised for yesterday's quiz, I would have got more than five.",
+      "If Fah had been at home, she would have answered the door."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "This points at 'you': the other person didn't tell her. That is blame, not regret.",
+      "Truth: Jane lent the umbrella and the speaker stayed dry. That is relief.",
+      "Yes. Truth: I didn't revise, and I got five. A small regret about my own action.",
+      "This is reasoning about the past: she didn't answer, so she was probably out."
+     ],
+     "hint": "Find the Truth for each if half. Who did, or didn't do, the action?",
+     "why": "Only that sentence has the speaker's own action in the if half and a bad real result: she didn't revise, so she got five.",
+     "truth": "The speaker didn't revise for yesterday's quiz, so she got five."
+    },
+    {
+     "id": "w4l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Pim is queuing at the bubble tea shop <b>right now</b>. She hasn't ordered yet, and she has only 40 baht. The large size costs 60. Which sentence fits?",
+     "options": [
+      "If I had 60 baht, I would get the large one.",
+      "If I had had 60 baht, I would have got the large one.",
+      "If I have 60 baht, I will get the large one.",
+      "If I had 60 baht, I would have got the large one."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: the Truth is dated now (she has 40 baht now), so one step back is enough.",
+      "Two steps back puts everything in a finished past, but Pim is in the queue now.",
+      "Present with will is for a real, open possibility. Pim knows she has only 40 baht.",
+      "The result has a past ticket, but Pim has not ordered yet. Her choice is now, so the result needs would and the verb."
+     ],
+     "hint": "Date the Truth receipt: now or then? Then count the steps.",
+     "why": "Pim's problem is true now, so the imagined sentence steps back once: a past form with would, and no past ticket.",
+     "truth": "Pim doesn't have 60 baht now, so she isn't getting the large one."
+    },
+    {
+     "id": "w4l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Jane and Mook are at the bus stop now, in the rain. Jane says: \"Sorry, I don't have an umbrella. If I ___ one, I would share it with you.\"",
+     "options": [
+      "had",
+      "had had",
+      "have",
+      "would have"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: the Truth is dated now, so one step back: a past form in the if half.",
+      "Two steps back is for a finished past. Jane is at the bus stop now.",
+      "The present is for a real possibility, but Jane has just said she doesn't have one.",
+      "Would lives in the result half, not in the if half."
+     ],
+     "hint": "Is the Truth about now or about a finished past? One step or two?",
+     "why": "Jane has no umbrella now and the result is would share, so the if half steps back once: had.",
+     "truth": "Jane doesn't have an umbrella now, so she isn't sharing one."
+    },
+    {
+     "id": "w4l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Jane got soaked on the way to school. She says: \"If I ___ my umbrella yesterday, I wouldn't have got so wet.\"",
+     "options": [
+      "brought",
+      "had brought",
+      "have brought",
+      "would bring"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "One step back imagines now. The Truth here is dated yesterday, and the result has a past ticket.",
+      "Yes: the Truth is dated yesterday, so two steps back: had with V3.",
+      "'Have brought' is about the time up to now and is not imagined.",
+      "Would lives in the result half. This half needs had with V3."
+     ],
+     "hint": "Date the Truth receipt, then look at the result half. One step or two?",
+     "why": "Jane didn't bring it yesterday and the result is wouldn't have got, so the if half needs had plus the past participle.",
+     "truth": "Jane didn't bring her umbrella yesterday, so she got wet."
+    },
+    {
+     "id": "w4l3-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Sorry, I [[can't lend]] you my charger. If I [[had had]] it with me right now, I [[would give]] it to you [[at once]].",
+     "answer": 1,
+     "fix": "had",
+     "fb": [
+      "This part is fine: it tells you the real situation now.",
+      "Yes, here: 'right now' means one step back, not two: If I had it with me.",
+      "This part is fine: would with a verb is the result for an imagined now.",
+      "This part is fine: 'at once' means immediately."
+     ],
+     "hint": "The Truth is dated right now. Has one verb stepped back too far?",
+     "why": "The charger is missing now, not in a finished past, so the if half needs one step back, had, not had had.",
+     "truth": "The speaker doesn't have her charger with her now."
+    },
+    {
+     "id": "w4l3-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Ploy missed Bam's party last Saturday because she was ill. Use <b>would</b> and <b>come</b>: \"I'm so sorry, Bam. If I hadn't been ill, I ___.\"",
+     "accept": [
+      "would have come",
+      "would've come",
+      "'d have come"
+     ],
+     "model": "would have come",
+     "hint": "Last Saturday is over. Which form of the result carries the past ticket?",
+     "why": "The party was last Saturday and Ploy was ill, so the result is an imagined past: would have plus the past participle come.",
+     "truth": "Ploy was ill last Saturday, so she didn't come to the party."
+    },
+    {
+     "id": "w4l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "given": "Nan didn't see the step, so she dropped her bubble tea.",
+     "keyword": "DROPPED",
+     "stem": "If Nan had seen the step, she definitely ___ her bubble tea.",
+     "accept": [
+      "wouldn't have dropped",
+      "would not have dropped"
+     ],
+     "model": "wouldn't have dropped",
+     "hint": "She did drop it. In the imagined past, is the sure result positive or negative?",
+     "why": "In real life she dropped it, so the sure imagined result is the opposite and in the past: wouldn't have plus dropped.",
+     "truth": "Nan didn't see the step, so she dropped her bubble tea."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w4g",
+  "items": [
+   {
+    "id": "w4g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "3",
+    "cefr": "B2",
+    "stem": "After last Saturday's tournament, the coach says: \"If the rain had stopped by three, we would have played the final.\" What really happened?",
+    "options": [
+     "The rain stopped by three, and they played the final.",
+     "The rain stopped by three, but they didn't play the final.",
+     "The rain didn't stop by three, and they didn't play the final.",
+     "The rain didn't stop by three, but they still played the final."
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "That is the imagined world. Both verbs are two steps back, so flip both halves.",
+     "Half right. The if half is imagined too: 'had stopped' means it did not stop.",
+     "Yes: both halves are imagined and dated last Saturday. No break in the rain, no final.",
+     "The result half is imagined as well: 'would have played' means they did not play."
+    ],
+    "hint": "Write the Truth receipt for each half and date it.",
+    "why": "Had stopped and would have played are both two steps back, so neither happened last Saturday.",
+    "truth": "The rain didn't stop by three last Saturday, so they didn't play the final."
+   },
+   {
+    "id": "w4g-2",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "3",
+    "cefr": "B2",
+    "stem": "Mook says about last night's homework: \"If Pim hadn't shared her notes, I couldn't have finished the worksheet.\" What really happened?",
+    "options": [
+     "Pim shared her notes, and Mook was able to finish.",
+     "Pim shared her notes, but Mook wasn't able to finish.",
+     "Pim didn't share her notes, so Mook wasn't able to finish.",
+     "Pim didn't share her notes, but Mook finished anyway."
+    ],
+    "answer": 0,
+    "near": 2,
+    "fb": [
+     "Yes: both halves are negative and imagined, so both really happened. Notes shared, worksheet finished.",
+     "'Couldn't have finished' is imagined, so in real life she was able to finish.",
+     "That is the imagined world. Flip both halves to find the Truth.",
+     "'Hadn't shared' is imagined, so in real life Pim did share her notes."
+    ],
+    "hint": "Flip each half. What does a negative imagined half tell you about real life?",
+    "why": "Hadn't shared is imagined, so Pim did share; couldn't have finished is imagined, so Mook was able to finish.",
+    "truth": "Pim shared her notes last night, so Mook was able to finish the worksheet."
+   },
+   {
+    "id": "w4g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "3",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Mook",
+      "text": "We sat in silence at the picnic on Sunday. If you had charged the speaker, we would have had music."
+     }
+    ],
+    "stem": "What is Mook doing with her second sentence?",
+    "options": [
+     "Feeling relieved that the picnic went well.",
+     "Regretting a mistake that she made herself.",
+     "Blaming her friend for not doing something.",
+     "Asking her friend to charge the speaker next time."
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "Relief needs a bad result that didn't happen. Here the bad result was real: no music.",
+     "The if half is about 'you', not about Mook herself.",
+     "Yes. Truth: the friend didn't charge the speaker, so there was no music. That is criticism.",
+     "Two steps back looks at a finished past, not at next time."
+    ],
+    "hint": "Write the Truth. Was the real result good or bad, and whose action was it?",
+    "why": "The if half is about the friend's action and the real result was bad, so the sentence is criticism or blame.",
+    "truth": "Mook's friend didn't charge the speaker, so there was no music at the picnic on Sunday."
+   },
+   {
+    "id": "w4g-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "3",
+    "cefr": "B2",
+    "stem": "Jane missed the BTS this morning because she left home at half past seven. Which sentence about this morning is correct?",
+    "options": [
+     "If Jane had left at seven, she would catch the train.",
+     "If Jane has left at seven, she would have caught the train.",
+     "If Jane left at seven, she would catch the train.",
+     "If Jane had left at seven, she would have caught the train."
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "The if half is right, but the result has no past ticket: 'would catch' is about now or later.",
+     "'Has left' is about the time up to now and is not imagined. The if half needs had.",
+     "Fine for an imagined now or future, but this morning is over: step back twice.",
+     "Yes: had with V3, then would have with V3. Truth: she left late and missed it."
+    ],
+    "hint": "Both halves are about this morning. Has each verb taken two steps back?",
+    "why": "This morning is over and Jane left late, so both halves are imagined past: had left, would have caught.",
+    "truth": "Jane didn't leave at seven this morning, so she didn't catch the train."
+   },
+   {
+    "id": "w4g-5",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "3",
+    "cefr": "B2",
+    "stem": "There was a haze warning yesterday, but Fah didn't see it. She says: \"If I ___ about the warning, I'd have worn a mask.\"",
+    "options": [
+     "'d know",
+     "'d have known",
+     "'d known",
+     "have known"
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "'d before a base verb is would, and would cannot go in the if half.",
+     "This is 'would have known'. That ticket belongs in the result half; after if, exams mark it wrong.",
+     "Yes: 'd before V3 is had. If I had known, I would have worn a mask.",
+     "'Have known' is about the time up to now and is not imagined. Use had."
+    ],
+    "hint": "What does 'd stand for before a past participle, and before a base verb?",
+    "why": "The if half of an imagined past needs had plus V3, and 'd before the past participle known is had.",
+    "truth": "Fah didn't know about the haze warning yesterday, so she didn't wear a mask."
+   },
+   {
+    "id": "w4g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "2",
+    "cefr": "B2",
+    "stem": "Fah is stuck indoors because it is raining. She says: \"If it ___ raining right now, I would be at the park with my dog.\"",
+    "options": [
+     "isn't",
+     "hadn't been",
+     "weren't",
+     "wouldn't be"
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "The present is for a real possibility, but it is raining: this is imagined.",
+     "Two steps back is for a finished past. 'Right now' needs only one step.",
+     "Yes: the Truth is dated now, so one step back: weren't.",
+     "Would lives in the result half, not in the if half."
+    ],
+    "hint": "Date the Truth receipt. Is this about now or then?",
+    "why": "It is raining now and the result is would be, so the if half steps back once: weren't.",
+    "truth": "It is raining now, so Fah isn't at the park."
+   },
+   {
+    "id": "w4g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "3",
+    "cefr": "B2",
+    "stem": "[[If you would have]] sent me the address [[yesterday]], I [[wouldn't have got]] lost [[on the way]] to your house.",
+    "answer": 0,
+    "fix": "If you had",
+    "fb": [
+     "Yes, here: would have cannot go in the if half. Write: If you had sent.",
+     "This part is fine: a past time word matches two steps back.",
+     "This part is fine: wouldn't have with V3 is the negative result for an imagined past.",
+     "This part is fine: 'on the way to' is normal English."
+    ],
+    "hint": "Which half is allowed to hold would?",
+    "why": "The if half of an imagined past takes had plus V3. Would have after if is heard in some American speech, but exams mark it wrong.",
+    "truth": "The friend didn't send the address yesterday, so the speaker got lost."
+   },
+   {
+    "id": "w4g-8",
+    "type": "type",
+    "skill": "form",
+    "ctype": "3",
+    "cefr": "B2",
+    "stem": "Bam left her student card at home last Friday, so she paid the full price at the cinema. Use <b>could</b> and <b>save</b>: If she had taken her card, she ___ forty baht.",
+    "accept": [
+     "could have saved",
+     "could've saved"
+    ],
+    "model": "could have saved",
+    "hint": "It was possible, but it was last Friday. What goes between the modal and the verb?",
+    "why": "Saving was possible in the imagined past, so could takes the past ticket: could have plus the past participle saved.",
+    "truth": "Bam didn't take her student card last Friday, so she didn't save forty baht."
+   }
+  ]
+ }
+}

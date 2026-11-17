@@ -1,0 +1,1882 @@
+{
+ "world": "w6",
+ "lessons": [
+  {
+   "id": "w6l1",
+   "name": "unless",
+   "cefr": "B2",
+   "ctype": "conn",
+   "gateway": "pp.72–73",
+   "formula": {
+    "if": "unless + present (positive verb, even for the future)",
+    "result": "will / can / might + verb, or an imperative"
+   },
+   "uses": [
+    {
+     "use": "Giving a warning",
+     "ex": "You'll miss the BTS unless you leave right now."
+    },
+    {
+     "use": "Stating a rule",
+     "ex": "You can't enter the library unless you show your student card."
+    },
+    {
+     "use": "A plan with one exception",
+     "ex": "We'll walk to school unless Dad offers us a lift."
+    },
+    {
+     "use": "Setting a limit",
+     "ex": "I won't lend you my charger unless you promise to bring it back."
+    },
+    {
+     "use": "Describing a habit",
+     "ex": "Mum never phones me at school unless something is wrong."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Unless means except if: it names the one thing that stops the result.",
+     "body": [
+      "<b>Unless</b> means <b>except if</b>. It names the one thing that can stop the result (what happens). <em>We'll eat outside unless it rains.</em> The plan is to eat outside. Only rain can stop it. Try the except test: put in \"except if\". Does the sentence still make sense? Then <b>unless</b> is right.",
+      "Unless already has \"not\" inside it. So the verb after it is usually positive. <em>If you don't hurry</em> and <em>unless you hurry</em> mean the same. Never write <s>unless you don't hurry</s>. That is two negatives, and it says the opposite.",
+      "For the future, use the present after unless. Do not use will there. Say <em>unless it rains tomorrow</em>, not <s>unless it will rain tomorrow</s>. Will, can or might go in the other half. You can also give an order: <em>Don't call me unless it's important.</em>",
+      "Sometimes if … not cannot change to unless. First, when the thing that does not happen is the reason for the result: <em>I'll be sad if you don't come.</em> You not coming makes me sad. It is not an exception. Second, in sentences about an imagined past: <em>If Fern hadn't reminded me, I'd have forgotten.</em> Keep if there.",
+      "In rewriting tasks, watch the verbs. <em>I'll only go if you go</em> becomes <em>I won't go unless you go</em>. The first half turns negative. The half after unless stays positive. With if … not, just take out the not."
+     ],
+     "examples": [
+      {
+       "s": "We'll eat outside unless it rains.",
+       "g": "Except if it rains. Rain is the one thing that stops the plan."
+      },
+      {
+       "s": "You can't come in unless you take off your shoes.",
+       "g": "A rule. There is one way in: shoes off."
+      },
+      {
+       "s": "<s>Unless you don't hurry, you'll be late.</s>",
+       "g": "Wrong: two negatives. Say: Unless you hurry, you'll be late."
+      },
+      {
+       "s": "I'll be sad if you don't come to my party.",
+       "g": "No unless here. You not coming is the reason I'm sad. It is not an exception."
+      },
+      {
+       "s": "If Fern hadn't reminded me, I'd have forgotten my PE kit.",
+       "g": "An imagined past, so keep if. Truth: Fern reminded me, and I didn't forget."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Unless means except if, takes a positive present verb for the future, and cannot replace every if … not.",
+     "body": [
+      "<b>Unless</b> means <b>except if</b>: it names the one situation that stops the result. In <em>We'll eat outside unless it rains</em>, eating outside is the plan and rain is the only exception. The except test checks it: if you can say \"except if\" in the same place and the sentence still makes sense, unless is correct.",
+      "Because the negative idea is already inside unless, the verb that follows is normally positive. <em>If you don't hurry</em> becomes <em>unless you hurry</em>. Writing <s>unless you don't hurry</s> doubles the negative and reverses the meaning, which is one of the most common mistakes with this word.",
+      "Like if, unless takes a present form when it talks about the future: <em>unless it rains tomorrow</em>, never <s>unless it will rain</s>. The other half carries will, can, might, must or an imperative: <em>Don't call me unless it's important.</em> The unless half can come first, followed by a comma, or second with no comma.",
+      "Unless does not replace every if … not. It fails when the thing that does not happen is the cause of the result: in <em>I'll be sad if you don't come</em>, your absence causes the sadness; it is not an exception to it. It also fails in most sentences about an imagined past, such as regrets: <em>If Fern hadn't reminded me, I'd have forgotten.</em>",
+      "Exam rewrites often move between only if and unless. <em>I'll go only if you go</em> has the same meaning as <em>I won't go unless you go</em>: the main half becomes negative and the unless half stays positive. With if … not, simply drop the not: <em>if it doesn't stop</em> becomes <em>unless it stops</em>."
+     ],
+     "examples": [
+      {
+       "s": "We'll eat outside unless it rains.",
+       "g": "Passes the except test: we'll eat outside, except if it rains. Present form for the future."
+      },
+      {
+       "s": "You can't come in unless you take off your shoes.",
+       "g": "A rule with one way out of the no. The verb after unless is positive."
+      },
+      {
+       "s": "<s>Unless you don't hurry, you'll be late.</s>",
+       "g": "Double negative. Correct: Unless you hurry, you'll be late. Or: If you don't hurry, you'll be late."
+      },
+      {
+       "s": "I'll be sad if you don't come to my party.",
+       "g": "Fails the except test: your absence causes the sadness, so if … not must stay."
+      },
+      {
+       "s": "If Fern hadn't reminded me, I'd have forgotten my PE kit.",
+       "g": "Imagined past: unless does not work here. Truth: Fern did remind me, so I didn't forget my kit."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Unless presents a single exception to what otherwise holds, which explains both its built-in negative and the cases where it cannot replace if … not.",
+     "body": [
+      "<b>Unless</b> means <b>except if</b>. It presents the main clause as what holds by default and then names the single circumstance that cancels it. That is why the except test works: wherever \"except if\" fits without changing the sense, unless is right, as in <em>We'll eat outside unless it rains</em>.",
+      "The word began as an older phrase, \"on less than\", meaning on a lesser condition than. The exception, and with it the negative, is part of the word itself, so the clause after it is normally affirmative. <em>Unless you hurry</em> equals <em>if you don't hurry</em>; <s>unless you don't hurry</s> is a double negative that states the reverse. A negative verb after unless is possible only when the exception itself is negative, which is rare and best avoided in exams.",
+      "As in other conditional and time clauses, future time after unless is shown with a present form, because the clause sets up a scene and does not predict: <em>unless it rains tomorrow</em>, not <s>unless it will rain</s>. The main clause is free: will, can, might, must, an imperative, or a plain present for habits.",
+      "Unless is not a mechanical substitute for if … not. It fails when the non-event is the cause of the result and not an exception to it: <em>I'll be sad if you don't come</em>. It also fails in most counterfactual sentences, especially regret and relief about the past: <em>If Fern hadn't reminded me, I'd have forgotten</em>. There the if-clause describes what did not happen; it is not an exception to a default.",
+      "For key-word rewrites, remember the switch between positive and negative. <em>I'll go only if you go</em> and <em>I won't go unless you go</em> are equivalent: only if states the necessary condition positively, while unless states it as the sole exception to a negative. From if … not, remove the negative and keep everything else, including the present tense."
+     ],
+     "examples": [
+      {
+       "s": "We'll eat outside unless it rains.",
+       "g": "The default is eating outside; rain is the single exception. Present form, no will."
+      },
+      {
+       "s": "You can't come in unless you take off your shoes.",
+       "g": "A negative main clause with its sole exception. Same meaning: you can come in only if you take off your shoes."
+      },
+      {
+       "s": "<s>Unless you don't hurry, you'll be late.</s>",
+       "g": "The negation is already inside unless, so don't reverses the sense. Correct: Unless you hurry, you'll be late."
+      },
+      {
+       "s": "I'll be sad if you don't come to my party.",
+       "g": "The non-event is the cause of the result, not an exception to a default, so unless is unavailable."
+      },
+      {
+       "s": "If Fern hadn't reminded me, I'd have forgotten my PE kit.",
+       "g": "Counterfactual relief about the past; unless is not used. Truth: Fern reminded me, and I remembered the kit."
+      }
+     ]
+    }
+   },
+   "thai": "เว้นแต่ = unless (except if). After it, no second negative.",
+   "items": [
+    {
+     "id": "w6l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "Training is on the outdoor court at four unless it rains."
+      }
+     ],
+     "stem": "What does the coach mean?",
+     "options": [
+      "We train outside, except if it rains.",
+      "We train outside only if it rains.",
+      "We train outside whatever the weather is.",
+      "We train outside because it won't rain."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: unless means except if. Rain is the one thing that moves training.",
+      "That turns it round. Rain is the exception here, not the condition for training.",
+      "That means rain changes nothing. The coach says rain does change the plan.",
+      "The coach doesn't know the weather. Unless leaves rain as a possibility."
+     ],
+     "hint": "Try the except test: what is the one thing that stops the plan?",
+     "why": "Unless means except if, so outdoor training is the plan and rain is the only thing that cancels it."
+    },
+    {
+     "id": "w6l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Try the except test. In which sentence can you change <b>if … not</b> to <b>unless</b>?",
+     "options": [
+      "I'll be upset if my parcel doesn't arrive today.",
+      "I'll come to your show if I don't have tutoring.",
+      "If Ploy hadn't lent me her notes, I would have failed.",
+      "I'd be so happy if I didn't have maths today."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Not here. The parcel not arriving is the reason for the feeling, not an exception to it.",
+      "Yes: I'll come, except if I have tutoring. Tutoring is the one thing that stops me.",
+      "Not here. This is an imagined past, and unless does not work in sentences like that.",
+      "Not here. Having no maths is the cause of the happiness, not an exception to it."
+     ],
+     "hint": "Where is the missing event an exception, and where is it the cause?",
+     "why": "Only the tutoring sentence passes the except test. In the others, the missing event causes the result, or the sentence imagines a different past."
+    },
+    {
+     "id": "w6l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Which sentence means the same as this? <em>Mum will let Mint go to the concert only if she finishes her project.</em>",
+     "options": [
+      "Mum will let Mint go unless she finishes her project.",
+      "Mum won't let Mint go unless she doesn't finish her project.",
+      "Mum won't let Mint go unless she finishes her project.",
+      "Mum will let Mint go if she doesn't finish her project."
+     ],
+     "answer": 2,
+     "near": 1,
+     "fb": [
+      "This says finishing the project stops her going. That is the opposite of Mum's rule.",
+      "Two negatives after unless turn the meaning round: now not finishing is her way to go.",
+      "Yes: only if becomes won't … unless, and the verb after unless stays positive.",
+      "This makes not finishing her way to go. Mum wants the project finished first."
+     ],
+     "hint": "Which half turns negative, and which half stays positive?",
+     "why": "Only if gives the one way to go. Unless says the same from the other side: she can't go, except if she finishes."
+    },
+    {
+     "id": "w6l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Kru Ann",
+       "text": "The homework portal closes at midnight tonight."
+      }
+     ],
+     "stem": "I can't accept your essay unless you ___ it before then.",
+     "options": [
+      "will upload",
+      "don't upload",
+      "uploaded",
+      "upload"
+     ],
+     "answer": 3,
+     "near": 1,
+     "fb": [
+      "No will after unless. The present already shows the future here.",
+      "Unless already carries the negative. Adding don't reverses the meaning.",
+      "Midnight tonight is still in the future, so the past form doesn't fit.",
+      "Yes: unless plus a positive present verb, even for tonight."
+     ],
+     "hint": "Unless works like if: which tense shows the future after it? And how many negatives do you need?",
+     "why": "After unless, a positive present form shows the future: no will, and no second negative."
+    },
+    {
+     "id": "w6l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Aunt",
+       "text": "I'm away for two weeks. Please remember the orchid on the balcony."
+      }
+     ],
+     "stem": "___ you don't water it every few days, it will die in this heat.",
+     "options": [
+      "Unless",
+      "If",
+      "Until",
+      "Whether"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The verb is already negative. Unless you don't water it would mean that watering harms the orchid.",
+      "Yes: the negative is in don't, so plain if is the word.",
+      "Until is about time up to a point. This sentence is a condition.",
+      "Whether needs two possibilities. Here there is one condition and one result."
+     ],
+     "hint": "Look at the verb after the gap. Is the negative already there?",
+     "why": "The clause already has don't, so if is needed. Unless would add a second negative."
+    },
+    {
+     "id": "w6l1-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Praew says she [[won't come]] to the night market [[unless]] the rain [[will stop]] [[before]] six.",
+     "answer": 2,
+     "fix": "stops",
+     "fb": [
+      "This part is fine: the result can be negative.",
+      "This part is fine: the rain stopping is the one thing that changes her no, so unless fits.",
+      "Yes, this is the mistake: no will after unless. Use the present: unless the rain stops.",
+      "This part is fine: before six gives the time limit."
+     ],
+     "hint": "Check the verb after unless. Which tense shows the future there?",
+     "why": "Unless works like if: the present shows the future, so it is unless the rain stops, not unless the rain will stop."
+    },
+    {
+     "id": "w6l1-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "I'll meet you at the bubble tea shop at five ___ late.",
+     "given": "I'll meet you at the bubble tea shop at five if my tutoring doesn't finish late.",
+     "keyword": "UNLESS",
+     "accept": [
+      "unless my tutoring finishes"
+     ],
+     "model": "unless my tutoring finishes",
+     "hint": "The negative moves inside the key word. What happens to the verb?",
+     "why": "If it doesn't finish late equals unless it finishes late: unless carries the negative, so the verb turns positive and stays present."
+    },
+    {
+     "id": "w6l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Bam doesn't answer LINE messages ___ from her mum.",
+     "given": "Bam only answers LINE messages if they are from her mum.",
+     "keyword": "UNLESS",
+     "accept": [
+      "unless they are",
+      "unless they're",
+      "unless they come"
+     ],
+     "model": "unless they are",
+     "hint": "The first half is negative now. Keep the half after the key word positive.",
+     "why": "Only … if becomes doesn't … unless. The verb after unless stays positive and in the present."
+    }
+   ]
+  },
+  {
+   "id": "w6l2",
+   "name": "as long as, provided / providing (that), on condition that, only if",
+   "cefr": "B2",
+   "ctype": "conn",
+   "gateway": "pp.72–73",
+   "formula": {
+    "if": "as long as / provided (that) / providing (that) / on condition that / only if + present",
+    "result": "will / can / may + verb: the deal"
+   },
+   "uses": [
+    {
+     "use": "Giving permission with a rule",
+     "ex": "You can stay out till nine as long as you text me."
+    },
+    {
+     "use": "Making a deal with a friend",
+     "ex": "I'll help with your maths provided you explain the science homework."
+    },
+    {
+     "use": "Writing rules",
+     "ex": "Students may use the lab provided that a teacher is present."
+    },
+    {
+     "use": "A formal agreement",
+     "ex": "The school lent us the hall on condition that we cleaned it afterwards."
+    },
+    {
+     "use": "The one necessary condition",
+     "ex": "You can sit the retest only if you missed the first test."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "These words make a deal: yes, but only if one thing happens.",
+     "body": [
+      "These words all make a deal: <b>as long as</b>, <b>provided (that)</b>, <b>providing (that)</b>, <b>on condition that</b> and <b>only if</b>. They mean \"if, and only in this case\". The speaker says yes, but one thing must happen. <em>You can borrow my bike as long as you lock it.</em> No lock, no bike.",
+      "They are stronger than a simple if. Parents, teachers and friends use them to say yes with a rule. They are the opposite of unless. <em>You can go as long as you finish</em> means the same as <em>You can't go unless you finish</em>.",
+      "The grammar is the same as for if. For the future, use the present after these words. Do not use will. Say <em>provided we keep the receipt</em>, not <s>provided we will keep</s>. Will, can or may go in the other half.",
+      "Check the small words. After provided and providing, <b>that</b> is optional (you can leave it out). Then comes a subject and a verb. After as long as, do not add that. You can also say so long as. On condition that is formal. It starts with on and ends with that.",
+      "<b>Only if</b> gives the one necessary condition (the thing you cannot skip). <em>You can enter only if you are a student here.</em> Other people cannot enter. Do not mix it up with <em>if only</em>, which is a wish. In rewriting tasks, these words often replace <em>but you must</em>."
+     ],
+     "examples": [
+      {
+       "s": "You can borrow my bike as long as you lock it.",
+       "g": "A deal. Lock it and the answer is yes. No lock, no bike."
+      },
+      {
+       "s": "We'll get a refund provided (that) we keep the receipt.",
+       "g": "That is optional. Keep is present, but it is about the future."
+      },
+      {
+       "s": "The teacher agreed to move the test on condition that everyone came on Friday.",
+       "g": "Formal. The deal was in the past, so came is a real past."
+      },
+      {
+       "s": "You can enter only if you are a student here.",
+       "g": "The one condition you cannot skip. Other people cannot enter."
+      },
+      {
+       "s": "<s>I'll help you as long as you will help me.</s>",
+       "g": "Wrong: no will after as long as. Say: as long as you help me."
+      }
+     ]
+    },
+    "B2": {
+     "key": "As long as, provided or providing (that), on condition that and only if all make a bargain: the result happens only in this one case.",
+     "body": [
+      "<b>As long as</b>, <b>provided (that)</b>, <b>providing (that)</b>, <b>on condition that</b> and <b>only if</b> all mean \"if, and only in this case\". They turn a sentence into a bargain: the speaker agrees, but one thing has to happen. <em>You can borrow my bike as long as you lock it.</em> If you don't lock it, the answer becomes no.",
+      "They are stronger than plain if, and people use them to give permission with a rule, to make deals and to write rules. They point the opposite way from unless: <em>You can go as long as you finish</em> says the same as <em>You can't go unless you finish</em>. One names the condition for a yes; the other names the only escape from a no.",
+      "The tense rule is the rule for if. A present form shows the future after all of them, and will stays in the other half: <em>We'll get a refund provided we keep the receipt</em>, not <s>provided we will keep</s>. If the deal was made in the past, both halves are past: <em>She agreed on condition that everyone came on Friday.</em>",
+      "Watch the small words. Provided and providing can take <b>that</b> or leave it out; both are followed by a full clause with a subject and a verb. As long as never takes that, and so long as is a variant. On condition that is a fixed, formal phrase: on at the start, that at the end.",
+      "<b>Only if</b> names the one necessary condition: <em>You can enter only if you are a student here</em> shuts out everyone else. Do not confuse it with <em>if only</em>, which expresses a wish. In rewriting tasks, these connectors usually replace <em>but you must</em> or <em>but only if</em>, and the verb after them stays in the present."
+     ],
+     "examples": [
+      {
+       "s": "You can borrow my bike as long as you lock it.",
+       "g": "A bargain: locking it is the one condition. Present form after as long as."
+      },
+      {
+       "s": "We'll get a refund provided (that) we keep the receipt.",
+       "g": "Provided with or without that; present keep for the future, will only in the result."
+      },
+      {
+       "s": "The teacher agreed to move the test on condition that everyone came on Friday.",
+       "g": "The most formal of the group. Both halves are past because the deal was made in the past."
+      },
+      {
+       "s": "You can enter only if you are a student here.",
+       "g": "Only if names the necessary condition and shuts out everyone else. Not the same as if only."
+      },
+      {
+       "s": "<s>I'll help you as long as you will help me.</s>",
+       "g": "No will in the condition half. Correct: I'll help you as long as you help me."
+      }
+     ]
+    },
+    "C1": {
+     "key": "These connectors present one condition as the price of the result, which is why they sound like a bargain.",
+     "body": [
+      "<b>As long as</b>, <b>provided (that)</b>, <b>providing (that)</b>, <b>on condition that</b> and <b>only if</b> present a single condition as the price of the result. Plain if merely says the result follows from the condition; these add that nothing else will do. Hence the feel of a bargain: <em>You can borrow my bike as long as you lock it.</em>",
+      "They differ in register. As long as and so long as are everyday; provided and providing (that) are neutral to formal and common in rules and essays; on condition that is the most formal and suits agreements. All of them mirror unless: <em>You can go as long as you finish</em> and <em>You can't go unless you finish</em> describe one deal from opposite sides.",
+      "Because the clause sets up a condition and does not predict, future time is shown with a present form: <em>provided we keep the receipt</em>, never <s>provided we will keep</s>. A bargain reported from the past is simply past in both halves, with no step back in reality: <em>She agreed on condition that everyone came on Friday</em> is a real past deal.",
+      "The frames are fixed. Provided and providing take an optional <b>that</b> and then a full clause; other forms of the verb are not connectors. As long as takes no that. On condition that normally keeps both on and that. As long as also has a time sense, \"for the whole time that\", which the context usually separates from the bargain sense.",
+      "<b>Only if</b> marks a necessary condition and is not <em>if only</em>, the wish. When only if opens the sentence, formal English inverts the main clause, as after other restrictive openers: <em>Only if you are a student here can you enter.</em> Mid-sentence there is no inversion. In key-word rewrites these connectors replace <em>but you must</em> or <em>but only if</em>."
+     ],
+     "examples": [
+      {
+       "s": "You can borrow my bike as long as you lock it.",
+       "g": "Everyday bargain; the condition is presented as the only thing that matters. No that after as long as."
+      },
+      {
+       "s": "We'll get a refund provided (that) we keep the receipt.",
+       "g": "Neutral to formal; optional that; the present form marks a condition, not a prediction."
+      },
+      {
+       "s": "The teacher agreed to move the test on condition that everyone came on Friday.",
+       "g": "Formal fixed phrase. Came is real past time here, not a step back from reality."
+      },
+      {
+       "s": "You can enter only if you are a student here.",
+       "g": "Necessary condition. Fronted and formal, it inverts: Only if you are a student here can you enter."
+      },
+      {
+       "s": "<s>I'll help you as long as you will help me.</s>",
+       "g": "Will does not mark plain future in the condition clause. Correct: as long as you help me."
+      }
+     ]
+    }
+   },
+   "thai": "ตราบใดที่ = as long as: a deal with one condition.",
+   "items": [
+    {
+     "id": "w6l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Mum",
+       "text": "Fern, you can go to the concert as long as you're home by ten."
+      }
+     ],
+     "stem": "What is Mum doing?",
+     "options": [
+      "Refusing, because ten is too late.",
+      "Giving permission with no conditions.",
+      "Telling Fern how long the concert lasts.",
+      "Giving permission with one condition."
+     ],
+     "answer": 3,
+     "near": 2,
+     "fb": [
+      "She says you can go. The answer is yes, with a rule attached.",
+      "As long as adds a condition: home by ten. Without that, the yes disappears.",
+      "Here as long as is not about time. It sets the deal: yes, but only if you're home by ten.",
+      "Yes: as long as makes a bargain. Fern may go, but only if she is home by ten."
+     ],
+     "hint": "Is this a yes, a no, or a yes with a rule?",
+     "why": "As long as means only if: Mum says yes, and being home by ten is the one condition."
+    },
+    {
+     "id": "w6l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Which sentence means the same as this? <em>You can borrow my camera, but you must give it back on Monday.</em>",
+     "options": [
+      "You can borrow my camera unless you give it back on Monday.",
+      "You can borrow my camera provided you give it back on Monday.",
+      "You can borrow my camera because you give it back on Monday.",
+      "You can borrow my camera so that you give it back on Monday."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Unless makes giving it back the thing that stops the loan. That is the reverse of the deal.",
+      "Yes: provided makes a bargain. Giving it back on Monday is the condition for borrowing.",
+      "Because gives a reason that is already true. Here giving it back is a condition for the future.",
+      "So that gives a purpose. Giving it back is the condition for the loan, not its purpose."
+     ],
+     "hint": "Is giving it back the condition for the loan, or the thing that stops it?",
+     "why": "But you must states a condition. Provided means only if, so it keeps the bargain."
+    },
+    {
+     "id": "w6l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Poster",
+       "text": "Students can enter the art contest only if they are under 16."
+      }
+     ],
+     "stem": "Jane is 16 and Fern is 14. Who can enter?",
+     "options": [
+      "Both girls.",
+      "Jane, but not Fern.",
+      "Fern, but not Jane.",
+      "Neither girl."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Only if gives a condition nobody can skip. Jane is 16, which is not under 16.",
+      "Check the ages again: under 16 means 15 or younger.",
+      "Yes: only if names the one necessary condition, and only Fern meets it.",
+      "One of them is 14, so she meets the condition."
+     ],
+     "hint": "Only if names the one condition you cannot skip. Who meets it?",
+     "why": "Only if gives the necessary condition. Fern is under 16, so she can enter; Jane, at 16, cannot."
+    },
+    {
+     "id": "w6l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Fah can join the school trip ___ her parents sign the form by Friday.",
+     "options": [
+      "provide that",
+      "provided to",
+      "provided that",
+      "providing for"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Close, but the connector is provided or providing, not the plain verb provide.",
+      "After provided comes that or nothing, then a subject and a verb. Not to.",
+      "Yes: provided that, then a clause with a present verb.",
+      "Providing can take that, not for. Then it needs a subject and a verb."
+     ],
+     "hint": "Which forms of this word work as connectors, and what small word may follow?",
+     "why": "The connector is provided (that) or providing (that), followed by a clause: her parents sign."
+    },
+    {
+     "id": "w6l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "How did you get to stay in the library after five yesterday?"
+      }
+     ],
+     "stem": "The librarian let us stay ___ we kept quiet.",
+     "options": [
+      "on condition if",
+      "in condition that",
+      "with condition of",
+      "on condition that"
+     ],
+     "answer": 3,
+     "near": 1,
+     "fb": [
+      "The phrase ends in that, not if. On condition that already means if.",
+      "Nearly: the phrase starts with on, not in.",
+      "This phrase doesn't exist. The fixed frame starts with on and ends with that.",
+      "Yes: on condition that is the fixed, formal phrase for a deal."
+     ],
+     "hint": "This formal phrase is fixed. Which word starts it and which word ends it?",
+     "why": "On condition that is a fixed phrase. It is followed by a clause: we kept quiet."
+    },
+    {
+     "id": "w6l2-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Dad says we [[can have]] the party in the garden [[providing]] the weather [[will stay]] dry [[until]] the evening.",
+     "answer": 2,
+     "fix": "stays",
+     "fb": [
+      "This part is fine: can gives permission in the result half.",
+      "This part is fine: providing means only if, with or without that.",
+      "Yes, this is the mistake: no will after providing. The present shows the future: the weather stays dry.",
+      "This part is fine: until the evening says how long."
+     ],
+     "hint": "These words follow the same tense rule as if. Check the verb after the connector.",
+     "why": "After providing, the present shows the future: providing the weather stays dry, not will stay."
+    },
+    {
+     "id": "w6l2-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "You can stay up late ___ get up on time tomorrow.",
+     "given": "You can stay up late, but you must get up on time tomorrow.",
+     "keyword": "LONG",
+     "accept": [
+      "as long as you",
+      "so long as you"
+     ],
+     "model": "as long as you",
+     "hint": "Build the bargain phrase around the key word, then add the subject. No must is needed.",
+     "why": "As long as means only if. It replaces but you must, and the present get up shows the future."
+    },
+    {
+     "id": "w6l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "I'll lend you my umbrella ___ it back tomorrow.",
+     "given": "I'll lend you my umbrella, but only if you give it back tomorrow.",
+     "keyword": "PROVIDED",
+     "accept": [
+      "provided you give",
+      "provided that you give"
+     ],
+     "model": "provided you give",
+     "hint": "After the key word: that or nothing, then subject and verb. Which tense for tomorrow?",
+     "why": "Provided (that) means only if. The verb after it stays in the present for the future: you give."
+    }
+   ]
+  },
+  {
+   "id": "w6l3",
+   "name": "in case (and why it is not if)",
+   "cefr": "B2",
+   "ctype": "conn",
+   "gateway": "pp.72–73",
+   "formula": {
+    "if": "action now + in case + present (after a past action: in case + past)",
+    "result": "the precaution comes first; the possible event comes later"
+   },
+   "uses": [
+    {
+     "use": "Taking a precaution",
+     "ex": "I'll take a book in case the queue is long."
+    },
+    {
+     "use": "Giving advice",
+     "ex": "Write your name on it in case you lose it."
+    },
+    {
+     "use": "Explaining why you got ready",
+     "ex": "I saved the file twice in case my laptop crashed."
+    },
+    {
+     "use": "Keeping it short",
+     "ex": "I'll bring some extra cash, just in case."
+    },
+    {
+     "use": "On notices, with of and a noun",
+     "ex": "In case of fire, use the stairs."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "In case means do it now to be ready, because something might happen later.",
+     "body": [
+      "<b>In case</b> is for a precaution (something you do early to be safe). You act now, before anything happens, because maybe it will. <em>Take an umbrella in case it rains.</em> You take the umbrella first. Later it rains, or it doesn't. Either way, you are ready.",
+      "This is the umbrella test. Ask: do I do the action before the possible event? If yes, use in case. In case does not mean if. <em>Take an umbrella if it rains</em> means wait: take it only when the rain comes. With if, the action follows the event. With in case, the action comes first.",
+      "After in case, use the present for the future. Do not use will. Say <em>in case we get hungry</em>, not <s>in case we will get hungry</s>. When the action is in the past, use the past after in case too: <em>I wrote the address down in case I forgot it.</em> Maybe I forgot it, maybe not.",
+      "A sentence with <em>because … might</em> can often change to in case. <em>Charge your phone because the trip might be long</em> becomes <em>Charge your phone in case the trip is long.</em> The word might goes away. People also say <em>just in case</em> at the end of a sentence, with nothing after it.",
+      "On signs you will see <b>in case of</b> plus a noun (a thing word): <em>In case of fire, use the stairs.</em> This one does mean \"if there is a fire\". It is formal and is for notices. Do not put a subject and a verb after in case of."
+     ],
+     "examples": [
+      {
+       "s": "Take an umbrella in case it rains.",
+       "g": "Take it now, before any rain. Maybe it rains, maybe not."
+      },
+      {
+       "s": "Take an umbrella if it rains.",
+       "g": "A different meaning: wait, and take it only when it is raining."
+      },
+      {
+       "s": "I wrote the address down in case I forgot it.",
+       "g": "A past action, so the past after in case. Forgetting was only a maybe."
+      },
+      {
+       "s": "<s>I'll bring snacks in case we will get hungry.</s>",
+       "g": "Wrong: no will after in case. Say: in case we get hungry."
+      },
+      {
+       "s": "In case of fire, use the stairs.",
+       "g": "A sign. In case of plus a noun means: if there is a fire."
+      }
+     ]
+    },
+    "B2": {
+     "key": "In case means you do something now as a precaution, because something might happen later; it does not mean if.",
+     "body": [
+      "<b>In case</b> introduces a precaution: you do something in advance because an event is possible. <em>Take an umbrella in case it rains.</em> The umbrella goes into the bag before anyone knows about the rain. Whether it rains or not, the action has already happened.",
+      "That is the umbrella test: if the action comes before the possible event, in case is right. It is not a synonym of if. <em>Take an umbrella if it rains</em> tells you to wait and take it only once the rain has started. With if, the action depends on the event; with in case, it depends only on the possibility.",
+      "After in case, a present form shows the future, and will is not used: <em>in case we get hungry</em>, not <s>in case we will get hungry</s>. When the precaution was taken in the past, the verb after in case is past as well: <em>I wrote the address down in case I forgot it.</em> The sentence does not say whether I forgot it.",
+      "A reason with <em>because … might</em> can usually be rewritten with in case: <em>Charge your phone because the trip might be long</em> becomes <em>Charge your phone in case the trip is long.</em> Notice that might disappears. In speech, <em>just in case</em> often ends a sentence with nothing after it.",
+      "Do not confuse it with <b>in case of</b>, which is followed by a noun and belongs on notices: <em>In case of fire, use the stairs.</em> That phrase does mean \"if there is a fire\". It cannot be followed by a clause, and in case cannot be followed by a noun alone."
+     ],
+     "examples": [
+      {
+       "s": "Take an umbrella in case it rains.",
+       "g": "A precaution: the action comes first; rain is only possible. Present form for the future."
+      },
+      {
+       "s": "Take an umbrella if it rains.",
+       "g": "Not a precaution: the action waits for the event."
+      },
+      {
+       "s": "I wrote the address down in case I forgot it.",
+       "g": "Past precaution, past verb after in case. We don't know whether I forgot it."
+      },
+      {
+       "s": "<s>I'll bring snacks in case we will get hungry.</s>",
+       "g": "No will after in case. Correct: I'll bring snacks in case we get hungry."
+      },
+      {
+       "s": "In case of fire, use the stairs.",
+       "g": "Notice language: in case of plus a noun means if there is. Different from in case plus a clause."
+      }
+     ]
+    },
+    "C1": {
+     "key": "In case links a precaution to a merely possible later event, so the action never depends on the event actually happening.",
+     "body": [
+      "<b>In case</b> gives the reason for a precaution: the action is taken in advance because an event is possible. In <em>Take an umbrella in case it rains</em>, the taking is unconditional; only the rain is uncertain. The clause answers \"why do it now?\", not \"under what condition?\".",
+      "That is the difference from if, and the umbrella test captures it. <em>Take an umbrella if it rains</em> makes the action wait for the event. In British English and in exams, the two are not interchangeable. In American English, in case is also heard with the meaning of if; recognise it, but do not write it.",
+      "The clause refers to a possible future seen from the time of the precaution, and it follows the usual rule: a present form, not will, as in <em>in case we get hungry</em>. After a past precaution the verb is past, and the outcome stays open: <em>I wrote the address down in case I forgot it.</em> Formal writing sometimes adds should: <em>in case it should rain</em>.",
+      "Because the idea is \"because this might happen\", sentences with <em>because … might</em> convert neatly, and might drops out: <em>Charge your phone in case the trip is long.</em> The in case clause normally follows the main clause. <em>Just in case</em> can stand alone at the end, leaving the possible event unsaid.",
+      "<b>In case of</b> plus a noun is a different item. On notices it means \"if there is\": <em>In case of fire, use the stairs.</em> So the noun form is conditional while the clause form is a precaution, which is exactly why learners mix them up. Neither frame accepts what follows the other."
+     ],
+     "examples": [
+      {
+       "s": "Take an umbrella in case it rains.",
+       "g": "The taking is unconditional; only the rain is uncertain. Passes the umbrella test."
+      },
+      {
+       "s": "Take an umbrella if it rains.",
+       "g": "Conditional, not a precaution: the action depends on the rain actually falling."
+      },
+      {
+       "s": "I wrote the address down in case I forgot it.",
+       "g": "The possibility is seen from the past moment of the precaution, so the verb is past. Whether it happened is left open."
+      },
+      {
+       "s": "<s>I'll bring snacks in case we will get hungry.</s>",
+       "g": "Will does not appear in the in case clause. Correct: in case we get hungry."
+      },
+      {
+       "s": "In case of fire, use the stairs.",
+       "g": "The noun form is conditional and formal; it is not the precaution clause."
+      }
+     ]
+    }
+   },
+   "thai": "เผื่อ = in case. Get ready now, because maybe.",
+   "items": [
+    {
+     "id": "w6l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "I'm taking my power bank to the concert in case my phone dies."
+      }
+     ],
+     "stem": "When does Pim put the power bank in her bag?",
+     "options": [
+      "Later, only when her phone dies.",
+      "Now, before anything goes wrong.",
+      "After the concert, back at home.",
+      "Never, as her phone will be fine."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "That would be if. With in case, she doesn't wait for the problem.",
+      "Yes: in case is a precaution. She acts first, because the phone might die.",
+      "A precaution after the event is too late. In case means before.",
+      "She doesn't know that. In case means maybe, so she gets ready."
+     ],
+     "hint": "Run the umbrella test: which comes first, the action or the possible problem?",
+     "why": "In case marks a precaution: the action comes first, because the problem might happen later."
+    },
+    {
+     "id": "w6l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Which instruction means: put a mask in your bag before you leave, because the haze may get worse?",
+     "options": [
+      "Carry a mask if the haze gets worse.",
+      "Carry a mask when the haze gets worse.",
+      "Carry a mask unless the haze gets worse.",
+      "Carry a mask in case the haze gets worse."
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "With if, you wait: the mask comes out only once the haze is worse.",
+      "When says the haze will certainly get worse, and the mask waits until then.",
+      "Unless would mean: carry it, except if the haze gets worse. That makes no sense.",
+      "Yes: in case means do it now, to be ready for a maybe."
+     ],
+     "hint": "Does the action come before the possible event or after it?",
+     "why": "Before you leave, because it may happen: that is a precaution, and in case is the precaution word."
+    },
+    {
+     "id": "w6l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Nan",
+       "text": "I took a jacket in case the cinema was cold."
+      }
+     ],
+     "stem": "What do we know?",
+     "options": [
+      "Nan took a jacket. Was it cold? We can't tell.",
+      "Nan took a jacket only after she felt cold.",
+      "Nan didn't take a jacket, and she was cold.",
+      "The cinema was freezing, so Nan bought a jacket there."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: taking the jacket is a fact; the cold was only a possibility.",
+      "That would be if or when. With in case, she took it first, as a precaution.",
+      "She says I took a jacket. That part is a fact.",
+      "In case doesn't tell us it was cold, and took is not bought."
+     ],
+     "hint": "Which part really happened, and which part was only a maybe?",
+     "why": "The precaution, taking the jacket, happened. In case only says cold was possible, not that it happened."
+    },
+    {
+     "id": "w6l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fern",
+       "text": "The bus leaves in ten minutes, and the app shows a small chance of storms on the walk."
+      }
+     ],
+     "stem": "I'm packing a second pair of socks now ___ my shoes get wet.",
+     "options": [
+      "if",
+      "in case",
+      "unless",
+      "as soon as"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "If would make the packing wait for wet shoes. She is packing now, before the walk.",
+      "Yes: she acts now because wet shoes are possible later. That is the umbrella test.",
+      "Unless means except if. Wet shoes are a reason to pack the socks, not to stop.",
+      "As soon as would make her wait until the shoes are wet. She is packing now."
+     ],
+     "hint": "She acts now. Is the event certain, or only possible later?",
+     "why": "Fern packs before the walk because wet shoes are possible: a precaution, so in case."
+    },
+    {
+     "id": "w6l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Notice on the school gate: ___ heavy rain, sports day will move to the hall.",
+     "options": [
+      "In case",
+      "In case of",
+      "In case that",
+      "In the case"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "In case needs a subject and a verb after it. Heavy rain is a noun phrase.",
+      "Yes: on a notice, in case of plus a noun means if there is.",
+      "In case that is not used. Before a noun, the notice form has of.",
+      "In the case would need of, and it talks about one example. It doesn't make a condition."
+     ],
+     "hint": "What follows the gap: a subject and a verb, or a noun phrase?",
+     "why": "Heavy rain is a noun phrase, so the notice form in case of is needed. It means if there is."
+    },
+    {
+     "id": "w6l3-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "[[Take]] a jumper to the exam tomorrow [[in case]] the hall [[will be]] cold [[again]].",
+     "answer": 2,
+     "fix": "is",
+     "fb": [
+      "This part is fine: an imperative gives the advice.",
+      "This part is fine: the jumper is a precaution, so in case fits.",
+      "Yes, this is the mistake: no will after in case. Use the present: in case the hall is cold.",
+      "This part is fine: again tells us it was cold before."
+     ],
+     "hint": "Check the verb after in case. Which tense shows the future there?",
+     "why": "After in case, the present shows the future: in case the hall is cold, not will be."
+    },
+    {
+     "id": "w6l3-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Save your essay now ___ off.",
+     "given": "Save your essay now because the power might go off.",
+     "keyword": "CASE",
+     "accept": [
+      "in case the power goes",
+      "in case the power should go"
+     ],
+     "model": "in case the power goes",
+     "hint": "Because … might becomes the precaution phrase. Which tense follows it?",
+     "why": "Because it might happen is a precaution, so in case. After it, the present shows the future: goes."
+    },
+    {
+     "id": "w6l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "I bought two sandwiches ___ hungry.",
+     "given": "I bought two sandwiches because I thought Ploy might be hungry.",
+     "keyword": "CASE",
+     "accept": [
+      "in case Ploy was",
+      "in case she was",
+      "in case Ploy got",
+      "in case she got"
+     ],
+     "model": "in case Ploy was",
+     "hint": "The buying is in the past. Which tense follows the precaution phrase then?",
+     "why": "The precaution is in the past, so the verb after in case is past too: in case Ploy was hungry."
+    }
+   ]
+  },
+  {
+   "id": "w6l4",
+   "name": "even if, even though, whether or not, otherwise, or (else)",
+   "cefr": "B2",
+   "ctype": "conn",
+   "formula": {
+    "if": "even if + maybe / even though + fact / whether or not + either way",
+    "result": "the result does not change; otherwise / or (else) + what happens if not"
+   },
+   "uses": [
+    {
+     "use": "Showing determination",
+     "ex": "I'm going to the match even if I have to stand."
+    },
+    {
+     "use": "Admitting a fact that changed nothing",
+     "ex": "Even though the queue was long, we waited for bubble tea."
+    },
+    {
+     "use": "Saying it makes no difference",
+     "ex": "The trip is on whether or not it's sunny."
+    },
+    {
+     "use": "A warning with otherwise",
+     "ex": "Leave now; otherwise you'll be stuck in traffic."
+    },
+    {
+     "use": "A warning with or",
+     "ex": "Wear your helmet, or Dad won't let you ride."
+    },
+    {
+     "use": "A promise with and",
+     "ex": "Help me carry these and I'll buy you an ice cream."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Even though is for a fact, even if is for a maybe, and otherwise and or mean if not.",
+     "body": [
+      "<b>Even if</b> and <b>even though</b> both say: this will not change the result. The difference is truth. Use the truth test. Is the thing a fact (really true)? Use even though. Is it only a maybe? Use even if. <em>Even though it rained yesterday</em>: it did rain. <em>Even if it rains tomorrow</em>: nobody knows yet.",
+      "After even if, use the present for the future, with no will: <em>even if it rains</em>. Even if can also be imagined, one step back: <em>Even if I had wings, I'd still be late.</em> Truth: I don't have wings. Never use even alone as a joining word. <s>Even it rains</s> is wrong.",
+      "<b>Whether or not</b> means: both answers give the same result. <em>I'm joining the club whether or not my friends join.</em> They join: I join. They don't join: I still join. You can also split it: <em>whether my friends join or not</em>. Use the present for the future here too.",
+      "<b>Otherwise</b> means \"if not\". It starts a new idea, so put a full stop or a semicolon before it. <em>Finish your homework now; otherwise you'll be up late.</em> That means: if you don't finish it now, you'll be up late. Otherwise can also start a new sentence, with a comma after it.",
+      "<b>Or</b> and <b>or else</b> do the same job after an order (an imperative): <em>Hurry up, or we'll miss the train.</em> That means: if you don't hurry, we'll miss it. Here a comma is enough. And is the opposite: <em>Hurry up and we'll catch it</em> means if you do."
+     ],
+     "examples": [
+      {
+       "s": "Even if it rains tomorrow, we'll go to the market.",
+       "g": "Rain tomorrow is a maybe. It will not change the plan."
+      },
+      {
+       "s": "Even though it rained yesterday, we went to the market.",
+       "g": "The rain was a fact. We went anyway."
+      },
+      {
+       "s": "I'm joining the club whether or not my friends join.",
+       "g": "They join or they don't. Either way, I join."
+      },
+      {
+       "s": "Finish your homework now; otherwise you'll be up late.",
+       "g": "Otherwise means: if you don't finish it now."
+      },
+      {
+       "s": "Hurry up, or we'll miss the train.",
+       "g": "An order plus or means: if you don't hurry."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Even though goes with a fact and even if with a maybe; whether or not means either way; otherwise and or mean if not.",
+     "body": [
+      "<b>Even if</b> and <b>even though</b> both say that something will not change the result. The truth test separates them. If the thing is a fact, use even though: <em>Even though it rained yesterday, we went to the market.</em> If it is only possible, or imagined, use even if: <em>Even if it rains tomorrow, we'll go.</em>",
+      "Even if follows the grammar of if: a present form for the future, with no will, and a past form for an imagined situation, as in <em>Even if I had wings, I'd still be late.</em> Truth: I have no wings. Even though can take any tense, because it reports a fact. Even on its own cannot join two clauses: <s>Even it rains</s> is wrong.",
+      "<b>Whether or not</b> means that both possibilities lead to the same result: <em>I'm joining the club whether or not my friends join.</em> The words or not can also go at the end: <em>whether my friends join or not</em>. It takes a present form for the future.",
+      "<b>Otherwise</b> means \"if not\", pointing back to what was just said. It begins a new clause, so it follows a full stop or a semicolon, not a comma alone: <em>Finish your homework now; otherwise you'll be up late.</em> In other words, if you don't finish it now, you'll be up late. At the start of a new sentence it is followed by a comma.",
+      "After an imperative, <b>or</b> and <b>or else</b> do the same job with just a comma: <em>Hurry up, or we'll miss the train</em> means \"if you don't hurry\". An imperative plus and is the positive twin: <em>Hurry up and we'll catch it</em> means \"if you do\". These are conditionals without if, and they are common in warnings and advice."
+     ],
+     "examples": [
+      {
+       "s": "Even if it rains tomorrow, we'll go to the market.",
+       "g": "Truth test: tomorrow's rain is only possible, so even if. Present form, no will."
+      },
+      {
+       "s": "Even though it rained yesterday, we went to the market.",
+       "g": "Truth test: it did rain, so even though. The fact didn't stop us."
+      },
+      {
+       "s": "I'm joining the club whether or not my friends join.",
+       "g": "Both possibilities give the same result. Also: whether my friends join or not."
+      },
+      {
+       "s": "Finish your homework now; otherwise you'll be up late.",
+       "g": "Otherwise means if not, after a semicolon or full stop."
+      },
+      {
+       "s": "Hurry up, or we'll miss the train.",
+       "g": "Imperative plus or: a conditional without if, meaning if you don't hurry."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Even if and whether or not say a condition makes no difference to the result; even though concedes a fact; otherwise and or state the negative condition without if.",
+     "body": [
+      "<b>Even if</b> and <b>even though</b> both say the result holds in spite of something. They differ in what they assume. Even though takes a fact for granted: <em>Even though it rained yesterday, we went to the market.</em> Even if leaves the matter open or imagined: <em>Even if it rains tomorrow, we'll go.</em> The truth test, fact or maybe, decides.",
+      "Even if is conditional, so it obeys the conditional rules: a present form for the future, no will, and one step back for an imagined case, as in <em>Even if I had wings, I'd still be late</em>; truth: no wings. Even though is not conditional and takes whatever tense the fact needs. Even by itself is an adverb, never a conjunction, so <s>Even it rains</s> fails.",
+      "<b>Whether or not</b> names both alternatives and declares that neither matters: <em>I'm joining the club whether or not my friends join</em>, or <em>whether my friends join or not</em>. It behaves like even if applied to both branches at once. Because the result is asserted in every case, <em>then</em> is not used after it, or after even if.",
+      "<b>Otherwise</b> is an adverb meaning \"if not\", so it cannot join clauses by itself. It needs a full stop or semicolon before it: <em>Finish your homework now; otherwise you'll be up late.</em> A comma alone is common in casual writing but is best avoided in exams. The result after it can be real, with will, or imagined, with would.",
+      "<b>Or</b> and <b>or else</b> after an imperative make a compact negative conditional: <em>Hurry up, or we'll miss the train.</em> With and, the same frame is a positive conditional used for promises and threats: <em>Hurry up and we'll catch it.</em> Much real conditional meaning in speech travels in these forms, with no if at all."
+     ],
+     "examples": [
+      {
+       "s": "Even if it rains tomorrow, we'll go to the market.",
+       "g": "An open condition that makes no difference to the result. Present for the future."
+      },
+      {
+       "s": "Even though it rained yesterday, we went to the market.",
+       "g": "Concession of a fact; not a conditional, so any tense the fact needs."
+      },
+      {
+       "s": "I'm joining the club whether or not my friends join.",
+       "g": "Both branches are named and set aside; the result holds in each."
+      },
+      {
+       "s": "Finish your homework now; otherwise you'll be up late.",
+       "g": "An adverb standing for the negative condition; hence the semicolon, not a comma alone."
+      },
+      {
+       "s": "Hurry up, or we'll miss the train.",
+       "g": "Imperative plus or: a negative conditional with no if, typical of spoken warnings."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w6l4-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Bam",
+       "text": "Even though I revised all weekend, I'm nervous about the test."
+      }
+     ],
+     "stem": "Did Bam revise at the weekend?",
+     "options": [
+      "Maybe: nobody knows yet.",
+      "No: she only imagines it.",
+      "Yes, she did: it is a fact.",
+      "Not yet: it is her plan for later."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Maybe would need even if. Even though tells us it is true.",
+      "An imagined weekend would need even if and a step back. This is real.",
+      "Yes: even though introduces a fact. She revised, and she is still nervous.",
+      "Revised is past and real here. The weekend is over."
+     ],
+     "hint": "Run the truth test on the first half.",
+     "why": "Even though introduces a fact, so Bam really revised. The fact just doesn't change her feeling."
+    },
+    {
+     "id": "w6l4-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "The match starts at nine whether or not it's hot."
+      }
+     ],
+     "stem": "What happens if it is very hot?",
+     "options": [
+      "The match is cancelled.",
+      "The match still starts at nine.",
+      "The match moves to a cooler time.",
+      "The coach decides on the day."
+     ],
+     "answer": 1,
+     "near": 2,
+     "fb": [
+      "Whether or not means the heat changes nothing.",
+      "Yes: hot or not hot, the result is the same.",
+      "That would be a change. Whether or not says both cases give the same result.",
+      "The coach has already decided: nine, either way."
+     ],
+     "hint": "Whether or not covers two cases. What happens in each?",
+     "why": "Whether or not means either way: hot or not, the match starts at nine."
+    },
+    {
+     "id": "w6l4-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Which sentence means the same as this? <em>Set an alarm; otherwise you'll sleep through the first lesson.</em>",
+     "options": [
+      "If you set an alarm, you'll sleep through the first lesson.",
+      "Even though you set an alarm, you'll sleep through the first lesson.",
+      "Unless you sleep through the first lesson, set an alarm.",
+      "If you don't set an alarm, you'll sleep through the first lesson."
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Otherwise means if not. This sentence blames the alarm for the sleeping.",
+      "Even though means the alarm makes no difference. The speaker thinks it does.",
+      "This mixes up the two halves: the alarm is the condition, sleeping is the result.",
+      "Yes: otherwise stands for if you don't do that."
+     ],
+     "hint": "Otherwise points back to the first half. Does it mean if you do, or if you don't?",
+     "why": "Otherwise means if not: if you don't set an alarm, you'll sleep through the lesson."
+    },
+    {
+     "id": "w6l4-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Jane",
+       "text": "The ticket prices come out on Friday. Nobody knows yet how much they'll be."
+      }
+     ],
+     "stem": "___ they cost a lot, I'm going to that concert.",
+     "options": [
+      "Even though",
+      "Even",
+      "Even if",
+      "Whether"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Even though needs a fact. The prices aren't known yet, so it is still a maybe.",
+      "Even alone can't join two clauses. It needs if or though.",
+      "Yes: the price is a maybe, and it won't change her plan.",
+      "Whether needs both possibilities named: whether or not they cost a lot."
+     ],
+     "hint": "Truth test: is the price a fact yet, or still a maybe?",
+     "why": "The prices are unknown, so the condition is only possible: even if, not even though."
+    },
+    {
+     "id": "w6l4-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "Praew was ill yesterday. She coughed all through the listening test."
+      }
+     ],
+     "stem": "She still got full marks ___ she had a terrible cold.",
+     "options": [
+      "even if",
+      "whether or not",
+      "otherwise",
+      "even though"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Even if is for a maybe. Fah knows Praew was ill: the cold was real.",
+      "Whether or not covers two possibilities. Here there is one known fact.",
+      "Otherwise means if not, and it starts a new clause about what happens then.",
+      "Yes: the cold was a fact, and it didn't stop her."
+     ],
+     "hint": "Truth test: do we know she had a cold?",
+     "why": "The cold really happened, so the fact word is needed: even though."
+    },
+    {
+     "id": "w6l4-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "I [[am going]] to finish this drawing tonight [[even if]] it [[will take]] me [[until]] midnight.",
+     "answer": 2,
+     "fix": "takes",
+     "fb": [
+      "This part is fine: am going to shows her plan.",
+      "This part is fine: how long it takes is a maybe, so even if fits.",
+      "Yes, this is the mistake: no will after even if. The present shows the future: it takes.",
+      "This part is fine: until midnight gives the time limit."
+     ],
+     "hint": "Even if follows the same tense rule as if.",
+     "why": "After even if, the present shows the future: even if it takes me until midnight."
+    },
+    {
+     "id": "w6l4-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Put your phone on silent, ___ the teacher will take it away.",
+     "options": [
+      "and",
+      "so",
+      "or",
+      "unless"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "And after an order means if you do. Silence doesn't make the teacher take the phone.",
+      "So gives a result of doing it. The teacher takes the phone if you don't.",
+      "Yes: an order plus or means if you don't do it, this will happen.",
+      "Unless would need a present verb after it, not will, and the meaning gets tangled."
+     ],
+     "hint": "Does the second half happen if you do it, or if you don't?",
+     "why": "An imperative plus or means if you don't: if you don't silence it, the teacher will take it."
+    },
+    {
+     "id": "w6l4-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "The school fair is on this Saturday ___ rains.",
+     "given": "Rain or no rain, the school fair is on this Saturday.",
+     "keyword": "WHETHER",
+     "accept": [
+      "whether or not it"
+     ],
+     "model": "whether or not it",
+     "hint": "Either way, same result. Build the phrase around the key word, then add a subject.",
+     "why": "Whether or not means either way. It is followed by a clause in the present: it rains."
+    }
+   ]
+  },
+  {
+   "id": "w6l5",
+   "name": "suppose / supposing, what if, imagine, assuming (that); when vs if",
+   "cefr": "B2",
+   "ctype": "conn",
+   "formula": {
+    "if": "Suppose / Supposing / What if / Imagine + present (real possibility), past (imagined), had + V3 (imagined past)",
+    "result": "What will you do? / What would you do? / What would you have done?"
+   },
+   "uses": [
+    {
+     "use": "Worrying about a real possibility",
+     "ex": "What if the shop is closed when we get there?"
+    },
+    {
+     "use": "Making a gentle suggestion",
+     "ex": "What if we met at the BTS station instead?"
+    },
+    {
+     "use": "Daydreaming",
+     "ex": "Imagine you had your own café. What would you sell?"
+    },
+    {
+     "use": "Looking back at a past that didn't happen",
+     "ex": "Suppose you had lost your ticket. What would you have done?"
+    },
+    {
+     "use": "Planning on something you expect",
+     "ex": "Assuming the rain stops, we'll walk to the market."
+    },
+    {
+     "use": "Sure or maybe",
+     "ex": "When I get home, I'll call you. If I'm late, start without me."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "After suppose, what if and imagine, the present is real and the past is imagined; when is sure, if is maybe.",
+     "body": [
+      "<b>Suppose</b>, <b>supposing</b>, <b>what if</b> and <b>imagine</b> invite someone to picture a situation. The verb after them shows how real it is. Use the present for a real possibility: <em>What if the bus doesn't come?</em> It could really happen. Do not use will or would after these words.",
+      "Use the past for an imagined situation. This is one step back from reality: past form, not past time. <em>Imagine you could fly.</em> Truth: you can't. With what if, the past also makes a gentle suggestion: <em>What if we went by boat instead?</em> It is softer than \"Let's go by boat\".",
+      "Use had plus the past participle (V3) for an imagined past. This is two steps back. <em>Suppose you had missed the flight. What would you have done?</em> Truth: you didn't miss it. The question after it matches: will for real, would for imagined, would have for an imagined past.",
+      "<b>Assuming (that)</b> means \"if this is true, and I think it is\". Use it to plan. <em>Assuming the tickets arrive tomorrow, we'll meet at six.</em> Use the present after it for the future. Supposing and assuming can take <b>that</b>, or not.",
+      "<b>When</b> or <b>if</b>? Use when for something you are sure will happen. Use if for a maybe. <em>When I get home, I'll call you</em>: I will get home. <em>If I get home early, I'll call you</em>: perhaps I won't be early. Both take the present for the future."
+     ],
+     "examples": [
+      {
+       "s": "What if the bus doesn't come?",
+       "g": "Present: a real worry. It could really happen."
+      },
+      {
+       "s": "What if we went by boat instead?",
+       "g": "Past form, not past time. A gentle idea. Truth: we haven't chosen the boat."
+      },
+      {
+       "s": "Imagine you could fly. Where would you go?",
+       "g": "One step back: can becomes could. Truth: you can't fly."
+      },
+      {
+       "s": "Suppose you had missed the flight. What would you have done?",
+       "g": "Two steps back for an imagined past. Truth: you didn't miss the flight."
+      },
+      {
+       "s": "Assuming the tickets arrive tomorrow, we'll meet at six.",
+       "g": "I think the tickets will arrive, so I plan on it. Present after assuming."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Suppose, supposing, what if and imagine take the present for a real possibility, the past for an imagined one and had plus V3 for an imagined past; when is for the expected, if for the possible.",
+     "body": [
+      "<b>Suppose</b>, <b>supposing</b>, <b>what if</b> and <b>imagine</b> invite the listener to picture a situation. The verb form shows how real the speaker thinks it is. A present form means a real possibility, often a worry: <em>What if the bus doesn't come?</em> Will and would are not used after these words.",
+      "A past form means the situation is imagined: one step back from reality, past form but not past time. <em>Imagine you could fly.</em> Truth: you can't. With what if, the past form also makes a tentative suggestion: <em>What if we went by boat instead?</em> is softer and more polite than a direct proposal.",
+      "For an imagined past, step back twice: had plus the past participle (V3). <em>Suppose you had missed the flight. What would you have done?</em> Truth: you didn't miss it. The question that follows matches the scene: will for a real possibility, would for an imagined one, would have for an imagined past.",
+      "<b>Assuming (that)</b> is different in attitude: the speaker treats the condition as probably true and plans on it. <em>Assuming the tickets arrive tomorrow, we'll meet at six.</em> It takes a present form for the future. Supposing and assuming can both be followed by that.",
+      "<b>When</b> and <b>if</b> differ in certainty, not in grammar. When is for an event the speaker expects; if is for one that may or may not happen. <em>When I get home, I'll call you</em> takes getting home for granted. <em>If I get home early, I'll call you</em> does not. Both use a present form for the future."
+     ],
+     "examples": [
+      {
+       "s": "What if the bus doesn't come?",
+       "g": "Present form: a real possibility. No will after what if."
+      },
+      {
+       "s": "What if we went by boat instead?",
+       "g": "Past form for a tentative suggestion. Truth: we haven't decided to go by boat; it is only an idea."
+      },
+      {
+       "s": "Imagine you could fly. Where would you go?",
+       "g": "Imagined now: can steps back to could, and the question uses would. Truth: you can't fly."
+      },
+      {
+       "s": "Suppose you had missed the flight. What would you have done?",
+       "g": "Imagined past: had plus V3, then would have. Truth: you didn't miss the flight."
+      },
+      {
+       "s": "Assuming the tickets arrive tomorrow, we'll meet at six.",
+       "g": "The speaker expects the condition to be true and plans on it. Present form for the future."
+      }
+     ]
+    },
+    "C1": {
+     "key": "These openers set up a scenario, and the tense after them shows the speaker's stance: open possibility, imagined, or imagined past.",
+     "body": [
+      "<b>Suppose</b>, <b>supposing</b>, <b>what if</b> and <b>imagine</b> set up a scenario and leave the result to a following question or to the listener. The tense carries the speaker's stance. A present form treats the scenario as an open possibility: <em>What if the bus doesn't come?</em> As after if, will and would for a plain future are kept out of the scenario clause.",
+      "A past form marks distance from reality, not past time: <em>Imagine you could fly</em>; truth: you can't. The same distance works socially. <em>What if we went by boat instead?</em> is a suggestion made tentative by the step back, which leaves the listener free to refuse. The choice is a matter of stance, not of probability. After imagine and suppose, speakers sometimes keep the present even for an unreal scene; the past form marks the distance clearly, and it is the form exams expect.",
+      "An imagined past needs both steps, had plus the past participle (V3): <em>Suppose you had missed the flight. What would you have done?</em> Truth: you didn't miss it. The follow-up clause agrees with the scenario, so will, would and would have line up with the open, the imagined and the imagined past.",
+      "<b>Assuming (that)</b> signals that the speaker accepts the condition as a working premise: <em>Assuming the tickets arrive tomorrow, we'll meet at six.</em> In confidence it sits between when and if. It takes a present form for the future, and like supposing it may keep or drop that.",
+      "<b>When</b> and <b>if</b> share their grammar and differ in commitment. When presents the event as expected; if presents it as open. Compare <em>When I get home, I'll call you</em> with <em>If I get home early, I'll call you</em>. In general truths the two nearly merge, but for a single future event the choice tells the listener how sure you are."
+     ],
+     "examples": [
+      {
+       "s": "What if the bus doesn't come?",
+       "g": "Open possibility; the present form carries the future meaning."
+      },
+      {
+       "s": "What if we went by boat instead?",
+       "g": "The step back adds social distance: a suggestion that is easy to refuse. Truth: nothing is decided; the boat is only an idea."
+      },
+      {
+       "s": "Imagine you could fly. Where would you go?",
+       "g": "Imagined scenario with a matching would question. Truth: you can't fly."
+      },
+      {
+       "s": "Suppose you had missed the flight. What would you have done?",
+       "g": "Imagined past scenario with a would have question. Truth: you caught the flight."
+      },
+      {
+       "s": "Assuming the tickets arrive tomorrow, we'll meet at six.",
+       "g": "A working premise the speaker accepts; present form, no will."
+      }
+     ]
+    }
+   },
+   "thai": "สมมติว่า = suppose, imagine, what if.",
+   "items": [
+    {
+     "id": "w6l5-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Jane",
+       "text": "I'll message you when I finish my homework."
+      },
+      {
+       "who": "Fern",
+       "text": "I'll message you if I finish my homework."
+      }
+     ],
+     "stem": "Who is sure that she will finish her homework?",
+     "options": [
+      "Fern",
+      "Jane",
+      "Both of them",
+      "Neither of them"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "If shows doubt: Fern may not finish.",
+      "Yes: she uses the word for something the speaker expects to happen.",
+      "Only one of them uses the word for a sure event. Compare the two connectors.",
+      "One of them is sure. Which connector shows that the event is expected?"
+     ],
+     "hint": "One connector is for a sure event and one is for a maybe.",
+     "why": "When shows the speaker expects the event; if shows it is only possible. So Jane is the sure one."
+    },
+    {
+     "id": "w6l5-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "We'll never finish the science project by Friday."
+      },
+      {
+       "who": "Mook",
+       "text": "What if we asked Kru Ann for one more day?"
+      }
+     ],
+     "stem": "What is Mook doing?",
+     "options": [
+      "Describing what they did last week.",
+      "Suggesting an idea in a gentle way.",
+      "Worrying about a real danger.",
+      "Saying that Kru Ann has agreed."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The past form asked is not about past time here. It is one step back from reality.",
+      "Yes: what if plus a past form makes a soft, careful suggestion.",
+      "A worry would use the present: What if she says no?",
+      "Nobody has asked Kru Ann yet. It is only an idea."
+     ],
+     "hint": "The verb is past, but is the time past?",
+     "why": "What if plus a past form is a tentative suggestion: past form, not past time.",
+     "truth": "They haven't asked Kru Ann. It is only an idea."
+    },
+    {
+     "id": "w6l5-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Aunt",
+       "text": "Nan, supposing you had left your phone on the BTS last night, what would you have done?"
+      }
+     ],
+     "stem": "What is true about Nan's phone?",
+     "options": [
+      "She left it on the BTS last night.",
+      "She may well leave it on the BTS later tonight.",
+      "She didn't leave it on the BTS last night.",
+      "She has never taken it on the BTS."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Had left after supposing is two steps back: an imagined past, not a real one.",
+      "The time is last night, and the form is for an imagined past, not a future worry.",
+      "Yes: supposing plus had left imagines a past that didn't happen.",
+      "The sentence says nothing about that. It only imagines last night."
+     ],
+     "hint": "Two steps back after supposing: real past or imagined past?",
+     "why": "Supposing plus had and the past participle imagines a different past, so in reality it didn't happen.",
+     "truth": "Nan didn't leave her phone on the BTS last night."
+    },
+    {
+     "id": "w6l5-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fern",
+       "text": "Look at those dark clouds, and the school fair starts in an hour."
+      }
+     ],
+     "stem": "What if it ___ during the fair?",
+     "options": [
+      "will rain",
+      "rains",
+      "would rain",
+      "had rained"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "No will after what if. The present shows the future.",
+      "Yes: a real worry about a real possibility takes the present.",
+      "Would doesn't belong after what if here. For an imagined idea, use a past form.",
+      "Had rained imagines a past. The fair hasn't started yet."
+     ],
+     "hint": "Real possibility or imagined? Then check the tense rule after if.",
+     "why": "Dark clouds make rain a real possibility in the future, so what if takes the present: rains."
+    },
+    {
+     "id": "w6l5-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Mint",
+       "text": "Sadly, our school has no swimming pool."
+      }
+     ],
+     "stem": "What if we ___ one? We could swim every lunchtime!",
+     "options": [
+      "have",
+      "will have",
+      "would have",
+      "had"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "The school has no pool, so this is imagined. Imagined needs one step back.",
+      "No will after what if, and this is not a real plan.",
+      "Would goes in the result, not after what if.",
+      "Yes: one step back for something that is not true now. Past form, not past time."
+     ],
+     "hint": "Is it true now? If not, how many steps back?",
+     "why": "The school has no pool, so the situation is imagined now: one step back, have becomes had.",
+     "truth": "The school has no swimming pool now."
+    },
+    {
+     "id": "w6l5-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Imagine you [[have lost]] your voice [[before]] the speech contest last month. [[What]] [[would you have done]]?",
+     "answer": 0,
+     "fix": "had lost",
+     "fb": [
+      "Yes, this is the mistake: an imagined past needs two steps back: had lost.",
+      "This part is fine: before the contest gives the time.",
+      "This part is fine: what starts the question about the result.",
+      "This part is fine: would have done is the right result for an imagined past."
+     ],
+     "hint": "Last month, and it didn't happen. How many steps back?",
+     "why": "An imagined past after imagine needs had plus the past participle: had lost, not have lost."
+    },
+    {
+     "id": "w6l5-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Assuming that everyone ___ (be) on time tomorrow, the bus will leave at seven.",
+     "accept": [
+      "is"
+     ],
+     "model": "is",
+     "hint": "Which tense shows the future after a connector such as assuming?",
+     "why": "After assuming (that), the present shows the future: everyone is on time, with no will."
+    },
+    {
+     "id": "w6l5-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Cats can't talk, sadly. But suppose you ___ (can) talk to your cat. What would you ask her?",
+     "accept": [
+      "could",
+      "were able to",
+      "was able to"
+     ],
+     "model": "could",
+     "hint": "Not true now, so one step back on the verb in brackets.",
+     "why": "Talking to a cat is imagined, so can steps back once to could. The question uses would for the same reason.",
+     "truth": "You can't talk to your cat."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w6g",
+  "items": [
+   {
+    "id": "w6g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "conn",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Sign",
+      "text": "No swimming unless a lifeguard is on duty."
+     }
+    ],
+    "stem": "When can you swim?",
+    "options": [
+     "At any time, with or without a lifeguard.",
+     "Only when there is no lifeguard on duty.",
+     "Only when there is a lifeguard on duty.",
+     "Never: the pool is closed to swimmers."
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "Unless adds an exception to the no. The lifeguard matters.",
+     "That adds a second negative. The lifeguard is what makes swimming possible.",
+     "Yes: no swimming, except if a lifeguard is there.",
+     "Unless gives one exception to the no: a lifeguard on duty."
+    ],
+    "hint": "Except test: what is the one exception to the rule?",
+    "why": "Unless means except if: swimming is not allowed, except when a lifeguard is on duty."
+   },
+   {
+    "id": "w6g-2",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "conn",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Mint",
+      "text": "I'll bring a mat in case the grass is wet."
+     },
+     {
+      "who": "Jane",
+      "text": "I'll bring a mat if the grass is wet."
+     }
+    ],
+    "stem": "Who brings a mat for certain?",
+    "options": [
+     "Jane",
+     "Mint",
+     "Both of them",
+     "Neither of them"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "With if, Jane waits to see. Dry grass, no mat.",
+     "Yes: her mat is a precaution, so it goes in the bag before anyone knows about the grass.",
+     "Only one of them brings it whatever happens. Compare the two connectors.",
+     "One of them acts before she knows about the grass."
+    ],
+    "hint": "Umbrella test: who acts before she knows?",
+    "why": "In case means she brings it anyway, as a precaution. If means she brings it only when the grass is wet."
+   },
+   {
+    "id": "w6g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "conn",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Ploy",
+      "text": "Even if Nan says sorry, I'm not lending her my charger again."
+     }
+    ],
+    "stem": "What do we know?",
+    "options": [
+     "Nan has already said sorry.",
+     "Nan may or may not say sorry.",
+     "Nan will never say sorry.",
+     "Ploy will lend it if Nan says sorry."
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "A fact would need even though. Even if leaves it open.",
+     "Yes: even if is for a maybe, and it won't change Ploy's answer.",
+     "Even if doesn't say never. It says maybe, and that it makes no difference.",
+     "Even if means the result stays the same: no charger either way."
+    ],
+    "hint": "Truth test: fact or maybe?",
+    "why": "Even if marks a possibility, not a fact, and says the result stays the same either way."
+   },
+   {
+    "id": "w6g-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "conn",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Dad",
+      "text": "I'm not cleaning up after it. That's your job."
+     }
+    ],
+    "stem": "You can keep the kitten ___ you clean its litter tray yourself.",
+    "options": [
+     "unless",
+     "as long as",
+     "even though",
+     "otherwise"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "Unless would make cleaning the tray the thing that stops her keeping the kitten.",
+     "Yes: a bargain. Cleaning the tray is the condition for keeping the kitten.",
+     "Even though needs a fact that changes nothing. Here cleaning is the condition.",
+     "Otherwise means if not, and it starts a new clause after a full stop or semicolon."
+    ],
+    "hint": "Is cleaning the tray the condition for a yes, or the thing that stops it?",
+    "why": "Dad is making a deal: yes, but only if she cleans the tray. As long as states that bargain."
+   },
+   {
+    "id": "w6g-5",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "conn",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Fah",
+      "text": "Mum's flight has just landed, so she'll be home soon."
+     }
+    ],
+    "stem": "I'll ask her about the trip ___ she gets home.",
+    "options": [
+     "if",
+     "unless",
+     "when",
+     "supposing"
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "If shows doubt, but the flight has landed: she is certainly coming home.",
+     "Unless means except if. Her coming home doesn't stop the asking.",
+     "Yes: the event is expected, so it is a matter of time, not of maybe.",
+     "Supposing invites someone to picture a situation. This one is already certain."
+    ],
+    "hint": "Is her coming home sure, or only possible?",
+    "why": "Mum is certainly coming home, so the sure-event word is needed: when, not if."
+   },
+   {
+    "id": "w6g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "conn",
+    "cefr": "B2",
+    "stem": "Charge your phone tonight. ___, it will die during the trip tomorrow.",
+    "options": [
+     "Unless",
+     "Provided",
+     "Whether",
+     "Otherwise"
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "Unless needs its own clause after it. It can't stand alone before a comma.",
+     "Provided needs a clause and makes a bargain. This is a warning.",
+     "Whether needs two possibilities and a clause.",
+     "Yes: it means if you don't, and it can start a new sentence with a comma after it."
+    ],
+    "hint": "Which word means if not and can start a new sentence?",
+    "why": "Otherwise means if you don't do that. It starts a new sentence after a full stop."
+   },
+   {
+    "id": "w6g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "conn",
+    "cefr": "B2",
+    "stem": "You won't pass the swimming test unless you [[don't practise]] [[every]] week [[from]] now [[until]] June.",
+    "answer": 0,
+    "fix": "practise",
+    "fb": [
+     "Yes, this is the mistake: unless already carries the negative. Say unless you practise.",
+     "This part is fine: every week says how often.",
+     "This part is fine: from now gives the starting point.",
+     "This part is fine: until June gives the end point."
+    ],
+    "hint": "Count the negatives after unless.",
+    "why": "Unless means except if, so the verb after it stays positive: unless you practise."
+   },
+   {
+    "id": "w6g-8",
+    "type": "type",
+    "skill": "form",
+    "ctype": "conn",
+    "cefr": "B2",
+    "stem": "You may use the art room ___ up afterwards.",
+    "given": "You may use the art room, but you must tidy up afterwards.",
+    "keyword": "PROVIDING",
+    "accept": [
+     "providing you tidy",
+     "providing that you tidy"
+    ],
+    "model": "providing you tidy",
+    "hint": "After the key word: that or nothing, then subject and verb in the present.",
+    "why": "Providing (that) means only if. It replaces but you must, and the verb stays in the present: you tidy."
+   }
+  ]
+ }
+}

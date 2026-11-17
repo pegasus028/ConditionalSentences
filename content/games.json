@@ -1,0 +1,1336 @@
+{
+ "sorters": [
+  {
+   "id": "zerofirst",
+   "name": "Always or This Time?",
+   "unlock": "w2",
+   "blurb": "Tap \"Always true\" for a fact, habit or rule, or \"One future time\" for a single possible event still to come.",
+   "cats": [
+    {
+     "id": "always",
+     "label": "Always true (zero)"
+    },
+    {
+     "id": "once",
+     "label": "One future time (first)"
+    }
+   ],
+   "items": [
+    {
+     "t": "If I drink milk tea after six, I can't sleep.",
+     "c": "always",
+     "note": "A habit: it happens every time, so there is no will."
+    },
+    {
+     "t": "Mum will be upset if I forget her birthday this Friday.",
+     "c": "once",
+     "note": "Cue: this Friday. One future day; will sits in the result half."
+    },
+    {
+     "t": "Plants die if they don't get any water.",
+     "c": "always",
+     "note": "A general truth about all plants: present plus present."
+    },
+    {
+     "t": "We won't go to the market this evening if it's still raining at five.",
+     "c": "once",
+     "note": "Cues: this evening, at five. One decision about one evening."
+    },
+    {
+     "t": "If I finish my homework tonight, I'll watch one episode.",
+     "c": "once",
+     "note": "Cue: tonight. One evening, one plan: if plus present, then will."
+    },
+    {
+     "t": "If the parcel arrives this afternoon, I'll text you a photo.",
+     "c": "once",
+     "note": "Cue: this afternoon. One possible event, one promise."
+    },
+    {
+     "t": "My phone gets hot if I play games for too long.",
+     "c": "always",
+     "note": "It happens whenever she plays too long: a general fact about the phone."
+    },
+    {
+     "t": "If it rains in Bangkok, the traffic always gets worse.",
+     "c": "always",
+     "note": "Cue: always. A general truth about the city."
+    },
+    {
+     "t": "If you miss the 7.15 train tomorrow, you'll be late for the test.",
+     "c": "once",
+     "note": "Cue: tomorrow. A warning about one morning."
+    },
+    {
+     "t": "If the BTS is crowded, I usually wait for the next train.",
+     "c": "always",
+     "note": "Cue: usually. This is what she does every time."
+    },
+    {
+     "t": "If you leave ice cream in the sun, it melts in minutes.",
+     "c": "always",
+     "note": "A fact that is true every time: present plus present."
+    },
+    {
+     "t": "If Ploy comes to the concert on Saturday, I'll save her a seat.",
+     "c": "once",
+     "note": "Cue: on Saturday. A promise about one event."
+    },
+    {
+     "t": "I'll lend you my notes tonight if you promise to return them by Monday.",
+     "c": "once",
+     "note": "Cues: tonight, by Monday. A deal about one occasion."
+    },
+    {
+     "t": "If students arrive after eight, they sign the late book.",
+     "c": "always",
+     "note": "A school rule: it is the same every day."
+    },
+    {
+     "t": "If it rains tomorrow, we'll play badminton indoors.",
+     "c": "once",
+     "note": "Cue: tomorrow. One possible future event, so the result takes will."
+    },
+    {
+     "t": "You can borrow three books at a time if you have a library card.",
+     "c": "always",
+     "note": "A library rule, true on any day: can gives the permission."
+    },
+    {
+     "t": "If my cat hears the fridge open, she always runs to the kitchen.",
+     "c": "always",
+     "note": "Cue: always. A habit, so present plus present."
+    },
+    {
+     "t": "If Mum cooks green curry, the whole flat always smells wonderful.",
+     "c": "always",
+     "note": "Cue: always. It happens every time she cooks it."
+    },
+    {
+     "t": "If the haze is bad tomorrow morning, sports day might be postponed.",
+     "c": "once",
+     "note": "Cue: tomorrow morning. One day; might shows the result is only possible."
+    },
+    {
+     "t": "If you mix blue and yellow, you get green.",
+     "c": "always",
+     "note": "True every time you do it: a fact, not a prediction."
+    },
+    {
+     "t": "If you see Fah at lunch today, tell her about the room change.",
+     "c": "once",
+     "note": "Cue: today. One future moment; the result is an instruction for that moment."
+    },
+    {
+     "t": "If Nan passes Friday's maths quiz, she'll celebrate with mango sticky rice.",
+     "c": "once",
+     "note": "Cue: Friday's quiz. One event still to come."
+    },
+    {
+     "t": "If you don't charge your phone now, it'll die before we get home.",
+     "c": "once",
+     "note": "Cues: now, before we get home. A warning about this one journey."
+    },
+    {
+     "t": "Water boils if you heat it to 100 degrees.",
+     "c": "always",
+     "note": "A science fact. The if half can come second: the meaning is the same."
+    },
+    {
+     "t": "If you heat ice, it melts.",
+     "c": "always",
+     "note": "A science fact: present in both halves, true every time."
+    },
+    {
+     "t": "If there are still tickets at ten tomorrow, I'll buy two.",
+     "c": "once",
+     "note": "Cue: at ten tomorrow. One sale, one plan."
+    },
+    {
+     "t": "If the fire alarm rings, always walk to the field.",
+     "c": "always",
+     "note": "Cue: always. A standing rule: the result is an instruction for every time."
+    },
+    {
+     "t": "If we win the match on Sunday, Coach will buy us all bubble tea.",
+     "c": "once",
+     "note": "Cue: on Sunday. One match that has not been played yet."
+    }
+   ]
+  },
+  {
+   "id": "real",
+   "name": "Real or Imagined?",
+   "unlock": "w3",
+   "blurb": "Tap \"Real\" if nothing is denied, \"Imagined now\" if it is not true now, or \"Imagined past\" if it did not happen.",
+   "cats": [
+    {
+     "id": "real",
+     "label": "Real: it can happen"
+    },
+    {
+     "id": "now",
+     "label": "Imagined now"
+    },
+    {
+     "id": "past",
+     "label": "Imagined past"
+    }
+   ],
+   "items": [
+    {
+     "t": "If I had left earlier this morning, I'd have caught the train.",
+     "c": "past",
+     "note": "Two steps back: had left, would have caught. Truth: I left late and missed it."
+    },
+    {
+     "t": "If we leave at seven tomorrow, we might catch the first train.",
+     "c": "real",
+     "note": "Real future: it is still possible. Might means maybe."
+    },
+    {
+     "t": "If I didn't have a test tomorrow, I'd come with you tonight.",
+     "c": "now",
+     "note": "Didn't have is a past form, but not past time. Truth: I have a test tomorrow."
+    },
+    {
+     "t": "If we lived near the BTS, I'd sleep until seven.",
+     "c": "now",
+     "note": "Lived is a past form about now. Truth: we don't live near the BTS."
+    },
+    {
+     "t": "If you heat chocolate, it melts.",
+     "c": "real",
+     "note": "Real, always: a fact. Nothing is denied, so there is no Truth line."
+    },
+    {
+     "t": "I'd buy those headphones today if I had enough pocket money.",
+     "c": "now",
+     "note": "Cue: today. Truth: I don't have enough pocket money."
+    },
+    {
+     "t": "You can join the trip next week if your mum signs the form.",
+     "c": "real",
+     "note": "Real future: she may sign it. Can gives the permission."
+    },
+    {
+     "t": "If I were taller, I could reach the top shelf.",
+     "c": "now",
+     "note": "Were and could are one step back. Truth: I'm not tall enough to reach it."
+    },
+    {
+     "t": "If you're cold, close the window.",
+     "c": "real",
+     "note": "Real now: maybe you are cold. The result is an instruction."
+    },
+    {
+     "t": "If we had bought tickets last week, we'd have got front-row seats.",
+     "c": "past",
+     "note": "Cue: last week. Truth: we didn't buy them then."
+    },
+    {
+     "t": "Last term, if the teacher was late, we always started reading quietly.",
+     "c": "real",
+     "note": "Real past habit: it happened. Past plus past is not imagined here."
+    },
+    {
+     "t": "If you had told me on Monday, I might have helped you.",
+     "c": "past",
+     "note": "Cue: on Monday, with had told and might have. Truth: you didn't tell me then."
+    },
+    {
+     "t": "If my phone had more memory, I could keep all these photos.",
+     "c": "now",
+     "note": "One step back: had, could. Truth: it doesn't have enough memory."
+    },
+    {
+     "t": "If Praew were here now, she'd fix this in a minute.",
+     "c": "now",
+     "note": "Cue: now. Truth: Praew isn't here."
+    },
+    {
+     "t": "If it rains tomorrow, we'll take a taxi.",
+     "c": "real",
+     "note": "Real future: present after if, will in the result. It may really rain."
+    },
+    {
+     "t": "If Fah was at practice yesterday, she already knows the new plan.",
+     "c": "real",
+     "note": "Real past: maybe she was there. Nothing is denied, and there is no would."
+    },
+    {
+     "t": "If Bam had saved her file, she wouldn't have lost her essay last night.",
+     "c": "past",
+     "note": "Cue: last night. Truth: she didn't save it and she lost the essay."
+    },
+    {
+     "t": "I wouldn't have got wet yesterday if I'd taken my umbrella.",
+     "c": "past",
+     "note": "Here 'd is had, and would have is the past ticket. Truth: I didn't take it and I got wet."
+    },
+    {
+     "t": "If I had a cat, I'd call her Mochi.",
+     "c": "now",
+     "note": "One step back: had, would. Truth: I don't have a cat now."
+    },
+    {
+     "t": "We'd have won last Sunday's match if Jane hadn't hurt her ankle.",
+     "c": "past",
+     "note": "Cue: last Sunday. Truth: she hurt her ankle and we lost."
+    },
+    {
+     "t": "If Fern had seen the message, she'd have come to practice on Friday.",
+     "c": "past",
+     "note": "Cue: on Friday. Truth: she didn't see it, so she didn't come."
+    },
+    {
+     "t": "If Mint calls tonight, tell her I'm at badminton.",
+     "c": "real",
+     "note": "Real future: she may call. Present after if, then an instruction."
+    },
+    {
+     "t": "If the cat hadn't knocked my glass over, my notes would have stayed dry.",
+     "c": "past",
+     "note": "Had plus V3, would have plus V3. Truth: she knocked it over and the notes got wet."
+    },
+    {
+     "t": "If it weren't raining now, we'd be on the court.",
+     "c": "now",
+     "note": "Cue: now. Truth: it is raining, so we aren't on the court."
+    },
+    {
+     "t": "If I knew the answer, I'd tell you right now.",
+     "c": "now",
+     "note": "Cue: right now. Truth: I don't know the answer."
+    },
+    {
+     "t": "In primary school, if it rained at break, we played in the hall.",
+     "c": "real",
+     "note": "Real past: it really happened, many times. Past plus past, and no would."
+    },
+    {
+     "t": "If my cat is hungry, she sits on my keyboard.",
+     "c": "real",
+     "note": "Real, always: a habit. Present plus present."
+    },
+    {
+     "t": "If it hadn't rained yesterday, we would have had sports day.",
+     "c": "past",
+     "note": "Cue: yesterday, with had and would have. Truth: it rained, so there was no sports day."
+    },
+    {
+     "t": "If Nan had charged her phone last night, she could have called us.",
+     "c": "past",
+     "note": "Cue: last night. Truth: she didn't charge it, so she couldn't call."
+    },
+    {
+     "t": "If I spoke Korean, I might understand this song without subtitles.",
+     "c": "now",
+     "note": "Spoke is one step back from speak. Truth: I don't speak Korean."
+    }
+   ]
+  },
+  {
+   "id": "glitch",
+   "name": "Glitch Hunt",
+   "unlock": "w4",
+   "blurb": "Tap \"Clean\" if the sentence is correct, or \"Glitched\" if it has a grammar error.",
+   "cats": [
+    {
+     "id": "ok",
+     "label": "Clean"
+    },
+    {
+     "id": "glitch",
+     "label": "Glitched"
+    }
+   ],
+   "items": [
+    {
+     "t": "If I would have more time now, I would learn Korean.",
+     "c": "glitch",
+     "note": "Would in the if half. Fix: If I had more time now, I would learn Korean."
+    },
+    {
+     "t": "I wish I can come to your party tonight, but I have tutoring.",
+     "c": "glitch",
+     "note": "Wish plus present. Fix: I wish I could come to your party tonight, but I have tutoring."
+    },
+    {
+     "t": "We'll be late unless we don't leave now.",
+     "c": "glitch",
+     "note": "Unless plus not. Fix: We'll be late unless we leave now."
+    },
+    {
+     "t": "If you'll follow me, I'll show you to your seats.",
+     "c": "ok",
+     "note": "Clean, and it only looks odd: here will means are willing to. It is a polite request."
+    },
+    {
+     "t": "Unless you don't hurry, you'll miss the bus.",
+     "c": "glitch",
+     "note": "Unless already means if not. Fix: Unless you hurry, you'll miss the bus."
+    },
+    {
+     "t": "If I will see Mint tomorrow, I'll give her your book.",
+     "c": "glitch",
+     "note": "Will after if. Fix: If I see Mint tomorrow, I'll give her your book."
+    },
+    {
+     "t": "Take an umbrella in case it rains this afternoon.",
+     "c": "ok",
+     "note": "Clean: you take it now, before any rain. That is a precaution."
+    },
+    {
+     "t": "If Nan had studied, she would pass last Friday's quiz.",
+     "c": "glitch",
+     "note": "No past ticket. Fix: If Nan had studied, she would have passed last Friday's quiz."
+    },
+    {
+     "t": "If it rains on Saturday, we'll watch a film at home.",
+     "c": "ok",
+     "note": "Clean: present after if, will only in the result."
+    },
+    {
+     "t": "If it hadn't rained, we would have went to the market.",
+     "c": "glitch",
+     "note": "Wrong verb form after have. Fix: If it hadn't rained, we would have gone to the market."
+    },
+    {
+     "t": "If Ploy had seen the message, she might have come on Friday.",
+     "c": "ok",
+     "note": "Clean: might have plus V3 is a possible past result. Truth: she didn't see it."
+    },
+    {
+     "t": "If I am you, I would tell the teacher today.",
+     "c": "glitch",
+     "note": "Present for an imagined present. Fix: If I were you, I would tell the teacher today."
+    },
+    {
+     "t": "If she has seen your message yesterday, she would have replied.",
+     "c": "glitch",
+     "note": "Has seen should be had seen. Fix: If she had seen your message yesterday, she would have replied."
+    },
+    {
+     "t": "If I had left earlier, I would catch the 7.15 train yesterday.",
+     "c": "glitch",
+     "note": "No past ticket. Fix: If I had left earlier, I would have caught the 7.15 train yesterday."
+    },
+    {
+     "t": "If I were you, I'd say sorry to her this afternoon.",
+     "c": "ok",
+     "note": "Clean: were and would are one step back. Truth: I'm not you."
+    },
+    {
+     "t": "In case it rains tomorrow, we'll cancel the picnic.",
+     "c": "glitch",
+     "note": "In exam English, in case is only for a precaution you take before the event. Cancelling is a result. Fix: If it rains tomorrow, we'll cancel the picnic."
+    },
+    {
+     "t": "I wish I had brought my umbrella this morning.",
+     "c": "ok",
+     "note": "Clean: wish plus had plus V3 for a past regret. Truth: I didn't bring it."
+    },
+    {
+     "t": "If I had left earlier yesterday, I would have caught the train.",
+     "c": "ok",
+     "note": "Clean: had plus V3, would have plus V3. Truth: I left late and missed it."
+    },
+    {
+     "t": "If you heat butter, it melts.",
+     "c": "ok",
+     "note": "Clean: a fact, present plus present."
+    },
+    {
+     "t": "If I would have known about the quiz, I would have studied.",
+     "c": "glitch",
+     "note": "Would in the if half: heard in American speech, wrong in exams. Fix: If I had known about the quiz, I would have studied."
+    },
+    {
+     "t": "If I have known about the traffic, I would have taken the BTS.",
+     "c": "glitch",
+     "note": "Have known should be had known. Fix: If I had known about the traffic, I would have taken the BTS."
+    },
+    {
+     "t": "You can borrow my charger as long as you give it back tonight.",
+     "c": "ok",
+     "note": "Clean: as long as sets the condition for the deal."
+    },
+    {
+     "t": "When we were little, if it rained, we stayed in and played cards.",
+     "c": "ok",
+     "note": "Clean, and it only looks odd: a real past habit takes past plus past, with no would."
+    },
+    {
+     "t": "If I'd had my card, I would have took the BTS.",
+     "c": "glitch",
+     "note": "Wrong verb form after have. Fix: If I'd had my card, I would have taken the BTS."
+    },
+    {
+     "t": "I wish I had a cat, but Mum is allergic.",
+     "c": "ok",
+     "note": "Clean: wish plus past for a wish about now. Truth: I don't have a cat."
+    },
+    {
+     "t": "If I have wings, I would fly to school every day.",
+     "c": "glitch",
+     "note": "Present for an imagined present. Fix: If I had wings, I would fly to school every day."
+    },
+    {
+     "t": "We would have gone to the market if it hadn't rained on Sunday.",
+     "c": "ok",
+     "note": "Clean: would have plus V3 (gone). Truth: it rained, so we didn't go."
+    },
+    {
+     "t": "If we hadn't missed the BTS, we wouldn't be late now.",
+     "c": "ok",
+     "note": "Clean: a past condition with a result now. Truth: we missed it, and we are late."
+    },
+    {
+     "t": "If I was rude this morning, I'm sorry.",
+     "c": "ok",
+     "note": "Clean, and it only looks odd: a real past possibility. Maybe I was rude, so was is right."
+    },
+    {
+     "t": "I'll buy the tickets in case I have enough money.",
+     "c": "glitch",
+     "note": "In case is only for a precaution against a risk. Money is the condition here. Fix: I'll buy the tickets if I have enough money."
+    },
+    {
+     "t": "If it will rain tomorrow, we'll stay at home.",
+     "c": "glitch",
+     "note": "Will after if. Fix: If it rains tomorrow, we'll stay at home."
+    },
+    {
+     "t": "If I had more pocket money now, I could buy that sketchbook.",
+     "c": "ok",
+     "note": "Clean: had and could are one step back. Truth: I don't have enough money now."
+    },
+    {
+     "t": "If I'd known about the quiz, I'd have studied last night.",
+     "c": "ok",
+     "note": "Clean: the first 'd is had, the second is would. Truth: I didn't know."
+    },
+    {
+     "t": "If you see Fah at lunch, tell her I'm looking for her.",
+     "c": "ok",
+     "note": "Clean: present after if, then an instruction."
+    },
+    {
+     "t": "I wish I have a cat, but Mum is allergic.",
+     "c": "glitch",
+     "note": "Wish plus present. Fix: I wish I had a cat, but Mum is allergic."
+    },
+    {
+     "t": "Unless you hurry, you'll miss the bus.",
+     "c": "ok",
+     "note": "Clean: unless means if you don't, so no extra not."
+    }
+   ]
+  },
+  {
+   "id": "types",
+   "name": "Type Sorter",
+   "unlock": "w5",
+   "blurb": "Tap the type of each sentence: check the time of the if half, then the time of the result half.",
+   "cats": [
+    {
+     "id": "0",
+     "label": "Zero"
+    },
+    {
+     "id": "1",
+     "label": "First"
+    },
+    {
+     "id": "2",
+     "label": "Second"
+    },
+    {
+     "id": "3",
+     "label": "Third"
+    },
+    {
+     "id": "m32",
+     "label": "Mixed 3/2"
+    },
+    {
+     "id": "m23",
+     "label": "Mixed 2/3"
+    }
+   ],
+   "items": [
+    {
+     "t": "If it's sunny on Saturday, we might go to the park.",
+     "c": "1",
+     "note": "First: cue on Saturday. A real future; might means maybe."
+    },
+    {
+     "t": "I'd walk to school every day if I lived next door to it.",
+     "c": "2",
+     "note": "Second: lived, would plus verb. Truth: I don't live next door."
+    },
+    {
+     "t": "If we had caught the 7.15 train, we would be at school by now.",
+     "c": "m32",
+     "note": "Mixed 3/2: cue by now. Truth: we missed the train; we aren't at school yet."
+    },
+    {
+     "t": "If Jane weren't such a calm player, she'd have lost Sunday's final.",
+     "c": "m23",
+     "note": "Mixed 2/3: Jane is calm (always), so she didn't lose (Sunday)."
+    },
+    {
+     "t": "I'd know the answer now if I had listened in yesterday's lesson.",
+     "c": "m32",
+     "note": "Mixed 3/2: the result comes first. I didn't listen yesterday; I don't know now."
+    },
+    {
+     "t": "If we don't leave in five minutes, we'll miss the train.",
+     "c": "1",
+     "note": "First: one possible future event, with will in the result."
+    },
+    {
+     "t": "If I see Ploy tomorrow, I'll give her your notes.",
+     "c": "1",
+     "note": "First: cue tomorrow. Present after if, will in the result."
+    },
+    {
+     "t": "If I had a bigger room, I'd keep a piano in it.",
+     "c": "2",
+     "note": "Second: had, would plus verb. Truth: my room isn't big enough now."
+    },
+    {
+     "t": "If I were taller, I'd have reached the top shelf yesterday.",
+     "c": "m23",
+     "note": "Mixed 2/3: a permanent condition, a past result. Truth: I'm not tall enough; I didn't reach it."
+    },
+    {
+     "t": "If you tap your card at the gate, it opens.",
+     "c": "0",
+     "note": "Zero: it works like this every time."
+    },
+    {
+     "t": "If Praew didn't love cats, she wouldn't have adopted three last year.",
+     "c": "m23",
+     "note": "Mixed 2/3: she loves cats (always), so she adopted three (last year)."
+    },
+    {
+     "t": "If I eat late at night, I always sleep badly.",
+     "c": "0",
+     "note": "Zero: cue always. A habit, present plus present."
+    },
+    {
+     "t": "I'll message you tonight if my order arrives.",
+     "c": "1",
+     "note": "First: cue tonight. Will in the result, present after if."
+    },
+    {
+     "t": "If it had rained on sports day, the races would have been cancelled.",
+     "c": "3",
+     "note": "Third: had rained, would have been cancelled. Truth: it didn't rain and the races went ahead."
+    },
+    {
+     "t": "If the haze is bad, our school always cancels outdoor PE.",
+     "c": "0",
+     "note": "Zero: cue always. A school habit, present plus present."
+    },
+    {
+     "t": "What would you do if you found a wallet outside 7-Eleven?",
+     "c": "2",
+     "note": "Second: found, would plus verb. An imagined situation: you haven't found one."
+    },
+    {
+     "t": "If Mint doesn't practise this week, she won't be ready for Friday's match.",
+     "c": "1",
+     "note": "First: a warning about one future match. Won't is will not."
+    },
+    {
+     "t": "If I were you, I'd say sorry to Fern today.",
+     "c": "2",
+     "note": "Second: were, would plus verb. Advice about now. Truth: I'm not you."
+    },
+    {
+     "t": "If I'd eaten breakfast this morning, I wouldn't be hungry now.",
+     "c": "m32",
+     "note": "Mixed 3/2: had eaten this morning, would be now. Truth: I didn't eat; I am hungry."
+    },
+    {
+     "t": "Bam would have won last week's quiz if she had read the last question carefully.",
+     "c": "3",
+     "note": "Third: last week in both halves. Truth: she didn't read it carefully and didn't win."
+    },
+    {
+     "t": "If it hadn't rained all night, the court would be dry now.",
+     "c": "m32",
+     "note": "Mixed 3/2: it rained in the night; the court is wet now."
+    },
+    {
+     "t": "If we didn't have school tomorrow, we could stay up late tonight.",
+     "c": "2",
+     "note": "Second: didn't have, could plus verb. Truth: we have school tomorrow."
+    },
+    {
+     "t": "If you freeze water, it turns into ice.",
+     "c": "0",
+     "note": "Zero: a fact. Present plus present, true every time."
+    },
+    {
+     "t": "If I had taken my umbrella yesterday, I wouldn't have got wet.",
+     "c": "3",
+     "note": "Third: both halves are about yesterday. Truth: I didn't take it and I got wet."
+    },
+    {
+     "t": "If the order had arrived on Friday, I could have worn the shoes to the party.",
+     "c": "3",
+     "note": "Third: had arrived, could have worn. Truth: it came too late for the party."
+    },
+    {
+     "t": "If my cat could talk, she would complain about dinner every day.",
+     "c": "2",
+     "note": "Second: could, would plus verb. Truth: my cat can't talk."
+    },
+    {
+     "t": "If you hadn't reminded me, I would have forgotten Mum's birthday last month.",
+     "c": "3",
+     "note": "Third, for relief. Truth: you reminded me, so I didn't forget."
+    },
+    {
+     "t": "If I knew her LINE ID, I'd add her right now.",
+     "c": "2",
+     "note": "Second: cue right now. Truth: I don't know her LINE ID."
+    },
+    {
+     "t": "I might have passed Monday's test if I had slept more the night before.",
+     "c": "3",
+     "note": "Third: might have passed, had slept. Both are past. Truth: I didn't sleep enough."
+    },
+    {
+     "t": "If I had charged my phone last night, it would still be working.",
+     "c": "m32",
+     "note": "Mixed 3/2: cue still. Truth: I didn't charge it; it isn't working now."
+    },
+    {
+     "t": "If you don't water basil, it dies quickly.",
+     "c": "0",
+     "note": "Zero: a fact about the plant. Present plus present."
+    },
+    {
+     "t": "If I had slept earlier last night, I wouldn't be so tired now.",
+     "c": "m32",
+     "note": "Mixed 3/2: past condition, result now. Truth: I slept late; I am tired now."
+    },
+    {
+     "t": "My little cousin cries if she hears thunder.",
+     "c": "0",
+     "note": "Zero: it happens every time. Present plus present."
+    },
+    {
+     "t": "If I spoke Japanese, I would have understood the film last night.",
+     "c": "m23",
+     "note": "Mixed 2/3: spoke is about now and always, would have understood is about last night. Truth: I don't speak Japanese."
+    },
+    {
+     "t": "If I knew how to swim, I would have joined the pool party last weekend.",
+     "c": "m23",
+     "note": "Mixed 2/3: I can't swim (now and always), so I didn't join (last weekend)."
+    },
+    {
+     "t": "Cats purr if they feel safe.",
+     "c": "0",
+     "note": "Zero: a general truth about cats. Present plus present."
+    },
+    {
+     "t": "If Nan hadn't lost her card yesterday, she could be on the BTS with us now.",
+     "c": "m32",
+     "note": "Mixed 3/2: lost it yesterday, isn't with us now. Could be is a result now."
+    },
+    {
+     "t": "If we'd left at six this morning, we'd have caught the first train.",
+     "c": "3",
+     "note": "Third: 'd left is had left, 'd have caught is would have caught. Truth: we left later and missed it."
+    },
+    {
+     "t": "If I weren't afraid of heights, I'd have gone on the big wheel on Saturday.",
+     "c": "m23",
+     "note": "Mixed 2/3: I am afraid of heights (always), so I didn't go on it (Saturday)."
+    },
+    {
+     "t": "If the shop is still open at nine tonight, I'll get some milk.",
+     "c": "1",
+     "note": "First: cue tonight. Present after if, will in the result."
+    },
+    {
+     "t": "If our flat were bigger, we could have had the party at home last month.",
+     "c": "m23",
+     "note": "Mixed 2/3: the flat is small (always), so the party wasn't at home (last month)."
+    },
+    {
+     "t": "If you help me with maths this evening, I'll buy you a bubble tea.",
+     "c": "1",
+     "note": "First: cue this evening. A deal about one future time."
+    }
+   ]
+  },
+  {
+   "id": "conn",
+   "name": "Connector Clash",
+   "unlock": "w6",
+   "blurb": "Tap the one connector that fits the gap: unless, in case, as long as or even if.",
+   "cats": [
+    {
+     "id": "unless",
+     "label": "unless"
+    },
+    {
+     "id": "incase",
+     "label": "in case"
+    },
+    {
+     "id": "aslong",
+     "label": "as long as"
+    },
+    {
+     "id": "evenif",
+     "label": "even if"
+    }
+   ],
+   "items": [
+    {
+     "t": "___ we leave right now, we'll miss the train. Come on, we can still make it!",
+     "c": "unless",
+     "note": "Except test: we'll miss it, except if we leave now. Cue: we can still make it."
+    },
+    {
+     "t": "My laptop is old, so I always save my essay twice ___ it crashes.",
+     "c": "incase",
+     "note": "Umbrella test: she saves first, because a crash might come later."
+    },
+    {
+     "t": "Praew is a great sport: she smiles ___ she loses a match.",
+     "c": "evenif",
+     "note": "Losing does not change the result: she smiles either way."
+    },
+    {
+     "t": "Coach lets us choose the music ___ we finish the warm-up properly.",
+     "c": "aslong",
+     "note": "A deal with Coach: music, on one condition."
+    },
+    {
+     "t": "The shop will change the shoes ___ you keep your receipt.",
+     "c": "aslong",
+     "note": "A condition for a promise: receipt first, then the exchange."
+    },
+    {
+     "t": "Don't wake me before nine tomorrow ___ the parcel arrives. I need to sign for it.",
+     "c": "unless",
+     "note": "Except test: don't wake me, except if the parcel comes."
+    },
+    {
+     "t": "A taxi won't help: we'd still be late ___ we took one now.",
+     "c": "evenif",
+     "note": "A taxi would not change the result: late either way. Cue: a taxi won't help."
+    },
+    {
+     "t": "I'll watch any film with you tonight ___ it isn't a horror film. I hate those.",
+     "c": "aslong",
+     "note": "Any film is fine on one condition: no horror."
+    },
+    {
+     "t": "I'll screenshot the ticket now ___ there's no signal at the gate later.",
+     "c": "incase",
+     "note": "Umbrella test: take the screenshot now, before the possible problem."
+    },
+    {
+     "t": "Mum says I can't go to the concert ___ I finish my project first. So I'm finishing it!",
+     "c": "unless",
+     "note": "Except test: no concert, except if the project is done. Finishing it opens the door."
+    },
+    {
+     "t": "Write my number on your hand ___ your phone dies at the concert.",
+     "c": "incase",
+     "note": "Umbrella test: write it now, before anything goes wrong."
+    },
+    {
+     "t": "The cat can sleep on my bed ___ she doesn't bite my toes.",
+     "c": "aslong",
+     "note": "A deal with the cat. Unless would not work here: the clause already has not."
+    },
+    {
+     "t": "We'll get good seats ___ we arrive before the doors open.",
+     "c": "aslong",
+     "note": "A condition that makes the good result happen: arrive early, sit well."
+    },
+    {
+     "t": "Mum gave me 100 baht extra ___ I needed a taxi home.",
+     "c": "incase",
+     "note": "Umbrella test in the past: the money came first, for a possible need later."
+    },
+    {
+     "t": "You won't improve at badminton ___ you practise, so come to training twice a week.",
+     "c": "unless",
+     "note": "Except test: no progress, except if you practise."
+    },
+    {
+     "t": "I'm going to practice tonight ___ it pours with rain. Nothing can stop me.",
+     "c": "evenif",
+     "note": "The rain changes nothing: she goes either way."
+    },
+    {
+     "t": "The cat never comes when I call, ___ I shake the food box. That always works.",
+     "c": "unless",
+     "note": "Except test: she never comes, except if I shake the box."
+    },
+    {
+     "t": "Mum says I can go to the concert ___ I'm home by ten.",
+     "c": "aslong",
+     "note": "A deal with Mum: permission, with one condition."
+    },
+    {
+     "t": "You can sit with us ___ you promise not to spoil the ending.",
+     "c": "aslong",
+     "note": "A deal: a seat, on one condition."
+    },
+    {
+     "t": "Sports day will be on Friday ___ the haze gets worse. In that case, it moves to Monday.",
+     "c": "unless",
+     "note": "Except test: Friday, except if the haze gets worse."
+    },
+    {
+     "t": "My cat won't move from my chair ___ I offer her a treat. Nothing works!",
+     "c": "evenif",
+     "note": "The treat changes nothing. Cue: nothing works."
+    },
+    {
+     "t": "Let's take some snacks on the trip ___ we get hungry on the bus.",
+     "c": "incase",
+     "note": "Umbrella test: pack now, because hunger might come later."
+    },
+    {
+     "t": "The train left five minutes early. I'd have missed it ___ I had run all the way, so I'm glad I walked.",
+     "c": "evenif",
+     "note": "Running would not have changed the result: missed either way. Truth: the train left early."
+    },
+    {
+     "t": "I'm wearing my new trainers to the match ___ they get muddy. I don't care!",
+     "c": "evenif",
+     "note": "Mud changes nothing: she wears them either way. Cue: I don't care."
+    },
+    {
+     "t": "You can borrow my charger ___ you give it back before lunch.",
+     "c": "aslong",
+     "note": "A deal: yes, but only on this condition."
+    },
+    {
+     "t": "Keep your mask on outside today ___ the sky looks clear; the haze is still there.",
+     "c": "evenif",
+     "note": "A clear sky changes nothing: keep the mask on either way."
+    },
+    {
+     "t": "I'm bringing a mask ___ the haze comes back this afternoon.",
+     "c": "incase",
+     "note": "Umbrella test: she packs the mask before the haze, because it might come."
+    },
+    {
+     "t": "I'll walk to school tomorrow ___ it rains. Then I'll take the bus.",
+     "c": "unless",
+     "note": "Except test: I'll walk, except if it rains. Rain is the one thing that changes the plan."
+    },
+    {
+     "t": "Take an umbrella ___ it rains this afternoon; the sky looks grey.",
+     "c": "incase",
+     "note": "Umbrella test: you take it now, before any rain. A precaution."
+    },
+    {
+     "t": "This morning we left at six ___ the traffic was bad on the way.",
+     "c": "incase",
+     "note": "Umbrella test in the past: they left early because bad traffic was possible."
+    },
+    {
+     "t": "No card, no entry: you can't use the library ___ you show your student card.",
+     "c": "unless",
+     "note": "Except test: no entry, except if you show the card."
+    },
+    {
+     "t": "No excuses: I'll finish this project tonight ___ I have to stay up until midnight.",
+     "c": "evenif",
+     "note": "Staying up late will not change the result: the project gets finished. Cue: no excuses."
+    }
+   ]
+  }
+ ],
+ "machine": [
+  {
+   "id": "m1",
+   "event": "Missing the BTS",
+   "base": "Ploy left home late this morning and missed the 7.15 BTS train. Lessons have started, and she is still on her way to school.",
+   "forms": {
+    "1": {
+     "s": "If Ploy leaves home by seven, she'll catch the 7.15 train.",
+     "truth": "Said before it happened: she can still leave on time and catch it."
+    },
+    "2": {
+     "s": "If Ploy were in class now, she'd be sitting next to Fah.",
+     "truth": "She isn't in class now: she is still on her way to school."
+    },
+    "3": {
+     "s": "If Ploy had left home by seven, she would have caught the 7.15 train.",
+     "truth": "She left home late this morning and missed the train."
+    },
+    "m32": {
+     "s": "If Ploy had caught the 7.15 train, she would be in class by now.",
+     "truth": "She missed the train this morning, so she isn't in class now."
+    },
+    "m23": {
+     "s": "If Ploy lived nearer the station, she wouldn't have missed the train this morning.",
+     "truth": "She lives a long way from the station, and she missed the train this morning."
+    },
+    "wish": {
+     "s": "Ploy: \"If only I had left home ten minutes earlier!\"",
+     "truth": "Ploy didn't leave earlier: she left late."
+    }
+   }
+  },
+  {
+   "id": "m2",
+   "event": "A rained-off sports day",
+   "base": "It rained all Friday morning, so sports day was cancelled. It is Friday afternoon now: the rain has stopped, but the field is too wet and the students are in their classrooms.",
+   "forms": {
+    "1": {
+     "s": "If it rains on Friday morning, sports day will be cancelled.",
+     "truth": "Said before it happened: Friday could still be dry."
+    },
+    "2": {
+     "s": "If the field were dry, the students would be out there racing now.",
+     "truth": "The field isn't dry, so they are in their classrooms now."
+    },
+    "3": {
+     "s": "If it hadn't rained this morning, the races would have gone ahead.",
+     "truth": "It rained this morning, so there were no races."
+    },
+    "m32": {
+     "s": "If it hadn't rained all morning, the field wouldn't be too wet to run on now.",
+     "truth": "It rained all morning, and the field is too wet now."
+    },
+    "m23": {
+     "s": "If the school had an indoor track, sports day wouldn't have been cancelled.",
+     "truth": "The school has no indoor track, and sports day was cancelled this morning."
+    },
+    "wish": {
+     "s": "The students wish the sun would come out and dry the field.",
+     "truth": "The sun isn't coming out, and the field is still wet."
+    }
+   }
+  },
+  {
+   "id": "m3",
+   "event": "Forgetting an umbrella",
+   "base": "Mint left her umbrella at home this morning. Now school is over, and she is standing at the bus stop in the rain, completely wet.",
+   "forms": {
+    "1": {
+     "s": "If Mint forgets her umbrella, she'll get wet on the way home.",
+     "truth": "Said before it happened: she is still at home and can take it."
+    },
+    "2": {
+     "s": "If Mint had her umbrella with her, she wouldn't be standing in the rain like this.",
+     "truth": "She doesn't have her umbrella with her now."
+    },
+    "3": {
+     "s": "If Mint had taken her umbrella this morning, she wouldn't have got wet.",
+     "truth": "She didn't take it this morning, and she got wet."
+    },
+    "m32": {
+     "s": "If Mint had taken her umbrella this morning, she would be dry now.",
+     "truth": "She didn't take it this morning, so she is wet now."
+    },
+    "m23": {
+     "s": "If Mint checked the weather app every day, she'd have known about the rain this morning.",
+     "truth": "She doesn't check the app every day, and she didn't know about the rain this morning."
+    },
+    "wish": {
+     "s": "Mint: \"If only I had my umbrella with me!\"",
+     "truth": "Mint doesn't have her umbrella with her now."
+    }
+   }
+  },
+  {
+   "id": "m4",
+   "event": "A late online order",
+   "base": "Nan ordered new trainers online for Saturday's party, but they did not come in time. It is Sunday now, and she is still waiting for the parcel.",
+   "forms": {
+    "1": {
+     "s": "If the parcel arrives by Friday, Nan will wear her new trainers to the party.",
+     "truth": "Said before it happened: the parcel may still come in time."
+    },
+    "2": {
+     "s": "If the trainers were here, Nan would be trying them on right now.",
+     "truth": "The trainers aren't here yet, so she isn't trying them on."
+    },
+    "3": {
+     "s": "If the parcel had arrived on Friday, Nan would have worn the trainers to the party.",
+     "truth": "The parcel didn't arrive on Friday, so she wore her old shoes."
+    },
+    "m32": {
+     "s": "If Nan had ordered a week earlier, she wouldn't still be waiting for the parcel.",
+     "truth": "She ordered late, and she is still waiting now."
+    },
+    "m23": {
+     "s": "If the shop were in Bangkok, the parcel would have arrived before the party.",
+     "truth": "The shop isn't in Bangkok, and the parcel didn't arrive before the party."
+    },
+    "wish": {
+     "s": "Nan wishes she had ordered the trainers a week earlier.",
+     "truth": "She ordered them too late."
+    }
+   }
+  },
+  {
+   "id": "m5",
+   "event": "A badminton match",
+   "base": "Praew's team lost the school badminton final 21–19 on Saturday after she missed two serves near the end.",
+   "forms": {
+    "1": {
+     "s": "If Praew's team wins on Saturday, they'll take the cup home.",
+     "truth": "Said before it happened: the final hasn't been played and they can still win."
+    },
+    "2": {
+     "s": "If Praew had a stronger serve, she would win more points.",
+     "truth": "Her serve isn't strong enough yet."
+    },
+    "3": {
+     "s": "If Praew hadn't missed those two serves, her team might have won the final.",
+     "truth": "She missed two serves on Saturday, and her team lost."
+    },
+    "m32": {
+     "s": "If the team had won on Saturday, the cup would be in the school hall now.",
+     "truth": "The team lost on Saturday, so the cup isn't in the hall now."
+    },
+    "m23": {
+     "s": "If Praew didn't get so nervous in finals, she wouldn't have missed those two serves.",
+     "truth": "She gets nervous in finals, and she missed two serves on Saturday."
+    },
+    "wish": {
+     "s": "Praew wishes she hadn't missed those two serves.",
+     "truth": "She missed them on Saturday."
+    }
+   }
+  },
+  {
+   "id": "m6",
+   "event": "A science project",
+   "base": "Bam started her volcano model the night before the science fair. This morning it was still wet, and it collapsed on the table. The fair starts in an hour.",
+   "forms": {
+    "1": {
+     "s": "If Bam starts her model this weekend, it will be dry in time for the fair.",
+     "truth": "Said before it happened: she still has time to start early."
+    },
+    "2": {
+     "s": "If Bam had more time, she would build the volcano again.",
+     "truth": "She doesn't have more time: the fair starts in an hour."
+    },
+    "3": {
+     "s": "If Bam had started earlier, the model wouldn't have collapsed.",
+     "truth": "She started the night before, and the model collapsed this morning."
+    },
+    "m32": {
+     "s": "If Bam had started a week ago, her model would be dry and ready now.",
+     "truth": "She didn't start a week ago, and the model is wet and broken now."
+    },
+    "m23": {
+     "s": "If Bam used a planner, she would have started the model a week earlier.",
+     "truth": "She doesn't use a planner, and she started the model the night before."
+    },
+    "wish": {
+     "s": "If only the fair were tomorrow!",
+     "truth": "The fair isn't tomorrow: it is today."
+    }
+   }
+  },
+  {
+   "id": "m7",
+   "event": "A cat that escaped",
+   "base": "Fern left the balcony door open last night and her cat Mochi got out. Mochi is still hiding somewhere in the garden.",
+   "forms": {
+    "1": {
+     "s": "If Fern leaves the balcony door open, Mochi will get out.",
+     "truth": "Said before it happened: the door is still shut and Mochi is indoors."
+    },
+    "2": {
+     "s": "If Fern knew where Mochi was, she would carry her straight home.",
+     "truth": "Fern doesn't know where Mochi is."
+    },
+    "3": {
+     "s": "If Fern had closed the balcony door, Mochi wouldn't have escaped.",
+     "truth": "Fern left the door open last night, and Mochi escaped."
+    },
+    "m32": {
+     "s": "If Fern had closed the door last night, Mochi would be asleep on her bed now.",
+     "truth": "Fern didn't close the door last night, and Mochi isn't on her bed now."
+    },
+    "m23": {
+     "s": "If Mochi weren't so curious, she wouldn't have run out last night.",
+     "truth": "Mochi is a curious cat, and she ran out last night."
+    },
+    "wish": {
+     "s": "Fern wishes Mochi would come when she calls.",
+     "truth": "Mochi isn't coming when Fern calls: she is still hiding."
+    }
+   }
+  },
+  {
+   "id": "m8",
+   "event": "A concert ticket sale",
+   "base": "Tickets for a K-pop concert went on sale at ten. Jane logged in at five past ten, and every ticket was already sold.",
+   "forms": {
+    "1": {
+     "s": "If Jane logs in at ten exactly, she might get a ticket.",
+     "truth": "Said before it happened: the sale hasn't started and tickets are still there."
+    },
+    "2": {
+     "s": "If Jane had a ticket, she'd be counting the days to the concert.",
+     "truth": "Jane doesn't have a ticket."
+    },
+    "3": {
+     "s": "If Jane had logged in at ten, she could have bought a ticket.",
+     "truth": "She logged in at five past ten and couldn't buy one."
+    },
+    "m32": {
+     "s": "If Jane had logged in on time, she would have a ticket now.",
+     "truth": "She didn't log in on time, so she has no ticket now."
+    },
+    "m23": {
+     "s": "If Jane set alarms for things like this, she wouldn't have missed the sale.",
+     "truth": "She doesn't set alarms, and she missed the sale."
+    },
+    "wish": {
+     "s": "Jane: \"If only I had logged in five minutes earlier!\"",
+     "truth": "Jane logged in at five past ten, which was too late."
+    }
+   }
+  },
+  {
+   "id": "m9",
+   "event": "A maths quiz",
+   "base": "Pim watched videos instead of revising on Sunday night and did badly in Monday's maths quiz. She can retake it next week.",
+   "forms": {
+    "1": {
+     "s": "If Pim revises on Sunday night, she'll do well in Monday's quiz.",
+     "truth": "Said before it happened: it is still the weekend and she can revise."
+    },
+    "2": {
+     "s": "If Pim knew the formulas by heart, the retake would be easy.",
+     "truth": "She doesn't know the formulas by heart yet."
+    },
+    "3": {
+     "s": "If Pim had revised on Sunday night, she would have got a better mark.",
+     "truth": "She didn't revise on Sunday night, and her mark was low."
+    },
+    "m32": {
+     "s": "If Pim had passed on Monday, she wouldn't be revising for the retake now.",
+     "truth": "She didn't pass on Monday, so she is revising for the retake now."
+    },
+    "m23": {
+     "s": "If Pim liked maths, she would have revised instead of watching videos.",
+     "truth": "She doesn't like maths much, and she watched videos on Sunday night."
+    },
+    "wish": {
+     "s": "Pim wishes she had revised instead of watching videos.",
+     "truth": "She watched videos and didn't revise."
+    }
+   }
+  },
+  {
+   "id": "m10",
+   "event": "A school trip",
+   "base": "Mook forgot to give her mum the permission form. Today her class is at the science museum, and she is at school doing worksheets.",
+   "forms": {
+    "1": {
+     "s": "If Mook hands in the form by Thursday, she can go on the trip.",
+     "truth": "Said before it happened: there is still time to hand in the form."
+    },
+    "2": {
+     "s": "If Mook were at the museum with her class, she'd be looking at the dinosaur bones now.",
+     "truth": "She isn't at the museum now: she is at school."
+    },
+    "3": {
+     "s": "If Mook had handed in the form, she would have gone to the museum.",
+     "truth": "She didn't hand in the form, so she didn't go to the museum."
+    },
+    "m32": {
+     "s": "If Mook had remembered the form, she wouldn't be doing worksheets at school now.",
+     "truth": "She forgot the form, so she is doing worksheets at school now."
+    },
+    "m23": {
+     "s": "If the school didn't need a signed form for every trip, Mook would have gone with her class.",
+     "truth": "The school needs a signed form for every trip, and Mook didn't go."
+    },
+    "wish": {
+     "s": "Mook wishes she were at the museum too.",
+     "truth": "She isn't at the museum: she is at school."
+    }
+   }
+  },
+  {
+   "id": "m11",
+   "event": "Haze day",
+   "base": "The PM2.5 level is very high today, so the school closed this morning and Fah is having online lessons at home.",
+   "forms": {
+    "1": {
+     "s": "If the haze gets worse tomorrow, the school will close for the day.",
+     "truth": "Said before it happened: the air may be better or worse tomorrow."
+    },
+    "2": {
+     "s": "If the air were clean today, Fah would be at school with her friends.",
+     "truth": "The air isn't clean today, so she is at home."
+    },
+    "3": {
+     "s": "If the haze hadn't been so bad this morning, the school would have stayed open.",
+     "truth": "The haze was very bad this morning, and the school closed."
+    },
+    "m32": {
+     "s": "If the wind had changed last night, the sky would be clear now.",
+     "truth": "The wind didn't change last night, and the sky isn't clear now."
+    },
+    "m23": {
+     "s": "If Fah didn't have a laptop at home, she would have missed this morning's lessons.",
+     "truth": "She has a laptop at home, so she didn't miss this morning's lessons."
+    },
+    "wish": {
+     "s": "Fah wishes she could see her friends today.",
+     "truth": "She can't see them today: the school is closed."
+    }
+   }
+  },
+  {
+   "id": "m12",
+   "event": "A cooking class",
+   "base": "In today's cooking class, Ploy read the recipe too fast and put salt in her cake instead of sugar. The cake is out of the oven now, and it tastes of salt.",
+   "forms": {
+    "1": {
+     "s": "If Ploy reads the recipe carefully, her cake will taste great.",
+     "truth": "Said before it happened: she hasn't started baking, so it can still go well."
+    },
+    "2": {
+     "s": "If the cake tasted better, Ploy would share it with the whole class.",
+     "truth": "The cake tastes of salt, so she isn't sharing it."
+    },
+    "3": {
+     "s": "If Ploy had read the labels, she wouldn't have used salt.",
+     "truth": "She didn't read the labels, and she used salt."
+    },
+    "m32": {
+     "s": "If Ploy had used sugar, everyone would be eating her cake now.",
+     "truth": "She used salt, so nobody is eating her cake now."
+    },
+    "m23": {
+     "s": "If the salt and sugar jars didn't look the same, Ploy wouldn't have mixed them up.",
+     "truth": "The two jars look the same, and she mixed them up today."
+    },
+    "wish": {
+     "s": "Ploy wishes she had checked the label on the jar.",
+     "truth": "She didn't check the label."
+    }
+   }
+  }
+ ]
+}

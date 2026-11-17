@@ -1,0 +1,1152 @@
+{
+ "world": "w1",
+ "lessons": [
+  {
+   "id": "w1l1",
+   "name": "Always true: facts, science and habits (if ≈ when)",
+   "cefr": "A2",
+   "ctype": "0",
+   "gateway": "p.72",
+   "formula": {
+    "if": "If / When / Whenever + present simple",
+    "result": "present simple"
+   },
+   "uses": [
+    {
+     "use": "Science facts",
+     "ex": "If you heat ice, it melts."
+    },
+    {
+     "use": "Habits and routines",
+     "ex": "If I miss the 7.15 train, I take a motorbike taxi."
+    },
+    {
+     "use": "How apps, games and machines work",
+     "ex": "If your health bar hits zero, you go back to the start."
+    },
+    {
+     "use": "What people and pets always do",
+     "ex": "My cat purrs if you stroke her ears."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Use if and the present simple in both halves for things that are always true.",
+     "body": [
+      "A zero conditional talks about things that are always true. It has two halves. The <b>if</b> half is the condition (the thing that happens first). The other half is the result (what happens next). Both halves use the present simple. We use it for science facts, for habits, and for how things work.",
+      "In these sentences, <b>if</b> means almost the same as <b>when</b> or <b>whenever</b>. All three say 'every time this happens'. So you can change <b>if</b> to <b>when</b>, and the meaning stays the same. This only works for facts and habits. It does not work for one day in the future. It does not work for a dream.",
+      "Do not put <b>will</b> after <b>if</b> in these sentences. Think of it like this: <b>if</b> takes a photo of a situation. A photo shows the present, so the verb is in the present simple. The same is true after <b>when</b> and <b>whenever</b>.",
+      "Remember the s. After he, she, it or one thing, the present simple verb ends in s. So we say metal expand<b>s</b> and my cat purr<b>s</b>. After I, you, we, they or many things, there is no s. The verb is one word. Do not put <b>is</b> in front of it, and do not use an -ing word alone.",
+      "A zero conditional is real. Nothing in it is imagined, so there is no hidden truth to find. It is not about one special day in the past or the future. It is about every time. If the result has <b>will</b>, the sentence is usually about one future time. That is the first conditional, and you will meet it in the next world."
+     ],
+     "examples": [
+      {
+       "s": "If you heat ice, it melts.",
+       "g": "A science fact. Both halves use the present simple."
+      },
+      {
+       "s": "Whenever it rains, the traffic on our road gets worse.",
+       "g": "Whenever means every time. You can also say if or when here."
+      },
+      {
+       "s": "I feel sick if I read in the car.",
+       "g": "A habit. The if half can come second."
+      },
+      {
+       "s": "If your health bar hits zero, you go back to the start.",
+       "g": "How a game works. The bar is one thing, so hits has an s. After you, there is no s."
+      },
+      {
+       "s": "<s>If you will heat ice, it melts.</s>",
+       "g": "Wrong: no will after if. Say: If you heat ice, it melts."
+      }
+     ]
+    },
+    "B2": {
+     "key": "The zero conditional uses the present simple in both halves to state facts, habits and routines that hold every time.",
+     "body": [
+      "The zero conditional describes what always happens: scientific facts, the way machines and apps behave, and personal habits or routines. It has a condition half, introduced by <b>if</b>, and a result half. Because the sentence is about every occasion and not one particular day, both halves take the present simple.",
+      "In this pattern <b>if</b> is very close to <b>when</b> and <b>whenever</b>: each one means 'on every occasion that this happens'. You can swap them without changing the message. That swap only works for facts and habits. In a sentence about one future day, <b>when</b> would say the speaker is sure the thing will happen, and in an imagined sentence it would not fit at all.",
+      "Do not put <b>will</b> in the condition. A useful picture: <b>if</b> takes a photo of a situation, and a photo is always in the present. The same is true after <b>when</b> and <b>whenever</b>. If the result contains <b>will</b>, the sentence is normally about one future occasion. That is the first conditional, which comes in the next world.",
+      "Agreement still matters. With he, she, it or any single thing as the subject, the present simple verb ends in s: metal expand<b>s</b>, my cat purr<b>s</b>. With I, you, we, they or a plural subject there is no s. The verb is the present simple on its own, with no <b>is</b> in front of it and no -ing ending.",
+      "Finally, a zero conditional is real. It denies nothing, so there is no hidden Truth line to look for, unlike the imagined conditionals you will meet later. It also describes no single day, past or future: it is true every time."
+     ],
+     "examples": [
+      {
+       "s": "If you heat ice, it melts.",
+       "g": "A fact: present simple in both halves, and it takes the s."
+      },
+      {
+       "s": "Whenever it rains, the traffic on our road gets worse.",
+       "g": "Whenever means on every occasion; if or when would say the same."
+      },
+      {
+       "s": "I feel sick if I read in the car.",
+       "g": "A habit, with the if half second."
+      },
+      {
+       "s": "If your health bar hits zero, you go back to the start.",
+       "g": "A game rule: the bar is singular, so hits takes s; you takes none."
+      },
+      {
+       "s": "<s>If you will heat ice, it melts.</s>",
+       "g": "Wrong: will cannot follow if here. Correct: If you heat ice, it melts."
+      }
+     ]
+    },
+    "C1": {
+     "key": "The zero conditional is the real, timeless conditional: present forms in both clauses, with if close in meaning to when or whenever.",
+     "body": [
+      "What coursebooks call the zero conditional is a real condition with timeless reference. The speaker treats the condition as something that genuinely occurs and states what follows on every occasion, which is why both clauses carry the present simple: the present here means 'always', not 'at this moment'. Scientific laws, the behaviour of devices and apps, game rules and personal routines all belong here.",
+      "Because the reference is general, <b>if</b>, <b>when</b> and <b>whenever</b> become near-equivalents: all three mean 'on any occasion that'. The difference returns as soon as the sentence concerns a single future occasion, where <b>when</b> assumes the event will happen and <b>if</b> leaves it open, and in imagined sentences, where <b>when</b> is impossible.",
+      "The condition clause does not take <b>will</b> for plain future or general meaning. The if-clause does not predict; it takes a photo of a situation, and the result says what goes with it. The same restriction holds after <b>when</b> and <b>whenever</b>. A result containing <b>will</b> normally turns the sentence towards one future occasion, the first conditional, although the two types differ only in time and not in reality.",
+      "Corpus studies show that this family, a present condition with a present, modal or imperative result, is by far the most common conditional in real English, well ahead of the textbook pattern with <b>will</b>. So the present simple result is a default, not a law: any sensible present form, modal verb or imperative can follow, as the next lesson shows. Agreement is the main accuracy risk: a third person singular subject needs its s, and the verb stands alone, without <b>is</b> and without -ing.",
+      "Since nothing is denied, a zero conditional carries no Truth receipt. That is the quickest way to separate it from an imagined conditional, whose past form signals distance from reality. A past-time version also exists for old habits, with the past simple in both clauses; it is just as real, but it describes a past period and not a single past day."
+     ],
+     "examples": [
+      {
+       "s": "If you heat ice, it melts.",
+       "g": "Timeless fact: present simple in both clauses; no receipt, because nothing is denied."
+      },
+      {
+       "s": "Whenever it rains, the traffic on our road gets worse.",
+       "g": "Whenever makes the 'every occasion' meaning explicit; if and when are equivalent here."
+      },
+      {
+       "s": "I feel sick if I read in the car.",
+       "g": "A personal habit with the if-clause in final position."
+      },
+      {
+       "s": "If your health bar hits zero, you go back to the start.",
+       "g": "A game rule: agreement applies clause by clause, hits against go."
+      },
+      {
+       "s": "<s>If you will heat ice, it melts.</s>",
+       "g": "Wrong: the if-clause frames the situation and cannot take plain will. Correct: If you heat ice, it melts."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w1l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "A2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "My cat hides under the bed if she hears thunder."
+      }
+     ],
+     "stem": "What does Fah mean?",
+     "options": [
+      "Her cat hid under the bed once, last night.",
+      "Her cat does this every time there is thunder.",
+      "Her cat will do this tonight, but not usually.",
+      "Her cat never really hides; Fah is imagining it."
+     ],
+     "answer": 1,
+     "near": 2,
+     "fb": [
+      "The verbs are present simple, not past. Check the When dial: this is not about last night.",
+      "Yes: present simple in both halves means it is true every time.",
+      "One future night would need will in the result. Both verbs here are present simple, so it is a habit.",
+      "Nothing is imagined here. Present simple in both halves is real and always true."
+     ],
+     "hint": "Look at the two verbs. One time, or every time?",
+     "why": "Hides and hears are both present simple, so the sentence describes what always happens when there is thunder: a real habit."
+    },
+    {
+     "id": "w1l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "<b>If</b> I drink bubble tea late at night, I stay awake for hours. Which word can replace <b>If</b> and keep the same meaning?",
+     "options": [
+      "Unless",
+      "When",
+      "Before",
+      "Although"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Unless means 'except if', so it turns the meaning upside down.",
+      "Yes: in a habit, if means 'every time', and this word says the same.",
+      "Before changes the story: now the speaker is awake first and drinks the tea later.",
+      "Although shows a surprise, not a condition."
+     ],
+     "hint": "This is a habit. Which word also says 'every time'?",
+     "why": "The sentence is a habit, so if means 'every time'. When says the same thing in facts and habits."
+    },
+    {
+     "id": "w1l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "Which sentence is a zero conditional, a fact that is always true?",
+     "options": [
+      "If it rains this afternoon, we'll play badminton indoors.",
+      "If I had wings, I'd fly over the traffic to school.",
+      "If you mix blue and yellow paint, you get green.",
+      "It rained all morning, so we played badminton indoors."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "This is about one afternoon in the future, and the result has will. That is a first conditional.",
+      "Had and I'd show an imagined world. Truth: I don't have wings.",
+      "Yes: present simple in both halves, and it is true every time.",
+      "This tells a story about one past morning. There is no condition in it."
+     ],
+     "hint": "Check the When dial for each one: one day, or always?",
+     "why": "Mix and get are both present simple and the result is the same every time, so it is a general fact."
+    },
+    {
+     "id": "w1l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "If the temperature drops below zero, water ___.",
+     "options": [
+      "freeze",
+      "freezes",
+      "is freeze",
+      "freezing"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Water is one thing (it), so the present simple verb needs an s.",
+      "Yes: a fact needs the present simple, and water takes the s.",
+      "Is and a plain verb together are not an English form. Use the present simple on its own.",
+      "An -ing word alone cannot be the main verb. A fact needs the present simple."
+     ],
+     "hint": "What is the subject of the gap? Does it need an s?",
+     "why": "This is a science fact, so the result is present simple; water is a singular subject, so the verb ends in s."
+    },
+    {
+     "id": "w1l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "If you ___ ice to a drink, it gets colder.",
+     "options": [
+      "will add",
+      "adds",
+      "add",
+      "adding"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "No will after if. If takes the photo, so the verb stays in the present simple.",
+      "The subject is you, and you never takes the s.",
+      "Yes: present simple after if, and no s after you.",
+      "An -ing word alone cannot be the verb after if."
+     ],
+     "hint": "Which tense comes after if in a fact? Who is the subject?",
+     "why": "After if in a fact we use the present simple, and the subject you takes the plain verb with no s."
+    },
+    {
+     "id": "w1l1-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "[[If]] you [[will tap]] your card on the gate, it [[opens]] and a green light [[comes]] on.",
+     "answer": 1,
+     "fix": "tap",
+     "fb": [
+      "If is the right word for something that happens every time.",
+      "No will after if. If takes the photo, so use the present simple: tap.",
+      "Fine: the gate is one thing, so opens has its s.",
+      "Fine: a light is one thing, so comes has its s."
+     ],
+     "hint": "Which half takes the photo? Check its verb.",
+     "why": "The if half of a fact uses the present simple, so will tap must be tap."
+    },
+    {
+     "id": "w1l1-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "My cat runs to the kitchen whenever she ___ the fridge door.",
+     "options": [
+      "hear",
+      "hearing",
+      "will hear",
+      "hears"
+     ],
+     "answer": 3,
+     "near": 2,
+     "fb": [
+      "One cat is she, so the verb needs an s.",
+      "An -ing word alone cannot be the verb here.",
+      "No will after whenever. It works like if: present simple.",
+      "Yes: present simple after whenever, with the s for she."
+     ],
+     "hint": "Whenever works like if here. Which tense, and who is the subject?",
+     "why": "Whenever means every time, so it takes the present simple like if, and she needs the s form."
+    },
+    {
+     "id": "w1l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "When the sun ___ (go) down, the lights on our street come on.",
+     "accept": [
+      "goes",
+      "has gone"
+     ],
+     "model": "goes",
+     "hint": "A daily fact. Which tense, and does the sun need an s?",
+     "why": "This happens every evening, so the verb is present simple, and the sun is singular: goes."
+    }
+   ]
+  },
+  {
+   "id": "w1l2",
+   "name": "Rules, instructions and advice: imperative and can / must / should results",
+   "cefr": "A2",
+   "ctype": "0",
+   "gateway": "p.72",
+   "formula": {
+    "if": "If + present simple",
+    "result": "imperative, or can / must / should / may + verb"
+   },
+   "uses": [
+    {
+     "use": "Instructions",
+     "ex": "If the app freezes, close it and open it again."
+    },
+    {
+     "use": "Rules",
+     "ex": "If you borrow a ball, you must return it after PE."
+    },
+    {
+     "use": "Permission",
+     "ex": "If you are in M2, you can join the robot club."
+    },
+    {
+     "use": "Advice",
+     "ex": "If you have a sore throat, you should rest your voice."
+    },
+    {
+     "use": "Warnings",
+     "ex": "If you touch that pan, you may burn your hand."
+    },
+    {
+     "use": "Requests",
+     "ex": "If you see Mook, can you give her this book?"
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "After an if half in the present simple, the result can be an order or a modal verb like can, must, should or may.",
+     "body": [
+      "Real life is full of rules, instructions and advice. Many of them start with an <b>if</b> half. The <b>if</b> half stays the same: present simple, and no <b>will</b>. Only the result changes.",
+      "For an instruction, use the imperative (the order form). It is the plain verb, with no subject, no s, no to and no -ing. Signs, apps and teachers use it all the time. You can give two instructions with <b>and</b>. Both are plain verbs. For a negative instruction, put <b>don't</b> before the plain verb. Use <b>don't</b> for everyone.",
+      "You can also use a modal verb (a small helping verb) in the result. Each one has its own meaning. <b>Can</b> means it is allowed. <b>Must</b> means it is necessary: a rule or a law, with no choice. <b>Should</b> means it is a good idea: advice, and you can choose. <b>May</b> and <b>might</b> mean it is possible, so they are good for warnings.",
+      "After a modal verb, always use the plain verb. Do not add to, s or -ing. This is true for every subject: she must wait, they must wait.",
+      "So read the result to find the job of the sentence. A plain verb gives an order. <b>Must</b> gives a rule. <b>Should</b> gives advice. <b>Can</b> gives permission. A present simple result gives a fact. None of these is a promise: a promise needs <b>will</b>. All of them are real, so nothing is imagined and nothing is about the past."
+     ],
+     "examples": [
+      {
+       "s": "If the app freezes, close it and open it again.",
+       "g": "Two instructions. Close and open are plain verbs with no subject."
+      },
+      {
+       "s": "If the haze is bad, don't exercise outside.",
+       "g": "A negative instruction: don't and the plain verb."
+      },
+      {
+       "s": "If you are in M2, you can join the robot club.",
+       "g": "Can means it is allowed. You choose."
+      },
+      {
+       "s": "If you borrow a ball, you must return it after PE.",
+       "g": "Must means a rule. The plain verb follows: <s>must to return</s> is wrong."
+      },
+      {
+       "s": "If you have a sore throat, you should rest your voice.",
+       "g": "Should means advice: a good idea, but you choose."
+      }
+     ]
+    },
+    "B2": {
+     "key": "A real condition can be followed by an imperative or a modal verb, and the choice of modal carries the meaning.",
+     "body": [
+      "Most of the conditionals you read every day are not statements of fact at all. They are instructions on signs and in apps, school rules, safety warnings and friendly advice. The condition half is the same as before, the present simple with no <b>will</b>, but the result does a different job.",
+      "For an instruction the result is an imperative: the base form of the verb with no subject, no s, no <b>to</b> and no -ing ending. The negative is <b>don't</b> followed by the base form, whoever you are speaking to. Two instructions can be joined with <b>and</b>, and both stay in the base form.",
+      "A modal verb in the result adds a precise meaning. <b>Can</b> gives permission: the action is allowed, not required. <b>Must</b> states a rule or law: it is necessary and there is no choice. <b>Should</b> gives advice: it is a good idea, but the listener decides. <b>May</b> and <b>might</b> say that something is possible, which makes them natural in warnings.",
+      "Whatever the modal, the verb after it is the base form, for every subject. There is never <b>to</b> between the modal and the verb, never an s and never -ing.",
+      "To name the use of a sentence, read its result. A base verb is an instruction, <b>must</b> a rule, <b>should</b> advice, <b>can</b> permission, <b>may</b> a warning, and a present simple result a plain fact. A promise would need <b>will</b>. Nothing here is imagined or past, so no Truth line is hidden behind these sentences."
+     ],
+     "examples": [
+      {
+       "s": "If the app freezes, close it and open it again.",
+       "g": "Two imperatives joined with and; both are base forms with no subject."
+      },
+      {
+       "s": "If the haze is bad, don't exercise outside.",
+       "g": "Negative imperative: don't and the base form, for any listener."
+      },
+      {
+       "s": "If you are in M2, you can join the robot club.",
+       "g": "Can gives permission: allowed, not required."
+      },
+      {
+       "s": "If you borrow a ball, you must return it after PE.",
+       "g": "Must states a rule; the base form follows, so <s>must to return</s> is wrong."
+      },
+      {
+       "s": "If you have a sore throat, you should rest your voice.",
+       "g": "Should gives advice and leaves the choice to the listener."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Real conditions most often lead to imperatives and modals, and each result performs its own act: instruction, rule, permission, advice or warning.",
+     "body": [
+      "In authentic English the commonest job of an if-clause is to say when an instruction, rule or piece of advice applies. Help pages, medicine leaflets, transport notices and exam instructions are built on this pattern, which is far more frequent than the coursebook sequence with <b>will</b>. The condition clause is unchanged, a present form with no <b>will</b>, because it only frames the situation; the result clause performs the act.",
+      "An imperative result is the bare base form, with no subject and no inflection, so it cannot take s, <b>to</b> or -ing; its negative is <b>don't</b> with the base form for any listener. Imperatives joined by <b>and</b> each keep the base form. A normal verb elsewhere in the sentence still agrees with its own subject as usual.",
+      "A modal result keeps the modal's ordinary meaning. <b>Can</b> grants permission without obliging anyone. <b>Must</b> imposes necessity, typically a rule or law. <b>Should</b> recommends and leaves the decision to the listener. <b>May</b> and <b>might</b> mark possibility and so suit warnings; because those two overlap, choosing between them is a matter of tone, not correctness.",
+      "Modals are followed by the base form for every subject, with no <b>to</b>, no agreement s and no -ing. Errors here usually come from copying the pattern of <b>have to</b> or <b>want to</b>, which do take <b>to</b>.",
+      "The result therefore identifies the function. A <b>will</b> result would predict or promise; a past form would report the past or step away from reality. Neither is present here: these sentences are real, deny nothing and carry no Truth receipt. Any sensible present form, modal or imperative is acceptable after a real condition, so do not force such sentences into a single textbook formula."
+     ],
+     "examples": [
+      {
+       "s": "If the app freezes, close it and open it again.",
+       "g": "Coordinated imperatives: bare base forms, no subject, no inflection."
+      },
+      {
+       "s": "If the haze is bad, don't exercise outside.",
+       "g": "Negative imperative with don't, whoever is addressed."
+      },
+      {
+       "s": "If you are in M2, you can join the robot club.",
+       "g": "Can grants permission without obligation."
+      },
+      {
+       "s": "If you borrow a ball, you must return it after PE.",
+       "g": "Must imposes necessity; a bare base form follows, so <s>must to return</s> is wrong."
+      },
+      {
+       "s": "If you have a sore throat, you should rest your voice.",
+       "g": "Should recommends; the listener remains free to decide."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w1l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "A2",
+     "lines": [
+      {
+       "who": "Library sign",
+       "text": "If you finish a book, put it back on the right shelf."
+      }
+     ],
+     "stem": "What is the sign doing?",
+     "options": [
+      "Making a promise about the future",
+      "Describing an imagined situation",
+      "Giving an instruction",
+      "Describing one day in the past"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "A promise would use will, as in 'we will help you'. Here the result is an order: put.",
+      "Nothing is imagined. Students really finish books, and the sign tells them what to do.",
+      "Yes: the result starts with a plain verb, put, so it tells readers what to do.",
+      "The verbs are present, not past, and the sign speaks to every reader, every day."
+     ],
+     "hint": "Look at the first word of the result. What kind of verb form is it?",
+     "why": "The result begins with the plain verb put, with no subject. That is an imperative, so the sign gives an instruction."
+    },
+    {
+     "id": "w1l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Librarian",
+       "text": "If you have a library card, you can borrow three books."
+      }
+     ],
+     "stem": "What does <b>can</b> tell us here?",
+     "options": [
+      "Borrowing three books is allowed.",
+      "Borrowing three books is necessary.",
+      "Borrowing three books is a good idea.",
+      "Borrowing three books is against the rules."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: can in a rule gives permission. You are free to do it.",
+      "Necessary is must. Can only opens the door; you choose.",
+      "A good idea is should. Can says it is allowed, not that it is wise.",
+      "Against the rules would be can't or mustn't. Can says yes."
+     ],
+     "hint": "Is the student forced, advised or free to do it?",
+     "why": "Can in the result gives permission: with a card, a student is allowed to borrow three books, but does not have to."
+    },
+    {
+     "id": "w1l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "Which sentence gives advice, not a rule, an order or a fact?",
+     "options": [
+      "If you bring a phone to school, you must keep it in your bag.",
+      "If the bell rings, go straight to your classroom.",
+      "If you press this switch, the fan starts.",
+      "If you feel sleepy in class, you should drink some water."
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Must makes this a rule: there is no choice.",
+      "The result is a plain verb, go, so this is an order.",
+      "This only says how the fan works. It is a fact, not advice.",
+      "Yes: should means it is a good idea, and the listener can choose."
+     ],
+     "hint": "Which result recommends something but leaves the listener free to choose?",
+     "why": "Should in the result means 'this is a good idea'. Must is a rule, a plain verb is an order, and a present simple result is a fact."
+    },
+    {
+     "id": "w1l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "If the fire alarm rings, ___ the building by the nearest stairs.",
+     "options": [
+      "leaves",
+      "leave",
+      "leaving",
+      "to leave"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "An instruction uses the plain verb with no s. There is no he or she here.",
+      "Yes: an instruction is the plain verb, with no subject and no s.",
+      "An -ing word cannot give an instruction on its own.",
+      "Drop the to. An instruction starts with the plain verb."
+     ],
+     "hint": "The result tells people what to do. Which verb form gives an order?",
+     "why": "The result is an instruction, so it needs the imperative: the plain verb with no subject, no s and no to."
+    },
+    {
+     "id": "w1l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "If you arrive after eight o'clock, you ___ the late book at the office.",
+     "options": [
+      "must to sign",
+      "must signs",
+      "must sign",
+      "must signing"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "After must there is no to. Must goes straight to the plain verb.",
+      "No s after a modal verb, for any subject.",
+      "Yes: must and the plain verb, for a school rule.",
+      "No -ing after must. Use the plain verb."
+     ],
+     "hint": "What form of the verb follows a modal like must?",
+     "why": "Modal verbs such as must are followed by the plain verb, with no to, no s and no -ing."
+    },
+    {
+     "id": "w1l2-6",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "If you ride on a motorbike taxi, you ___ wear a helmet. It's the law.",
+     "options": [
+      "can",
+      "may",
+      "might",
+      "must"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Can only says it is allowed. A law makes it necessary.",
+      "May says it is allowed or possible. A law is stronger than that.",
+      "Might says it is possible, like a guess. A law is not a guess.",
+      "Yes: the law leaves no choice, so the result needs the modal for 'necessary'."
+     ],
+     "hint": "It's the law. Is the helmet allowed, possible or necessary?",
+     "why": "A law makes the helmet necessary, and must is the modal for a rule with no choice."
+    },
+    {
+     "id": "w1l2-7",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "If you [[finish]] the test early, [[checks]] your answers and [[stay]] in your seat until the teacher [[collects]] the papers.",
+     "answer": 1,
+     "fix": "check",
+     "fb": [
+      "Fine: present simple after if, and you takes no s.",
+      "An instruction is the plain verb: check, with no s.",
+      "Fine: stay is a plain verb, a second instruction.",
+      "Fine: the teacher is one person, so collects has its s."
+     ],
+     "hint": "Two parts give instructions. Are both plain verbs?",
+     "why": "Instructions use the plain verb, so checks must be check; collects is right because its subject is the teacher."
+    },
+    {
+     "id": "w1l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "A2",
+     "stem": "If the corridor floor is wet, ___ (not run). Walk slowly.",
+     "accept": [
+      "don't run",
+      "do not run"
+     ],
+     "model": "don't run",
+     "hint": "A negative instruction. Which helping word goes before the plain verb?",
+     "why": "A negative instruction is don't and the plain verb, for everyone: don't run."
+    }
+   ]
+  },
+  {
+   "id": "w1l3",
+   "name": "Building it right: clause order, the comma, he/she + -s, negatives and questions",
+   "cefr": "B1",
+   "ctype": "0",
+   "gateway": "p.72",
+   "formula": {
+    "if": "If + present simple, (comma)",
+    "result": "present simple (result first: no comma)"
+   },
+   "uses": [
+    {
+     "use": "Setting the scene first (with a comma)",
+     "ex": "If the bell rings, everyone stands up."
+    },
+    {
+     "use": "Giving the result first (no comma)",
+     "ex": "Everyone stands up if the bell rings."
+    },
+    {
+     "use": "Saying what follows when something doesn't happen",
+     "ex": "If Mum doesn't set an alarm, she oversleeps."
+    },
+    {
+     "use": "Asking about a general result",
+     "ex": "What happens if you press this button?"
+    },
+    {
+     "use": "Checking a fact with a yes or no question",
+     "ex": "Does your cat come if you call her name?"
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Put a comma after the if half only when it comes first, and check the s, the negative and the question form.",
+     "body": [
+      "You can start with the <b>if</b> half or with the result. The meaning is the same. But keep <b>if</b> with the same action. If you move <b>if</b> to the other action, the condition changes, and the meaning changes too.",
+      "The comma rule is simple. When the <b>if</b> half comes first, put a comma at the end of it. When the result comes first, use no comma. The comma never goes straight after the word <b>if</b>.",
+      "Do not add <b>so</b> after the <b>if</b> half. The word <b>if</b> already joins the two halves, and that is enough. The result starts with its subject.",
+      "Check every verb. After he, she, it or one person or thing, the present simple verb ends in s. Both halves can need it. For a negative, use <b>doesn't</b> for he, she or it, and <b>don't</b> for the others. After <b>doesn't</b> and <b>don't</b>, use the plain verb with no s. Do not use <b>won't</b> after <b>if</b> here. A negative sentence like this still talks about every time, not one day. It does not say the thing always happens.",
+      "To ask about a fact, use <b>What happens if</b>. <b>What</b> is the subject, so the verb has an s. It asks for the usual result, not for one day. For a yes or no question, start with <b>Does</b> for one thing. Use <b>Do</b> for you, we, they or many things. Then use the plain verb. The short answer uses the same word: Yes, it does."
+     ],
+     "examples": [
+      {
+       "s": "If my sister misses the bus, she walks to school.",
+       "g": "The if half is first, so there is a comma. My sister and she both take the s."
+      },
+      {
+       "s": "My sister walks to school if she misses the bus.",
+       "g": "The result is first, so there is no comma. The meaning is the same."
+      },
+      {
+       "s": "If it doesn't rain, the grass turns brown.",
+       "g": "A negative: doesn't and the plain verb rain, with no s."
+      },
+      {
+       "s": "What happens if you press this button? Does it make a noise?",
+       "g": "Two questions. Happens has an s. After Does, make has no s."
+      },
+      {
+       "s": "<s>If I'm tired, so I go to bed early.</s>",
+       "g": "Wrong: no so after the if half. Say: If I'm tired, I go to bed early."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Either half can come first; the comma follows only an if half in first position, and agreement, negatives and questions use ordinary present simple grammar.",
+     "body": [
+      "The two halves can come in either order without any change of meaning, provided that <b>if</b> stays attached to the same action. Swap the actions instead of the halves and you have a different condition, and so a different message.",
+      "Punctuation follows the order. When the <b>if</b> half comes first, a comma closes it; when the result comes first, there is normally no comma before <b>if</b>. The comma belongs at the end of the whole condition, never directly after the word <b>if</b>.",
+      "Nothing else is needed to link the halves. Thai uses a small linking word before the result, and learners often translate it as <b>so</b>, but in English <b>so</b> after an if half is an error. The result simply begins with its subject.",
+      "Each verb agrees with its own subject: a third person singular subject takes s in either half. Negatives use <b>doesn't</b> for he, she or it and <b>don't</b> elsewhere, followed by the base form, because the s has already moved onto <b>doesn't</b>. <b>Won't</b>, like <b>will</b>, stays out of the if half here. A negative zero conditional still describes what follows on every such occasion; it does not claim that the situation always occurs, and it is not about one day.",
+      "Questions about general results use <b>What happens if</b>, where <b>what</b> is the singular subject, so the verb takes s. Yes or no questions begin with <b>Does</b> or <b>Do</b>, then the subject and the base form, and the short answer repeats the same helping word. Both kinds ask what usually follows, not what happened once."
+     ],
+     "examples": [
+      {
+       "s": "If my sister misses the bus, she walks to school.",
+       "g": "If half first, so a comma; both verbs take s for a singular subject."
+      },
+      {
+       "s": "My sister walks to school if she misses the bus.",
+       "g": "Result first, so no comma; the meaning is unchanged."
+      },
+      {
+       "s": "If it doesn't rain, the grass turns brown.",
+       "g": "Negative: doesn't carries the s, and rain is the base form."
+      },
+      {
+       "s": "What happens if you press this button? Does it make a noise?",
+       "g": "What is the subject, so happens takes s; after Does, make is the base form."
+      },
+      {
+       "s": "<s>If I'm tired, so I go to bed early.</s>",
+       "g": "Wrong: so cannot follow an if half. Correct: If I'm tired, I go to bed early."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Clause order is a choice of focus, the comma is a convention tied to that order, and the rest is ordinary present simple grammar applied to each clause.",
+     "body": [
+      "Either clause may come first with no change in truth: an if-clause in first position sets the scene, while a final one adds the condition as new information. What must not move is the word <b>if</b> itself. Attach it to the other action and you reverse condition and result, which changes the meaning entirely.",
+      "The comma is a writing convention and not a rule of grammar, but examiners expect it: a comma after an if-clause that comes first, and normally none before a final one. The one regular exception is an afterthought added in speech, which you do not need yet. A comma directly after <b>if</b> is never right.",
+      "English needs no linking word before the result. Thai typically places a small linker there, which tempts learners to write <b>so</b>; standard English rejects it because <b>if</b> has already made one clause depend on the other. An emphatic <b>then</b> is possible, but nothing at all is the usual choice.",
+      "Agreement applies clause by clause, so a third person singular subject takes s wherever it stands. In negatives the helping verb carries the agreement, <b>doesn't</b> against <b>don't</b>, and the main verb returns to the base form; <b>won't</b> in its plain future sense is excluded from the if-clause for the same reason as <b>will</b>. Note the logic of a negative condition: it states what follows whenever the situation is absent, without claiming that it is always absent.",
+      "In <b>What happens if</b>, <b>what</b> is itself the subject, hence the singular verb with s and no helping verb. Yes or no questions take <b>Does</b> or <b>Do</b> with the base form, and the short answer echoes that helping verb. Both ask about the general result, not about a single past or future event."
+     ],
+     "examples": [
+      {
+       "s": "If my sister misses the bus, she walks to school.",
+       "g": "Scene-setting if-clause with its comma; agreement in both clauses."
+      },
+      {
+       "s": "My sister walks to school if she misses the bus.",
+       "g": "Final if-clause, no comma; identical truth, different focus."
+      },
+      {
+       "s": "If it doesn't rain, the grass turns brown.",
+       "g": "The helping verb carries agreement; the main verb is the base form."
+      },
+      {
+       "s": "What happens if you press this button? Does it make a noise?",
+       "g": "Subject question with happens, then a Does question with the base form make."
+      },
+      {
+       "s": "<s>If I'm tired, so I go to bed early.</s>",
+       "g": "Wrong: if already links the clauses, so so is redundant. Correct: If I'm tired, I go to bed early."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w1l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "Fern sneezes if she smells pepper. Which sentence means the same?",
+     "options": [
+      "If Fern sneezes, she smells pepper.",
+      "If Fern smells pepper, she sneezes.",
+      "Fern smells pepper if she sneezes.",
+      "Fern doesn't sneeze if she smells pepper."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The halves have swapped jobs: now sneezing is the condition. Keep 'smells pepper' with if.",
+      "Yes: the if half is still 'smells pepper'. Only the order changed, and a comma came in.",
+      "Here if sits on 'sneezes', so sneezing has become the condition.",
+      "The negative turns the meaning upside down."
+     ],
+     "hint": "Which action is the condition? Keep if with that action.",
+     "why": "Moving the if half to the front does not change the meaning, as long as if stays with the same action: smells pepper."
+    },
+    {
+     "id": "w1l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Jane's mum",
+       "text": "If Jane doesn't sleep eight hours, she can't concentrate in the first lesson."
+      }
+     ],
+     "stem": "What is true?",
+     "options": [
+      "Jane never manages to sleep for eight hours.",
+      "Jane concentrates better after a short night's sleep.",
+      "Jane slept badly last night and felt tired today.",
+      "Jane needs a full night's sleep to concentrate."
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "If does not say it always happens. It only says what follows each time it does.",
+      "The opposite: too little sleep, no concentration.",
+      "The sentence is about every time, not about last night. Check the When dial.",
+      "Yes: each time she sleeps too little, she can't concentrate, so sleep is what she needs."
+     ],
+     "hint": "Does the sentence describe one night, or what follows each time?",
+     "why": "The negative zero conditional says what follows whenever Jane sleeps too little, so a full night's sleep is necessary for her concentration."
+    },
+    {
+     "id": "w1l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "0",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Mook",
+       "text": "What happens if you leave your phone in the sun?"
+      }
+     ],
+     "stem": "What does Mook want to know?",
+     "options": [
+      "The usual result of doing this",
+      "What happened to a phone yesterday",
+      "What her friend plans to do tomorrow",
+      "Whether her friend owns a phone"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: happens is present simple, so she is asking what always follows.",
+      "Yesterday would need the past: what happened.",
+      "A plan would need a future form. Happens is present simple: a general question.",
+      "She is not asking about owning a phone. She is asking about a result."
+     ],
+     "hint": "Look at the tense of the question verb. One time, or in general?",
+     "why": "What happens if is a present simple question, so it asks for the general result of an action."
+    },
+    {
+     "id": "w1l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "If my sister ___ games after ten at night, she can't wake up for school.",
+     "options": [
+      "play",
+      "will play",
+      "plays",
+      "is play"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "My sister is one person, so the verb needs an s.",
+      "No will after if. If takes the photo: present simple.",
+      "Yes: present simple after if, with the s for my sister.",
+      "Is and a plain verb together are not an English form."
+     ],
+     "hint": "Who is the subject of the if half? One person or more?",
+     "why": "The if half takes the present simple, and my sister is third person singular, so the verb is plays."
+    },
+    {
+     "id": "w1l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "If our cat ___ her dinner on time, she wakes everyone up at five.",
+     "options": [
+      "don't get",
+      "not get",
+      "won't get",
+      "doesn't get"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Our cat is one animal, so the negative is doesn't, not don't.",
+      "Not cannot stand alone. A present simple negative needs doesn't or don't.",
+      "No will or won't after if. Use the present simple negative.",
+      "Yes: doesn't and the plain verb. The s lives in doesn't, so get has none."
+     ],
+     "hint": "A present simple negative for one animal. Which helping word carries the s?",
+     "why": "For he, she or it, the present simple negative is doesn't and the plain verb, and won't cannot follow if."
+    },
+    {
+     "id": "w1l3-6",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "If Pim stays up late, ___ sleepy in maths the next day.",
+     "options": [
+      "so she feels",
+      "she feel",
+      "she feels",
+      "so she feeling"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "No so after an if half. The word if already joins the two halves.",
+      "Pim is she, so the verb needs its s.",
+      "Yes: no linking word after the comma, and the s for she.",
+      "Two problems: so is not needed, and an -ing word alone is not a verb."
+     ],
+     "hint": "Does the result need a linking word? And check the verb ending.",
+     "why": "After an if half, the result starts straight after the comma with no so, and she takes the s form: she feels."
+    },
+    {
+     "id": "w1l3-7",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "Our cat [[hides]] under [[the sofa, if]] she [[hears]] thunder [[outside]].",
+     "answer": 1,
+     "fix": "the sofa if",
+     "fb": [
+      "Fine: our cat is one animal, so hides has its s.",
+      "The if half comes second here, so there is no comma before if.",
+      "Fine: she takes the s form, hears.",
+      "Fine: outside just says where the thunder is."
+     ],
+     "hint": "Where is the if half: first or second? What does that mean for the comma?",
+     "why": "The comma is used only when the if half comes first. Here the result comes first, so no comma is needed."
+    },
+    {
+     "id": "w1l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "___ ice float if you put it in a glass of water? Yes, it does.",
+     "accept": [
+      "Does"
+     ],
+     "model": "Does",
+     "hint": "A yes or no question about a fact. Look at the short answer too.",
+     "why": "A present simple question about one thing starts with Does, and the short answer 'it does' matches it."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w1g",
+  "items": [
+   {
+    "id": "w1g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "0",
+    "cefr": "B1",
+    "stem": "In which sentence can <b>when</b> replace <b>if</b> with the same meaning?",
+    "options": [
+     "If I were a cat, I'd sleep all day.",
+     "If Mint passes tomorrow's test, her mum will buy pizza.",
+     "If you freeze water, it becomes ice.",
+     "If I had a robot, it would do my homework."
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "This is imagined. Truth: I'm not a cat. When would make it sound real.",
+     "This is one future day, and nobody knows the result yet. When would say she is sure to pass.",
+     "Yes: a fact that is true every time, so if and when mean the same.",
+     "This is imagined. Truth: I don't have a robot. When does not fit a dream."
+    ],
+    "hint": "Which sentence is true every time?",
+    "why": "Only in facts and habits does if mean 'every time', so only the freezing sentence keeps its meaning with when."
+   },
+   {
+    "id": "w1g-2",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "0",
+    "cefr": "B1",
+    "lines": [
+     {
+      "who": "Pool notice",
+      "text": "If you have long hair, you must wear a swimming cap."
+     }
+    ],
+    "stem": "What does the notice mean for swimmers with long hair?",
+    "options": [
+     "A cap is a good idea, but they can choose.",
+     "A cap is necessary.",
+     "A cap is allowed, but nobody needs one.",
+     "A cap is possible on some days."
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "A good idea would be should. Must leaves no choice.",
+     "Yes: must makes it a rule with no choice.",
+     "Allowed would be can. Must is much stronger.",
+     "Possible would be may or might. Must is a rule for every day."
+    ],
+    "hint": "Is the swimmer free to choose?",
+    "why": "Must in the result makes a rule: for swimmers with long hair, the cap is necessary, not just allowed or advised."
+   },
+   {
+    "id": "w1g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "0",
+    "cefr": "B1",
+    "stem": "The projector doesn't work if you don't plug in the long cable. What is true?",
+    "options": [
+     "The projector works without the long cable.",
+     "The projector never works.",
+     "Somebody unplugged the cable this morning.",
+     "The projector needs the long cable."
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "The opposite: no cable, no picture.",
+     "It fails in one situation only: when the cable is not plugged in.",
+     "This is a general fact, not a story about this morning. Check the When dial.",
+     "Yes: every time the cable is missing, it fails, so the cable is necessary."
+    ],
+    "hint": "Two negatives. What follows each time the cable is missing?",
+    "why": "The sentence says the projector fails whenever the cable is not plugged in, so it needs the cable to work."
+   },
+   {
+    "id": "w1g-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "0",
+    "cefr": "B1",
+    "stem": "What ___ if you shake a fizzy drink and open it straight away?",
+    "options": [
+     "happen",
+     "is happen",
+     "happens",
+     "happening"
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "What is the subject here and counts as one thing, so the verb needs an s.",
+     "Is and a plain verb together are not an English form.",
+     "Yes: present simple with s, because what is the subject.",
+     "An -ing word alone cannot be the verb of a question."
+    ],
+    "hint": "What is the subject of this question? Is it singular?",
+    "why": "In What happens if, what is the subject and is singular, so the present simple verb takes s."
+   },
+   {
+    "id": "w1g-5",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "0",
+    "cefr": "A2",
+    "stem": "If you have a student card, you ___ in free on Sundays. The museum allows it.",
+    "options": [
+     "can to get",
+     "can get",
+     "can gets",
+     "can getting"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "No to after can. Modal verbs go straight to the plain verb.",
+     "Yes: can and the plain verb, for permission.",
+     "No s after a modal verb, for any subject.",
+     "No -ing after can. Use the plain verb."
+    ],
+    "hint": "What form of the verb follows a modal?",
+    "why": "Can is a modal verb, so the plain verb follows it with no to, no s and no -ing."
+   },
+   {
+    "id": "w1g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "0",
+    "cefr": "B1",
+    "stem": "Which sentence follows the comma rule for if sentences?",
+    "options": [
+     "If the lift is full we all walk up.",
+     "We use the stairs, if the lift is full.",
+     "If the lift is full, we take the stairs.",
+     "If, the lift is full we climb the stairs."
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "The if half comes first, so it needs a comma after it.",
+     "The if half comes second here, so no comma is needed.",
+     "Yes: if half first, then a comma, then the result.",
+     "The comma goes at the end of the whole if half, not straight after if."
+    ],
+    "hint": "Where is the if half? What does that mean for the comma?",
+    "why": "A comma follows the if half only when it comes first; when the result comes first, there is no comma."
+   },
+   {
+    "id": "w1g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "0",
+    "cefr": "A2",
+    "stem": "If you [[will leave]] milk out of the fridge, it [[goes]] bad [[in]] a few [[hours]].",
+    "answer": 0,
+    "fix": "leave",
+    "fb": [
+     "No will after if. If takes the photo: use the present simple, leave.",
+     "Fine: milk is one thing, so goes has its s.",
+     "Fine: in a few hours is the normal phrase for time.",
+     "Fine: a few is followed by a plural noun."
+    ],
+    "hint": "Check the verb in the half that takes the photo.",
+    "why": "The if half of a general fact uses the present simple, so will leave must be leave."
+   },
+   {
+    "id": "w1g-8",
+    "type": "type",
+    "skill": "form",
+    "ctype": "0",
+    "cefr": "A2",
+    "stem": "___ (not touch) the plate if it is hot. Use the cloth.",
+    "accept": [
+     "Don't touch",
+     "Do not touch"
+    ],
+    "model": "Don't touch",
+    "hint": "A negative instruction. Which helping word goes before the plain verb?",
+    "why": "A negative instruction is don't and the plain verb. The result comes first here, so there is no comma."
+   }
+  ]
+ }
+}

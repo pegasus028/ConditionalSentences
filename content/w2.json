@@ -1,0 +1,1182 @@
+{
+ "world": "w2",
+ "lessons": [
+  {
+   "id": "w2l1",
+   "name": "A possible future: if + present, will (no will after if)",
+   "cefr": "B1",
+   "ctype": "1",
+   "gateway": "p.72",
+   "formula": {
+    "if": "If + present simple",
+    "result": "will / won't + verb"
+   },
+   "uses": [
+    {
+     "use": "Predictions",
+     "ex": "If we take the MRT, we'll get there before the rain."
+    },
+    {
+     "use": "Promises",
+     "ex": "If you come to my match, I'll save you a seat."
+    },
+    {
+     "use": "Warnings",
+     "ex": "If you don't charge your phone, the battery will run out before lunch."
+    },
+    {
+     "use": "Plans that depend on something",
+     "ex": "If Mum says yes, I'll come to the concert with you."
+    },
+    {
+     "use": "Asking about a possible problem",
+     "ex": "What will we do if the shop is closed?"
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Use <b>if</b> with the present simple for a possible future, and <b>will</b> for the result.",
+     "body": [
+      "The first conditional, or type 1, talks about one possible future. The <b>if</b> half is the condition (the thing that may happen). The other half is the result (what happens next). The speaker thinks the condition is possible, but she is not sure. Maybe it will happen, maybe not. Nothing here is imagined. It is all really possible.",
+      "Look at the verbs. After <b>if</b> we use the present simple, but the time is the future. In the result we use <b>will</b> and the base verb (the verb with no ending). Remember this picture: <b>if</b> takes the photo, <b>will</b> makes the promise. The <b>if</b> half only shows a possible scene. The result half says what will come. So never put <b>will</b> after <b>if</b> for a plain future.",
+      "Check the small parts. With <em>he</em>, <em>she</em> or <em>it</em> the present verb takes <em>-s</em>: <em>if she wins</em>. For a negative condition, use <em>don't</em> or <em>doesn't</em>, never <em>won't</em>: <em>if he doesn't call</em>. For a negative result, use <em>won't</em> and the base verb. Two negatives together tell you what you need. <em>You won't improve if you don't practise</em> means you need to practise.",
+      "For a question, change the result half. Put <b>will</b> before the subject (the person or thing): <em>What will she say if we arrive late?</em> The <b>if</b> half stays the same. You can put either half first. When <b>if</b> comes first, write a comma after that half. When <b>if</b> comes second, you need no comma."
+     ],
+     "examples": [
+      {
+       "s": "If the bus is late, I'll walk to school.",
+       "g": "A possible future. Present simple after if, will in the result."
+      },
+      {
+       "s": "If Nan doesn't hurry, she won't catch the 7.15 train.",
+       "g": "Two negatives: doesn't after if, won't in the result. Nan needs to hurry."
+      },
+      {
+       "s": "What will you wear if it's cold in the cinema?",
+       "g": "A question: will comes before you. The if half does not change."
+      },
+      {
+       "s": "We'll have the picnic inside if it rains.",
+       "g": "The if half comes second, so there is no comma."
+      },
+      {
+       "s": "<s>If it will rain tomorrow, we'll stay in.</s>",
+       "g": "Wrong. Say: If it rains tomorrow, we'll stay in. No will after if."
+      }
+     ]
+    },
+    "B2": {
+     "key": "The first conditional pairs <b>if</b> and a present form with <b>will</b> to talk about a real, possible future event and its result.",
+     "body": [
+      "The first conditional, or type 1, is about a future event that the speaker sees as a real possibility. She does not know whether it will happen, so she sets it up with <b>if</b> and then says what the result will be. Nothing in the sentence is denied or imagined; the event is simply possible. Typical jobs are predictions, promises, warnings and plans that depend on something.",
+      "The form surprises many learners. The <b>if</b> half uses the present simple even though the time is future, and only the result half takes <b>will</b> and the base verb. A useful picture is this: <b>if</b> takes the photo, <b>will</b> makes the promise. The <b>if</b> half just shows a possible scene, like a photo, and the result half does the predicting. So <b>will</b> after <b>if</b> is wrong when you only mean the future.",
+      "Build each half carefully. In the <b>if</b> half, remember the <em>-s</em> for <em>he</em>, <em>she</em> and <em>it</em>, and make negatives with <em>don't</em> or <em>doesn't</em>, not <em>won't</em>. In the result, <em>will</em> and <em>won't</em> are followed by the base verb with no <em>-s</em>, no <em>to</em> and no <em>-ing</em>. When both halves are negative, the sentence tells you what is necessary: <em>You won't improve if you don't practise</em> means that practice is needed.",
+      "Questions are formed in the result half only: <b>will</b> moves in front of the subject, as in <em>What will she say if we arrive late?</em> The <b>if</b> half keeps normal word order. Either half can come first without changing the meaning. By convention, write a comma after the <b>if</b> half when it comes first, and no comma when it comes second."
+     ],
+     "examples": [
+      {
+       "s": "If the bus is late, I'll walk to school.",
+       "g": "A possible future event: present simple after if, will plus the base verb in the result."
+      },
+      {
+       "s": "If Nan doesn't hurry, she won't catch the 7.15 train.",
+       "g": "Negative in both halves: doesn't after if, never won't; won't in the result. Together they show that hurrying is necessary."
+      },
+      {
+       "s": "What will you wear if it's cold in the cinema?",
+       "g": "The question is made in the result half: will before the subject. The if half keeps normal order."
+      },
+      {
+       "s": "We'll have the picnic inside if it rains.",
+       "g": "Result first, if half second: same meaning, and no comma."
+      },
+      {
+       "s": "<s>If it will rain tomorrow, we'll stay in.</s>",
+       "g": "Wrong: will after if for a plain future. Correct: If it rains tomorrow, we'll stay in."
+      }
+     ]
+    },
+    "C1": {
+     "key": "In a first conditional the <b>if</b> clause presents an open future possibility in a present form, and <b>will</b> in the main clause predicts or commits to the consequence.",
+     "body": [
+      "The first conditional sits in the real row of the two dials: the time is future and the speaker treats the condition as open, neither true nor false yet. That is a matter of attitude, not of percentages; the same event could be framed as a daydream with other forms, which you meet in Dream Tycoon. Because nothing is denied, a first conditional hides no contrary fact. It is the natural form for predictions, promises, warnings and plans that depend on something.",
+      "Why a present form for future time? The <b>if</b> clause does not predict anything; it simply assumes a scene and asks you to hold it in mind, so English leaves it unmarked for the future. The prediction itself belongs to the main clause, where <b>will</b> appears. Hence the line: <b>if</b> takes the photo, <b>will</b> makes the promise. Adding <b>will</b> to the <b>if</b> clause just to show future time is a very common error for Thai learners, because Thai can mark both halves with the same word.",
+      "There is a genuine exception, which you are not tested on here. <b>Will</b> can follow <b>if</b> when it means being willing to do something, or when it makes a polite request, as in <em>If you'll wait a moment, I'll fetch the manager</em>. That use is taught in Formal Citadel. Whenever <b>will</b> would only mean <em>in the future</em>, leave it out.",
+      "The remaining details are mechanical but matter in writing. The present simple needs <em>-s</em> for <em>he</em>, <em>she</em> and <em>it</em>, negatives in the <b>if</b> clause take <em>don't</em> or <em>doesn't</em> rather than <em>won't</em>, and <em>will</em> or <em>won't</em> is followed by the base verb with nothing added. Two negatives together express necessity: <em>You won't improve if you don't practise</em> says that practice is required.",
+      "Questions invert only the main clause, giving <em>What will she say if we arrive late?</em>, while the <b>if</b> clause keeps statement order. The clauses can come in either order; an <b>if</b> clause that comes first is followed by a comma, and one that comes second normally is not. This is a punctuation convention rather than a grammar rule, but examiners expect it."
+     ],
+     "examples": [
+      {
+       "s": "If the bus is late, I'll walk to school.",
+       "g": "Open future condition: the if clause sets the scene in the present simple and will predicts. Nothing is denied."
+      },
+      {
+       "s": "If Nan doesn't hurry, she won't catch the 7.15 train.",
+       "g": "Present simple negative in the condition and won't in the main clause; the double negative expresses a necessary condition."
+      },
+      {
+       "s": "What will you wear if it's cold in the cinema?",
+       "g": "Inversion happens only in the main clause; the if clause keeps statement order and its present form."
+      },
+      {
+       "s": "We'll have the picnic inside if it rains.",
+       "g": "A final if clause adds the condition as new information and normally takes no comma."
+      },
+      {
+       "s": "<s>If it will rain tomorrow, we'll stay in.</s>",
+       "g": "Error: will only marks future time here, so it cannot stand in the if clause. Correct: If it rains tomorrow, we'll stay in."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w2l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "If it rains this afternoon, we'll play badminton in the gym."
+      }
+     ],
+     "stem": "What does Fah think about rain this afternoon?",
+     "options": [
+      "It is certain to rain.",
+      "It is possible, not certain.",
+      "It is raining at the moment.",
+      "It rained and they moved inside."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "For something certain we say when, not if. Fah is not sure about the rain.",
+      "Yes: if shows a possible future. Fah does not know yet, so she plans for it.",
+      "The present form after if is about this afternoon, which is still the future.",
+      "Nothing has happened yet. Rains after if is a present form about the future."
+     ],
+     "hint": "Does if show something sure, or something that may happen?",
+     "why": "If with a present verb sets up a possible future event. Fah does not know whether it will rain, so she plans for that case."
+    },
+    {
+     "id": "w2l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "\"If Mint finishes her homework early tonight, she'll watch the concert stream.\" The verb <b>finishes</b> is in the present simple. What time is it about?",
+     "options": [
+      "Every night, as a habit",
+      "Right now, as we speak",
+      "Last night, in the past",
+      "Tonight, in the future"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "A habit would have a present verb in the result too. Here she'll and tonight point to one future evening.",
+      "She has not finished yet. The form is present, but the time is later tonight.",
+      "A past time needs a past form, and tonight has not happened yet.",
+      "Yes: after if, the present simple shows a possible future. Tonight tells you the time."
+     ],
+     "hint": "Look at the time word and the result half, not only at the verb form.",
+     "why": "After if, English uses a present form for a possible future. The word tonight and she'll in the result show that the time is future."
+    },
+    {
+     "id": "w2l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Bam",
+       "text": "We won't get seats if we don't leave now."
+      }
+     ],
+     "stem": "What does Bam mean?",
+     "options": [
+      "They need to leave now to get seats.",
+      "They have already lost their seats.",
+      "They will get seats at any time.",
+      "They never get seats at this place."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: two negatives together show what is needed. Leave now, and seats are possible.",
+      "Nothing is lost yet. This is a possible future, and there is still time to act.",
+      "No. Bam says the seats depend on leaving now.",
+      "That would be a habit, with two present verbs. Won't shows one future time."
+     ],
+     "hint": "Which action makes the good result possible?",
+     "why": "Won't get seats is the result of not leaving now. So leaving now is what they need to do to get seats."
+    },
+    {
+     "id": "w2l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "Praew's school bus is sometimes late. If it ___ late again tomorrow morning, she'll text the group.",
+     "options": [
+      "come",
+      "will come",
+      "comes",
+      "came"
+     ],
+     "answer": 2,
+     "near": 1,
+     "fb": [
+      "The bus is it, so the present verb needs -s: it comes.",
+      "No will after if. If takes the photo; will belongs in the result half.",
+      "Yes: present simple after if, with -s for it.",
+      "Tomorrow morning is the future. After if, a possible future takes the present simple, not a past form."
+     ],
+     "hint": "Which half makes the prediction? What is the subject?",
+     "why": "After if, a possible future takes the present simple, and the bus is it, so the verb needs -s. Will stays in the result half."
+    },
+    {
+     "id": "w2l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Bam",
+       "text": "Is Mook coming to the cinema tonight?"
+      }
+     ],
+     "stem": "Fah: She has a maths test on Monday. If she doesn't finish her revision today, she ___ with us.",
+     "options": [
+      "won't comes",
+      "won't come",
+      "not come",
+      "won't coming"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "After won't, use the base verb with no -s.",
+      "Yes: won't and the base verb make a negative result.",
+      "A negative result needs won't before the verb.",
+      "After won't, use the base verb, not the -ing form."
+     ],
+     "hint": "What form of the verb follows will or won't?",
+     "why": "The result of a first conditional is will or won't with the base verb, and the base verb has no ending."
+    },
+    {
+     "id": "w2l1-6",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "We have to be at the airport by six. What ___ if the taxi doesn't come?",
+     "options": [
+      "we will do",
+      "will we do",
+      "do we will",
+      "will we to do"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "That is statement order. In a question, will comes before the subject.",
+      "Yes: question word, then will, then the subject, then the base verb.",
+      "Will makes its own questions. Do is not needed.",
+      "After will, use the base verb with no to."
+     ],
+     "hint": "Where does will go in a question?",
+     "why": "Questions are made in the result half: will goes before the subject and the base verb follows."
+    },
+    {
+     "id": "w2l1-7",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "If the rain [[will stop]] [[before four]], we [[will walk]] to the night market [[together]].",
+     "answer": 0,
+     "fix": "stops",
+     "fb": [
+      "This is the mistake. No will after if for a plain future: say stops.",
+      "Before four is a normal time phrase. It is fine.",
+      "Will walk is the result, so will is right here.",
+      "Together is fine at the end."
+     ],
+     "hint": "Find the half that only shows a possible scene.",
+     "why": "Will after if is wrong for a plain future. The if half takes the present simple, so it should be stops."
+    },
+    {
+     "id": "w2l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "If the parcel ___ (not / arrive) by Friday, I'll message the shop.",
+     "accept": [
+      "doesn't arrive",
+      "does not arrive",
+      "hasn't arrived",
+      "has not arrived"
+     ],
+     "model": "doesn't arrive",
+     "hint": "Is this the if half or the result half? Check the subject too.",
+     "why": "A negative condition takes don't or doesn't, never won't. The parcel is it, so use doesn't and the base verb."
+    }
+   ]
+  },
+  {
+   "id": "w2l2",
+   "name": "More results and what they do: might, may, can, should, going to, imperative",
+   "cefr": "B1",
+   "ctype": "1",
+   "gateway": "p.72",
+   "formula": {
+    "if": "If + present simple",
+    "result": "might / may / can / should / be going to + verb, or an imperative"
+   },
+   "uses": [
+    {
+     "use": "Deals and negotiating",
+     "ex": "If you teach me the dance, I'll help you with your maths."
+    },
+    {
+     "use": "Offers",
+     "ex": "If you need a pen, you can use mine."
+    },
+    {
+     "use": "Warnings",
+     "ex": "If you leave your bag there, someone might trip over it."
+    },
+    {
+     "use": "Advice",
+     "ex": "If you can't sleep, you should put your phone away."
+    },
+    {
+     "use": "Instructions and requests",
+     "ex": "If you get lost, call me."
+    },
+    {
+     "use": "Plans already made",
+     "ex": "If it's sunny on Sunday, we're going to wash the dog."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "The result can use <b>might</b>, <b>can</b>, <b>should</b>, <b>going to</b> or an order, not only <b>will</b>.",
+     "body": [
+      "The <b>if</b> half does not change. It still takes the present simple. The result half is your choice, and each choice has its own meaning. <b>Will</b> means you are sure. <b>Might</b> or <b>may</b> means it is possible, but you are not sure. <b>Can</b> means it is allowed or possible for someone. <b>Should</b> gives advice (a good idea). <b>Going to</b> shows a plan you have already made.",
+      "You can also use an imperative (an order or instruction) as the result. It is the base verb with no subject: <em>If the bell rings, line up.</em> The negative is <em>don't</em> and the base verb: <em>If the floor is wet, don't run.</em> After <em>might</em>, <em>may</em>, <em>can</em> and <em>should</em>, use the base verb too. Do not add <em>to</em>, <em>-s</em> or <em>-ing</em>. <b>Going to</b> needs <em>am</em>, <em>is</em> or <em>are</em> before it.",
+      "Now think about the job of the sentence. A promise says what I will do for you. A deal has two sides: you do one thing, and I do another thing for you. An offer gives the listener something nice and asks for nothing: <em>If you're tired, you can take my seat.</em> Advice says what is a good idea for the listener.",
+      "A warning shows a bad result that the listener can still stop: <em>If you run on the wet floor, you'll fall.</em> A plan uses <b>going to</b>, because the speaker has already decided. A prediction just says what the speaker thinks will happen. To find the job, ask two questions. Is the result good or bad for the listener? Who does the action in each half?"
+     ],
+     "examples": [
+      {
+       "s": "If you lend me your calculator, I'll share my snacks with you.",
+       "g": "A deal: you do one thing, I do another thing for you."
+      },
+      {
+       "s": "If we leave now, we might catch the early ferry.",
+       "g": "Might: it is possible, but the speaker is not sure."
+      },
+      {
+       "s": "If you feel dizzy, sit down and drink some water.",
+       "g": "An instruction: base verbs, no subject."
+      },
+      {
+       "s": "If you don't understand the homework, I can explain it after class.",
+       "g": "An offer with can. The speaker asks for nothing back."
+      },
+      {
+       "s": "If Pim gets the part, she's going to practise every evening.",
+       "g": "A plan Pim has already made: is going to and the base verb."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Keep the present form after <b>if</b>, then choose the result that carries your meaning: <b>will</b>, <b>might</b> or <b>may</b>, <b>can</b>, <b>should</b>, <b>going to</b> or an imperative.",
+     "body": [
+      "<b>Will</b> is only the default result. Real conditionals about the future take any modal verb that fits, and each one changes the message. <b>Will</b> is a confident prediction or a promise. <b>Might</b> and <b>may</b> say the result is possible but not certain. <b>Can</b> gives permission, shows what is possible, or makes an offer. <b>Should</b> gives advice. <b>Going to</b> reports a plan that has already been decided.",
+      "The result can also be an imperative, which is how most instructions, requests and warnings on signs and in messages are written: <em>If the bell rings, line up.</em> There is no subject, and the negative is <em>don't</em> and the base verb. Every modal verb is followed by the base verb, with no <em>to</em>, no <em>-s</em> and no <em>-ing</em>, while <b>going to</b> needs <em>am</em>, <em>is</em> or <em>are</em> in front of it. The <b>if</b> half stays in the present whichever result you choose.",
+      "These forms let one pattern do many jobs. In a promise the speaker commits herself to an action. In a deal, or negotiation, each side does something for the other: you do this, and I will do that. An offer gives the listener something useful without asking for anything back, as in <em>If you're tired, you can take my seat</em>. Advice points to the sensible action for the listener.",
+      "A warning names an unpleasant result that the listener can still avoid, as in <em>If you run on the wet floor, you'll fall</em>. A plan with <b>going to</b> tells you the decision was made before speaking, and a prediction simply gives the speaker's view of what will follow. To name the job, check whether the result is good or bad for the listener and who acts in each half."
+     ],
+     "examples": [
+      {
+       "s": "If you lend me your calculator, I'll share my snacks with you.",
+       "g": "A deal with will: each side does something for the other."
+      },
+      {
+       "s": "If we leave now, we might catch the early ferry.",
+       "g": "Might plus the base verb: a possible result, not a certain one."
+      },
+      {
+       "s": "If you feel dizzy, sit down and drink some water.",
+       "g": "Imperative result: an instruction, with base verbs and no subject."
+      },
+      {
+       "s": "If you don't understand the homework, I can explain it after class.",
+       "g": "An offer: can plus the base verb, with nothing asked in return."
+      },
+      {
+       "s": "If Pim gets the part, she's going to practise every evening.",
+       "g": "Going to shows a plan decided before speaking; note is before going to."
+      }
+     ]
+    },
+    "C1": {
+     "key": "<b>Will</b> is merely the default: a real future condition combines with whichever modal verb or imperative expresses the speaker's certainty, permission, advice, intention or instruction.",
+     "body": [
+      "In real use, the textbook pairing of a present tense with <b>will</b> accounts for under one conditional in ten; a great many real conditionals end in an imperative or another modal verb instead. The modal keeps its ordinary meaning. <b>Will</b> commits the speaker to a prediction or promise; <b>might</b> and <b>may</b> lower the certainty; <b>can</b> covers permission, possibility and offers; <b>should</b> advises; and <b>going to</b> reports an intention formed before the moment of speaking.",
+      "An imperative result turns the sentence into an instruction, request or warning: <em>If the bell rings, line up.</em> It has no subject and is made negative with <em>don't</em>. Formally, all the modal verbs take the base verb, so <em>to</em>, <em>-s</em> and <em>-ing</em> are all excluded, whereas <b>going to</b> requires <em>am</em>, <em>is</em> or <em>are</em>. None of this touches the <b>if</b> clause, which stays in a present form because it still only sets the scene.",
+      "What the sentence does depends on who benefits and who acts. A promise binds the speaker. A deal, the basic move in negotiating, trades one action for another. An offer benefits the listener at no cost, as in <em>If you're tired, you can take my seat</em>, and advice recommends a course of action to the listener. The same grammar therefore reads as generous, cautious or firm according to the result chosen.",
+      "A warning predicts an unwelcome but avoidable outcome, as in <em>If you run on the wet floor, you'll fall</em>. <b>Going to</b> marks a plan, and a bare <b>will</b> with no benefit or cost to the listener is simply a prediction. Note that <b>might</b>, <b>may</b> and <b>could</b> overlap so heavily in results that no sensible test asks you to choose between them; what matters is the contrast between certain and merely possible."
+     ],
+     "examples": [
+      {
+       "s": "If you lend me your calculator, I'll share my snacks with you.",
+       "g": "Negotiation: one action is traded for another, and will commits the speaker to her side."
+      },
+      {
+       "s": "If we leave now, we might catch the early ferry.",
+       "g": "Might lowers the certainty of the result; the condition itself stays in the present simple."
+      },
+      {
+       "s": "If you feel dizzy, sit down and drink some water.",
+       "g": "Imperative main clause: the sentence instructs rather than predicts."
+      },
+      {
+       "s": "If you don't understand the homework, I can explain it after class.",
+       "g": "Can frames the help as available, which makes the sentence an offer at no cost to the listener."
+      },
+      {
+       "s": "If Pim gets the part, she's going to practise every evening.",
+       "g": "Be going to reports a prior intention that depends on the condition being met."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w2l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Nan",
+       "text": "If you help me carry these boxes, I'll buy you a bubble tea."
+      }
+     ],
+     "stem": "What is Nan doing?",
+     "options": [
+      "Giving a warning",
+      "Making a deal",
+      "Giving advice",
+      "Describing a habit"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "A warning shows a bad result. A bubble tea is a good one.",
+      "Yes: you do one thing, and I do another thing for you. That is a deal.",
+      "Advice says what is good for the listener, often with should. Nan wants help for herself.",
+      "A habit has two present verbs. I'll shows one future time."
+     ],
+     "hint": "Who does the action in each half?",
+     "why": "The listener carries the boxes and Nan buys the tea in return. Two sides each doing something is a deal."
+    },
+    {
+     "id": "w2l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Mint",
+       "text": "If the queue is short, I might try the new mango smoothie."
+      }
+     ],
+     "stem": "What does Mint mean?",
+     "options": [
+      "She will definitely try it.",
+      "She is not allowed to try it.",
+      "She will possibly try it.",
+      "She has already tried it."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Definitely is the meaning of will. Might is weaker.",
+      "Might is about what is possible, not about rules.",
+      "Yes: might means possible but not sure, even with a short queue.",
+      "Might looks forward. She has not tried it yet."
+     ],
+     "hint": "How sure is the speaker about the result?",
+     "why": "Might in the result means the result is possible, not certain. Mint has not decided, even if the queue is short."
+    },
+    {
+     "id": "w2l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "Which sentence is a warning?",
+     "options": [
+      "If you're cold, you can borrow my hoodie.",
+      "If you finish early, you should check your spelling.",
+      "If you touch that pan, you'll burn your fingers.",
+      "If we win on Friday, we're going to order pizza."
+     ],
+     "answer": 2,
+     "near": 1,
+     "fb": [
+      "This gives the listener something nice. It is an offer.",
+      "Should gives advice: a good idea, not a danger.",
+      "Yes: a bad result that the listener can still stop.",
+      "Going to shows a plan the speakers have already made."
+     ],
+     "hint": "Is the result good or bad for the listener?",
+     "why": "A warning shows a bad result the listener can still avoid. Burnt fingers are the only bad result here."
+    },
+    {
+     "id": "w2l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "My cold is nearly gone. If my cough ___ better by Friday, I might come to your sleepover.",
+     "options": [
+      "will get",
+      "get",
+      "getting",
+      "gets"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "No will after if, even when the result has might.",
+      "My cough is it, so the present verb needs -s.",
+      "After if you need a full present verb, not an -ing form alone.",
+      "Yes: present simple after if, whatever the result is."
+     ],
+     "hint": "Does the if half change when the result changes?",
+     "why": "The if half takes the present simple with every kind of result. My cough is like it, so the verb takes -s."
+    },
+    {
+     "id": "w2l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "A notice by the lift says: If the fire alarm rings, ___ the lift.",
+     "options": [
+      "not use",
+      "don't use",
+      "doesn't use",
+      "you not use"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "A negative instruction needs don't before the verb.",
+      "Yes: don't and the base verb, with no subject.",
+      "Doesn't is for he, she or it in a statement. An instruction uses don't.",
+      "An instruction has no subject, and the negative needs don't."
+     ],
+     "hint": "How do you tell someone not to do something?",
+     "why": "The result is an instruction, so it is an imperative. The negative imperative is don't with the base verb."
+    },
+    {
+     "id": "w2l2-6",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "We've already decided. If our team wins the quiz on Friday, we ___ the prize money on a class pizza party.",
+     "options": [
+      "going to spend",
+      "are going spend",
+      "are going to spend",
+      "are go to spend"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Going to needs am, is or are before it.",
+      "Don't drop to: the plan form is going to and the base verb.",
+      "Yes: are going to and the base verb, for a plan already made.",
+      "The form is going, not go."
+     ],
+     "hint": "Which parts does this plan form need?",
+     "why": "A plan that is already decided takes be going to with the base verb. With we, the verb be is are."
+    },
+    {
+     "id": "w2l2-7",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "If you [[are free]] [[on Saturday]], you [[should to come]] to our dance show [[at school]].",
+     "answer": 2,
+     "fix": "should come",
+     "fb": [
+      "Are free is a present form after if. It is fine.",
+      "On Saturday is the right time phrase.",
+      "This is the mistake. After should, use the base verb with no to.",
+      "At school is fine."
+     ],
+     "hint": "Look at the verb after each helping word.",
+     "why": "Should is followed by the base verb with no to, so the correct form is should come."
+    },
+    {
+     "id": "w2l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "given": "Perhaps I'll go to the night market if I finish early.",
+     "keyword": "MIGHT",
+     "stem": "If I finish early, I ___ to the night market.",
+     "accept": [
+      "might go"
+     ],
+     "model": "might go",
+     "hint": "Which word in the first sentence shows she is not sure?",
+     "why": "Perhaps I'll go means it is possible but not sure. Might with the base verb says the same thing."
+    }
+   ]
+  },
+  {
+   "id": "w2l3",
+   "name": "Zero or first? plus when, as soon as, until, before, after + present",
+   "cefr": "B1",
+   "ctype": "1",
+   "gateway": "p.72",
+   "formula": {
+    "if": "If / when / as soon as / until / before / after + present simple",
+    "result": "present simple (always) or will + verb (this future time)"
+   },
+   "uses": [
+    {
+     "use": "What always happens (zero)",
+     "ex": "If you leave ice cream in the sun, it melts."
+    },
+    {
+     "use": "This one future time (first)",
+     "ex": "If you leave that ice cream there, it'll melt."
+    },
+    {
+     "use": "An event you expect (when)",
+     "ex": "When I get home, I'll feed the cat."
+    },
+    {
+     "use": "Straight after (as soon as)",
+     "ex": "I'll text you as soon as the doors open."
+    },
+    {
+     "use": "Up to a moment (until)",
+     "ex": "Wait here until I come back."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Present with present means always; present with <b>will</b> means this one future time, and time words like <b>when</b> follow the same rule as <b>if</b>.",
+     "body": [
+      "Zero and first conditionals look alike, so check the result half. In a zero conditional both verbs are present forms. <em>Can</em> and <em>can't</em> count as present forms too. A zero conditional tells you what always or usually happens: a fact, a habit or a rule.",
+      "In a first conditional the result has <b>will</b>, or a word like <em>might</em>. It is about one possible time in the future. Try adding <em>every time</em>. If it fits, the sentence is zero. If <em>this time</em> or <em>tonight</em> fits, it is first.",
+      "Time words work like <b>if</b>. They are <b>when</b>, <b>as soon as</b>, <b>until</b>, <b>before</b> and <b>after</b>. For the future, the verb after them is in the present simple. Do not put <b>will</b> there. <b>Will</b> goes in the other half: <em>I'll phone Gran after I eat.</em> Remember the <em>-s</em> for <em>he</em>, <em>she</em> and <em>it</em>.",
+      "Learn what each word means. <b>When</b> means at that time. <b>As soon as</b> means straight after, with no waiting. <b>Before</b> means earlier and <b>after</b> means later. <b>Until</b> means up to that moment, and then things change. <em>You can't leave until the bell rings</em> means you can leave when it rings, not earlier.",
+      "Choose <b>if</b> or <b>when</b> by how sure you are. Use <b>if</b> when the thing may or may not happen. Use <b>when</b> when you expect it to happen for sure. Night always comes, so we say <em>when it gets dark</em>. A prize is not certain, so we say <em>if I win</em>."
+     ],
+     "examples": [
+      {
+       "s": "If you press this button, the screen turns off.",
+       "g": "Zero: present and present. It happens every time."
+      },
+      {
+       "s": "If you press that button now, we'll lose the whole game.",
+       "g": "First: present and will. One possible time, now."
+      },
+      {
+       "s": "When the lesson ends, I'll meet you at the gate.",
+       "g": "When, not if: the lesson is sure to end. Present simple after when."
+      },
+      {
+       "s": "We'll keep practising until the music stops.",
+       "g": "Until: up to that moment. Present simple after until, with -s."
+      },
+      {
+       "s": "<s>I'll call you as soon as I will get home.</s>",
+       "g": "Wrong. Say: as soon as I get home. No will after a time word."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Two present forms describe what always happens, a present form with <b>will</b> describes one future occasion, and <b>when</b>, <b>as soon as</b>, <b>until</b>, <b>before</b> and <b>after</b> take a present form for the future just as <b>if</b> does.",
+     "body": [
+      "Zero and first conditionals are both real: nothing is imagined in either. They differ only in time. The zero conditional has present forms in both halves, including <em>can</em> or <em>can't</em>, and describes what generally or always happens, such as facts, habits and rules. The first conditional has <b>will</b> or another modal verb in the result and looks at one possible occasion in the future. A quick test is to add <em>every time</em> for zero, or <em>this time</em>, <em>tonight</em> or <em>tomorrow</em> for first.",
+      "The rule about <b>if</b> also covers future time clauses. After <b>when</b>, <b>as soon as</b>, <b>until</b>, <b>before</b> and <b>after</b>, use the present simple for a future event, with the usual <em>-s</em> for <em>he</em>, <em>she</em> and <em>it</em>, and keep <b>will</b> for the main half: <em>I'll phone Gran after I eat.</em> The present perfect is also possible after these words when you want to stress that the first action is complete.",
+      "Each word places the two events differently. <b>When</b> means at that time, and <b>as soon as</b> means immediately afterwards. <b>Before</b> and <b>after</b> put one event earlier or later than the other. <b>Until</b> means up to that point and no further, so <em>You can't leave until the bell rings</em> tells you that leaving becomes possible at the bell and not earlier.",
+      "<b>If</b> and <b>when</b> are not interchangeable for the future. <b>If</b> presents the event as uncertain, while <b>when</b> shows that the speaker expects it. Night always comes, so we say <em>when it gets dark</em>; a prize is uncertain, so we say <em>if I win</em>. In zero conditionals about general truths, however, <b>if</b> and <b>when</b> mean almost the same."
+     ],
+     "examples": [
+      {
+       "s": "If you press this button, the screen turns off.",
+       "g": "Zero conditional: two present forms, true every time you press it."
+      },
+      {
+       "s": "If you press that button now, we'll lose the whole game.",
+       "g": "First conditional: will in the result, about this one occasion."
+      },
+      {
+       "s": "When the lesson ends, I'll meet you at the gate.",
+       "g": "When shows an expected event; the verb after it is in the present simple, and will is in the main half."
+      },
+      {
+       "s": "We'll keep practising until the music stops.",
+       "g": "Until marks the end point of the practising; present simple with -s after it."
+      },
+      {
+       "s": "<s>I'll call you as soon as I will get home.</s>",
+       "g": "Wrong: will after as soon as. Correct: I'll call you as soon as I get home."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Zero and first conditionals share the real row and differ only in time reference, while future time clauses obey the same present-form rule as <b>if</b>, and <b>when</b> replaces <b>if</b> once the event is expected.",
+     "body": [
+      "Both patterns are open conditionals: neither denies anything or hides a contrary fact. The contrast is purely one of time. With present forms in both clauses, <em>can</em> and <em>can't</em> included, the sentence generalises over every occasion, which suits facts, habits and rules. With <b>will</b> or another modal verb in the main clause it predicts for a single future occasion. Time expressions usually settle the question: <em>always</em> and <em>every time</em> point to zero, whereas <em>tonight</em> or <em>this time</em> point to first.",
+      "Future time clauses behave exactly like <b>if</b> clauses, and for the same reason: the clause after <b>when</b>, <b>as soon as</b>, <b>until</b>, <b>before</b> or <b>after</b> fixes a scene rather than making a prediction, so it takes a present form and leaves <b>will</b> to the main clause, as in <em>I'll phone Gran after I eat</em>. A present perfect is equally correct after these words when completion matters.",
+      "The time words differ in how they order the events. <b>When</b> places the main event at that time and <b>as soon as</b> adds the idea of no delay. <b>Before</b> and <b>after</b> state the sequence. <b>Until</b> sets an end point for a continuing state, which is why <em>You can't leave until the bell rings</em> implies that you may leave once it rings. A main clause with <b>until</b> is therefore typically negative or describes something that continues.",
+      "The choice between <b>if</b> and <b>when</b> signals expectation. <b>If</b> leaves the event open; <b>when</b> takes for granted that it will occur. Using <b>when</b> for something merely hoped for sounds over-confident, and using <b>if</b> for something certain sounds oddly doubtful. Only in general truths does the difference fade, because there both words cover every occasion on which the condition is met."
+     ],
+     "examples": [
+      {
+       "s": "If you press this button, the screen turns off.",
+       "g": "Open and general: present forms in both clauses cover every occasion."
+      },
+      {
+       "s": "If you press that button now, we'll lose the whole game.",
+       "g": "Open and specific: will predicts the outcome of a single possible act. It also works as a warning."
+      },
+      {
+       "s": "When the lesson ends, I'll meet you at the gate.",
+       "g": "When takes the ending for granted; the time clause has a present form and the main clause carries will."
+      },
+      {
+       "s": "We'll keep practising until the music stops.",
+       "g": "Until bounds a continuing activity; the clause after it takes the present simple although the time is future."
+      },
+      {
+       "s": "<s>I'll call you as soon as I will get home.</s>",
+       "g": "Error: a future time clause cannot carry will. Correct: I'll call you as soon as I get home."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w2l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "Which sentence is about one future time, not about what always happens?",
+     "options": [
+      "If I drink coffee at night, I can't sleep.",
+      "If you mix blue and yellow, you get green.",
+      "If it rains hard, our soi floods.",
+      "If Mum works late tonight, I'll cook the noodles."
+     ],
+     "answer": 3,
+     "near": 2,
+     "fb": [
+      "Two present forms: this happens every time. It is a habit.",
+      "Two present forms: a fact that is always true.",
+      "Present and present: it happens every time it rains hard.",
+      "Yes: tonight and I'll show one possible future time."
+     ],
+     "hint": "Try adding every time. Where does it not fit?",
+     "why": "Three sentences have present forms in both halves, so they are always true. Only the one with tonight and will is about one future time."
+    },
+    {
+     "id": "w2l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Jane",
+       "text": "When I finish this level, I'll help you."
+      },
+      {
+       "who": "Bam",
+       "text": "If I finish this level, I'll help you."
+      }
+     ],
+     "stem": "Who is sure she will finish the level?",
+     "options": [
+      "Jane",
+      "Bam",
+      "Both girls",
+      "Neither girl"
+     ],
+     "answer": 0,
+     "near": 2,
+     "fb": [
+      "Yes: when shows that she expects it to happen.",
+      "If means maybe. Bam is not sure she will finish.",
+      "Only one of them is sure. If and when are different here.",
+      "One of them is sure. Look for the word that means it will happen."
+     ],
+     "hint": "Which word shows that the speaker expects the event?",
+     "why": "When shows the speaker expects the event. If shows it may or may not happen. So one girl is sure and the other is not."
+    },
+    {
+     "id": "w2l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Mum",
+       "text": "You can't go on your phone until you finish your homework."
+      }
+     ],
+     "stem": "Fern finishes her homework at eight o'clock. What is true?",
+     "options": [
+      "She must stop using her phone at eight.",
+      "She can use her phone from eight.",
+      "She can use her phone before eight.",
+      "She can't use her phone at all tonight."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "It is the other way round. The phone is not allowed up to eight.",
+      "Yes: until marks the moment when things change. At eight the rule ends.",
+      "Until means not earlier than that moment.",
+      "Until gives an end point. After the homework, the phone is allowed."
+     ],
+     "hint": "What changes at the moment after until?",
+     "why": "Can't until means not allowed up to that moment. When the homework is finished at eight, the phone is allowed."
+    },
+    {
+     "id": "w2l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "The concert starts at seven. I'll message the group as soon as I ___ at the stadium.",
+     "options": [
+      "will arrive",
+      "arrive",
+      "arrived",
+      "arriving"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "No will after as soon as. It follows the same rule as if.",
+      "Yes: present simple after a time word for the future.",
+      "She is not there yet, so a past form is wrong.",
+      "After I you need a full verb, not an -ing form alone."
+     ],
+     "hint": "Time words follow the same rule as which small word?",
+     "why": "After as soon as, a future event takes the present simple. Will stays in the other half."
+    },
+    {
+     "id": "w2l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "Don't worry about the rain. If tonight's match is cancelled, I ___ you straight away.",
+     "options": [
+      "tell",
+      "told",
+      "will tell",
+      "telling"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Present with present means every time. This is about tonight only, so the result needs will.",
+      "Tonight is the future, so a past form is wrong.",
+      "Yes: one future time, so will goes in the result. It is a promise.",
+      "The result needs will and the base verb, not an -ing form alone."
+     ],
+     "hint": "Is this about every time or about one future time?",
+     "why": "The sentence is about tonight only, one possible future time. That is a first conditional, so the result takes will."
+    },
+    {
+     "id": "w2l3-6",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "The film ends at 9.15, and my phone has to stay off in the cinema. I'll call you ___ it ends.",
+     "options": [
+      "if",
+      "until",
+      "when",
+      "before"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "If is for something uncertain. The film is sure to end.",
+      "Until means up to that moment. She is making one call, at the end.",
+      "Yes: the end is expected, and the call comes at that time.",
+      "Her phone is off during the film, so she can't call earlier."
+     ],
+     "hint": "How sure is the event? At what moment is she able to call?",
+     "why": "The film will certainly end, so if is wrong. The phone is off during the film, so the call comes at the end."
+    },
+    {
+     "id": "w2l3-7",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "stem": "I [[will wait]] at the [[BTS exit]] until you [[will arrive]], so [[don't run]].",
+     "answer": 2,
+     "fix": "arrive",
+     "fb": [
+      "Will wait is the main half, so will is right.",
+      "BTS exit is fine.",
+      "This is the mistake. No will after until: say arrive.",
+      "Don't run is a correct negative instruction."
+     ],
+     "hint": "Two verbs have will. Do both halves allow it?",
+     "why": "Until is a time word, so the verb after it is in the present simple for the future: until you arrive."
+    },
+    {
+     "id": "w2l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B1",
+     "given": "First I'll finish my homework. Then I'll watch the series.",
+     "keyword": "AFTER",
+     "stem": "I'll watch the series ___ finish my homework.",
+     "accept": [
+      "after I"
+     ],
+     "model": "after I",
+     "hint": "Which action comes first? Where does will belong?",
+     "why": "Homework comes first, so it follows after. After a time word the verb is in the present simple for the future, with no will."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w2g",
+  "items": [
+   {
+    "id": "w2g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "1",
+    "cefr": "B1",
+    "lines": [
+     {
+      "who": "Jane",
+      "text": "If I see Ploy at lunch, I'll give her your notebook."
+     }
+    ],
+    "stem": "Is Jane sure she will see Ploy at lunch?",
+    "options": [
+     "Yes, she always sees her then.",
+     "No, it is only possible.",
+     "Yes, she has already seen her.",
+     "No, Ploy is absent today."
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "If shows she is not sure. For a sure meeting she would say when.",
+     "Yes: if with a present verb shows a possible future, not a certain one.",
+     "Lunch is still in the future. The present form after if looks forward.",
+     "We don't know that. If leaves it open: maybe yes, maybe no."
+    ],
+    "hint": "Is the condition sure or only possible?",
+    "why": "If with a present verb shows a possible future. Jane does not know whether she will see Ploy."
+   },
+   {
+    "id": "w2g-2",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "1",
+    "cefr": "B1",
+    "stem": "The film starts in ten minutes. If the bus ___ in the next two minutes, we'll miss the beginning.",
+    "options": [
+     "won't come",
+     "don't come",
+     "doesn't come",
+     "isn't come"
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "No will or won't after if for a plain future.",
+     "The bus is it, so the negative is doesn't.",
+     "Yes: doesn't and the base verb after if.",
+     "The present simple negative uses doesn't, not isn't."
+    ],
+    "hint": "Which half is this? Check the subject too.",
+    "why": "A negative condition about the future takes the present simple. The bus is it, so the negative uses doesn't."
+   },
+   {
+    "id": "w2g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "1",
+    "cefr": "B1",
+    "lines": [
+     {
+      "who": "Pim",
+      "text": "If you're hungry, you can have half of my sandwich."
+     }
+    ],
+    "stem": "What is Pim doing?",
+    "options": [
+     "Asking for permission",
+     "Giving a warning",
+     "Describing a habit",
+     "Making an offer"
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "Pim is giving, not asking. Her can lets the listener take something.",
+     "A warning shows a bad result. Half a sandwich is a good one.",
+     "A habit happens every time. This is for one hungry friend now.",
+     "Yes: she gives the listener something nice and asks for nothing back."
+    ],
+    "hint": "Who gets something, and does the speaker ask for anything?",
+    "why": "Pim gives the listener something useful and wants nothing back. That is an offer, made with can."
+   },
+   {
+    "id": "w2g-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "1",
+    "cefr": "B1",
+    "stem": "The haze is bad this week. If your throat hurts outside, you ___ a mask.",
+    "options": [
+     "should to wear",
+     "should wear",
+     "should wearing",
+     "should wears"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "After should, use the base verb with no to.",
+     "Yes: should and the base verb give advice.",
+     "After should, use the base verb, not the -ing form.",
+     "After should, the verb takes no -s."
+    ],
+    "hint": "What form of the verb follows a word like can or might?",
+    "why": "Should gives advice and is followed by the base verb, with no to, -s or -ing."
+   },
+   {
+    "id": "w2g-5",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "0",
+    "cefr": "B1",
+    "lines": [
+     {
+      "who": "Mook",
+      "text": "If I eat mango sticky rice late at night, I can't sleep."
+     }
+    ],
+    "stem": "What is Mook talking about?",
+    "options": [
+     "Her plan for tonight",
+     "Something generally true for her",
+     "A promise to a friend",
+     "A thing that happened last night"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "A plan for one night would have will or going to in the result.",
+     "Yes: present forms in both halves show what happens every time.",
+     "A promise says what the speaker will do for someone. Nothing is promised here.",
+     "Both verbs are present forms, so this is not about the past."
+    ],
+    "hint": "Try adding every time. Does it fit?",
+    "why": "Both halves have present forms and there is no will, so this is a zero conditional: it happens every time."
+   },
+   {
+    "id": "w2g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "1",
+    "cefr": "B1",
+    "stem": "Sports day is outside this year. Where ___ lunch if it rains?",
+    "options": [
+     "will we eat",
+     "we will eat",
+     "do we will eat",
+     "will we to eat"
+    ],
+    "answer": 0,
+    "near": 1,
+    "fb": [
+     "Yes: will before the subject, then the base verb.",
+     "That is statement order. In a question, will moves before the subject.",
+     "Will makes the question without do.",
+     "After will, use the base verb with no to."
+    ],
+    "hint": "What is the word order in a question about the future?",
+    "why": "A first conditional question puts will before the subject in the result half, followed by the base verb."
+   },
+   {
+    "id": "w2g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "1",
+    "cefr": "B1",
+    "stem": "[[If you feel]] sick on the day of the trip, [[tell]] the teacher [[before]] the bus [[will leave]].",
+    "answer": 3,
+    "fix": "leaves",
+    "fb": [
+     "Present form after if: correct.",
+     "Tell is an instruction, which is a correct result.",
+     "Before is the right time word here.",
+     "This is the mistake. No will after before: say leaves."
+    ],
+    "hint": "Check the verb after if and the verb after the time word.",
+    "why": "Before is a time word, so the verb after it takes the present simple for the future: before the bus leaves."
+   },
+   {
+    "id": "w2g-8",
+    "type": "type",
+    "skill": "form",
+    "ctype": "1",
+    "cefr": "B1",
+    "stem": "As soon as Mum ___ (get) home, we'll order the pizza.",
+    "accept": [
+     "gets",
+     "has got"
+    ],
+    "model": "gets",
+    "hint": "Time word and future: which form? Check the subject too.",
+    "why": "After as soon as, a future event takes the present simple. Mum is she, so the verb needs -s."
+   }
+  ]
+ }
+}

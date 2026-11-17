@@ -1,0 +1,1178 @@
+{
+ "world": "w9",
+ "lessons": [
+  {
+   "id": "w9l1",
+   "name": "Same meaning, new words: rewriting with a key word",
+   "cefr": "B2",
+   "ctype": "mix",
+   "formula": {
+    "if": "Sentence one, plus a key word you must not change",
+    "result": "Sentence two: fill the gap with 2–5 words, same meaning"
+   },
+   "uses": [
+    {
+     "use": "Swapping if … not for unless",
+     "ex": "I won't go to the party unless Fah goes too."
+    },
+    {
+     "use": "Turning but only if into a deal",
+     "ex": "You can have the window seat provided you wake me at our stop."
+    },
+    {
+     "use": "Turning because it might into a precaution",
+     "ex": "I'll save your number in case I get lost."
+    },
+    {
+     "use": "Turning a past fact into an imagined past",
+     "ex": "If we had left earlier, we wouldn't have missed the first song."
+    },
+    {
+     "use": "Turning I'm sorry into a wish",
+     "ex": "If only I hadn't left my umbrella on the BTS."
+    },
+    {
+     "use": "Turning without into if it weren't for",
+     "ex": "If it weren't for my alarm, I would sleep until noon."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Say the same idea with the key word: never change that word, and write two to five words.",
+     "body": [
+      "In this exam task you get a full sentence and a key word. You also get a second sentence with a gap. Fill the gap so that both sentences mean the same. There are two rules. Never change the key word, not even one letter. Write between two and five words. In Cambridge exams, a short form like <em>didn't</em> counts as two words. First ask: what is true in sentence one, and when?",
+      "Some swaps only change the linking word. <em>If … not</em> becomes <b>unless</b>, and the <em>not</em> goes away: <em>We'll be late unless we run</em>. <em>But only if</em> becomes <b>as long as</b> or <b>provided (that)</b>. It is a deal. <em>Because it might happen</em> becomes <b>in case</b>: you do something first, to be safe. Plain <em>if</em> would mean you wait until it happens. After all these words use a present verb, never <em>will</em>.",
+      "Some swaps turn a fact into an imagined sentence. A fact about now goes one step back. Take <em>She can't swim, so she isn't in the team</em>. It becomes <em>If she could swim, she would be in the team</em>. A fact about the past goes two steps back. Use <em>if</em> with <em>had</em> and the past participle (V3), then <em>would have</em> and V3. Flip each half too. A <em>didn't</em> half becomes <em>had</em>, and a <em>did</em> half becomes <em>hadn't</em>.",
+      "<em>I'm sorry</em> and <em>I regret</em> become <b>I wish</b> or <b>If only</b>. For a past regret, use <em>had</em> and V3, and flip again. <em>I'm sorry I shouted</em> becomes <em>I wish I hadn't shouted</em>. A past simple after <em>wish</em> is different. It is about now: <em>I wish I had a pet</em>. So it cannot rewrite something that happened yesterday.",
+      "Two more swaps finish the set. The first one is formal. <em>If I had known</em> becomes <b>Had I known</b>: <em>had</em> comes first and <em>if</em> disappears. The result half stays the same, so it still needs <em>would have</em> and V3. <b>Without</b> and a noun becomes <b>if it weren't for</b> and the same noun. An example is <em>If it weren't for the fan, this room would be too hot</em>. Then count your words again."
+     ],
+     "examples": [
+      {
+       "s": "If I had checked the timetable, I wouldn't have missed the bus.",
+       "g": "It starts as: I didn't check the timetable, so I missed the bus. Truth: I didn't check, and I missed it — past."
+      },
+      {
+       "s": "You can use my charger as long as you bring it back.",
+       "g": "It starts as: You can use it, but only if you bring it back. A deal, so nothing is imagined."
+      },
+      {
+       "s": "Bring a jacket in case the cinema is cold.",
+       "g": "It starts as: Bring a jacket because the cinema might be cold. You pack it first, to be safe."
+      },
+      {
+       "s": "I wish I had listened to the weather forecast.",
+       "g": "It starts as: I'm sorry I didn't listen to the forecast. Truth: I didn't listen — past."
+      },
+      {
+       "s": "Had I seen your message, I would have waited for you.",
+       "g": "It starts as: If I had seen your message. Truth: I didn't see it, so I didn't wait — past."
+      }
+     ]
+    },
+    "B2": {
+     "key": "A key-word transformation keeps the meaning and changes the grammar: keep the key word exactly and use two to five words.",
+     "body": [
+      "A key-word transformation gives you a complete sentence, a key word and a second sentence with a gap. Your answer must make the second sentence mean the same as the first. Two rules decide the marks: use the key word exactly as it is given, and write between two and five words. Cambridge exams count a short form such as <em>didn't</em> as two words. Before you write, find the facts in sentence one: what is true, and when is it true?",
+      "Three swaps change only the connector. <em>If … not</em> becomes <b>unless</b>, which already contains the negative, so the <em>not</em> disappears: <em>We'll be late unless we run</em>. <em>But only if</em> becomes <b>as long as</b> or <b>provided (that)</b>, a deal between two people. <em>Because something might happen</em> becomes <b>in case</b>, a precaution you take beforehand; plain <em>if</em> would mean you wait until it happens. All of them take a present verb for the future, never <em>will</em>.",
+      "Other swaps turn a fact into an imagined sentence, so the verbs step back. A present fact takes one step: <em>She can't swim, so she isn't in the team</em> becomes <em>If she could swim, she would be in the team</em>. A past fact takes two: <em>if</em> with <em>had</em> and the past participle (V3), then <em>would have</em> and V3. Each half also flips, because you are imagining the opposite: <em>didn't</em> becomes <em>had</em>, and <em>did</em> becomes <em>hadn't</em>.",
+      "<em>I'm sorry</em>, <em>I regret</em> and <em>it's a pity</em> become <b>I wish</b> or <b>If only</b>, with the same steps and the same flip. A past regret takes <em>had</em> and V3: <em>I'm sorry I shouted</em> becomes <em>I wish I hadn't shouted</em>. A past simple after <em>wish</em> is different: it is about now, as in <em>I wish I had a pet</em>, so it cannot rewrite something that happened yesterday.",
+      "Two more swaps complete the set, and the first is formal. <em>If I had known</em> becomes <b>Had I known</b>: <em>had</em> moves to the front and <em>if</em> disappears, but the result half does not change, so it still needs <em>would have</em> and V3. <b>Without</b> and a noun becomes <b>if it weren't for</b> and the same noun: <em>If it weren't for the fan, this room would be too hot</em>. Finally, read both sentences again and count your words."
+     ],
+     "examples": [
+      {
+       "s": "If I had checked the timetable, I wouldn't have missed the bus.",
+       "g": "From: I didn't check the timetable, so I missed the bus. Two steps back, both halves flipped. Truth: I didn't check, and I missed it — past."
+      },
+      {
+       "s": "You can use my charger as long as you bring it back.",
+       "g": "From: You can use it, but only if you bring it back. As long as states the deal; nothing is imagined."
+      },
+      {
+       "s": "Bring a jacket in case the cinema is cold.",
+       "g": "From: Bring a jacket because the cinema might be cold. In case is a precaution taken beforehand."
+      },
+      {
+       "s": "I wish I had listened to the weather forecast.",
+       "g": "From: I'm sorry I didn't listen to the forecast. Wish with had and V3, flipped. Truth: I didn't listen — past."
+      },
+      {
+       "s": "Had I seen your message, I would have waited for you.",
+       "g": "From: If I had seen your message. Had moves to the front and if goes. Truth: I didn't see it, so I didn't wait — past."
+      }
+     ]
+    },
+    "C1": {
+     "key": "A transformation tests whether you can hold the meaning still while the grammar moves: same facts, same time, the key word untouched, two to five words.",
+     "body": [
+      "In a key-word transformation the meaning is fixed and the grammar must move around one given word. That word may not be changed in any way, so <em>provided</em> cannot become <em>providing</em>. The gap takes two to five words, and Cambridge exams count a contraction as two. The safest method is to read sentence one for its facts before you look at the gap: what actually happened or is true, and at what time? Those facts are the Truth that your new sentence has to keep.",
+      "Connector swaps keep the verbs and change the logic word. <b>Unless</b> means except if, so it absorbs the negative of <em>if … not</em>; a second <em>not</em> reverses the sense. <b>As long as</b> and <b>provided (that)</b> restate <em>but only if</em> as a bargain. <b>In case</b> restates <em>because it might happen</em>: the action comes first, as a precaution, whereas <em>if</em> would make the action wait for the event. Since these clauses only set the scene, they take a present form for future time, never <em>will</em>.",
+      "When sentence one states a fact with <em>so</em> or <em>because</em>, the rewrite imagines the opposite, and the verbs step back to show it. A present fact needs one step: <em>She can't swim, so she isn't in the team</em> becomes <em>If she could swim, she would be in the team</em>. A past fact needs two: <em>had</em> with the past participle (V3), then <em>would have</em> with V3. Because the new sentence denies the facts, each half changes polarity: <em>didn't</em> gives <em>had</em>, <em>did</em> gives <em>hadn't</em>.",
+      "Regret verbs go to <b>I wish</b> or <b>If only</b>, which belong to the same family and follow the same steps. A regret about a finished action takes <em>had</em> and V3 with reversed polarity: <em>I'm sorry I shouted</em> becomes <em>I wish I hadn't shouted</em>. A past simple after <em>wish</em> refers to the present or to habits, as in <em>I wish I had a pet</em>, so it cannot restate a single past event, however natural it may sound in fast speech.",
+      "Two further equivalents are worth knowing, and the first is formal. <b>Had I known</b> is <em>If I had known</em> with the auxiliary moved to the front and <em>if</em> removed; only the condition changes, so the result keeps <em>would have</em> and V3, and a negative stays uncontracted, as in <em>Had I not known</em>. <b>If it weren't for</b> and a noun restates <em>without</em> and that noun for the present; for a past situation the form is <em>if it hadn't been for</em>. Check the word count last."
+     ],
+     "examples": [
+      {
+       "s": "If I had checked the timetable, I wouldn't have missed the bus.",
+       "g": "From: I didn't check the timetable, so I missed the bus. Past facts, so two steps back with reversed polarity. Truth: I didn't check, and I missed it — past."
+      },
+      {
+       "s": "You can use my charger as long as you bring it back.",
+       "g": "From: You can use it, but only if you bring it back. A bargain restated; an open condition, so there is no Truth line."
+      },
+      {
+       "s": "Bring a jacket in case the cinema is cold.",
+       "g": "From: Bring a jacket because the cinema might be cold. The action precedes the possible event, which is what in case means."
+      },
+      {
+       "s": "I wish I had listened to the weather forecast.",
+       "g": "From: I'm sorry I didn't listen to the forecast. Wish with the past perfect, polarity reversed. Truth: I didn't listen — past."
+      },
+      {
+       "s": "Had I seen your message, I would have waited for you.",
+       "g": "From: If I had seen your message. Inversion replaces if; the result is unchanged. Truth: I didn't see it, so I didn't wait — past."
+      }
+     ]
+    }
+   },
+   "thai": "เว้นแต่ = unless · ตราบใดที่ = as long as · เผื่อ = in case",
+   "items": [
+    {
+     "id": "w9l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "3",
+     "cefr": "B2",
+     "stem": "Mint didn't set an alarm last night, so she missed the school van this morning. Which sentence means the same?",
+     "options": [
+      "If Mint set an alarm, she wouldn't miss the school van.",
+      "If Mint had set an alarm, she wouldn't have missed the school van.",
+      "If Mint hadn't set an alarm, she would have missed the school van.",
+      "If Mint sets an alarm, she won't miss the school van."
+     ],
+     "answer": 1,
+     "near": 2,
+     "fb": [
+      "One step back is about now or the future. Last night and this morning are past, so the verbs need two steps.",
+      "Yes: both facts are past and both are flipped. She didn't set it, so had set; she missed the van, so wouldn't have missed.",
+      "Right time, wrong flip. This says she did set the alarm and did catch the van.",
+      "This is a real plan for the future. Sentence one reports what has already happened."
+     ],
+     "hint": "When did it happen? Then check each half: did it happen or not?",
+     "why": "Both facts are past, so the rewrite takes two steps back, and each half flips: didn't set becomes had set, missed becomes wouldn't have missed.",
+     "truth": "Mint didn't set an alarm, and she missed the van."
+    },
+    {
+     "id": "w9l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Take a power bank to the concert because your phone might die. Which sentence means the same?",
+     "options": [
+      "Take a power bank to the concert in case your phone dies.",
+      "Take a power bank to the concert if your phone dies.",
+      "Take a power bank to the concert unless your phone dies.",
+      "Take a power bank to the concert provided your phone dies."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: in case means pack it now, before you know, because the phone might die later.",
+      "With if, you only take it once the phone has died. By then it is too late to pack anything.",
+      "Unless means except if, so this says: leave the power bank at home when the phone dies.",
+      "Provided makes a deal: take it only when the phone dies. Nobody plans it that way."
+     ],
+     "hint": "Do you pack the power bank before the problem or after it?",
+     "why": "Because it might happen shows a precaution taken beforehand, and that is exactly the meaning of in case."
+    },
+    {
+     "id": "w9l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "wish",
+     "cefr": "B2",
+     "stem": "I'm sorry I told Bam about the surprise party yesterday. Which sentence means the same?",
+     "options": [
+      "I wish I had told Bam about the surprise party.",
+      "I wish I didn't tell Bam about the surprise party.",
+      "I wish I hadn't told Bam about the surprise party.",
+      "I wish I could tell Bam about the surprise party."
+     ],
+     "answer": 2,
+     "near": 1,
+     "fb": [
+      "Right tense, wrong flip. This says she kept the secret and now regrets keeping it.",
+      "A past simple after wish is about now or about habits. This regret is about yesterday, so it needs had and V3.",
+      "Yes: she did tell Bam yesterday, so the wish goes two steps back and turns negative.",
+      "This is a wish about now: she wants to tell Bam but can't. In sentence one she has already told her."
+     ],
+     "hint": "Did she tell Bam or not? And when?",
+     "why": "She told Bam yesterday and regrets it, so wish takes had and V3, flipped to the negative: hadn't told.",
+     "truth": "She told Bam yesterday."
+    },
+    {
+     "id": "w9l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Key word: PROVIDED. Sentence one: You can borrow my calculator, but only if you give it back before maths. Sentence two: You can borrow my calculator ___ back before maths. Which answer gets the marks?",
+     "options": [
+      "providing you give it",
+      "provided you give it",
+      "provided that you promise to give it",
+      "as long as you give it"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The meaning is right, but the key word has been changed. It must stay exactly as it is given.",
+      "Yes: the key word is unchanged, the gap has four words, and the deal means the same.",
+      "Seven words is over the limit of five, and promise is a new idea that sentence one never had.",
+      "The meaning is the same, but the key word is missing, so the answer scores nothing."
+     ],
+     "hint": "Check the two exam rules: the key word, and the number of words.",
+     "why": "This answer keeps the key word unchanged, stays within two to five words and keeps the meaning of but only if."
+    },
+    {
+     "id": "w9l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "Key word: UNLESS. Sentence one: If you don't show your student card, you won't get the discount. Sentence two: You won't get the discount ___ your student card.",
+     "options": [
+      "unless you don't show",
+      "unless you will show",
+      "unless you show",
+      "unless you showed"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Unless already means if not. With a second not, the meaning turns upside down.",
+      "Like if, unless takes a present verb for the future. Will stays in the result half.",
+      "Yes: unless replaces if and not together, and the verb stays in the present.",
+      "Sentence one has a present verb, don't show, because the rule is real. A past form changes the time, so the meaning is not the same."
+     ],
+     "hint": "What happens to not when if becomes unless?",
+     "why": "Unless means if not, so the not disappears, and the verb stays in the present because the rule is real."
+    },
+    {
+     "id": "w9l1-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Fern",
+       "text": "I didn't know the café was closed on Mondays, so I walked all the way there yesterday."
+      }
+     ],
+     "stem": "[[Had I known]] the café [[was closed]] on Mondays, I [[wouldn't walk]] all the way there [[yesterday]].",
+     "answer": 2,
+     "fix": "wouldn't have walked",
+     "fb": [
+      "This part is fine: had comes first and if disappears. It means If I had known.",
+      "This part is fine: the café really is closed on Mondays, so a plain past form after known works.",
+      "Yes, this is the slip: yesterday is past, so the result needs the have ticket: wouldn't have walked.",
+      "This part is fine: yesterday is the time cue. It tells you the walk is in the past."
+     ],
+     "hint": "When was the walk? Check that every verb agrees with that time.",
+     "why": "Had I known is only a formal If I had known, so the result about yesterday still needs would have and V3.",
+     "truth": "Fern didn't know, and she walked there yesterday."
+    },
+    {
+     "id": "w9l1-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "given": "Without my glasses, I couldn't read the board from the back row.",
+     "keyword": "WEREN'T",
+     "stem": "If it ___ my glasses, I couldn't read the board from the back row.",
+     "accept": [
+      "weren't for"
+     ],
+     "model": "weren't for",
+     "hint": "Without is followed by a noun. What links your verb to that noun?",
+     "why": "Without and a noun means if it weren't for and the same noun: she has her glasses, so the idea is imagined now.",
+     "truth": "She has her glasses, so she can read the board — now."
+    },
+    {
+     "id": "w9l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "given": "We didn't book early last week, so we didn't get seats together.",
+     "keyword": "HAD",
+     "stem": "If we ___ early last week, we would have got seats together.",
+     "accept": [
+      "had booked"
+     ],
+     "model": "had booked",
+     "hint": "Sentence one is a past fact. Flip it, then step back twice.",
+     "why": "Didn't book is a past fact, so the imagined condition goes two steps back and turns positive: had and the past participle, booked.",
+     "truth": "They didn't book early, and they didn't get seats together."
+    }
+   ]
+  },
+  {
+   "id": "w9l2",
+   "name": "Conditionals in essays and speaking (IELTS)",
+   "cefr": "C1",
+   "ctype": "mix",
+   "formula": {
+    "if": "If + present (essay: full forms, comma after the if half)",
+    "result": "may / might / could + verb to hedge · would + verb to propose"
+   },
+   "uses": [
+    {
+     "use": "A careful prediction (a hedge)",
+     "ex": "If this trend continues, prices may rise."
+    },
+    {
+     "use": "A proposal with would",
+     "ex": "Free bus passes would help students who live far from school."
+    },
+    {
+     "use": "Setting a condition in an argument",
+     "ex": "Online lessons work well provided that every student has a quiet place."
+    },
+    {
+     "use": "Naming the one exception",
+     "ex": "The air will not improve unless more people leave their cars at home."
+    },
+    {
+     "use": "Conceding a point",
+     "ex": "Even if tickets were free, some people would still drive."
+    },
+    {
+     "use": "Speaking: natural short forms",
+     "ex": "If I had more free time, I'd learn to play the guitar."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "In essays, be correct before you are clever: hedge with may or might, propose with would, and write full forms.",
+     "body": [
+      "In an essay you give opinions about what could happen. So do not sound too sure. <em>Will</em> sounds completely sure. A present result and <em>going to</em> sound sure too. <em>May</em>, <em>might</em> and <em>could</em> say that something is possible. This careful style is called hedging. After <em>if</em>, keep a present verb, as always: <em>If rents go up, some shops may close</em>.",
+      "Use <em>would</em> for a proposal (an idea that is not real yet). You do not always need <em>if</em>: <em>A new park would give children a safe place to play</em>. With <em>if</em>, step back in the first half and write <em>if the city built a park</em>. Never put <em>would</em> in the <em>if</em> half. Stay in one world too. A real sentence has a present verb with <em>will</em> or <em>may</em>. An imagined one has a past form with <em>would</em>.",
+      "Three linking words make an argument stronger. <b>Provided that</b> sets a condition and means only if. <b>Unless</b> means if not: it names the one thing that can change the result. <b>Even if</b> says the result stays the same anyway. Compare: <em>The plan will fail unless people support it. Even if people support it, it will be expensive.</em> Always read the sentence before, then choose by meaning.",
+      "A formal opening can replace <em>if</em>: <em>Were the city to build more parks, families might go out more</em>. The order is <em>were</em>, then the subject, then <em>to</em> and the verb. There is no <em>if</em>. Use this once in an essay, not more. Do not push in a third conditional to look clever. It is only for an imagined past. Examiners want correct sentences first. A correct simple sentence beats a wrong difficult one.",
+      "Writing and speaking are different. In an essay, write full forms: <em>do not</em>, <em>would not</em>, <em>they would</em>. In the speaking test, short forms are natural: <em>I'd</em>, <em>I'll</em>, <em>don't</em>. Last, check the comma. When the <em>if</em> half comes first, put a comma after it. When the <em>if</em> half comes second, you need no comma. The two halves are one sentence, so never put a full stop between them."
+     ],
+     "examples": [
+      {
+       "s": "If online shopping keeps growing, small shops may struggle.",
+       "g": "Real and careful: may, not will. No Truth line, because nothing is imagined."
+      },
+      {
+       "s": "A later start would give students more sleep.",
+       "g": "A proposal with no if. Truth: lessons do not start later — now."
+      },
+      {
+       "s": "Homework is useful provided that students understand its purpose.",
+       "g": "A condition: only if they understand. Real, so no Truth line."
+      },
+      {
+       "s": "Were schools to close their libraries, many students would have nowhere quiet to study.",
+       "g": "Formal: were, subject, to and verb, no if. Truth: schools are not closing their libraries — now."
+      },
+      {
+       "s": "<s>If the city will lower fares, more people would use the trains.</s>",
+       "g": "Two slips: will after if, and will mixed with would. Write: If the city lowered fares, more people would use the trains. Truth: fares are not lower — now."
+      }
+     ]
+    },
+    "B2": {
+     "key": "In an essay, accuracy earns more than rare grammar: hedge real conditionals, use would for proposals, and keep to full forms.",
+     "body": [
+      "An essay argues about what is likely, so a good writer avoids sounding certain. <em>Will</em>, <em>going to</em> and a present simple result all present the outcome as sure. <em>May</em>, <em>might</em> and <em>could</em> present it as possible, and this is called hedging. The condition itself does not change: it keeps a present verb, never <em>will</em>, as in <em>If rents go up, some shops may close</em>. A hedged real conditional is the most useful sentence you can put in an essay.",
+      "<em>Would</em> introduces a proposal, an idea that is not real yet. It often needs no <em>if</em> at all: in <em>A new park would give children a safe place to play</em>, the condition, if the city built one, is understood. When you do write the condition, step it back to the past simple and keep <em>would</em> out of it: <em>if the city built a park</em>. Stay in one world in each sentence: present with <em>will</em> or <em>may</em> for real, past form with <em>would</em> for imagined.",
+      "Three connectors sharpen an argument. <b>Provided that</b> sets the condition on which something works, meaning only if. <b>Unless</b> means if not, and names the single thing that could change the result. <b>Even if</b> concedes a point and says the result stays the same anyway. Compare: <em>The plan will fail unless people support it. Even if people support it, it will be expensive.</em> The sentence before the gap usually tells you which meaning the writer needs.",
+      "For a formal touch, <em>if the city built</em> can become <em>Were the city to build more parks, families might go out more</em>: <em>were</em>, the subject, <em>to</em> and the verb, with no <em>if</em>. One inversion in an essay is enough; several sound forced. In the same way, do not force a third conditional into an essay to show range, since it belongs only to an imagined past. Examiners reward accuracy first, so a correct common form earns more than a rare form with a mistake.",
+      "Register matters as well. Essays use full forms, such as <em>do not</em>, <em>would not</em> and <em>they would</em>, while in the speaking test contractions like <em>I'd</em>, <em>I'll</em> and <em>don't</em> are natural and sound fluent. Finally, punctuate the sentence: when the <em>if</em> half comes first, a comma follows it; when it comes second, there is normally no comma. Either way the two halves form one sentence, so a full stop never separates them."
+     ],
+     "examples": [
+      {
+       "s": "If online shopping keeps growing, small shops may struggle.",
+       "g": "A hedged real conditional: present after if, may in the result. Nothing is imagined, so there is no Truth line."
+      },
+      {
+       "s": "A later start would give students more sleep.",
+       "g": "A proposal; the condition is understood. Truth: lessons do not start later — now."
+      },
+      {
+       "s": "Homework is useful provided that students understand its purpose.",
+       "g": "Provided that sets the condition: only if they understand. Real, so no Truth line."
+      },
+      {
+       "s": "Were schools to close their libraries, many students would have nowhere quiet to study.",
+       "g": "One formal inversion: were, subject, to and verb, with no if. Truth: schools are not closing their libraries — now."
+      },
+      {
+       "s": "<s>If the city will lower fares, more people would use the trains.</s>",
+       "g": "Will after if, then will mixed with would. Choose one world: If the city lowered fares, more people would use the trains. Truth: fares are not lower — now."
+      }
+     ]
+    },
+    "C1": {
+     "key": "In academic writing a conditional is a tool for controlled claims: hedge what is real, mark proposals with would, and never trade accuracy for display.",
+     "body": [
+      "Academic argument deals in likelihood, not certainty, so the result clause should carry the writer's degree of confidence. <em>Will</em>, <em>going to</em> and the present simple all commit you to the outcome; <em>may</em>, <em>might</em> and <em>could</em> hedge it. The condition clause is untouched by this choice: it only sets the scene, so it keeps a present form, as in <em>If rents go up, some shops may close</em>. The hedged real conditional is the workhorse of a good essay because it is easy to get right.",
+      "<em>Would</em> marks a proposal as one step away from present reality, and the condition is frequently left unstated: <em>A new park would give children a safe place to play</em> implies if one were built. When the condition is stated, it takes the past simple, never <em>would</em>: <em>if the city built a park</em>. Choose one stance per sentence: a present form with <em>will</em> or <em>may</em> for real, a past form with <em>would</em> for imagined. Mixing them leaves the reader unsure which world you mean.",
+      "Connectors let you state the logic precisely. <b>Provided that</b> gives the condition under which a claim holds, meaning only if. <b>Unless</b> means except if, and isolates the one circumstance that would alter the result. <b>Even if</b> concedes a possibility while insisting that the result is unaffected. Compare: <em>The plan will fail unless people support it. Even if people support it, it will be expensive.</em> The choice depends on the argument around the sentence, not on the grammar inside it.",
+      "Inversion gives a formal alternative to <em>if</em> with a past form: <em>Were the city to build more parks, families might go out more</em>. The order is <em>were</em>, subject, <em>to</em> and the verb, and <em>if</em> is dropped; only <em>were</em>, <em>had</em> and <em>should</em> can open a conditional this way. Use it once at most, because repeated inversion reads as display. Likewise, the third conditional describes an imagined past, so forcing one into an argument about the future produces errors. Accuracy is rewarded before range.",
+      "Register separates the two halves of the exam. In essays, write every auxiliary in full, such as <em>do not</em>, <em>would not</em> and <em>they would</em>; in the speaking test, contractions like <em>I'd</em>, <em>I'll</em> and <em>don't</em> are what a fluent speaker uses, and avoiding them sounds stiff. The comma is a convention, not grammar, but examiners expect it: after a condition that comes first, and normally not before one that comes second. A full stop between the clauses is an error, since a condition cannot stand alone."
+     ],
+     "examples": [
+      {
+       "s": "If online shopping keeps growing, small shops may struggle.",
+       "g": "An open condition with a hedged result: the writer commits to a possibility only. Nothing is denied, so there is no Truth line."
+      },
+      {
+       "s": "A later start would give students more sleep.",
+       "g": "A proposal with an unstated condition; would marks the distance from the present. Truth: lessons do not start later — now."
+      },
+      {
+       "s": "Homework is useful provided that students understand its purpose.",
+       "g": "Provided that limits the claim to one condition. An open condition, so there is no Truth line."
+      },
+      {
+       "s": "Were schools to close their libraries, many students would have nowhere quiet to study.",
+       "g": "Inversion with were and to, replacing if with a past form; once per essay. Truth: schools are not closing their libraries — now."
+      },
+      {
+       "s": "<s>If the city will lower fares, more people would use the trains.</s>",
+       "g": "A scene-setting clause cannot take will, and the stance changes mid-sentence. Imagined throughout: If the city lowered fares, more people would use the trains. Truth: fares are not lower — now."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w9l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B2",
+     "stem": "In an essay, a hedged sentence is careful: the writer is not completely sure. Which sentence is hedged?",
+     "options": [
+      "If more people cycle to work, the air will become cleaner.",
+      "If more people cycle to work, the air becomes cleaner.",
+      "If more people cycle to work, the air may become cleaner.",
+      "If more people cycle to work, the air is going to become cleaner."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Will is a confident prediction. It leaves no room for doubt.",
+      "A present result states a fact that is always true. That is the opposite of careful.",
+      "Yes: may says the cleaner air is possible, not certain.",
+      "Going to sounds just as sure as will. There is no hedge here."
+     ],
+     "hint": "Look only at the result half. Which verb leaves room for doubt?",
+     "why": "May shows a possible result, while will, going to and the present simple all present the result as certain."
+    },
+    {
+     "id": "w9l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "mix",
+     "cefr": "B2",
+     "stem": "Which sentence is too informal for an essay?",
+     "options": [
+      "If schools started later, students would not be so tired in class.",
+      "Unless fares fall, most families will continue to travel by car.",
+      "If students had more free time, they'd probably read more.",
+      "Provided that parks are safe, children may play outside more."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "This one suits an essay: would not is written in full.",
+      "This one suits an essay: unless with a present verb, and no short forms.",
+      "Yes: they'd is a short form. In an essay, write they would.",
+      "This one suits an essay: provided that is formal, and may is a careful hedge."
+     ],
+     "hint": "Formal writing spells every word out. Look closely at the verbs.",
+     "why": "They'd is a contraction, and essays use full forms; the other three sentences have no short forms."
+    },
+    {
+     "id": "w9l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "From an essay: Teaching is the missing piece. Recycling bins will not solve the problem ___ people learn how to use them.",
+     "options": [
+      "even if",
+      "unless",
+      "provided that",
+      "if"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Even if would mean that learning changes nothing. But the writer calls teaching the missing piece.",
+      "Yes: unless names the one thing that can change the result. With no teaching, the bins fail.",
+      "Provided that would make learning the condition for failure. That turns the argument upside down.",
+      "If would say the bins fail when people do learn. The writer means the opposite."
+     ],
+     "hint": "Read the sentence before the gap. Does learning change the result or not?",
+     "why": "The writer says teaching is what is missing, so learning is the one thing that changes the result: if not, which is unless."
+    },
+    {
+     "id": "w9l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B2",
+     "stem": "If the number of cars in Bangkok ___ to grow, journeys to school may take even longer.",
+     "options": [
+      "will continue",
+      "continued",
+      "would continue",
+      "continues"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "No will after if. The if half takes a present verb; the careful may is already in the result.",
+      "A past form makes the sentence imagined, but may belongs to a real one. Stay in one world.",
+      "Would never goes in the if half, and the result here is real, with may.",
+      "Yes: a present verb after if, even for the future, and may to hedge the result."
+     ],
+     "hint": "Is this sentence real or imagined? Look at the result half, then choose the verb after if.",
+     "why": "The result uses may, so the sentence is real, and a real if half about the future takes the present simple."
+    },
+    {
+     "id": "w9l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "stem": "Few schools give breakfast at the moment. ___ free breakfast, fewer students might arrive hungry.",
+     "options": [
+      "Were schools to offer",
+      "If were schools to offer",
+      "Were schools offer",
+      "Would schools to offer"
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: were, then the subject, then to and the verb, with no if.",
+      "The inverted form replaces if. Keep one or the other, never both.",
+      "The pattern needs to before the verb: were, subject, to, verb.",
+      "This formal opening is built on were, followed by the subject and to. Would cannot start it."
+     ],
+     "hint": "This opening replaces if. Check how it is built, one word at a time.",
+     "why": "The formal pattern is were, the subject, to and the verb, with no if; it means if schools offered.",
+     "truth": "Few schools offer free breakfast now."
+    },
+    {
+     "id": "w9l2-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Our city has very few bike lanes. [[If there would be]] more of them, [[far more people]] [[would cycle]] [[to work or school]].",
+     "answer": 0,
+     "fix": "If there were",
+     "fb": [
+      "Yes, this is the slip: would never goes in the if half. One step back there is a past form: were.",
+      "This part is fine: it is simply the subject of the result half.",
+      "This part is fine: would and a verb is the right result for an idea that is not real yet.",
+      "This part is fine: cycle to work or school is correct."
+     ],
+     "hint": "The idea is imagined. Does each half show that in the right way?",
+     "why": "There are few lanes now, so the if half steps back to a past form, were; would belongs only in the result.",
+     "truth": "The city has very few bike lanes now."
+    },
+    {
+     "id": "w9l2-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Fares are high at the moment. Which sentence is written correctly for an essay?",
+     "options": [
+      "If public transport were cheaper. Fewer people would drive.",
+      "If public transport were cheaper, fewer people would drive.",
+      "If public transport were cheaper, fewer people'd drive.",
+      "If public transport would be cheaper, fewer people would drive."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The verbs are right, but a full stop cuts the if half off from its result. Join the two halves with a comma.",
+      "Yes: a past form after if, would in the result, a comma after the if half and no short forms.",
+      "People'd is a short form from fast speech. Essays use the full form.",
+      "Would never goes in the if half. One step back there gives were."
+     ],
+     "hint": "Check three things: the verb after if, the punctuation and short forms.",
+     "why": "It has were in the if half, a comma after that half and would written in full, which is what an essay needs.",
+     "truth": "Public transport is not cheaper now."
+    },
+    {
+     "id": "w9l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "given": "If lessons started at nine, we'd get more sleep.",
+     "stem": "Change this spoken sentence into an essay sentence with no short forms: If lessons started at nine, students ___ more sleep.",
+     "accept": [
+      "would get"
+     ],
+     "model": "would get",
+     "hint": "The grammar stays the same. What changes when you move from speaking to an essay?",
+     "why": "In speech we'd is natural, but an essay uses the full form: would get.",
+     "truth": "Lessons do not start at nine now."
+    }
+   ]
+  },
+  {
+   "id": "w9l3",
+   "name": "Mixed mastery: find and fix across all worlds",
+   "cefr": "B2",
+   "ctype": "mix",
+   "formula": {
+    "if": "Check 1: real or imagined? Check 2: when is each half?",
+    "result": "Then build each half: no will or would after if; have + V3 for an imagined past"
+   },
+   "uses": [
+    {
+     "use": "A fact, habit or rule (type 0)",
+     "ex": "If I drink bubble tea at night, I can't sleep."
+    },
+    {
+     "use": "A real plan or warning (type 1)",
+     "ex": "If the rain stops, we'll walk to the BTS."
+    },
+    {
+     "use": "A dream or advice (type 2)",
+     "ex": "If I had a cat, I'd call her Mochi."
+    },
+    {
+     "use": "Regret or relief about the past (type 3)",
+     "ex": "If Pim had checked the map, we wouldn't have got lost."
+    },
+    {
+     "use": "A past cause with a result now (mixed 3/2)",
+     "ex": "If we had taken the BTS, we would be there by now."
+    },
+    {
+     "use": "A wish instead of an if",
+     "ex": "I wish I had brought an umbrella."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Before you fix any sentence, ask two questions: is it real or imagined, and when is each half?",
+     "body": [
+      "Every conditional answers two questions. Is it real or imagined? When is each half: past, now or future? Look for cue words such as <em>yesterday</em>, <em>last night</em>, <em>now</em>, <em>still</em>, <em>tomorrow</em> and <em>always</em>. An imagined sentence has a hidden Truth line. Write it and date it. A real sentence has no Truth line, because nothing is denied.",
+      "Real sentences use present verbs after <em>if</em>. For a fact, habit or rule, the result is present too (type 0, the zero conditional). Remember the <em>-s</em> for she, he or one person. For a possible future, the result has <em>will</em>, <em>might</em> or <em>can</em> (type 1, the first conditional). <em>Will</em> never goes after <em>if</em>. The same is true after <em>when</em>, <em>as soon as</em> and <em>unless</em>.",
+      "Imagined sentences step back. For an imagined now, use a past form after <em>if</em>, with <em>were</em> for <em>am</em> and <em>is</em>. The result is <em>would</em>, <em>could</em> or <em>might</em> and a verb. This is type 2, the second conditional. For an imagined past, use <em>had</em> and the past participle (V3). The result is <em>would have</em> or <em>could have</em> and V3. This is type 3, the third conditional. The word <em>have</em> is the past ticket. <em>Would</em> never goes in the <em>if</em> half.",
+      "Sometimes the two halves have different times. Then build each half alone. A past condition with a result now is mixed 3/2. Use <em>had</em> and V3, then <em>would</em> or <em>could</em> and a verb. There is no <em>have</em>. A condition that is always true with a past result is mixed 2/3. Use a past form such as <em>were</em>, then <em>would have</em> and V3. Name the type from the time of each half.",
+      "Three more checks. <em>Unless</em> means if not, so never add a second <em>not</em>. After <em>wish</em>, step back too. Use a past form for now, and <em>had</em> and V3 for a past regret. Use <em>would</em> for a change you want. A formal sentence can start with <em>Had</em>, <em>Were</em> or <em>Should</em> and no <em>if</em>. Put <em>if</em> back in your head, and the checks are the same."
+     ],
+     "examples": [
+      {
+       "s": "If Nan misses the bus, she walks to school.",
+       "g": "Type 0: a habit, present in both halves. No Truth line, because nothing is denied."
+      },
+      {
+       "s": "If I had my phone with me, I'd call Mum now.",
+       "g": "Type 2: one step back. Truth: I don't have my phone — now."
+      },
+      {
+       "s": "If we had left at six, we would have caught the ferry.",
+       "g": "Type 3: two steps back, with the have ticket. Truth: we didn't leave at six, and we missed the ferry — past."
+      },
+      {
+       "s": "If I had eaten breakfast, I wouldn't be hungry now.",
+       "g": "Mixed 3/2: two times. Truth: I didn't eat breakfast — past; I am hungry — now."
+      },
+      {
+       "s": "<s>If I would have known, I would have told you.</s>",
+       "g": "No would in the if half. Write: If I had known, I would have told you. Truth: I didn't know — past."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Every find-and-fix question is solved the same way: decide real or imagined, date each half, then check each verb against that.",
+     "body": [
+      "Whatever the sentence looks like, start with two questions: is the speaker describing something real or something imagined, and when is each half, past, now or future? Cue words such as <em>yesterday</em>, <em>last night</em>, <em>now</em>, <em>still</em> and <em>tomorrow</em> give you the time. An imagined sentence hides a Truth line, the fact it denies; write that line and date it. A real sentence has no Truth line, because nothing is denied.",
+      "Real conditionals keep a present verb after <em>if</em>. For facts, habits and rules the result is present as well, which is the zero conditional (type 0); do not forget the <em>-s</em> for a single person or thing. For a possible future the result takes <em>will</em>, <em>might</em>, <em>can</em> or an imperative, the first conditional (type 1). <em>Will</em> does not follow <em>if</em>, and the same rule holds after <em>when</em>, <em>as soon as</em> and <em>unless</em>.",
+      "Imagined conditionals step back. An imagined present or future takes a past form after <em>if</em>, with <em>were</em> for <em>am</em> and <em>is</em>, and <em>would</em>, <em>could</em> or <em>might</em> with a verb: the second conditional (type 2). An imagined past takes <em>had</em> with the past participle (V3), and <em>would have</em>, <em>could have</em> or <em>might have</em> with V3: the third conditional (type 3). That <em>have</em> is the past ticket. <em>Would</em> never belongs in the <em>if</em> half.",
+      "When the halves have different times, build each one separately. An imagined past condition with a present result is mixed 3/2: <em>had</em> and V3, then <em>would</em> or <em>could</em> and a verb with no <em>have</em>, usually with <em>now</em> or <em>still</em>. A condition that is always true with a past result is mixed 2/3: a past form such as <em>were</em>, then <em>would have</em> and V3. You name the type from the time of each half, not from the first verb you notice.",
+      "Finally, three families from the later worlds. <em>Unless</em> means if not, so a second <em>not</em> reverses the meaning. <em>Wish</em> follows the same steps as <em>if</em>: a past form for a wish about now, <em>had</em> and V3 for a past regret, and <em>would</em> for a change you want from someone or something. Formal sentences may begin with <em>Had</em>, <em>Were</em> or <em>Should</em> instead of <em>if</em>; put the <em>if</em> back mentally and run the same checks."
+     ],
+     "examples": [
+      {
+       "s": "If Nan misses the bus, she walks to school.",
+       "g": "Type 0: a real habit, present in both halves, with -s on both verbs. Nothing is denied, so there is no Truth line."
+      },
+      {
+       "s": "If I had my phone with me, I'd call Mum now.",
+       "g": "Type 2: a past form, then would and a verb. Truth: I don't have my phone — now."
+      },
+      {
+       "s": "If we had left at six, we would have caught the ferry.",
+       "g": "Type 3: had and V3, then would have and V3. Truth: we didn't leave at six, and we missed the ferry — past."
+      },
+      {
+       "s": "If I had eaten breakfast, I wouldn't be hungry now.",
+       "g": "Mixed 3/2: a past condition and a present result with no have. Truth: I didn't eat breakfast — past; I am hungry — now."
+      },
+      {
+       "s": "<s>If I would have known, I would have told you.</s>",
+       "g": "Would has no place in the if half. Write: If I had known, I would have told you. Truth: I didn't know — past."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Two settings generate every conditional, so one routine corrects them all: fix the stance, date each clause, then test every verb against both.",
+     "body": [
+      "Every conditional, however unfamiliar it looks, is set by two dials: whether the speaker treats the situation as real or imagined, and the time of each clause. Find the time from cue words such as <em>yesterday</em>, <em>last night</em>, <em>now</em>, <em>still</em> and <em>tomorrow</em>. An imagined clause denies a fact, so it carries a hidden Truth line that you can write and date; a real clause denies nothing and has none. Most errors are a verb that disagrees with one of those two settings.",
+      "In a real conditional the <em>if</em> clause only sets the scene, so it takes a present form even for future time, and the same holds after <em>when</em>, <em>as soon as</em> and <em>unless</em>. If the result is a fact, habit or rule, it is present too, the zero conditional (type 0), with third-person <em>-s</em> where needed. If the result predicts, it takes <em>will</em>, <em>might</em>, <em>can</em> or an imperative: the first conditional (type 1). The prediction word belongs to the result alone.",
+      "Imagined clauses show their distance from reality by stepping back. One step, a past form with <em>were</em> for <em>am</em> and <em>is</em>, then <em>would</em>, <em>could</em> or <em>might</em> with a verb, gives an imagined present or future: the second conditional (type 2). Two steps, <em>had</em> with the past participle (V3), then <em>would have</em>, <em>could have</em> or <em>might have</em> with V3, give an imagined past: the third conditional (type 3). The <em>have</em> is the past ticket, and <em>would</em> stays out of the <em>if</em> clause.",
+      "Because each clause sets its own time, the two can differ. An imagined past condition with a present result is mixed 3/2: <em>had</em> with V3, then <em>would</em> or <em>could</em> with a bare verb, typically beside <em>now</em> or <em>still</em>. A permanent or present condition with a past result is mixed 2/3: a past form such as <em>were</em>, then <em>would have</em> with V3. Name the type from the time of each clause; a past ticket on a result about now is the classic mismatch.",
+      "The remaining families obey the same logic. <em>Unless</em> means except if and already contains the negative, so adding <em>not</em> reverses the sense. <em>Wish</em> steps back exactly as <em>if</em> does: a past form for the present, <em>had</em> with V3 for a past regret, and <em>would</em> for a change you want in someone else's behaviour. Inverted conditions open with <em>Had</em>, <em>Were</em> or <em>Should</em> and drop <em>if</em>; restore the <em>if</em> mentally and the same two dials apply."
+     ],
+     "examples": [
+      {
+       "s": "If Nan misses the bus, she walks to school.",
+       "g": "Type 0: an open, habitual condition, present in both clauses with third-person -s. Nothing is denied, so there is no Truth line."
+      },
+      {
+       "s": "If I had my phone with me, I'd call Mum now.",
+       "g": "Type 2: one step back for an imagined present. Truth: I don't have my phone — now."
+      },
+      {
+       "s": "If we had left at six, we would have caught the ferry.",
+       "g": "Type 3: two steps back for an imagined past, with the have ticket in the result. Truth: we didn't leave at six, and we missed the ferry — past."
+      },
+      {
+       "s": "If I had eaten breakfast, I wouldn't be hungry now.",
+       "g": "Mixed 3/2: each clause keeps its own time, so the result has no have. Truth: I didn't eat breakfast — past; I am hungry — now."
+      },
+      {
+       "s": "<s>If I would have known, I would have told you.</s>",
+       "g": "Heard in some speech, but wrong in exams: would stays out of the if clause. Write: If I had known, I would have told you. Truth: I didn't know — past."
+      }
+     ]
+    }
+   },
+   "thai": "ถอยหลังหนึ่งก้าว = ถอยห่างจากความจริง",
+   "items": [
+    {
+     "id": "w9l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "m32",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "I can hardly keep my eyes open in class today."
+      },
+      {
+       "who": "Nan",
+       "text": "If you hadn't watched dramas until 2 a.m., you wouldn't be so sleepy now."
+      }
+     ],
+     "stem": "Which type is Nan's sentence?",
+     "options": [
+      "Third conditional: imagined past in both halves",
+      "Mixed 3/2: imagined past condition, present result",
+      "Second conditional: imagined present in both halves",
+      "First conditional: a real possibility in the future"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The condition is past, but look at now in the result. Wouldn't be has no have ticket, so the result is present.",
+      "Yes: hadn't watched is an imagined past, and wouldn't be so sleepy now is an imagined present.",
+      "The result is present, but hadn't watched is two steps back: it is about last night.",
+      "Nothing here is a real plan. Fah did watch dramas, and she is sleepy."
+     ],
+     "hint": "Give each half its own time word. Are the two times the same?",
+     "why": "The condition is about last night (hadn't watched) and the result is about now (wouldn't be), so the halves have different times: mixed 3/2.",
+     "truth": "Fah watched dramas until 2 a.m. (past); she is sleepy (now)."
+    },
+    {
+     "id": "w9l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "C1",
+     "stem": "Had the rain stopped last Saturday, sports day would have gone ahead. What do we know?",
+     "options": [
+      "The rain stopped, so sports day went ahead.",
+      "The rain may stop, and then sports day will go ahead.",
+      "The rain didn't stop, and sports day didn't go ahead.",
+      "The rain stopped, but sports day still didn't go ahead."
+     ],
+     "answer": 2,
+     "near": 3,
+     "fb": [
+      "That reads an imagined sentence as real. Had the rain stopped means that it did not stop.",
+      "Last Saturday is over. Had and V3 look back at the past, not forward.",
+      "Yes: Had the rain stopped means If the rain had stopped, so both halves are the opposite of what happened.",
+      "Half right: sports day didn't go ahead. But the first half is imagined too, so the rain did not stop."
+     ],
+     "hint": "Put if back into the sentence. Then write the Truth line for each half.",
+     "why": "Had the rain stopped is a formal If the rain had stopped: an imagined past, so in fact the rain continued and sports day did not go ahead.",
+     "truth": "The rain didn't stop, and sports day didn't go ahead."
+    },
+    {
+     "id": "w9l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "conn",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "You can't play in Saturday's match unless you come to training on Thursday."
+      }
+     ],
+     "stem": "What does the coach mean?",
+     "options": [
+      "If you come to training on Thursday, you can't play on Saturday.",
+      "If you don't come to training on Thursday, you can play on Saturday.",
+      "If you don't come to training on Thursday, you can't play on Saturday.",
+      "If you come to training on Thursday, you don't have to play on Saturday."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "This turns the rule around. Training is what lets you play, not what stops you.",
+      "The first half is right, but the result is flipped. Missing training is what keeps you out of the match.",
+      "Yes: unless means if not. No training on Thursday, no match on Saturday.",
+      "Nobody is being excused from the match. The coach is saying what you must do to be in it."
+     ],
+     "hint": "Change unless into if. What else has to change?",
+     "why": "Unless means if not, so the coach's rule is: if you don't come to training, you can't play."
+    },
+    {
+     "id": "w9l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "0",
+     "cefr": "B1",
+     "stem": "It is a rule at our school: if a student ___ her ID card, she has to sign in at the office.",
+     "options": [
+      "forget",
+      "forgets",
+      "will forget",
+      "would forget"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The time is right, but a student is one person, so the present verb needs -s.",
+      "Yes: a rule is always true, so present simple in both halves, with -s for a student.",
+      "No will after if. And this is a rule that is always true, not a prediction.",
+      "Would never goes in the if half. And a school rule is real, so nothing steps back."
+     ],
+     "hint": "Is this about one day or every day? And who is the subject?",
+     "why": "A school rule is always true, so the if half takes the present simple, and a student needs the -s form."
+    },
+    {
+     "id": "w9l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "m23",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Mook",
+       "text": "Why didn't you say hello to the exchange students yesterday?"
+      },
+      {
+       "who": "Jane",
+       "text": "You know me. I'm shy with new people."
+      }
+     ],
+     "stem": "If I ___ so shy, I would have talked to them yesterday.",
+     "options": [
+      "am not",
+      "wouldn't be",
+      "weren't",
+      "won't be"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Jane is shy, so not shy is imagined. An imagined condition needs one step back from am.",
+      "Would never goes in the if half. Step the verb back instead.",
+      "Yes: being shy is always true of Jane, so one step back from am gives weren't, even with a past result.",
+      "Will never follows if here, and the idea is imagined, not a plan."
+     ],
+     "hint": "Is Jane shy only yesterday, or always? Step back from that time.",
+     "why": "Jane is always shy, so the condition is an imagined present, one step back: weren't. The result about yesterday keeps would have and V3.",
+     "truth": "Jane is shy (always); she didn't talk to them (yesterday)."
+    },
+    {
+     "id": "w9l3-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "conn",
+     "cefr": "B2",
+     "stem": "[[Unless you don't hurry]], [[we'll miss]] the last BTS train, [[and a taxi]] home [[costs]] a lot at night.",
+     "answer": 0,
+     "fix": "Unless you hurry",
+     "fb": [
+      "Yes, this is the slip: unless already means if not, so the extra not turns the meaning upside down.",
+      "This part is fine: will belongs in the result half of a real future sentence.",
+      "This part is fine: and simply adds a second idea.",
+      "This part is fine: a general fact about taxis takes the present simple with -s."
+     ],
+     "hint": "Read it for meaning first: does hurrying save the train or lose it?",
+     "why": "Unless means if not, so Unless you hurry already says If you don't hurry; a second not reverses it."
+    },
+    {
+     "id": "w9l3-7",
+     "type": "type",
+     "skill": "form",
+     "ctype": "3",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Bam",
+       "text": "The concert tickets sold out in two minutes last night!"
+      },
+      {
+       "who": "Fern",
+       "text": "I know. My wifi was so slow that I didn't get one."
+      }
+     ],
+     "stem": "If my wifi had been faster, I ___ (buy) one for sure.",
+     "accept": [
+      "would have bought",
+      "would've bought",
+      "'d have bought",
+      "could have bought",
+      "could've bought"
+     ],
+     "model": "would have bought",
+     "hint": "When is the result? Does your verb carry a past ticket?",
+     "why": "Last night is past and Fern didn't get a ticket, so the result needs would have and the past participle, bought.",
+     "truth": "Fern's wifi was slow last night, and she didn't buy a ticket."
+    },
+    {
+     "id": "w9l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "wish",
+     "cefr": "B2",
+     "stem": "Mint is stuck on question 5 right now and has no idea. She says: I wish I ___ (know) the answer!",
+     "accept": [
+      "knew"
+     ],
+     "model": "knew",
+     "hint": "Is the wish about now or about the past? Step back from that time.",
+     "why": "Mint doesn't know the answer now, so wish takes one step back from know: knew.",
+     "truth": "Mint doesn't know the answer now."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w9g",
+  "items": [
+   {
+    "id": "w9g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "2",
+    "cefr": "B2",
+    "stem": "Jane isn't in the school band because she can't read music. Which sentence means the same?",
+    "options": [
+     "If Jane can read music, she will be in the school band.",
+     "If Jane had read music, she would have been in the school band.",
+     "If Jane could read music, she would be in the school band.",
+     "Unless Jane could read music, she would be in the school band."
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "This is a real possibility for the future. But sentence one says she can't read music now, so the idea is imagined.",
+     "Two steps back is for a past fact. Isn't and can't are about now.",
+     "Yes: both facts are about now, so each verb goes one step back and flips: can't becomes could, isn't becomes would be.",
+     "Unless means if not, so this says she would be in the band if she couldn't read music."
+    ],
+    "hint": "When are the two facts true? How many steps back does that time need?",
+    "why": "The facts are present (isn't, can't), so the imagined version is one step back and flipped: could read, would be.",
+    "truth": "Jane can't read music, so she isn't in the band — now."
+   },
+   {
+    "id": "w9g-2",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "mix",
+    "cefr": "C1",
+    "stem": "Praew's essay has three first conditionals, all correct. Her friend says: Add a third conditional and two inversions to impress the examiner. What is the best advice for Praew?",
+    "options": [
+     "Add the third conditional, even though her topic is about the future.",
+     "Keep her correct sentences and hedge one result with may.",
+     "Open every paragraph with an inversion to show her range.",
+     "Change every will to would so that the essay sounds more formal."
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "A third conditional is for an imagined past. Forced into a topic about the future, it will be wrong, and wrong forms lose marks.",
+     "Yes: accuracy comes first. A correct sentence with a careful hedge earns more than a rare form used badly.",
+     "One inversion in an essay is enough. Several in a row sound forced.",
+     "Would is for imagined ideas and proposals. It is not a formal will, so the meaning would change."
+    ],
+    "hint": "What do examiners reward first: correct forms or rare forms?",
+    "why": "Accuracy beats range: correct real conditionals with a hedge earn more than a forced third conditional or several inversions."
+   },
+   {
+    "id": "w9g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "1",
+    "cefr": "B2",
+    "stem": "Which sentence is about a real possibility, with nothing imagined?",
+    "options": [
+     "If the haze cleared, sports day would go ahead.",
+     "Had the haze cleared in time, sports day would have gone ahead.",
+     "I wish the haze would clear before sports day.",
+     "If the haze clears by Friday, sports day might go ahead."
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "Cleared and would are one step back: the speaker is only imagining it.",
+     "Had the haze cleared means If the haze had cleared: an imagined past. In fact the haze stayed.",
+     "Wish with would shows the speaker wants a change that is not happening.",
+     "Yes: a present verb after if and might in the result. The question is open, and nothing is denied."
+    ],
+    "hint": "Which sentence has no hidden Truth line?",
+    "why": "Present simple after if with might is a real, open possibility; the other three step back, so each one hides a Truth line."
+   },
+   {
+    "id": "w9g-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "conn",
+    "cefr": "B2",
+    "stem": "Key word: CASE. Sentence one: I'll write the address down because I might forget it. Sentence two: I'll write the address down ___ it.",
+    "options": [
+     "in case I will forget",
+     "in case I forget",
+     "in case I don't forget",
+     "in case I forgot"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "In case takes a present verb for the future, just like if. No will.",
+     "Yes: write it now, before you forget, with a present verb after in case.",
+     "The extra not changes the meaning. The danger is forgetting, so the verb stays positive.",
+     "A past form does not fit. You are writing the address now, to guard against a future problem."
+    ],
+    "hint": "Which verb form follows in case when the event is in the future?",
+    "why": "In case shows a precaution and takes the present simple for a future event."
+   },
+   {
+    "id": "w9g-5",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "1",
+    "cefr": "B2",
+    "stem": "Which sentence is best for an essay about phones at school?",
+    "options": [
+     "If schools ban phones. Students may talk to each other more.",
+     "If schools will ban phones, students may talk to each other more.",
+     "If schools ban phones, students'll talk to each other more.",
+     "If schools ban phones, students may talk to each other more."
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "The verbs are right, but a full stop cuts the if half off from its result. It needs a comma there.",
+     "No will after if. The if half takes a present verb, even for the future.",
+     "Students'll is a short form from speech, and will is not hedged.",
+     "Yes: present after if, a comma, a careful may and no short forms."
+    ],
+    "hint": "Check the verb after if, the comma, the hedge and short forms.",
+    "why": "It has the present simple after if, a comma after the if half, the hedge may and no contractions."
+   },
+   {
+    "id": "w9g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "m32",
+    "cefr": "B2",
+    "stem": "Fern forgot to charge her phone last night. If she had charged it, she ___ us on LINE right now.",
+    "options": [
+     "could have messaged",
+     "can message",
+     "could message",
+     "will message"
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "The have ticket sends the result to the past, but right now says the result is present.",
+     "Can is for real results. Her phone is dead, so this result is imagined: one step back.",
+     "Yes: an imagined present result is could and a verb, with no have ticket, because of right now.",
+     "Will is a real promise. Her phone is dead, so the messaging is only imagined."
+    ],
+    "hint": "When is the result? Does it need a past ticket?",
+    "why": "The condition is last night, but the result is right now, so it takes could and a verb with no have.",
+    "truth": "Fern didn't charge her phone (last night); she can't message us (now)."
+   },
+   {
+    "id": "w9g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "3",
+    "cefr": "B2",
+    "stem": "If the van driver [[would have seen]] the flooded soi [[in time]], she [[would have taken]] [[another road]] this morning.",
+    "answer": 0,
+    "fix": "had seen",
+    "fb": [
+     "Yes, this is the slip: no would in the if half. An imagined past condition is had and V3: had seen.",
+     "This part is fine: in time means early enough.",
+     "This part is fine: the result of an imagined past is would have and V3.",
+     "This part is fine: another road is correct."
+    ],
+    "hint": "This morning is past, and it didn't happen. Check how each half is built.",
+    "why": "The if half of an imagined past takes had and V3, not would have: If the van driver had seen.",
+    "truth": "The driver didn't see the flooded soi in time, and she didn't take another road."
+   },
+   {
+    "id": "w9g-8",
+    "type": "type",
+    "skill": "form",
+    "ctype": "wish",
+    "cefr": "B2",
+    "given": "I didn't save my project last night, and I really regret it.",
+    "keyword": "WISH",
+    "stem": "I ___ my project last night.",
+    "accept": [
+     "wish I had saved",
+     "wish I'd saved",
+     "wish that I had saved",
+     "wish that I'd saved"
+    ],
+    "model": "wish I had saved",
+    "hint": "A regret about the past: how many steps back after the key word?",
+    "why": "A regret about last night takes wish with had and V3, flipped to the positive.",
+    "truth": "She didn't save her project last night."
+   }
+  ]
+ }
+}

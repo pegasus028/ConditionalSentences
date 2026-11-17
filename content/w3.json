@@ -1,0 +1,1232 @@
+{
+ "world": "w3",
+ "lessons": [
+  {
+   "id": "w3l1",
+   "name": "The true meaning: real or imagined? One step back and the Truth receipt",
+   "cefr": "B1",
+   "ctype": "2",
+   "gateway": "p.72",
+   "formula": {
+    "if": "If + past form (one step back from reality, not past time)",
+    "result": "would / could + verb"
+   },
+   "uses": [
+    {
+     "use": "Dreaming about a different life",
+     "ex": "If I had a puppy, I'd call him Mochi."
+    },
+    {
+     "use": "Saying what is not true now",
+     "ex": "If I had more shelves, I'd keep all my comics here."
+    },
+    {
+     "use": "Imagining a superpower",
+     "ex": "If I could fly, I'd never wait for the BTS again."
+    },
+    {
+     "use": "Imagining you are someone or something else",
+     "ex": "If I were a cat, I would sleep all day."
+    },
+    {
+     "use": "Imagining an unlikely tomorrow",
+     "ex": "If we had no school tomorrow, I'd sleep until ten."
+    }
+   ],
+   "thai": "ถอยหลังหนึ่งก้าว = ถอยห่างจากความจริง · Truth line: ความจริงคือ…",
+   "levels": {
+    "B1": {
+     "key": "In an imagined <em>if</em> sentence, a past form is not about past time: it means one step back from reality.",
+     "body": [
+      "Every <em>if</em> sentence asks two questions. When is it about? Is it real or imagined? A real sentence talks about something possible: <em>If it rains, we'll take a taxi.</em> An imagined sentence talks about something that is not true now. It is a dream or a game in your head: <em>If I had a car, I'd drive you home.</em> This imagined kind has a nickname: the second conditional, or type 2.",
+      "Look at <em>had</em>. It is a past form, but it is not about past time. The speaker is talking about now. In English, a past form can mean one step back from reality. So <em>If I had a car</em> does not mean I had one before. It means I don't have one now. It even works with tomorrow: <em>If we had no school tomorrow, I'd sleep until ten.</em> A real memory looks different. Here both halves are plain past, with no <em>would</em>: <em>If it rained, we stayed in.</em>",
+      "Think of a staircase. To go from real to imagined, each verb takes one step back. <em>Am</em> and <em>is</em> become <em>were</em>. <em>Have</em> becomes <em>had</em>. <em>Can</em> becomes <em>could</em>. <em>Will</em> becomes <em>would</em>. Other verbs take their past form too: <em>live</em> becomes <em>lived</em>, and <em>go</em> becomes <em>went</em>. The stepped-back verb goes in the <em>if</em> half. <em>Would</em> goes in the result half (what happens in the dream). Do not put <em>will</em> or <em>would</em> in the <em>if</em> half.",
+      "You may know this staircase from reported speech. <em>I am tired</em> becomes <em>She said she was tired.</em> The steps are the same, but the reason is different. Reported speech steps back in time. An imagined <em>if</em> sentence steps back from reality. Later, in Rewind Tower, you will take two steps for an imagined past.",
+      "Here is a habit that always works. After an imagined sentence, write its Truth receipt (a short line that says what is really true). Start with the word Truth and add a date. For <em>If I had a car</em>, write: Truth: I don't have a car, now. The Truth is the opposite of the <em>if</em> half. A real sentence has no receipt, because nothing in it is untrue. No receipt means no step back."
+     ],
+     "examples": [
+      {
+       "s": "If I had a car, I'd drive you home.",
+       "g": "Truth: I don't have a car — now. \"Had\" is one step back from \"have\"."
+      },
+      {
+       "s": "If I were a cat, I would sleep all day.",
+       "g": "Truth: I'm not a cat — now. \"Am\" steps back to \"were\", and \"will\" to \"would\"."
+      },
+      {
+       "s": "If Ploy could cook, she'd make us noodles.",
+       "g": "Truth: Ploy can't cook — now. \"Can\" steps back to \"could\"."
+      },
+      {
+       "s": "If it rains, we'll take a taxi.",
+       "g": "Real: rain is possible. No Truth line, so no step back."
+      },
+      {
+       "s": "<s>If I have a time machine, I will visit the dinosaurs.</s>",
+       "g": "Fix: If I had a time machine, I would visit the dinosaurs. Truth: I don't have a time machine — now."
+      }
+     ]
+    },
+    "B2": {
+     "key": "In an imagined <em>if</em> sentence the past form does not show past time; it shows one step back from reality.",
+     "body": [
+      "Every conditional sets two dials for each half: when is it about, and is it real or imagined? A real conditional keeps a possibility open: <em>If it rains, we'll take a taxi.</em> An imagined one describes a world that is different from the real one, now or in the future: <em>If I had a car, I'd drive you home.</em> Coursebooks call this the second conditional, or type 2. It is the language of dreams and what-ifs.",
+      "The surprise is the verb. <em>Had</em> is a past form, yet the sentence is about now. In English a past form has two jobs: it can show past time, or it can show distance from reality. Here it means one step back from what is true, so it works with <em>now</em> and even with <em>tomorrow</em>: <em>If we had no school tomorrow, I'd sleep until ten.</em> A real memory looks different: here both halves are plain past, and the result has no <em>would</em>: <em>If it rained, we stayed in.</em>",
+      "Picture a staircase. Moving from real to imagined, every verb goes down one step: <em>am</em> and <em>is</em> to <em>were</em>, <em>have</em> to <em>had</em>, <em>can</em> to <em>could</em>, <em>will</em> to <em>would</em>, and ordinary verbs to their past simple, so <em>live</em> gives <em>lived</em> and <em>go</em> gives <em>went</em>. The stepped-back verb sits in the <em>if</em> half, and <em>would</em> or <em>could</em> belongs in the result half. A plain <em>if</em> half takes neither <em>will</em> nor <em>would</em>.",
+      "You have climbed this staircase before, in reported speech, where <em>I am tired</em> becomes <em>She said she was tired.</em> The steps are identical but the reason is different: reported speech steps back in time, while an imagined conditional steps back from reality. For an imagined past you will need two steps, which is the work of Rewind Tower.",
+      "To check any sentence, write its Truth receipt: a short line beginning with the word Truth that states the real situation and dates it. For <em>If I had a car</em>, the receipt is: Truth: I don't have a car, now. The Truth is always the opposite of the <em>if</em> half. A real conditional has no receipt, because it denies nothing, and with no receipt there is no step back."
+     ],
+     "examples": [
+      {
+       "s": "If I had a car, I'd drive you home.",
+       "g": "Truth: I don't have a car — now. \"Had\" is \"have\" one step back; \"I'd\" is \"I would\"."
+      },
+      {
+       "s": "If I were a cat, I would sleep all day.",
+       "g": "Truth: I'm not a cat — now. \"Am\" steps back to \"were\", and \"will\" to \"would\"."
+      },
+      {
+       "s": "If Ploy could cook, she'd make us noodles.",
+       "g": "Truth: Ploy can't cook — now. \"Can\" steps back to \"could\"."
+      },
+      {
+       "s": "If it rains, we'll take a taxi.",
+       "g": "Real and open: it may rain. Nothing is denied, so there is no Truth line and no step back."
+      },
+      {
+       "s": "<s>If I have a time machine, I will visit the dinosaurs.</s>",
+       "g": "Fix: If I had a time machine, I would visit the dinosaurs. Truth: I don't have a time machine — now. Both halves must step back."
+      }
+     ]
+    },
+    "C1": {
+     "key": "The past form in an imagined conditional marks distance from reality, not past time: one step back on every verb.",
+     "body": [
+      "Each half of a conditional answers two questions: when is it about, and is it real or imagined? A real, or open, conditional leaves the matter undecided: <em>If it rains, we'll take a taxi.</em> An imagined, or remote, conditional sets up a world the speaker treats as different from the actual one, now or in the future: <em>If I had a car, I'd drive you home.</em> Its school nickname is the second conditional, or type 2. Real or imagined is the speaker's view, never a measured probability.",
+      "English past forms do three jobs. They place an event in past time, they shift tenses in reported speech, and they mark distance from the actual world. In <em>If I had a car</em>, the form shuts out reality, not the present moment, so it combines happily with <em>tomorrow</em>: <em>If we had no school tomorrow, I'd sleep until ten.</em> A past form after <em>if</em> can still be plain past time; the result decides. <em>If it rained, we stayed in</em> has no <em>would</em>, so it reports real past days.",
+      "The change is regular enough to draw as a staircase. From real to imagined, each verb moves one step back: <em>am</em> and <em>is</em> to <em>were</em>, <em>have</em> to <em>had</em>, <em>can</em> to <em>could</em>, <em>will</em> to <em>would</em>, and other verbs to the past simple, as in <em>lived</em>. The stepped-back verb belongs to the <em>if</em> half and <em>would</em> or <em>could</em> to the result. In a plain condition neither <em>will</em> nor <em>would</em> follows <em>if</em>. English has only one past inflection, so an imagined past needs a second step, with <em>had</em>.",
+      "The staircase is the one you know from reported speech, where <em>I am tired</em> becomes <em>She said she was tired.</em> The forms match but the motives differ: reporting steps back in time, away from the moment of speaking, whereas an imagined conditional steps back in reality. Keeping the two reasons apart helps with a common slip, the stray <em>would</em> in the <em>if</em> half, which may be carried over from reported speech.",
+      "A reliable test is the Truth receipt, the hidden line that says what is actually the case, with a date: for <em>If I had a car</em>, Truth: I don't have a car, now. The Truth is the opposite of the <em>if</em> half, and a real conditional has none because it denies nothing. Treat the receipt as a strong tendency. Sometimes a speaker steps back only to sound tentative or polite about something perfectly possible, and then the distance is social, not factual."
+     ],
+     "examples": [
+      {
+       "s": "If I had a car, I'd drive you home.",
+       "g": "Truth: I don't have a car — now. The past form \"had\" marks distance from reality; \"I'd\" is \"I would\"."
+      },
+      {
+       "s": "If I were a cat, I would sleep all day.",
+       "g": "Truth: I'm not a cat — now. \"Am\" becomes \"were\" and \"will\" becomes \"would\": one step each."
+      },
+      {
+       "s": "If Ploy could cook, she'd make us noodles.",
+       "g": "Truth: Ploy can't cook — now. \"Could\" is \"can\" one step back, not past ability."
+      },
+      {
+       "s": "If it rains, we'll take a taxi.",
+       "g": "An open conditional: rain is treated as a live possibility. It denies nothing, so there is no Truth line and no step back."
+      },
+      {
+       "s": "<s>If I have a time machine, I will visit the dinosaurs.</s>",
+       "g": "Fix: If I had a time machine, I would visit the dinosaurs. Truth: I don't have a time machine — now. The present forms would present the machine as a real possibility."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w3l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "Look at that kitten! If I had a cat, I'd share my fish with her."
+      }
+     ],
+     "stem": "What do we know about Fah?",
+     "options": [
+      "She has a cat at home now.",
+      "She had a cat when she was little.",
+      "She doesn't have a cat now.",
+      "She is getting a cat next week."
+     ],
+     "answer": 2,
+     "near": 1,
+     "fb": [
+      "\"If I had\" is a step back from reality, so the real situation is the opposite of this.",
+      "\"Had\" is a past form, but it is not past time here. Fah is talking about now.",
+      "Yes: \"If I had\" means it is not true now. Truth: Fah doesn't have a cat — now.",
+      "Nothing here talks about a plan. The sentence only imagines a different now."
+     ],
+     "hint": "Write the Truth receipt. Is the if half true now?",
+     "why": "\"If I had a cat\" is one step back from reality, so the Truth is the opposite: Fah has no cat now. The past form does not show past time.",
+     "truth": "Fah doesn't have a cat — now."
+    },
+    {
+     "id": "w3l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Mint",
+       "text": "This bus is so slow today. If I lived near school, I would walk there."
+      }
+     ],
+     "stem": "When is Mint's sentence about?",
+     "options": [
+      "The past: she lived near school before.",
+      "Now: she imagines a different present.",
+      "The past: she walked to school last year.",
+      "The future: she has a plan to move house."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "\"Lived\" looks past, but with \"would walk\" it is a step back from reality, not a step back in time.",
+      "Yes: the past form shows distance from reality. Mint is on the bus now, dreaming of a different now.",
+      "Mint is on the bus today, so \"would walk\" is a dream result here, not a memory of last year.",
+      "A real plan keeps the present after if, with will in the result. This is only imagined."
+     ],
+     "hint": "Try a time word in the sentence: yesterday or now? Which one fits?",
+     "why": "Mint is on the bus today and does not live near school. \"Lived\" with \"would walk\" is one step back from reality, so the sentence imagines a different present.",
+     "truth": "Mint doesn't live near school — now."
+    },
+    {
+     "id": "w3l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B1",
+     "stem": "Which sentence tells us that Bam can't swim now?",
+     "options": [
+      "If Bam can swim, she can come to the pool with us.",
+      "If Bam is free on Saturday, she'll come to the pool with us.",
+      "If Bam was at the pool on Sunday, she swam with us.",
+      "If Bam could swim, she'd come to the pool with us."
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "\"Can\" is the real form: the speaker doesn't know and keeps it open. There is no Truth line here.",
+      "This is a real possibility about Saturday. It says nothing about swimming.",
+      "Past plus past with \"on Sunday\" is real past time. Nothing is imagined.",
+      "Yes: \"could\" is \"can\" one step back, with \"she'd\" in the result. Truth: Bam can't swim — now."
+     ],
+     "hint": "Which sentence has a hidden Truth line? Look for a verb one step back plus a dream result.",
+     "why": "Only the sentence with \"could\" and \"she'd\" steps back from reality, so its Truth is that Bam can't swim now. The other three are real possibilities or real past time.",
+     "truth": "Bam can't swim — now."
+    },
+    {
+     "id": "w3l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "stem": "Jane loves comics, but she can't draw well. She says: \"If I ___ draw well, I'd make my own comic.\"",
+     "options": [
+      "can",
+      "will",
+      "could",
+      "would"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "That is the real form. But the Truth is that Jane can't draw well, so take one step back.",
+      "Will is for a real future, and it does not go in the if half.",
+      "Yes: can steps back to could. Truth: Jane can't draw well — now.",
+      "Would belongs in the result half, and it is already there: \"I'd make\"."
+     ],
+     "hint": "Find the real verb in the first sentence. Where does it go on the staircase?",
+     "why": "The Truth is \"Jane can't draw well\", so the if half is imagined. On the staircase, can goes one step back to could.",
+     "truth": "Jane can't draw well — now."
+    },
+    {
+     "id": "w3l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "stem": "Pim has three tests this week, so she has no free time today. She sighs: \"If I ___ free time today, I'd watch the whole series.\"",
+     "options": [
+      "have",
+      "had",
+      "would have",
+      "will have"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The present makes it sound real. But Pim has no free time today, so step back once.",
+      "Yes: have steps back to had. It is about today, not the past. Truth: Pim has no free time — today.",
+      "Would lives in the result half (\"I'd watch\"), not in the if half.",
+      "Will is for a real future, and it does not go in the if half."
+     ],
+     "hint": "Is it true today? If not, how many steps back, and on which verb?",
+     "why": "Pim has no free time today, so the if half is imagined: have goes one step back to had. Will and would do not go in the if half.",
+     "truth": "Pim doesn't have free time — today."
+    },
+    {
+     "id": "w3l1-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Mook",
+       "text": "I've been in this taxi on Sukhumvit Road for forty minutes!"
+      }
+     ],
+     "stem": "[[If I am]] a bird right now, [[I would fly]] over the traffic [[and land]] on the school roof [[before the bell]].",
+     "answer": 0,
+     "fix": "If I were",
+     "fb": [
+      "Yes: Mook is not a bird, so this is imagined. Am steps back to were: If I were a bird.",
+      "This part is fine: would plus the base verb is the dream result.",
+      "This part is fine: \"land\" follows \"would\" too (would fly and land).",
+      "This part is fine: it is only a time phrase."
+     ],
+     "hint": "Is Mook really a bird? Which verb has not stepped back?",
+     "why": "Mook is not a bird, so the if half is imagined and needs one step back: am becomes were. The result \"would fly\" is already correct.",
+     "truth": "Mook is not a bird — now."
+    },
+    {
+     "id": "w3l1-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "stem": "It never snows in Bangkok. But imagine: if it snowed here tomorrow, everyone ___ photos all day.",
+     "options": [
+      "will take",
+      "took",
+      "would take",
+      "is going to take"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Will is the real form. Snow in Bangkok is only imagined, so will takes one step back.",
+      "The result half needs a result word plus the verb. The past simple alone belongs in the if half.",
+      "Yes: will steps back to would. The sentence is about tomorrow, but it is a dream.",
+      "That is a real plan or prediction. This snow is imagined."
+     ],
+     "hint": "Look at \"snowed\" with \"tomorrow\". Real or imagined? Then which result word matches?",
+     "why": "\"Snowed\" with \"tomorrow\" is not past time; it is one step back from reality. The result must step back too, so will becomes would.",
+     "truth": "It won't snow in Bangkok tomorrow."
+    },
+    {
+     "id": "w3l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "stem": "Fern doesn't speak Korean, so she needs subtitles. Complete her dream with the right form of the verb in brackets: \"If I ___ (speak) Korean, I'd understand every word without subtitles.\"",
+     "accept": [
+      "spoke",
+      "could speak",
+      "were able to speak",
+      "was able to speak"
+     ],
+     "model": "spoke",
+     "hint": "Is it true now? Take one step back on the verb.",
+     "why": "Fern doesn't speak Korean now, so the if half is imagined. Speak goes one step back to spoke; the result already has would.",
+     "truth": "Fern doesn't speak Korean — now."
+    }
+   ]
+  },
+  {
+   "id": "w3l2",
+   "name": "Building it: if + past, would / could / might + verb; were; If I were you",
+   "cefr": "B1",
+   "ctype": "2",
+   "gateway": "p.72",
+   "formula": {
+    "if": "If + past simple (were for every person)",
+    "result": "would / could / might + base verb"
+   },
+   "uses": [
+    {
+     "use": "Dreams about a different now",
+     "ex": "If we lived by the sea, we could swim every day."
+    },
+    {
+     "use": "Giving advice",
+     "ex": "If I were you, I'd tell the teacher."
+    },
+    {
+     "use": "Saying what is only possible in the dream",
+     "ex": "If Nan asked her mum, she might say yes."
+    },
+    {
+     "use": "Explaining why you can't do something",
+     "ex": "If I had my phone with me, I could show you the photo."
+    },
+    {
+     "use": "Asking what-if questions",
+     "ex": "What would you do if you had a superpower for a day?"
+    }
+   ],
+   "thai": "สมมติว่า… (suppose…) ก็คง… (would probably…) · ความจริงคือ… (the Truth line)",
+   "levels": {
+    "B1": {
+     "key": "Build an imagined sentence with the past simple after <em>if</em>, and <em>would</em>, <em>could</em> or <em>might</em> plus the base verb in the result.",
+     "body": [
+      "An imagined sentence has two halves. The <em>if</em> half takes the past simple: <em>had, lived, asked</em>. The result half (what happens in the dream) takes <em>would</em> plus the base verb (the verb with no ending). <em>If I had more time, I would learn Korean.</em> In speech, <em>would</em> often shrinks to <em>'d</em>: <em>I'd learn</em>. If the <em>if</em> half comes first, put a comma after it. If the result comes first, you need no comma.",
+      "You can choose from three result words. <em>Would</em> is the sure result in the dream. <em>Could</em> is <em>can</em> one step back. It means would be able to. <em>Might</em> means maybe: the speaker is not sure. So <em>I'd swim</em> is certain, <em>I could swim</em> is about being able, and <em>I might swim</em> is only perhaps. After all three, use the base verb. Say <em>would go</em>, never <em>would went</em> or <em>would to go</em>.",
+      "The verb <em>be</em> is special. In writing, use <em>were</em> for every person: <em>if I were, if she were, if it were</em>. You will hear <em>was</em> when people chat, and that is fine in speech. In tests and essays, write <em>were</em>. One phrase is worth learning by heart: <em>If I were you, I'd</em> and then a verb. It gives advice. The speaker imagines standing in your place and says what she would do.",
+      "Watch for three traps. First, the present in the <em>if</em> half. Check the Truth: if it is not true now, step back. Write <em>if I owned</em>, not <em>if I own</em>. Second, <em>will</em> or <em>can</em> in the result. The halves work as a pair: past in one, <em>would</em>, <em>could</em> or <em>might</em> in the other. Third, <em>would</em> in the <em>if</em> half. <em>Would</em> lives in the result half only."
+     ],
+     "examples": [
+      {
+       "s": "If I had more time, I'd learn Korean.",
+       "g": "Truth: I don't have more time — now. \"I'd\" is \"I would\": the sure result."
+      },
+      {
+       "s": "If we lived by the sea, we could swim every day.",
+       "g": "Truth: we don't live by the sea — now. \"Could\" means we would be able to."
+      },
+      {
+       "s": "If Nan asked her mum, she might say yes.",
+       "g": "Truth: Nan hasn't asked her mum; asking is only an idea. \"Might\" means maybe yes, maybe no."
+      },
+      {
+       "s": "If I were you, I'd tell the teacher.",
+       "g": "Truth: I'm not you. This is advice. Write \"were\", not \"am\"."
+      },
+      {
+       "s": "<s>If I would have a dog, I will walk it every day.</s>",
+       "g": "Fix: If I had a dog, I would walk it every day. Truth: I don't have a dog — now. No \"would\" after \"if\", no \"will\" in the result."
+      }
+     ]
+    },
+    "B2": {
+     "key": "The second conditional pairs the past simple after <em>if</em> with <em>would</em>, <em>could</em> or <em>might</em> plus the base verb in the result.",
+     "body": [
+      "The second conditional has two halves that work as a pair. The <em>if</em> half takes the past simple, and the result half takes <em>would</em>, <em>could</em> or <em>might</em> followed by the base verb: <em>If I had more time, I'd learn Korean.</em> The short form <em>'d</em> before a base verb is <em>would</em>. Either half can come first. When the <em>if</em> half leads, a comma follows it; when the result leads, no comma is needed.",
+      "The three result words are a choice of meaning. <em>Would</em> gives the result the speaker is sure of in her imagined world. <em>Could</em> is <em>can</em> one step back, so it means would be able to. <em>Might</em> means perhaps: the result is possible but not certain. All three are followed by the base verb, with no <em>to</em> and no ending, so <em>would went</em> and <em>could to go</em> are both wrong. The real forms <em>will</em> and <em>can</em> have no place in an imagined result.",
+      "With the verb <em>be</em>, write <em>were</em> for every person: <em>if I were, if she were, if the room were</em>. In conversation many speakers say <em>was</em>, and nobody minds, but <em>were</em> is the form for tests and essays. The fixed phrase <em>If I were you, I'd</em> followed by a verb is the standard way to give advice: the speaker imagines being in your position and says what she would do there.",
+      "Three errors are worth hunting for. The first is a present form in the <em>if</em> half when the Truth receipt shows the situation is not true now: write <em>if I owned</em>, not <em>if I own</em>. The second is <em>will</em> or <em>can</em> in the result after a stepped-back <em>if</em> half; the two halves must match. The third is <em>would</em> inside the <em>if</em> half. <em>Would</em> is the result word and stays there."
+     ],
+     "examples": [
+      {
+       "s": "If I had more time, I'd learn Korean.",
+       "g": "Truth: I don't have more time — now. \"I'd learn\" is \"I would learn\": the result she is sure of."
+      },
+      {
+       "s": "If we lived by the sea, we could swim every day.",
+       "g": "Truth: we don't live by the sea — now. \"Could\" means we would be able to."
+      },
+      {
+       "s": "If Nan asked her mum, she might say yes.",
+       "g": "Truth: Nan hasn't asked her mum; asking is only an idea. \"Might\" means perhaps: the answer is not certain."
+      },
+      {
+       "s": "If I were you, I'd tell the teacher.",
+       "g": "Truth: I'm not you. The fixed advice phrase, with \"were\" for every person."
+      },
+      {
+       "s": "<s>If I would have a dog, I will walk it every day.</s>",
+       "g": "Fix: If I had a dog, I would walk it every day. Truth: I don't have a dog — now. \"Would\" never sits in the if half here, and \"will\" cannot follow a stepped-back if half."
+      }
+     ]
+    },
+    "C1": {
+     "key": "A remote conditional pairs a past simple condition with a stepped-back modal, <em>would</em>, <em>could</em> or <em>might</em>, plus the base verb.",
+     "body": [
+      "The second conditional is built as a matched pair. The condition takes the past simple, and the result takes a stepped-back modal, <em>would</em>, <em>could</em> or <em>might</em>, with the base verb: <em>If I had more time, I'd learn Korean.</em> Before a base verb, <em>'d</em> is always <em>would</em>. The halves can come in either order. By convention a comma follows a condition that comes first, and none is used when the result leads.",
+      "The modal is chosen for its meaning, because each keeps its own sense one step back. <em>Would</em> presents the result as certain inside the imagined world, or as what the speaker would choose. <em>Could</em> is remote <em>can</em>: would be able to, or would be possible. <em>Might</em> is remote <em>may</em>: perhaps. Each takes the bare base verb. The present forms <em>will</em>, <em>can</em> and <em>may</em> do not appear in an imagined result, and for obligation English says <em>would have to</em>.",
+      "For <em>be</em>, careful writing uses <em>were</em> with every subject: <em>if I were, if she were</em>. <em>Was</em> is normal in everyday speech and is not a mistake there, but <em>were</em> is the safe choice in exams. When the past is real, <em>was</em> is the only choice: <em>If I was rude last night, I'm sorry.</em> <em>If I were you, I'd</em> plus a verb is the set formula for advice, and speakers often drop the condition and keep only <em>I'd</em>.",
+      "Three errors follow from how learners build the pair. A present form in the condition treats an untrue situation as open, so check the Truth receipt first: <em>if I owned</em>, not <em>if I own</em>. <em>Will</em> or <em>can</em> after a remote condition mixes two worlds, since both halves must step back. And <em>would</em> in the condition copies the result word into the wrong half. It is correct there only in a few special uses, such as a polite request for willingness, which belong to Formal Citadel."
+     ],
+     "examples": [
+      {
+       "s": "If I had more time, I'd learn Korean.",
+       "g": "Truth: I don't have more time — now. \"Would\" presents learning Korean as the certain result in the imagined world."
+      },
+      {
+       "s": "If we lived by the sea, we could swim every day.",
+       "g": "Truth: we don't live by the sea — now. \"Could\" is remote \"can\": we would be able to."
+      },
+      {
+       "s": "If Nan asked her mum, she might say yes.",
+       "g": "Truth: Nan hasn't asked her mum; asking is only an idea. \"Might\" is remote \"may\": the answer is only possible."
+      },
+      {
+       "s": "If I were you, I'd tell the teacher.",
+       "g": "Truth: I'm not you. The set advice formula; the condition is often dropped: \"I'd tell the teacher.\""
+      },
+      {
+       "s": "<s>If I would have a dog, I will walk it every day.</s>",
+       "g": "Fix: If I had a dog, I would walk it every day. Truth: I don't have a dog — now. \"Would\" has been copied into the condition, and \"will\" belongs to a real future."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w3l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Nan",
+       "text": "I always take the songthaew to school. If I had a bike, I might cycle instead."
+      }
+     ],
+     "stem": "How sure is Nan about cycling to school?",
+     "options": [
+      "Sure: she would cycle every single day.",
+      "Not sure: maybe she would, maybe not.",
+      "She cycles now, but only on some days.",
+      "She cycled in the past, then stopped."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "That would need \"would\". Nan chose a weaker result word.",
+      "Yes: \"might\" means maybe. In her dream, cycling is possible, not certain.",
+      "\"If I had a bike\" is a step back from reality: she has no bike now, so she doesn't cycle.",
+      "The past form here is not past time. Nan is imagining a different now."
+     ],
+     "hint": "Look at the result word. What does that one tell you about how certain she is?",
+     "why": "\"Might\" means maybe. Nan imagines having a bike and says cycling is possible, not certain. She has no bike now.",
+     "truth": "Nan doesn't have a bike — now."
+    },
+    {
+     "id": "w3l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "I've got a bad cough, and badminton practice is tonight."
+      },
+      {
+       "who": "Jane",
+       "text": "If I were you, I'd rest tonight."
+      }
+     ],
+     "stem": "What is Jane doing?",
+     "options": [
+      "Promising to rest tonight.",
+      "Saying she wants to be Pim.",
+      "Describing a time she was ill.",
+      "Giving Pim some advice."
+     ],
+     "answer": 3,
+     "near": 1,
+     "fb": [
+      "A promise would use will. \"I'd rest\" is what Jane would do in Pim's place.",
+      "Nobody wants to swap places. She only imagines Pim's situation to say what is best.",
+      "\"Were\" is not past time here. It is one step back from reality: Jane isn't Pim.",
+      "Yes: \"If I were you, I'd\" plus a verb is the fixed phrase for advice."
+     ],
+     "hint": "Jane isn't Pim. So why does she imagine being in Pim's place?",
+     "why": "\"If I were you, I'd\" plus a verb is the fixed way to give advice. Jane imagines being in Pim's place and says what she would do: rest.",
+     "truth": "Jane is not Pim."
+    },
+    {
+     "id": "w3l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Mook's phone has no storage left, so she can't download the new blocky game. Which sentence says this as a dream?",
+     "options": [
+      "If Mook's phone has more storage, she can download the game.",
+      "If Mook's phone had more storage, she could download the game.",
+      "If Mook's phone had more storage, she couldn't download the game.",
+      "If Mook downloaded the game, her phone could have more storage."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "This is the real form: it keeps the question open. But we know the Truth: there is no storage left.",
+      "Yes: had and could are both one step back. Could means she would be able to.",
+      "The forms have stepped back, but the meaning is upside down: more storage would make it possible.",
+      "The two halves have changed places, so the meaning is different."
+     ],
+     "hint": "Write the Truth first. Then check both halves: has each verb stepped back, and is the meaning the same?",
+     "why": "The Truth is \"no storage, so she can't\". The dream turns both halves round and steps back: had more storage, could download. Could means would be able to.",
+     "truth": "Mook's phone doesn't have enough storage — now."
+    },
+    {
+     "id": "w3l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "stem": "Fern asks what time the school fair starts, but Bam has no idea. Bam: \"Sorry! If I ___ the time, I'd tell you.\"",
+     "options": [
+      "know",
+      "would know",
+      "knew",
+      "will know"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "The present makes it sound real. But Bam has no idea, so the if half steps back.",
+      "Would lives in the result half (\"I'd tell\"), not in the if half.",
+      "Yes: the past simple after if. Truth: Bam doesn't know the time — now.",
+      "Will is for a real future, and it does not go in the if half."
+     ],
+     "hint": "Is it true now? And which half are you filling: the if half or the result?",
+     "why": "Bam doesn't know the time now, so the if half is imagined and takes the past simple. Would stays in the result half.",
+     "truth": "Bam doesn't know the time — now."
+    },
+    {
+     "id": "w3l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "lines": [
+      {
+       "who": "Fern",
+       "text": "I can't decide. The blue hoodie or the grey one?"
+      }
+     ],
+     "stem": "Mint: \"If I were you, I ___ the blue one. It goes with everything.\"",
+     "options": [
+      "will choose",
+      "would chose",
+      "am going to choose",
+      "would choose"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "\"If I were\" is the stepped-back half, so the result must step back too.",
+      "Right result word, wrong verb form. After it, use the base verb, with no past ending.",
+      "That is a real plan. Mint isn't Fern, so this is imagined advice.",
+      "Yes: \"If I were you\" pairs with would plus the base verb."
+     ],
+     "hint": "The if half has stepped back. What must the result half do? And which verb form follows?",
+     "why": "\"If I were you\" is imagined, so the result needs would plus the base verb. Will is the real form, and \"chose\" is a past form.",
+     "truth": "Mint is not Fern."
+    },
+    {
+     "id": "w3l2-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "stem": "My aunt [[lives]] in Chiang Mai. If she [[would live]] in Bangkok, I [[would visit]] her [[every weekend]].",
+     "answer": 1,
+     "fix": "lived",
+     "fb": [
+      "This part is fine: it is the real fact, in the present.",
+      "Yes: would does not go in the if half. The if half takes the past simple: lived.",
+      "This part is fine: would plus the base verb is the dream result.",
+      "This part is fine: it only says how often."
+     ],
+     "hint": "Find the if half. Which word belongs only in the result half?",
+     "why": "The if half of an imagined sentence takes the past simple, so it should be \"lived\". Would belongs only in the result half.",
+     "truth": "My aunt doesn't live in Bangkok — now."
+    },
+    {
+     "id": "w3l2-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B1",
+     "stem": "Praew has hurt her wrist, so she can't play badminton this week. If her wrist were fine, she ___ in Friday's match.",
+     "options": [
+      "can play",
+      "could play",
+      "could played",
+      "could to play"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Can is the real form. \"Were\" shows this is imagined, so can takes one step back.",
+      "Yes: can steps back to could, then the base verb. She would be able to play.",
+      "After a result word, the verb has no ending: no past form here.",
+      "No \"to\" after would, could or might: just the base verb."
+     ],
+     "hint": "The Truth says \"can't\". Real or imagined, then? And what form follows a result word?",
+     "why": "\"Were\" shows the if half is imagined, so can steps back to could. After could, use the base verb with no \"to\" and no ending.",
+     "truth": "Praew's wrist isn't fine — this week."
+    },
+    {
+     "id": "w3l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "given": "My advice is to ask the teacher about it.",
+     "keyword": "WERE",
+     "stem": "If ___ ask the teacher about it.",
+     "accept": [
+      "I were you, I would",
+      "I were you I would",
+      "I were you, I'd",
+      "I were you I'd",
+      "I were you, I should",
+      "I were you I should"
+     ],
+     "model": "I were you, I would",
+     "hint": "Which fixed phrase gives advice? Then add the result word.",
+     "why": "The fixed advice phrase is \"If I were you, I would\" plus the base verb: were for every person, then would in the result.",
+     "truth": "I am not you."
+    }
+   ]
+  },
+  {
+   "id": "w3l3",
+   "name": "First or second? Dreams, advice, unlikely futures and polite distance",
+   "cefr": "B2",
+   "ctype": "2",
+   "gateway": "p.72",
+   "formula": {
+    "if": "Planning: If + present  |  Dreaming: If + past",
+    "result": "Planning: will + verb  |  Dreaming: would + verb"
+   },
+   "uses": [
+    {
+     "use": "Dreams",
+     "ex": "If I had a superpower, I'd stop the rain before PE."
+    },
+    {
+     "use": "Advice",
+     "ex": "If I were you, I'd message her tonight."
+    },
+    {
+     "use": "A future the speaker sees as unlikely",
+     "ex": "If our school moved to Chiang Mai, I'd miss the BTS."
+    },
+    {
+     "use": "What-if questions",
+     "ex": "What would you do if you found a wallet outside 7-Eleven?"
+    },
+    {
+     "use": "Polite requests",
+     "ex": "Would it be OK if I came a little later tomorrow?"
+    },
+    {
+     "use": "Gentle suggestions",
+     "ex": "If we met at five, would that work for you?"
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "First or second is the speaker's view: the first conditional is planning, the second is dreaming or keeping a polite distance.",
+     "body": [
+      "The first and second conditional can describe the same event. The difference is the speaker's view. In the first conditional she is planning: she sees a real chance. <em>If I win the art prize, I'll buy new paints.</em> In the second she is dreaming: she steps back from it. <em>If I won the art prize, I'd buy new paints.</em> Both sentences are about the future. It is not about numbers, and nobody counts a percentage. The speaker chooses how she sees it.",
+      "So read the situation. Has she entered? Is she packing, practising or making plans? Then she is planning. Use the present after <em>if</em>, and <em>will</em> in the result. Is it untrue now, or only a daydream? Then step back. Use the past after <em>if</em>, and <em>would</em> in the result. Keep each pair together. Do not mix a past <em>if</em> half with <em>will</em>. Do not put <em>will</em> or <em>would</em> in the <em>if</em> half.",
+      "People use the second conditional for four jobs. The first is dreams: a superpower, a pet you don't have, life in another city. The second is advice: <em>If I were you, I'd ask again.</em> The third is a future the speaker thinks is unlikely, or a what-if question: <em>What would you do if you found a wallet?</em>",
+      "The fourth job is polite distance. A step back from reality is also a step back from the listener. It sounds softer and less pushy. <em>Would it be OK if I came a little later tomorrow?</em> Here <em>came</em> is not past time, and it does not mean impossible. It only makes the question gentle. Use it with teachers, neighbours and anyone you want to be careful with. You can suggest an idea gently too: <em>If we met at five, would that work?</em>"
+     ],
+     "examples": [
+      {
+       "s": "If I win the art prize, I'll buy new paints.",
+       "g": "Planning: she thinks she has a real chance. No Truth line."
+      },
+      {
+       "s": "If I won the art prize, I'd buy new paints.",
+       "g": "Dreaming: same prize, same future. Truth: she doesn't expect to win."
+      },
+      {
+       "s": "What would you do if you found a wallet outside 7-Eleven?",
+       "g": "A what-if question. Truth: you haven't found a wallet — it is only imagined."
+      },
+      {
+       "s": "Would it be OK if I came a little later tomorrow?",
+       "g": "A polite request. \"Came\" is not past time: she means tomorrow. Truth: she hasn't come late; she is asking gently."
+      },
+      {
+       "s": "<s>If I had a superpower, I will stop the rain.</s>",
+       "g": "Fix: If I had a superpower, I would stop the rain. Truth: I don't have a superpower — now. A past if half goes with \"would\"."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Choosing first or second shows how the speaker sees the event: as a real plan, or as a dream, an unlikely future or a polite, careful idea.",
+     "body": [
+      "The first and second conditional can describe exactly the same event; what changes is the speaker's view of it. With the first she is planning, because she sees a real chance: <em>If I win the art prize, I'll buy new paints.</em> With the second she steps back and dreams: <em>If I won the art prize, I'd buy new paints.</em> Both sentences are about the future. Neither is a percentage. A speaker can feel hopeful on Monday and dreamy on Tuesday about the same contest.",
+      "To choose, read the situation for the speaker's attitude. If she has entered, is preparing or is making arrangements, she is treating it as real: present after <em>if</em>, <em>will</em> in the result. If the situation is untrue now, or she is only daydreaming, she steps back: past after <em>if</em>, <em>would</em> in the result. The halves travel in pairs, so a past <em>if</em> half with <em>will</em> is a mismatch, and neither <em>will</em> nor <em>would</em> belongs in a plain <em>if</em> half.",
+      "The second conditional does four jobs in real life. It carries dreams, such as a superpower, a pet you don't have or life in another city. It gives advice: <em>If I were you, I'd ask again.</em> It talks about futures the speaker regards as unlikely, and asks what-if questions: <em>What would you do if you found a wallet?</em>",
+      "Its fourth job is polite distance. Stepping back from reality also steps back from the listener, so a request sounds softer and less demanding: <em>Would it be OK if I came a little later tomorrow?</em> The past form here is neither past time nor a sign that the thing is impossible; it simply makes the request gentle. The same move makes a tentative suggestion: <em>If we met at five, would that work?</em> It suits teachers, neighbours and anyone you want to be careful with."
+     ],
+     "examples": [
+      {
+       "s": "If I win the art prize, I'll buy new paints.",
+       "g": "Planning: she treats winning as a real chance. Nothing is denied, so there is no Truth line."
+      },
+      {
+       "s": "If I won the art prize, I'd buy new paints.",
+       "g": "Dreaming: the same prize and the same future, seen from one step back. Truth: she doesn't expect to win."
+      },
+      {
+       "s": "What would you do if you found a wallet outside 7-Eleven?",
+       "g": "A what-if question. Truth: you haven't found a wallet — the situation is only imagined."
+      },
+      {
+       "s": "Would it be OK if I came a little later tomorrow?",
+       "g": "A polite request about tomorrow. \"Came\" adds distance, not past time. Truth: she hasn't come late; she is asking gently."
+      },
+      {
+       "s": "<s>If I had a superpower, I will stop the rain.</s>",
+       "g": "Fix: If I had a superpower, I would stop the rain. Truth: I don't have a superpower — now. A stepped-back if half needs a stepped-back result."
+      }
+     ]
+    },
+    "C1": {
+     "key": "First versus second is a choice of stance, not of probability: the speaker either keeps the possibility open or steps back from it to dream, doubt or be polite.",
+     "body": [
+      "The first and second conditional do not divide events into likely and unlikely ones. They show the stance the speaker takes. The open form treats the condition as a live possibility to plan around: <em>If I win the art prize, I'll buy new paints.</em> The remote form steps back from it: <em>If I won the art prize, I'd buy new paints.</em> Both refer to the future. The remote form does not say the event is impossible, and no percentage separates the two.",
+      "The context usually reveals the stance. Someone who has entered, is preparing or is making arrangements is treating the event as real, so the condition takes a present form and the result takes <em>will</em>. Someone describing a situation that is untrue now, or merely daydreaming, steps back: past in the condition, <em>would</em> in the result. The two halves must agree. A remote condition followed by <em>will</em> mixes two worlds, and in a plain condition neither <em>will</em> nor <em>would</em> follows <em>if</em>.",
+      "In use, the remote form does four kinds of work. It expresses dreams, such as a superpower, a pet you don't have or life in another city. It gives advice through an imagined change of places: <em>If I were you, I'd ask again.</em> It discusses futures the speaker regards as unlikely and poses hypothetical questions: <em>What would you do if you found a wallet?</em>",
+      "The fourth is social. Distance from reality doubles as distance from the listener, so the remote form softens a request: <em>Would it be OK if I came a little later tomorrow?</em> <em>Came</em> is not past time and nothing is impossible; the speaker simply avoids assuming the answer is yes. The same form floats a tentative suggestion: <em>If we met at five, would that work?</em> In casual speech a present form is also heard after <em>Would it be OK if</em>, but the past form is the careful choice."
+     ],
+     "examples": [
+      {
+       "s": "If I win the art prize, I'll buy new paints.",
+       "g": "Open stance: winning is treated as a live possibility. Nothing is denied, so there is no Truth line."
+      },
+      {
+       "s": "If I won the art prize, I'd buy new paints.",
+       "g": "Remote stance: the same prize and the same future, held at one step's distance. Truth: she doesn't expect to win."
+      },
+      {
+       "s": "What would you do if you found a wallet outside 7-Eleven?",
+       "g": "A hypothetical question. Truth: you haven't found a wallet — the situation is only imagined."
+      },
+      {
+       "s": "Would it be OK if I came a little later tomorrow?",
+       "g": "Social distance, not past time: the request is about tomorrow. Truth: she hasn't come late; nothing is denied, the form is only gentle."
+      },
+      {
+       "s": "<s>If I had a superpower, I will stop the rain.</s>",
+       "g": "Fix: If I had a superpower, I would stop the rain. Truth: I don't have a superpower — now. A remote condition followed by \"will\" mixes two worlds."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w3l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Mook",
+       "text": "If I win, I'll buy everyone bubble tea."
+      },
+      {
+       "who": "Pim",
+       "text": "If I won, I'd buy everyone bubble tea."
+      }
+     ],
+     "stem": "Mook and Pim are both in Friday's singing contest. What is the difference between their sentences?",
+     "options": [
+      "Mook is talking about Friday; Pim is talking about a past contest.",
+      "Mook is 100% sure of winning; Pim thinks it is exactly 50%.",
+      "Mook sees a real chance of winning; Pim is only dreaming about it.",
+      "Mook will buy the bubble tea; Pim has already bought it."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "\"Won\" is a past form, but not past time. Both girls are talking about Friday.",
+      "The choice is not a number. It shows how each girl sees the same contest.",
+      "Yes: present plus will is planning; past plus would is one step back, a dream.",
+      "\"I'd buy\" is an imagined result, not something that has happened."
+     ],
+     "hint": "Same event, same day. So what changes: the time, or how each girl sees it?",
+     "why": "Both sentences are about Friday. Present plus will shows Mook planning for a real chance; past plus would shows Pim stepping back to dream. It is a view, not a percentage.",
+     "truth": "Pim doesn't expect to win; for her it is only a dream."
+    },
+    {
+     "id": "w3l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "2",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "Would it be OK if I handed in my project on Monday?"
+      }
+     ],
+     "stem": "Fah is talking to her teacher. Why does she say \"handed\", a past form?",
+     "options": [
+      "Because she handed it in last Monday.",
+      "To sound polite and not too direct.",
+      "Because handing it in is impossible.",
+      "Because she has decided not to do it."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The past form is not past time here. She is asking about next Monday.",
+      "Yes: one step back adds polite distance. It makes the request softer.",
+      "A step back does not mean impossible. She really hopes the teacher says yes.",
+      "She wants to hand it in on Monday. She is only asking in a careful way."
+     ],
+     "hint": "Is Monday in the past here? And who is she talking to?",
+     "why": "The past form here is not past time. One step back makes the request softer and more polite, which suits a student asking a teacher.",
+     "truth": "Fah hasn't handed it in; she means next Monday and is asking gently."
+    },
+    {
+     "id": "w3l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "1",
+     "cefr": "B2",
+     "stem": "Nan's mum has said yes to a beach day on Sunday if the weather is good, and Nan is already packing her bag. Which sentence fits how Nan sees it?",
+     "options": [
+      "If the weather were good, we'd go to the beach.",
+      "If the weather was good, we went to the beach.",
+      "If the weather is good, we'll go to the beach.",
+      "If the weather had been good, we'd have gone to the beach."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "That is the dreaming form. But Nan is packing: for her this is a real plan.",
+      "Past plus past is about real past days, not this Sunday.",
+      "Yes: a real plan for Sunday. Present after if, will in the result, and no Truth line.",
+      "That looks back at a Sunday that is already over. This one hasn't come yet."
+     ],
+     "hint": "Is Nan planning or dreaming? Look at what she is doing right now.",
+     "why": "Mum has agreed and Nan is packing, so she sees a real possibility: present after if, will in the result. Nothing is untrue, so there is no step back."
+    },
+    {
+     "id": "w3l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Bam has never entered a contest and doesn't plan to. Still, she likes to dream: \"If I ___ a trip to Japan one day, I'd take my grandma with me.\"",
+     "options": [
+      "win",
+      "won",
+      "will win",
+      "would win"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "The present is for planning. Bam is only dreaming, and the result \"I'd take\" has stepped back.",
+      "Yes: a dream takes the past after if, to match \"I'd take\". It is not past time.",
+      "Will does not go in the if half, and this is not a real plan.",
+      "Would is the result word. It is already there: \"I'd take\"."
+     ],
+     "hint": "Planning or dreaming? Check the result half too: which pair does it belong to?",
+     "why": "Bam is only dreaming, and the result has would, so the if half takes the past simple. Will and would do not go in the if half.",
+     "truth": "Bam isn't in any contest; winning a trip is only a dream."
+    },
+    {
+     "id": "w3l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Jane",
+       "text": "My scholarship interview is tomorrow at nine. I've practised all week."
+      }
+     ],
+     "stem": "Her teacher: \"Good. If you ___ calm tomorrow, you'll do well.\"",
+     "options": [
+      "will stay",
+      "stayed",
+      "would stay",
+      "stay"
+     ],
+     "answer": 3,
+     "near": 1,
+     "fb": [
+      "Will makes the promise in the result half. After if, use the present, even for tomorrow.",
+      "A step back would make it a dream. But the interview is real, and the result says \"you'll\".",
+      "Would goes with dreams, and it does not go in a plain if half.",
+      "Yes: a real possibility about tomorrow takes the present after if."
+     ],
+     "hint": "Is the interview real or imagined? Which pair does \"you'll\" belong to?",
+     "why": "The interview is a real plan and the result has will, so the if half takes the present simple, even though it is about tomorrow."
+    },
+    {
+     "id": "w3l3-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "I [[don't have]] a ticket for Saturday's concert, but if I [[had]] one, I [[will take]] you [[with me]].",
+     "answer": 2,
+     "fix": "would take",
+     "fb": [
+      "This part is fine: it is the Truth, in the present.",
+      "This part is fine: have steps back to had in the if half.",
+      "Yes: a stepped-back if half needs a stepped-back result: would take, not will take.",
+      "This part is fine: it only completes the result."
+     ],
+     "hint": "The speaker tells you the Truth first. Do both halves of the dream step back?",
+     "why": "The speaker has no ticket, so the sentence is imagined. \"Had\" has stepped back, and the result must match it: would take.",
+     "truth": "The speaker doesn't have a ticket — now."
+    },
+    {
+     "id": "w3l3-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "1",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fah",
+       "text": "Are you going to the school fair on Saturday?"
+      }
+     ],
+     "stem": "Nan: \"Definitely, I've already got my ticket. If I see the candyfloss stall, I ___ you some.\"",
+     "options": [
+      "'d get",
+      "'ll get",
+      "got",
+      "would got"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "That is the dreaming result. But Nan has her ticket, and the if half is in the present: \"If I see\".",
+      "Yes: a real plan. Present after if, will in the result. It is a promise.",
+      "The result of a real plan needs will plus the verb, not a past form.",
+      "Would is the dream word, and the verb after it never has a past ending."
+     ],
+     "hint": "Planning or dreaming? Look at the verb after \"if\" to see which pair this is.",
+     "why": "Nan is definitely going, and \"If I see\" is in the present, so this is a real plan. The matching result is will plus the base verb."
+    },
+    {
+     "id": "w3l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "2",
+     "cefr": "B2",
+     "stem": "Praew wants to sound as polite and careful as she can with her coach. Complete her request with the most careful form of the verb in brackets: \"Would it be all right if I ___ (bring) my little sister to practice on Sunday?\"",
+     "accept": [
+      "brought"
+     ],
+     "model": "brought",
+     "hint": "This is a careful request. How does English add polite distance to the verb?",
+     "why": "After \"Would it be all right if\", the past form is the careful choice: it adds polite distance. It is not past time, because Praew means next Sunday.",
+     "truth": "Praew hasn't brought her sister; the past form only makes the request gentle."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w3g",
+  "items": [
+   {
+    "id": "w3g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "2",
+    "cefr": "B1",
+    "lines": [
+     {
+      "who": "Jane",
+      "text": "I share a room with my two sisters. If I had my own room, I'd paint it green."
+     }
+    ],
+    "stem": "Which Truth receipt is right?",
+    "options": [
+     "Truth: Jane had her own room — last year.",
+     "Truth: Jane will get her own room — soon.",
+     "Truth: Jane painted her room green — yesterday.",
+     "Truth: Jane doesn't have her own room — now."
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "\"Had\" is a past form, but not past time. She shares a room now.",
+     "Nothing is planned here. The sentence only imagines a different now.",
+     "\"I'd paint\" is a dream result, not something she did.",
+     "Yes: the Truth is the opposite of the if half, and its date is now."
+    ],
+    "hint": "The Truth is the opposite of the if half. What date goes on it?",
+    "why": "\"If I had my own room\" is one step back from reality, not past time. So the Truth is the opposite, dated now: Jane doesn't have her own room.",
+    "truth": "Jane doesn't have her own room — now."
+   },
+   {
+    "id": "w3g-2",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "1",
+    "cefr": "B2",
+    "stem": "Fern has sent in her form for a summer art scholarship. She thinks she has a real chance and is already making plans. Which sentence fits how she sees it?",
+    "options": [
+     "If I got the scholarship, I'd study in Chiang Mai.",
+     "If I get the scholarship, I'll study in Chiang Mai.",
+     "When I got the scholarship, I studied in Chiang Mai.",
+     "If I had the scholarship, I'd be in Chiang Mai now."
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "That is the dreaming form: one step back. But Fern sees a real chance and is planning.",
+     "Yes: planning. Present after if, will in the result, and no Truth line.",
+     "That is real past time. Fern is still waiting for the result.",
+     "That imagines a different now. Fern is looking ahead to a real possibility."
+    ],
+    "hint": "Is Fern planning or dreaming? What does the situation tell you about her view?",
+    "why": "Fern sees a real chance and is planning, so she keeps it real: present after if, will in the result. The past form would turn it into a dream."
+   },
+   {
+    "id": "w3g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "2",
+    "cefr": "B1",
+    "lines": [
+     {
+      "who": "Mint",
+      "text": "Our kitchen is tiny. If we had a bigger kitchen, we could bake together."
+     }
+    ],
+    "stem": "What does \"could bake\" mean here?",
+    "options": [
+     "We would be able to bake.",
+     "We were able to bake before.",
+     "We are allowed to bake now.",
+     "We would have to bake."
+    ],
+    "answer": 0,
+    "near": 1,
+    "fb": [
+     "Yes: could is can one step back. In the dream kitchen, baking together is possible.",
+     "Could is not past time here. The kitchen is tiny now, and this is a dream.",
+     "That would be the real form, can. And the tiny kitchen stops them now.",
+     "Could is about being able, not about a duty."
+    ],
+    "hint": "Is this result word about past time, or one step back from reality? Step back from which verb?",
+    "why": "In an imagined result, could is can one step back: it means would be able to. It is not about the past, because the kitchen is small now.",
+    "truth": "Mint's kitchen isn't big — now."
+   },
+   {
+    "id": "w3g-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "2",
+    "cefr": "B1",
+    "stem": "Our classroom is on the fifth floor and, sadly, the lift is always full. If our classroom ___ on the ground floor, I'd never be late.",
+    "options": [
+     "is",
+     "were",
+     "will be",
+     "would be"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "The present makes it sound real. But the classroom is on the fifth floor, so step back.",
+     "Yes: is steps back to were. Truth: the classroom isn't on the ground floor — now.",
+     "Will is for a real future, and it does not go in the if half.",
+     "Would lives in the result half (\"I'd never be\"), not in the if half."
+    ],
+    "hint": "Is it true now? And which half is the gap in?",
+    "why": "The classroom is really on the fifth floor, so the if half is imagined: is steps back to were. Will and would do not go in the if half.",
+    "truth": "The classroom isn't on the ground floor — now."
+   },
+   {
+    "id": "w3g-5",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "2",
+    "cefr": "B2",
+    "stem": "I'm a beginner at chess and I hardly ever practise. But if I practised every day, I ___ you one day. Who knows?",
+    "options": [
+     "will beat",
+     "can beat",
+     "might beats",
+     "might beat"
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "Will is the real form. \"Practised\" has stepped back, so the result must step back too.",
+     "Can is a real form. In an imagined result it takes one step back.",
+     "The result word fits, but the verb after it has no ending.",
+     "Yes: might plus the base verb. It means maybe, which fits \"Who knows?\""
+    ],
+    "hint": "Has the if half stepped back? Then check the result word and the verb form after it.",
+    "why": "\"Practised\" is one step back, so the result needs a stepped-back word plus the base verb. Might means maybe, which fits \"Who knows?\"",
+    "truth": "The speaker doesn't practise every day — now."
+   },
+   {
+    "id": "w3g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "2",
+    "cefr": "B2",
+    "stem": "Bam asks her teacher politely: \"I have a dentist's appointment tomorrow. Would it be all right if I ___ the test on Friday instead?\"",
+    "options": [
+     "will take",
+     "took",
+     "would take",
+     "taking"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "Will does not go in the if half, even though Friday is in the future.",
+     "Yes: the past form adds polite distance. It is not past time: she means Friday.",
+     "Would is already at the front of the question. It does not go in the if half as well.",
+     "The if half needs a full verb form, not an -ing form alone."
+    ],
+    "hint": "This is a careful request about the future. Which form adds polite distance after \"if\"?",
+    "why": "After \"Would it be all right if\", the past simple adds polite distance. Friday is in the future; will and would do not go in the if half.",
+    "truth": "Bam hasn't taken the test; the past form only makes the request gentle."
+   },
+   {
+    "id": "w3g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "2",
+    "cefr": "B1",
+    "stem": "[[Sadly]], I can't speak Japanese. If I [[can]] speak it, I [[would watch]] anime [[without subtitles]].",
+    "answer": 1,
+    "fix": "could",
+    "fb": [
+     "This part is fine: it only shows the speaker's feeling about the Truth.",
+     "Yes: the Truth is \"I can't\", so the if half is imagined. Can steps back to could.",
+     "This part is fine: would plus the base verb is the dream result.",
+     "This part is fine: it only completes the result."
+    ],
+    "hint": "The first sentence is the Truth. Which verb in the dream has not stepped back?",
+    "why": "The speaker can't speak Japanese, so the if half is imagined: can steps back to could. The result \"would watch\" is already right.",
+    "truth": "The speaker can't speak Japanese — now."
+   },
+   {
+    "id": "w3g-8",
+    "type": "type",
+    "skill": "form",
+    "ctype": "2",
+    "cefr": "B1",
+    "given": "We don't have a garden, so we can't grow strawberries.",
+    "stem": "If we ___ a garden, we could grow strawberries.",
+    "accept": [
+     "had"
+    ],
+    "model": "had",
+    "hint": "Find the real verb in the first sentence. Take it one step back.",
+    "why": "The Truth is \"we don't have a garden\", so the dream steps back once: have becomes had. The result already has could.",
+    "truth": "We don't have a garden — now."
+   }
+  ]
+ }
+}

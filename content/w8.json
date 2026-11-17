@@ -1,0 +1,1293 @@
+{
+ "world": "w8",
+ "lessons": [
+  {
+   "id": "w8l1",
+   "name": "Inversion: Should you…, Were I… / Were it to…, Had I known…",
+   "cefr": "C1",
+   "ctype": "formal",
+   "formula": {
+    "if": "Should you… / Were I… / Were it to… / Had I + V3… (no if)",
+    "result": "after Should: will / can / imperative; after Were: would / could / might + verb; after Had: would / could / might have + V3"
+   },
+   "uses": [
+    {
+     "use": "A polite offer in a formal email",
+     "ex": "Should you have any questions, please contact the school office."
+    },
+    {
+     "use": "An instruction on a notice",
+     "ex": "Should the lift be out of order, please use the stairs by the library."
+    },
+    {
+     "use": "A proposal in an essay",
+     "ex": "Were lessons to start an hour later, students would arrive more awake."
+    },
+    {
+     "use": "Formal advice",
+     "ex": "Were I in your position, I would ask for a few more days."
+    },
+    {
+     "use": "Explaining politely what went wrong",
+     "ex": "Had I known you were ill, I would have brought your homework round."
+    },
+    {
+     "use": "Thanking someone",
+     "ex": "Had you not reminded me, I would have missed the deadline."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "In formal writing, should, were or had can move to the front and do the job of if.",
+     "body": [
+      "In formal (serious, official) writing, English can make a condition without the word if. A helping verb moves to the front, before the subject (the person or thing doing the action). This move is called inversion. It means the same as an if-sentence. It only sounds more formal.",
+      "Only three verbs can do this: should, were and had. <b>Should you need</b> help means if you need help. It is real and possible, and very polite. Here should is not advice. <b>Were I</b> you, or <b>were it to</b> rain, means if I were you, or if it rained. That is imagined, about now or the future. <b>Had I known</b> means if I had known. That is an imagined past. No other verb can start a condition like this.",
+      "The result (what happens) does not change. After should, use will, can or an order, such as please call me. After were, use would, could or might. After had, use would have, could have or might have, plus the past participle (V3). After should, the verb stays in its base form. Say should it rain, never <s>should it rains</s>.",
+      "Three rules keep it correct. One: never put if in the same clause. Say had I known, not <s>if had I known</s>. Two: use were, never was. Say were I to choose. Three: in a negative, not comes after the subject and stays a full word. Write had she not left, never <s>hadn't she left</s>.",
+      "Always put a comma after the inverted part. Use this form in letters, emails to teachers, notices and essays. Use it once in a paragraph at most. With friends, plain if sounds more natural."
+     ],
+     "examples": [
+      {
+       "s": "Should you need a new library card, please ask at the front desk.",
+       "g": "Means: if you need a new card. Real and possible, so there is no Truth line. Polite and formal."
+      },
+      {
+       "s": "Were the school to add a Saturday class, few students would be pleased.",
+       "g": "Means: if the school added a Saturday class. Truth: there is no Saturday class and no plan for one, now."
+      },
+      {
+       "s": "Had I known about the road works, I would have taken the MRT.",
+       "g": "Means: if I had known. Truth: I didn't know about the road works back then, so I didn't take the MRT."
+      },
+      {
+       "s": "Had she not set two alarms, she would have missed her flight.",
+       "g": "Not comes after the subject as a full word. Truth: she set two alarms and caught her flight."
+      },
+      {
+       "s": "<s>If had I known, I would have called.</s>",
+       "g": "Wrong: if and inversion together. Say: Had I known, I would have called. Or: If I had known, I would have called. Truth: I didn't know, back then."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Formal English can drop if and put should, were or had before the subject, with the same meaning as the if-sentence.",
+     "body": [
+      "Formal English has a second way to build a condition. Instead of using if, the auxiliary verb moves in front of the subject, as it does in a question: <b>had I known</b>, not if I had known. This is called inversion. The meaning and the time stay exactly the same as in the if-sentence; only the tone becomes more formal.",
+      "Only three verbs can do this, and each has its own place on the two dials. <b>Should you need</b> help means if you need help: a real, possible future, and very polite. Here should is not advice. <b>Were I</b> in your place, or <b>were it to</b> rain, means if I were, or if it rained: imagined, now or future. <b>Had I known</b> means if I had known: an imagined past. Do, would and could cannot start a condition in this way.",
+      "The result half keeps its normal form. After should, the result is real: will, can, or an imperative such as please contact us. After were, it is would, could or might plus a verb. After had, it is would have, could have or might have plus the past participle (V3). Should itself is followed by a base verb: should it rain, never <s>should it rains</s>.",
+      "Three form rules matter. First, if and inversion never share a clause: <s>if had I known</s> is wrong. Second, the verb is always were, never was: were I to choose. Third, in a negative, not stays a full word after the subject: had she not left, should you not receive a reply. A contracted form at the front, such as <s>hadn't she left</s>, is wrong.",
+      "Put a comma after the inverted clause. Use inversion where the reader is official: letters, emails to a teacher or a university, notices and essays. One in a paragraph is enough; more sounds forced. In everyday talk, plain if is the natural choice."
+     ],
+     "examples": [
+      {
+       "s": "Should you need a new library card, please ask at the front desk.",
+       "g": "Same as: If you need a new library card. A real, possible future with a polite instruction. No Truth line, because nothing is denied."
+      },
+      {
+       "s": "Were the school to add a Saturday class, few students would be pleased.",
+       "g": "Same as: If the school were to add a Saturday class. Imagined future, so the result has would. Truth: there is no Saturday class and no plan for one, now."
+      },
+      {
+       "s": "Had I known about the road works, I would have taken the MRT.",
+       "g": "Same as: If I had known. Imagined past, so the result has would have plus V3. Truth: I didn't know about the road works back then, so I didn't take the MRT."
+      },
+      {
+       "s": "Had she not set two alarms, she would have missed her flight.",
+       "g": "Negative inversion: had, subject, not, V3. Never a contraction at the front. Truth: she set two alarms and caught her flight."
+      },
+      {
+       "s": "<s>If had I known, I would have called.</s>",
+       "g": "Wrong: if cannot sit inside an inverted clause. Choose one: Had I known… or If I had known… Truth: I didn't know, back then."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Conditional inversion replaces if with a fronted should, were or had; it changes the register, not the meaning or the time.",
+     "body": [
+      "English can mark a condition by word order alone. The auxiliary moves in front of the subject, exactly as in a question, and if disappears: <b>had I known</b>, <b>were it to rain</b>, <b>should you need</b> help. Grammars call this conditional inversion. Because the fronted verb is already doing the work of if, the two can never appear together. The meaning and the time reference are identical to the if-version; what changes is the register, which rises to formal.",
+      "Modern English allows only three verbs here. Should opens a real future condition and presents it as slightly less likely, which is why it suits courteous offers; it has nothing to do with advice. Were, often with to, opens an imagined present or future. Had opens an imagined past. Do, would, could and the rest cannot invert in this way, and was is impossible: only were survives in the inverted form, whatever the subject.",
+      "The result clause is built as usual, because inversion touches only the condition. After should, expect will, can or an imperative. After were, expect would, could or might plus a base verb. After had, expect would have, could have or might have plus the past participle (V3). Should takes a bare base verb whatever the subject: should the weather change, not <s>should the weather changes</s>.",
+      "Negatives show the formality most clearly. Not cannot be contracted onto the fronted verb, so it stays as a full word after the subject: had she not left, were it not for the rain, should you not receive a reply. A form like <s>hadn't she left</s> is not a condition at all; it reads as a question.",
+      "A comma always follows the inverted clause. Treat inversion as a tool for official readers: letters, formal emails, notices and essays. One per paragraph shows range; several sound forced. Should you have any questions is a fixed email formula worth learning whole. The one inverted form that is also common in conversation is had I known."
+     ],
+     "examples": [
+      {
+       "s": "Should you need a new library card, please ask at the front desk.",
+       "g": "A real future condition, presented as slightly unlikely, with an imperative result. No Truth line: nothing is denied."
+      },
+      {
+       "s": "Were the school to add a Saturday class, few students would be pleased.",
+       "g": "Were plus subject plus to: an imagined future, matched by would in the result. Truth: there is no Saturday class and no plan for one, now."
+      },
+      {
+       "s": "Had I known about the road works, I would have taken the MRT.",
+       "g": "Had plus subject plus V3: an imagined past, with the have ticket in the result. Truth: I didn't know about the road works back then, so I didn't take the MRT."
+      },
+      {
+       "s": "Had she not set two alarms, she would have missed her flight.",
+       "g": "Uncontracted not after the subject; a fronted hadn't would read as a question. Truth: she set two alarms and caught her flight."
+      },
+      {
+       "s": "<s>If had I known, I would have called.</s>",
+       "g": "Wrong: the fronted had already does the work of if, so if must go. Had I known… or If I had known… Truth: I didn't know, back then."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w8l1-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "School notice",
+       "text": "Should you lose your student card, please report it to the office at once."
+      }
+     ],
+     "stem": "Which sentence means the same as the notice?",
+     "options": [
+      "You should lose your student card and then report it to the office.",
+      "If you lose your student card, please report it to the office at once.",
+      "If you had lost your student card, you would have reported it at once.",
+      "As you have lost your student card, please report it to the office now."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Here \"should\" is not advice. At the front of the clause it does the job of \"if\".",
+      "Yes: \"Should you lose\" is a formal way to say \"If you lose\", a real and possible future.",
+      "That is an imagined past, which would start \"Had you lost\". The notice is about a possible future.",
+      "The notice does not say the card is lost. It only says what to do if that happens."
+     ],
+     "hint": "Is the notice giving advice, or naming a condition? Which time is it about?",
+     "why": "Should at the front replaces if. The condition is real and possible, so it matches if plus a present form, with a polite instruction as the result."
+    },
+    {
+     "id": "w8l1-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Fah's travel blog",
+       "text": "Had the ferry left Koh Samet on time, we would have caught the last coach home."
+      }
+     ],
+     "stem": "What really happened?",
+     "options": [
+      "The ferry left on time, and they caught the last coach home.",
+      "The ferry may leave late, so they may miss the last coach home.",
+      "The ferry always leaves late, so they never catch the last coach.",
+      "The ferry left late, and they missed the last coach home."
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Flip both halves. \"Had the ferry left on time\" is imagined, so in reality it left late.",
+      "This is not about the future. \"Had\" plus a past participle looks back at a finished day.",
+      "A habit would use present forms. This sentence is about one past journey.",
+      "Yes: the opposite of each half is what really happened."
+     ],
+     "hint": "Had plus a past participle at the front: real or imagined? Past, now or future?",
+     "why": "Had at the front means if it had: an imagined past. The Truth is the opposite on both sides: the ferry left late and they missed the coach.",
+     "truth": "The ferry left late, so they missed the last coach home."
+    },
+    {
+     "id": "w8l1-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Student council essay",
+       "text": "Were the school to move the final exams to March, students would have three more weeks to revise."
+      }
+     ],
+     "stem": "How does the writer see the move to March?",
+     "options": [
+      "As an imagined idea: it is not the plan now.",
+      "As a past event: the exams were moved last year.",
+      "As a fixed plan: the exams are moving to March.",
+      "As a regular habit: the exams move every year."
+     ],
+     "answer": 0,
+     "near": 2,
+     "fb": [
+      "Yes: \"were … to\" with \"would\" is one step back from reality. The writer is only imagining the move.",
+      "\"Were\" here is not past time. It shows distance from reality, about now or the future.",
+      "A fixed plan would be real: \"When the exams move to March, students will have…\"",
+      "A habit needs present forms in both halves, with no \"were to\" and no \"would\"."
+     ],
+     "hint": "Were … to plus would: is that past time, or distance from reality?",
+     "why": "Were plus subject plus to is the formal form of if it were to: an imagined future. The result has would, so the writer is not reporting a plan.",
+     "truth": "The exams are not being moved to March; the writer only imagines it."
+    },
+    {
+     "id": "w8l1-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Letter to parents",
+       "text": "The M2 trip to Ayutthaya leaves at 6.30 a.m. on Friday."
+      }
+     ],
+     "stem": "___ further information about the trip, please email Ms Carter before Wednesday.",
+     "options": [
+      "If should you require",
+      "Would you require",
+      "Should you required",
+      "Should you require"
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "\"If\" and inversion cannot share a clause. Choose one: \"If you require\" or the inverted form.",
+      "\"Would\" cannot open a condition. Only should, were and had can move to the front.",
+      "After \"should\" the verb stays in its base form: require, not required.",
+      "Yes: \"should\" moves to the front, takes a base verb, and no \"if\" is needed."
+     ],
+     "hint": "Which three verbs can open a condition without if? What verb form follows this one?",
+     "why": "A real, possible condition in a formal letter: should plus subject plus base verb, with no if in the clause."
+    },
+    {
+     "id": "w8l1-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Nan",
+       "text": "So you caught the right train in Chiang Mai last night?"
+      },
+      {
+       "who": "Mint",
+       "text": "Only just. Praew told me the platform had changed."
+      }
+     ],
+     "stem": "___ me about the change, I would have got on the wrong train.",
+     "options": [
+      "Hadn't Praew told",
+      "Had Praew not told",
+      "Has Praew not told",
+      "If had Praew not told"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "In an inverted negative, \"not\" stays a full word after the subject. No contraction at the front.",
+      "Yes: had, then the subject, then \"not\", then the past participle.",
+      "\"Has\" is present perfect. An imagined past needs \"had\".",
+      "No \"if\" inside an inverted clause. The front \"had\" already does that job."
+     ],
+     "hint": "Where does \"not\" go when had moves to the front? Is it contracted?",
+     "why": "Last night is an imagined past, so had opens the clause; in the negative, not follows the subject uncontracted, and if is left out.",
+     "truth": "Praew told Mint about the change, so she got on the right train."
+    },
+    {
+     "id": "w8l1-6",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Bam",
+       "text": "The minibus was forty minutes late yesterday, so we missed our first match."
+      }
+     ],
+     "stem": "___ on time, we would have played all three matches.",
+     "options": [
+      "Were it to arrive",
+      "Should it arrive",
+      "Had it arrived",
+      "Had it arrive"
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "\"Were it to arrive\" imagines the future. Yesterday is past, and the result has \"would have\".",
+      "\"Should it arrive\" is a real, possible future. This match day is over.",
+      "Yes: an imagined past takes had at the front plus the past participle.",
+      "\"Had\" needs the past participle: arrived, not arrive."
+     ],
+     "hint": "When was the minibus late? Which front verb goes with that time?",
+     "why": "Yesterday plus would have played shows an imagined past, so the condition needs had plus the past participle at the front.",
+     "truth": "The minibus didn't arrive on time yesterday, so they missed the first match."
+    },
+    {
+     "id": "w8l1-7",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Fern's essay",
+       "text": "At present the library is closed at weekends."
+      }
+     ],
+     "stem": "[[Were]] the library [[to open]] on Sundays, far more students [[will use]] it [[for revision]].",
+     "answer": 2,
+     "fix": "would use",
+     "fb": [
+      "\"Were\" is right at the front. \"Was\" can never open an inverted condition.",
+      "\"To open\" is right: were, then the subject, then to plus a base verb.",
+      "The condition is imagined, so the result must step back too: would use, not will use.",
+      "\"For revision\" is fine. The problem is the verb in the result."
+     ],
+     "hint": "Is the condition real or imagined? Check that the form of each half agrees.",
+     "why": "Were the library to open imagines the future, one step back from reality, so the result needs would plus a verb, not will.",
+     "truth": "The library does not open on Sundays."
+    },
+    {
+     "id": "w8l1-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "given": "If I had checked the timetable, I wouldn't have waited an hour at the pier.",
+     "keyword": "HAD",
+     "stem": "___ the timetable, I wouldn't have waited an hour at the pier. (formal: do not use if)",
+     "accept": [
+      "Had I checked"
+     ],
+     "model": "Had I checked",
+     "hint": "Drop if and move one verb in front of the subject.",
+     "why": "If I had checked becomes Had I checked: had moves in front of the subject and if disappears. The meaning, an imagined past, stays the same.",
+     "truth": "I didn't check the timetable, so I waited an hour."
+    }
+   ]
+  },
+  {
+   "id": "w8l2",
+   "name": "were to, happen to, should; but for, without, if it weren't for / hadn't been for",
+   "cefr": "C1",
+   "ctype": "formal",
+   "formula": {
+    "if": "If + subject + were to / should / happen to + verb; But for / Without / If it weren't for / If it hadn't been for + noun",
+    "result": "were to: would / could / might + verb; should, happen to: will / can / imperative; noun conditions: would + verb (now), would have + V3 (past)"
+   },
+   "uses": [
+    {
+     "use": "A remote future in an essay or debate",
+     "ex": "If the city were to ban cars near schools, the air would be cleaner."
+    },
+    {
+     "use": "A favour that depends on chance",
+     "ex": "If you happen to find my blue pencil case, please message me."
+    },
+    {
+     "use": "A polite instruction for a small chance",
+     "ex": "If anyone should ring while I am out, please take a message."
+    },
+    {
+     "use": "Thanking someone",
+     "ex": "Without your notes, I would have failed the quiz."
+    },
+    {
+     "use": "Giving the one reason, formally",
+     "ex": "But for the storm, the sports day would have gone ahead."
+    },
+    {
+     "use": "Saying what you depend on now",
+     "ex": "If it weren't for my aunt, I wouldn't be learning the violin."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Were to, should and happen to change how far away a condition feels; but for and without make a condition from a noun.",
+     "body": [
+      "Sometimes a future event feels far from real life to the speaker. Then she can say if, plus <b>were to</b>, plus a verb. If the school were to close means the same as if the school closed. It is only more formal and more distant. The condition is imagined. So the result (what happens) takes would, could or might, never will or can.",
+      "Other times the event is possible, but only by chance. Then use <b>happen to</b>, or <b>should</b>, after if. If you happen to see her means if you see her by chance. If anyone should call means the same and is a little formal. These are real conditions. So the result takes will, can or an order. After should, the verb keeps its base form. Never put will or would in this if half.",
+      "Think of a line from sure to far away. When means I expect it. Plain if means maybe. If with should or happen to means maybe, by chance. If with were to means I am only imagining it. This is the speaker's view. It is not a percentage.",
+      "Some conditions have no verb at all. <b>But for</b> and <b>without</b> take a noun (a thing or a person). They never take a clause (words with a subject and a verb). Say but for your help, not <s>but for you helped</s>. Without your help means if you had not helped me. But for means the same and is formal. The noun is real. Only the result is imagined.",
+      "The longer form is <b>if it weren't for</b> plus a noun. That is about now. For the past, say <b>if it hadn't been for</b> plus a noun. The verb steps back because the condition is imagined. Do not drop the word for, and do not add would. In the result, would plus a verb is about now. Would have plus the past participle (V3) is about the past. Formal writing also has were it not for, and had it not been for. They mean the same."
+     ],
+     "examples": [
+      {
+       "s": "If the school were to move to a four-day week, how would parents react?",
+       "g": "Were to: only imagined, about the future. Truth: the school has a five-day week and no plan to change it."
+      },
+      {
+       "s": "If you happen to see Fern, tell her the rehearsal starts at four.",
+       "g": "Happen to: by chance. This is real and possible, so there is no Truth line. The result is an order."
+      },
+      {
+       "s": "If anyone should ask for me, I'll be in the art room.",
+       "g": "Should after if: by chance, a little formal. Base verb after should, and will in the result. No Truth line."
+      },
+      {
+       "s": "But for the tour guide, we would have got lost in the old town.",
+       "g": "Means: if the guide had not been there. Truth: the guide was there, back then, and we did not get lost."
+      },
+      {
+       "s": "If it weren't for the rain, we would be on the beach now.",
+       "g": "About now. Truth: it is raining now, so we are not on the beach."
+      }
+     ]
+    },
+    "B2": {
+     "key": "Were to pushes a future condition away from reality, should and happen to add by chance, and but for, without or if it weren't for build an imagined condition around a real noun.",
+     "body": [
+      "A speaker can show how far away an event feels. If plus <b>were to</b> plus a verb presents a future event as remote and sounds formal: if the school were to close means if the school closed, only more distant. Because the condition is imagined, the result takes would, could or might, never will or can.",
+      "<b>Happen to</b> and <b>should</b> do something different: they keep the condition real but add the idea of by chance. If you happen to see her and if you should see her both mean if you see her, which I am not counting on. The result stays real, so will, can and imperatives are all fine. Should is followed by a base verb, and plain will or would cannot take its place in the if half.",
+      "So there is a scale of stance. When means the speaker expects the event. Plain if leaves it open. If with should or happen to leaves it open and up to chance. If with were to steps back into imagination. This is the speaker's point of view, not a percentage: two people can describe the same event with different forms.",
+      "A condition can also be packed into a noun. <b>Without</b> and the more formal <b>but for</b> are followed by a noun phrase, never by a clause: but for your help, not <s>but for you helped</s>. They mean if that thing did not exist, or had not happened. The noun is real; the result is the imagined part. Its form gives the time: would plus a verb for now, would have plus the past participle (V3) for the past.",
+      "The full version is <b>if it weren't for</b> plus a noun for a present situation, and <b>if it hadn't been for</b> plus a noun for a past one. The verb is stepped back because the condition is imagined. Keep the word for, and keep would out of the if half. In formal writing these can be inverted: were it not for the rain, had it not been for the rain. Learn to recognise them; they mean exactly the same."
+     ],
+     "examples": [
+      {
+       "s": "If the school were to move to a four-day week, how would parents react?",
+       "g": "A remote, imagined future, so the result has would. Truth: the school has a five-day week and no plan to change it."
+      },
+      {
+       "s": "If you happen to see Fern, tell her the rehearsal starts at four.",
+       "g": "A real, open condition with by chance added; imperative result. No Truth line, because nothing is denied."
+      },
+      {
+       "s": "If anyone should ask for me, I'll be in the art room.",
+       "g": "If plus should plus base verb: an open condition, by chance. The result keeps will. No Truth line."
+      },
+      {
+       "s": "But for the tour guide, we would have got lost in the old town.",
+       "g": "But for plus a noun, formal. Same as: Without the tour guide, or If it hadn't been for the tour guide. Truth: the guide was there, back then, and we did not get lost."
+      },
+      {
+       "s": "If it weren't for the rain, we would be on the beach now.",
+       "g": "If it weren't for plus a noun, with would be for a present result. Truth: it is raining now, so we are not on the beach."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Were to marks a future condition as remote, should and happen to mark an open one as chance, and but for, without and if it weren't for imagine the absence of something real.",
+     "body": [
+      "Were to is the verb be to, the form used for arranged or expected events, moved one step back from reality. That is why if the school were to close sounds more remote and more formal than if the school closed: the speaker holds the event at a distance. It needs an event, so it is awkward with state verbs such as know. The result must be imagined as well: would, could or might, not will or can.",
+      "Should and <b>happen to</b> work on the other dial. They leave the condition real and open but mark it as a matter of chance: if anyone should call, if you happen to see her, or both together, if you should happen to see her. Since nothing is imagined, the result keeps will, can or an imperative. Should takes a base verb, and a plain will or would cannot replace it in the if half.",
+      "Together these give a scale of stance: when for what the speaker expects, plain if for an open question, if with should or happen to for an open question left to chance, and if with were to for a scene that is only imagined. None of this measures probability. It records how the speaker chooses to present the event, and the same event can be presented in more than one way.",
+      "A condition can be reduced to a noun phrase. Without is neutral; <b>but for</b> is formal and rarer. Both must be followed by a noun phrase, never a clause, and both present that thing as real while the result imagines its absence. Because there is no verb in the condition, only the result shows the time: would plus a verb for the present, would have plus the past participle (V3) for the past.",
+      "The clause versions are <b>if it weren't for</b>, for a present situation, and <b>if it hadn't been for</b>, for a past one. The verb is stepped back, as in any imagined condition; for is part of the chunk, and would never enters the if half. Formal prose inverts them as were it not for and had it not been for, with not kept whole. All of these single out one real cause and credit it, or blame it, for the way things turned out."
+     ],
+     "examples": [
+      {
+       "s": "If the school were to move to a four-day week, how would parents react?",
+       "g": "Be to, one step back: the change is held at a distance. Truth: the school has a five-day week and no plan to change it."
+      },
+      {
+       "s": "If you happen to see Fern, tell her the rehearsal starts at four.",
+       "g": "Open condition marked as chance; imperative result. No Truth line: nothing is denied."
+      },
+      {
+       "s": "If anyone should ask for me, I'll be in the art room.",
+       "g": "If plus should: open but left to chance, slightly formal; real result with will. No Truth line."
+      },
+      {
+       "s": "But for the tour guide, we would have got lost in the old town.",
+       "g": "Noun-phrase condition; would have got shows the past. Truth: the guide was there, back then, and we did not get lost."
+      },
+      {
+       "s": "If it weren't for the rain, we would be on the beach now.",
+       "g": "Present situation, present result; formal version: Were it not for the rain. Truth: it is raining now, so we are not on the beach."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w8l2-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "C1",
+     "stem": "Four students talk about the canteen closing next term. Who treats it as the most distant, imagined possibility?",
+     "options": [
+      "Ploy: When the canteen closes, we'll bring a packed lunch.",
+      "Jane: If the canteen closes, we'll bring a packed lunch.",
+      "Fern: If the canteen should close, we'll bring a packed lunch.",
+      "Pim: If the canteen were to close, we'd bring a packed lunch."
+     ],
+     "answer": 3,
+     "near": 2,
+     "fb": [
+      "\"When\" means Ploy expects it to happen. That is the surest view, not the most distant.",
+      "Plain \"if\" with a present form is an open, real possibility.",
+      "\"Should\" adds by chance, but the condition is still real, with \"we'll\" in the result.",
+      "Yes: \"were to\" with \"we'd\" steps back from reality. Pim is only imagining it."
+     ],
+     "hint": "Look at each result: will or would? Which condition has stepped back from reality?",
+     "why": "Were to plus would marks an imagined, remote future. When is expected, plain if is open, and if with should is open but by chance.",
+     "truth": "Pim does not expect the canteen to close; she only imagines it."
+    },
+    {
+     "id": "w8l2-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "School newsletter",
+       "text": "But for Coach Dao's advice, Bam would have lost the badminton final last Saturday."
+      }
+     ],
+     "stem": "What really happened?",
+     "options": [
+      "The coach gave no advice, and Bam lost the final.",
+      "The coach gave advice, but Bam still lost the final.",
+      "The coach gave advice, and Bam won the final.",
+      "The coach gave no advice, but Bam won the final anyway."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "The noun after \"but for\" is real: the advice was given. And losing is only imagined.",
+      "\"Would have lost\" is imagined, so the real result is the opposite: she won.",
+      "Yes: the advice is real, and losing is only the imagined result.",
+      "\"But for\" means if it had not been for. The advice was there, and it mattered."
+     ],
+     "hint": "Is the noun after \"but for\" real or imagined? And the result?",
+     "why": "But for plus a noun means if it had not been for it. The advice was real; would have lost is imagined, so Bam won.",
+     "truth": "Coach Dao gave advice, and Bam won the final."
+    },
+    {
+     "id": "w8l2-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Mum",
+       "text": "If you happen to pass a 7-Eleven on your way home, could you get some milk?"
+      }
+     ],
+     "stem": "What does \"happen to\" tell us?",
+     "options": [
+      "There is certainly a 7-Eleven on the way home.",
+      "Passing one is possible, but only by chance.",
+      "Passing one is imagined and cannot be true.",
+      "You passed a 7-Eleven earlier this morning."
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "If Mum were sure, she would say \"when you pass\". \"Happen to\" shows she is not sure.",
+      "Yes: \"happen to\" adds by chance to a real, open condition.",
+      "Nothing is imagined here. The verb is present and the request is real.",
+      "\"On your way home\" is still ahead. The present form after \"if\" points to the future."
+     ],
+     "hint": "Is Mum sure, unsure or only imagining?",
+     "why": "Happen to after if means by chance. The condition stays real and open, so the result can be a request."
+    },
+    {
+     "id": "w8l2-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Tour guide",
+       "text": "The sea looks calm, so tomorrow's boat trip to the island is going ahead."
+      }
+     ],
+     "stem": "If the weather ___ worse during the trip, we will come straight back to the pier.",
+     "options": [
+      "should gets",
+      "will get",
+      "should get",
+      "would get"
+     ],
+     "answer": 2,
+     "near": 1,
+     "fb": [
+      "After \"should\" the verb stays in its base form, with no -s.",
+      "\"If\" takes the photo; \"will\" makes the promise. A plain future condition has no \"will\".",
+      "Yes: \"if\" plus \"should\" plus a base verb means if by chance, and the result keeps \"will\".",
+      "\"Would\" does not go in the if half, and the result here is a real \"will\"."
+     ],
+     "hint": "Is this condition real or imagined? Look at the result, then check the verb form.",
+     "why": "The result has will, so the condition is real. If plus should plus a base verb means if by chance; will and would cannot fill the if half."
+    },
+    {
+     "id": "w8l2-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Jane",
+       "text": "Our flight to Chiang Mai next month is confirmed, so I'm not worried."
+      }
+     ],
+     "stem": "Still, if the airline were to cancel it, we ___ the night train instead.",
+     "options": [
+      "can take",
+      "will take",
+      "could have taken",
+      "could take"
+     ],
+     "answer": 3,
+     "near": 1,
+     "fb": [
+      "\"Can\" is a real result. After an imagined \"were to\", step back: could.",
+      "\"Will\" is a real promise. An imagined condition needs would, could or might.",
+      "\"Have\" is the past ticket, but the flight is next month.",
+      "Yes: an imagined future result, and \"could\" shows it would be possible."
+     ],
+     "hint": "Real or imagined condition? And when is the result?",
+     "why": "Were to cancel imagines a future event, so the result steps back to could plus a base verb; next month rules out could have.",
+     "truth": "The flight is confirmed; Jane only imagines a cancellation."
+    },
+    {
+     "id": "w8l2-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "stem": "[[But for]] [[Mook reminded me]], I [[would have left]] my passport [[in the hotel safe]].",
+     "answer": 1,
+     "fix": "Mook's reminder",
+     "fb": [
+      "\"But for\" is fine here: it is formal and means if it had not been for.",
+      "\"But for\" takes a noun, never a clause with a subject and a verb: Mook's reminder.",
+      "\"Would have left\" is right: an imagined past result with the \"have\" ticket.",
+      "\"In the hotel safe\" is fine. Look at what follows \"but for\"."
+     ],
+     "hint": "This condition has no if. What must follow its opening words, and is the result's time right?",
+     "why": "But for and without are followed by a noun phrase, not a clause, so Mook reminded me must become Mook's reminder.",
+     "truth": "Mook reminded her, so she did not leave her passport behind."
+    },
+    {
+     "id": "w8l2-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Praew",
+       "text": "The PM2.5 is bad again today, so PE is in the hall."
+      }
+     ],
+     "stem": "If it ___ the haze, we would be playing volleyball outside right now.",
+     "options": [
+      "isn't for",
+      "weren't for",
+      "wouldn't be for",
+      "weren't"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "Present for an imagined present. The haze is real, so step back: weren't.",
+      "Yes: \"if it weren't for\" plus a noun, one step back, about now.",
+      "No \"would\" in the if half. \"Would\" belongs in the result.",
+      "The chunk needs \"for\" before the noun: if it weren't for the haze."
+     ],
+     "hint": "Is the haze real today? How many steps back, and is the chunk complete?",
+     "why": "The haze is real now, so the condition is imagined: if it weren't for plus a noun, with would be playing as the present result.",
+     "truth": "There is haze today, so they are not playing outside."
+    },
+    {
+     "id": "w8l2-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "given": "Fern only caught the last BTS train because the taxi driver knew a shortcut.",
+     "keyword": "HADN'T",
+     "stem": "If it ___ the taxi driver's shortcut, Fern would have missed the last BTS train.",
+     "accept": [
+      "hadn't been for"
+     ],
+     "model": "hadn't been for",
+     "hint": "A fixed chunk before a noun, about the past. It has three words.",
+     "why": "The shortcut is real and past, so the imagined version is if it hadn't been for plus the noun, with would have missed as the result.",
+     "truth": "The driver knew a shortcut, so Fern caught the train."
+    }
+   ]
+  },
+  {
+   "id": "w8l3",
+   "name": "When the rules bend: polite will / would after if, real past conditionals, evidence if, and if so / if not / if necessary / if any",
+   "cefr": "C1",
+   "ctype": "formal",
+   "formula": {
+    "if": "If + any tense that fits the facts (will / would only for willingness, insistence or politeness)",
+    "result": "any tense, modal or imperative that fits; chunks: if so, if not, if necessary, if possible, if any, if in doubt"
+   },
+   "uses": [
+    {
+     "use": "A polite request in a formal email",
+     "ex": "I would be grateful if you would confirm my place on the course."
+    },
+    {
+     "use": "Asking someone to be willing",
+     "ex": "If you'll just sign the register, you can go straight in."
+    },
+    {
+     "use": "A real past habit",
+     "ex": "In primary school, if we finished early, we played outside."
+    },
+    {
+     "use": "Reasoning from evidence",
+     "ex": "If the gate is locked, the caretaker has already left."
+    },
+    {
+     "use": "Making an offer",
+     "ex": "There are spare pens on my desk if you need one."
+    },
+    {
+     "use": "Short chunks that point back",
+     "ex": "Is the pool open? If so, bring your swimsuit. If not, we'll play badminton."
+    }
+   ],
+   "levels": {
+    "B1": {
+     "key": "Not every if-sentence is a prediction; when it is not, use the tenses that fit the facts and do not fix it.",
+     "body": [
+      "The type patterns are for predictions (saying what will follow) and for imagined worlds. Many good if-sentences do something else. So first ask one question. Is this a prediction, or is it imagined? If not, any tenses that fit the facts are fine. Leave the sentence alone. Do not fix it.",
+      "Will after if is right when it means be willing to. If you'll wait here means if you agree to wait here. Only a person can be willing. A strong will can also mean you keep doing it: if you will stay up so late, of course you feel tired. Would after if is right in a polite request: I'd be grateful if you would reply. If will only means in the future, take it out. Use a present form.",
+      "Some if-sentences are about a real past. If it rained, we stayed in tells a past habit. Here if means whenever. Both verbs are past simple because both things really happened. Another kind is a real past chance: if I was rude, I apologise. Maybe I was rude; I am not sure. Use was here, not were. Nothing is imagined, so there is no Truth line.",
+      "Some if-sentences use evidence (a clue). If her bag is here, she's still at school. The speaker sees a clue and works out a fact. Others give the reason for speaking. There's water in the fridge if you're thirsty. The water is there anyway. The if-part only says why I am telling you. Both kinds take any tense that is true. They do not need will.",
+      "Last, learn six short chunks. If so means if that is true. If not means if that is not true. Both point back to an idea just before them. If necessary means if it is needed. If possible means if you can. If in doubt means if you are not sure. If any follows few or little, between two commas: few, if any, seats are left."
+     ],
+     "examples": [
+      {
+       "s": "If you'll wait here, I'll fetch the key to the music room.",
+       "g": "Will after if means are willing to: if you agree to wait. A polite request. Nothing is imagined, so no Truth line."
+      },
+      {
+       "s": "I'd be grateful if you would check my essay plan.",
+       "g": "Would after if makes a request very polite. Good for emails to teachers. No Truth line."
+      },
+      {
+       "s": "If it rained, we stayed in and played cards.",
+       "g": "A real past habit: if means whenever. Past simple twice. Both things really happened, so no Truth line."
+      },
+      {
+       "s": "If her bag is here, she's still at school.",
+       "g": "Evidence: the bag is the clue; she is still at school is the conclusion. No Truth line."
+      },
+      {
+       "s": "There's water in the fridge if you're thirsty.",
+       "g": "An offer: the water is there anyway. The if-part says why I am telling you. No Truth line."
+      }
+     ]
+    },
+    "B2": {
+     "key": "The type patterns apply only to predictions and imagined worlds; polite will and would, real past, evidence and offer conditionals, and fixed chunks follow the facts instead.",
+     "body": [
+      "The patterns called zero, first, second and third describe predictions and imagined worlds. A great deal of natural English uses if for other jobs, and there the patterns do not apply. So before you correct an if-sentence, ask one question: is the speaker predicting or imagining? If the answer is no, any tenses that fit the facts are correct, and the sentence should be left alone.",
+      "<b>Will and would after if.</b> Will is right after if when it means be willing to: if you'll wait here means if you agree to wait. Only a person can be willing. Said with stress, will can also mean that someone insists: if you will stay up so late, of course you feel tired. Would is right in polite requests: I'd be grateful if you would reply. If will only says in the future, take it out and use a present form.",
+      "<b>Real past.</b> If it rained, we stayed in describes a past habit; if means whenever, and both verbs are past simple because both things happened. A real past possibility works the same way: if I was rude, I apologise. The speaker thinks it may really have happened, so she uses was, not were, and no past perfect. Nothing is imagined, so there is no Truth line to write.",
+      "<b>Evidence and offers.</b> In if her bag is here, she's still at school, the speaker reasons from a clue to a conclusion. The tenses simply match the clue and the conclusion, present or past. In there's water in the fridge if you're thirsty, the water is there in any case; the if-part only explains why the speaker mentions it. Neither sentence predicts anything, so neither needs will.",
+      "<b>Chunks.</b> Some if-phrases are fixed and have no verb. If so and if not point back to the idea just before them: if that is true, if that is not true. If necessary and if possible mean if it is necessary and if it is possible. If in doubt means if you are not sure. If any follows few or little, with a comma on each side: few, if any, seats are left."
+     ],
+     "examples": [
+      {
+       "s": "If you'll wait here, I'll fetch the key to the music room.",
+       "g": "Willingness will: swap in agree to and it still works. A real request, so no Truth line."
+      },
+      {
+       "s": "I'd be grateful if you would check my essay plan.",
+       "g": "Polite would in a formal request. It is not an imagined condition, so no Truth line."
+      },
+      {
+       "s": "If it rained, we stayed in and played cards.",
+       "g": "Real past, past plus past, with if close to whenever. Do not change it to a third conditional. No Truth line."
+      },
+      {
+       "s": "If her bag is here, she's still at school.",
+       "g": "Evidence conditional: clue, then conclusion, both in the present. Not a prediction, so no will. No Truth line."
+      },
+      {
+       "s": "There's water in the fridge if you're thirsty.",
+       "g": "Offer conditional: the main clause is true in any case; if explains why it is mentioned. No Truth line."
+      }
+     ]
+    },
+    "C1": {
+     "key": "Only predictive conditionals obey the type patterns; modal will and would, real past, evidence and speech-act conditionals, and reduced chunks are correct with whatever forms are true.",
+     "body": [
+      "The type patterns describe one use of if: predicting a result from a condition, real or imagined. Much everyday English uses if differently, to reason, to offer, to be polite or to recall a habit. In those uses the patterns are suspended, correctly. The first question for any if-sentence is therefore whether it is predictive at all. If it is not, the right tenses are simply the true ones, and correcting them damages good English.",
+      "Will after if is acceptable whenever it carries modal meaning, not plain future time. It can mean willingness, which only a person has: if you'll wait here. Stressed and uncontracted, it means insistence, usually as criticism: if you will stay up so late, of course you feel tired. Would makes a formal request more courteous: I'd be grateful if you would reply. Only a will that means nothing more than in the future is an error: the if-clause sets a scene and does not predict.",
+      "Real past conditionals report facts. If it rained, we stayed in pairs two past simples because both events occurred, repeatedly; if is close to whenever. A real past possibility, as in if I was rude, I apologise, is open, not imagined: the speaker accepts that it may have happened. That is why was is required and were would be an overcorrection, and why the result can be in any tense, including the present. No Truth line exists, because nothing is denied.",
+      "Evidence conditionals move from a clue to a conclusion: if her bag is here, she's still at school; if she said that, she was joking. The if-clause conditions the conclusion, not an event, so the tenses match whatever the clue and the conclusion are. Speech-act conditionals, such as there's water in the fridge if you're thirsty, condition the relevance of speaking. The main clause is true regardless, which is why no will is needed and why adding then would spoil it.",
+      "Finally, reduced chunks behave like vocabulary. If so and if not stand for a whole clause and need an earlier idea to point back to. If necessary, if possible and if in doubt are shortened clauses, with it is or you are left out. If any attaches to few or little and sits between commas: few, if any, seats are left. Learn each with its position and its commas."
+     ],
+     "examples": [
+      {
+       "s": "If you'll wait here, I'll fetch the key to the music room.",
+       "g": "Modal will after if: willingness, not future time. Real, so no Truth line."
+      },
+      {
+       "s": "I'd be grateful if you would check my essay plan.",
+       "g": "Courteous would in the if-clause of a request; a fixed formal pattern. No Truth line."
+      },
+      {
+       "s": "If it rained, we stayed in and played cards.",
+       "g": "Real past conditional: two past simples reporting repeated facts. Nothing is denied, so no Truth line."
+      },
+      {
+       "s": "If her bag is here, she's still at school.",
+       "g": "Epistemic: the if-clause supports a conclusion, not an event. Tenses follow the facts. No Truth line."
+      },
+      {
+       "s": "There's water in the fridge if you're thirsty.",
+       "g": "Speech-act conditional: if conditions the relevance of the offer, not the water. No Truth line."
+      }
+     ]
+    }
+   },
+   "items": [
+    {
+     "id": "w8l3-1",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Pim",
+       "text": "Is Ms Carter still in school? I need to hand in my project."
+      },
+      {
+       "who": "Jane",
+       "text": "If the lights in the music room are off, she has already gone home."
+      }
+     ],
+     "stem": "Is Jane's sentence fine, or does it need fixing?",
+     "options": [
+      "Fix it: the result needs will, so write she will go home.",
+      "Fix it: write If the lights were off, she would go home.",
+      "Leave it: Jane reasons from a clue to a conclusion.",
+      "Leave it, but only in casual American English."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "This is not a prediction about the future. Jane is working out what has already happened.",
+      "Nothing is imagined here, so there is no step back. The lights are a real clue.",
+      "Yes: it is an evidence conditional, so any tenses that fit the facts are right.",
+      "Evidence conditionals are standard English everywhere, in speech and in writing."
+     ],
+     "hint": "Is Jane predicting, imagining, or working something out?",
+     "why": "Jane uses the lights as evidence for a conclusion about now. It is not a prediction, so the type patterns do not apply and nothing needs fixing."
+    },
+    {
+     "id": "w8l3-2",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Aunt Noi's note",
+       "text": "There are clean towels on the top shelf if you want a shower after practice."
+      }
+     ],
+     "stem": "What does the if-part do here?",
+     "options": [
+      "It says why she mentions the towels; they are there anyway.",
+      "It says the towels will be there only when you want a shower.",
+      "It shows the towels are imagined and not really on the shelf.",
+      "It shows a mistake: the note needs there will be clean towels."
+     ],
+     "answer": 0,
+     "near": 1,
+     "fb": [
+      "Yes: the if-part makes the offer relevant. The main clause is simply true.",
+      "The towels do not depend on your shower. They are on the shelf either way.",
+      "Both verbs are present and real. There is no step back and no Truth line.",
+      "Nothing needs fixing. This kind of \"if\" does not predict, so no \"will\" is needed."
+     ],
+     "hint": "Would the towels still be on the shelf if you did not want a shower?",
+     "why": "It is an offer: the towels are on the shelf whatever happens, and the if-part only explains why Aunt Noi is telling you."
+    },
+    {
+     "id": "w8l3-3",
+     "type": "mcq",
+     "skill": "meaning",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Mook, at badminton practice",
+       "text": "If you'll hold my racket for a second, I'll tie my shoelace."
+      }
+     ],
+     "stem": "Which statement about Mook's sentence is true?",
+     "options": [
+      "It is wrong: will can never follow if.",
+      "It is right: will after if suits any future event.",
+      "It is wrong: it should be If you would have held.",
+      "It is right: will here means are willing to."
+     ],
+     "answer": 3,
+     "near": 0,
+     "fb": [
+      "Too strict. \"Will\" after \"if\" is fine when it carries its own meaning, such as willingness.",
+      "Too loose. For a plain future event, \"if\" takes a present form.",
+      "That mixes an imagined past into a simple request about now.",
+      "Yes: \"if you'll hold\" means if you agree to hold. It is a polite request."
+     ],
+     "hint": "What job is will doing here: time, or something else?",
+     "why": "Here will means be willing to, so the sentence is a polite request. Will is only wrong after if when it just means in the future."
+    },
+    {
+     "id": "w8l3-4",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "B2",
+     "lines": [
+      {
+       "who": "Fern",
+       "text": "I loved our primary school trips."
+      }
+     ],
+     "stem": "If we ___ time on the way back, the driver always stopped for ice cream.",
+     "options": [
+      "had had",
+      "had",
+      "have",
+      "would have"
+     ],
+     "answer": 1,
+     "near": 0,
+     "fb": [
+      "\"Had had\" is for an imagined past. On these trips they really did have time, again and again.",
+      "Yes: a real past habit takes the past simple in both halves. \"If\" means whenever here.",
+      "The trips are over and the result is past: stopped. The condition must be past too.",
+      "\"Would\" does not go in the if half, and nothing here is imagined."
+     ],
+     "hint": "Did these trips really happen? What tense is the result?",
+     "why": "This is a real past habit, not an imagined past: if means whenever, and both verbs take the past simple."
+    },
+    {
+     "id": "w8l3-5",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "stem": "Which sentence uses will after if correctly?",
+     "options": [
+      "If it'll rain during the match, we'll all get very wet.",
+      "If the bell will ring, we'll go back to class.",
+      "If you'll follow me, I'll show you to the exam room.",
+      "If I'll pass the test, Mum will be pleased."
+     ],
+     "answer": 2,
+     "near": 0,
+     "fb": [
+      "Rain cannot be willing or unwilling. It is a plain future event, so say \"if it rains\".",
+      "A bell cannot agree to ring. Plain future: \"if the bell rings\".",
+      "Yes: \"if you'll follow me\" means if you are willing to follow me, a polite request.",
+      "Passing a test is not a matter of being willing. Plain future: \"if I pass\"."
+     ],
+     "hint": "In which sentence does will mean more than future time?",
+     "why": "Only a person can be willing. If you'll follow me means if you agree to; the other three are plain future conditions and need a present form."
+    },
+    {
+     "id": "w8l3-6",
+     "type": "spot",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "stem": "[[If you would]] take a seat, Ms Carter [[will see]] you shortly; [[if it will be]] urgent, [[please knock]] on her door.",
+     "answer": 2,
+     "fix": "if it is",
+     "fb": [
+      "\"If you would\" is a polite request, so \"would\" is right here.",
+      "\"Will see\" is a real promise in the result. That is where \"will\" belongs.",
+      "This \"will\" carries no willingness or politeness, and \"it\" cannot be willing. Use a present form: if it is.",
+      "An imperative is a fine result for a real condition."
+     ],
+     "hint": "Two verbs follow if. Which one is polite, and which is only about time?",
+     "why": "Would after if is fine as a polite request, but the second if-clause is a plain condition, so it takes the present: if it is urgent."
+    },
+    {
+     "id": "w8l3-7",
+     "type": "mcq",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "C1",
+     "lines": [
+      {
+       "who": "Teacher's comment",
+       "text": "A careful final draft, Nan. Well done."
+      }
+     ],
+     "stem": "There are few, ___, spelling mistakes in this essay.",
+     "options": [
+      "if so",
+      "if not",
+      "if any",
+      "if necessary"
+     ],
+     "answer": 2,
+     "near": 1,
+     "fb": [
+      "\"If so\" points back to a whole earlier idea. It cannot sit after \"few\".",
+      "\"If not\" points back to an earlier idea too. It makes no sense between \"few\" and its noun.",
+      "Yes: \"few, if any\" means very few and perhaps none. Note the commas on both sides.",
+      "\"If necessary\" means if it is needed. Nobody needs spelling mistakes."
+     ],
+     "hint": "What is the teacher saying about the number of mistakes?",
+     "why": "Few, if any, means very few and perhaps none at all. The chunk follows few or little and sits between two commas."
+    },
+    {
+     "id": "w8l3-8",
+     "type": "type",
+     "skill": "form",
+     "ctype": "formal",
+     "cefr": "B2",
+     "given": "Is the museum open on Mondays? If it is open on Mondays, let's go then.",
+     "keyword": "SO",
+     "stem": "Is the museum open on Mondays? ___, let's go then.",
+     "accept": [
+      "If so"
+     ],
+     "model": "If so",
+     "hint": "Two words that point back to the question before them.",
+     "why": "If so means if that is true, here if the museum is open on Mondays. It stands for the whole clause."
+    }
+   ]
+  }
+ ],
+ "gate": {
+  "id": "w8g",
+  "items": [
+   {
+    "id": "w8g-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "formal",
+    "cefr": "B2",
+    "stem": "Where does this sentence fit best? \"Should you wish to join the debate club, please complete the form below.\"",
+    "options": [
+     "In a voice message to your little sister",
+     "In a chat with friends at the bubble tea shop",
+     "In a notice on the school website",
+     "In a note to yourself in your diary"
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "Too formal for family talk. You would simply say \"if you want to join\".",
+     "With friends, plain \"if\" sounds natural. Inversion would sound stiff.",
+     "Yes: inversion with \"should\" belongs in notices, formal emails and letters.",
+     "Nobody writes to herself this formally. Inversion is for official readers."
+    ],
+    "hint": "Who is the reader, and how formal is the situation?",
+    "why": "Should you wish is a formal, polite way to say if you want, so it suits an official notice, not private or friendly messages."
+   },
+   {
+    "id": "w8g-2",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "formal",
+    "cefr": "C1",
+    "lines": [
+     {
+      "who": "Travel blog",
+      "text": "Had it not been for the long delay at the airport, we would have reached Phuket before dark."
+     }
+    ],
+    "stem": "What really happened?",
+    "options": [
+     "There was no delay, and they reached Phuket before dark.",
+     "There was a long delay, and they reached Phuket after dark.",
+     "There was a long delay, but they still arrived before dark.",
+     "There may be a delay, so they may reach Phuket after dark."
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "The noun after \"had it not been for\" is real: there was a delay.",
+     "Yes: the delay is real, and arriving before dark is only imagined.",
+     "\"Would have reached\" is imagined, so the real result is the opposite.",
+     "This looks back at a finished journey. It is not a possible future."
+    ],
+    "hint": "Is the delay real? Is the result real or imagined?",
+    "why": "Had it not been for plus a noun means if it had not been for it. The delay was real; arriving before dark is only imagined.",
+    "truth": "There was a long delay, so they reached Phuket after dark."
+   },
+   {
+    "id": "w8g-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "formal",
+    "cefr": "C1",
+    "lines": [
+     {
+      "who": "Mint's message to her coach",
+      "text": "If I was impatient with the younger players yesterday, I'm sorry."
+     }
+    ],
+    "stem": "Leave it or fix it?",
+    "options": [
+     "Fix it: was must be were after if.",
+     "Fix it: write If I had been impatient, I would have been sorry.",
+     "Fix it: I'm sorry must be I will be sorry.",
+     "Leave it: a real past possibility, so was is right."
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "\"Were\" is for an imagined present. Mint thinks she may really have been impatient, so \"was\" is needed.",
+     "That would mean she was not impatient and is not sorry. She is saying sorry now.",
+     "She is saying sorry as she writes, so the present is right. No prediction is being made.",
+     "Yes: maybe it really happened. A real past condition with a present result, and nothing to fix."
+    ],
+    "hint": "Is Mint imagining being impatient, or does she think it may really have happened?",
+    "why": "Mint may really have been impatient yesterday, so the condition is a real past possibility: was, not were, and she says sorry now."
+   },
+   {
+    "id": "w8g-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "formal",
+    "cefr": "C1",
+    "lines": [
+     {
+      "who": "Class essay",
+      "text": "At present, school groups visit the science museum free of charge."
+     }
+    ],
+    "stem": "___ the museum to charge students for entry, far fewer school groups would visit.",
+    "options": [
+     "Was",
+     "Had",
+     "Should",
+     "Were"
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "\"Was\" can never open an inverted condition. Formal English uses \"were\" for every subject here.",
+     "\"Had\" needs a past participle and an imagined past. Here we have \"to charge\" and \"would visit\".",
+     "\"Should\" takes a base verb with no \"to\", and its result is real, not \"would\".",
+     "Yes: were, then the subject, then to plus a verb imagines a future change, with \"would\" in the result."
+    ],
+    "hint": "Look at \"to charge\" and \"would visit\". Which front verb fits both?",
+    "why": "The museum is free now, so charging is imagined: were plus subject plus to plus verb, matched by would in the result.",
+    "truth": "The museum does not charge students at present."
+   },
+   {
+    "id": "w8g-5",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "formal",
+    "cefr": "B2",
+    "lines": [
+     {
+      "who": "Sign at the ferry pier",
+      "text": "Boats leave from three different platforms."
+     }
+    ],
+    "stem": "___, ask a member of staff before you board.",
+    "options": [
+     "If any",
+     "If in doubt",
+     "If so",
+     "If not"
+    ],
+    "answer": 1,
+    "near": 2,
+    "fb": [
+     "\"If any\" follows few or little, between commas. It cannot start this instruction.",
+     "Yes: \"if in doubt\" means if you are not sure, a common chunk on signs.",
+     "\"If so\" points back to an idea that may be true. The line before gives a plain fact.",
+     "\"If not\" also needs an earlier idea that may be false. There is none here."
+    ],
+    "hint": "What might a passenger feel when there are three platforms?",
+    "why": "If in doubt means if you are not sure. If so and if not need an earlier idea to point back to, and if any follows few or little."
+   },
+   {
+    "id": "w8g-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "formal",
+    "cefr": "C1",
+    "lines": [
+     {
+      "who": "Pim",
+      "text": "My phone was at two per cent before the listening test this morning, but Jane lent me her charger."
+     }
+    ],
+    "stem": "___ Jane's spare charger, my phone would have died before the test.",
+    "options": [
+     "Unless",
+     "Even if",
+     "But for",
+     "In case of"
+    ],
+    "answer": 2,
+    "near": 3,
+    "fb": [
+     "\"Unless\" needs a clause with a verb, and it is not used for this kind of imagined past.",
+     "\"Even if\" needs a clause, and it would mean the charger made no difference.",
+     "Yes: \"but for\" plus a noun means if it had not been for it.",
+     "\"In case of\" is for notices about what to do, as in \"in case of fire\". It is not an imagined past condition."
+    ],
+    "hint": "Is the charger real? What follows the gap: a noun or a clause?",
+    "why": "The charger was real and it saved the phone. But for plus a noun means if it had not been for it; the others cannot do that job.",
+    "truth": "Jane lent her charger, so the phone did not die."
+   },
+   {
+    "id": "w8g-7",
+    "type": "spot",
+    "skill": "form",
+    "ctype": "formal",
+    "cefr": "C1",
+    "lines": [
+     {
+      "who": "Fah",
+      "text": "We walked forty minutes to the pier yesterday, and it was closed."
+     }
+    ],
+    "stem": "[[Had we]] known [[about]] the closure, we [[would take]] the bus [[instead]].",
+    "answer": 2,
+    "fix": "would have taken",
+    "fb": [
+     "\"Had we\" is right: had moves in front of the subject for an imagined past.",
+     "\"Known about\" plus a noun is fine. Check the verbs.",
+     "No past ticket. An imagined past result needs \"have\": would have taken.",
+     "\"Instead\" is fine. Check the verb in the result."
+    ],
+    "hint": "When is the result? Is there a past ticket?",
+    "why": "Had we known sets an imagined past, and yesterday confirms it, so the result needs would have plus the past participle.",
+    "truth": "They didn't know the pier was closed, so they didn't take the bus."
+   },
+   {
+    "id": "w8g-8",
+    "type": "type",
+    "skill": "form",
+    "ctype": "formal",
+    "cefr": "C1",
+    "given": "Please send me the reading list for the summer course. (formal email)",
+    "keyword": "WOULD",
+    "stem": "I would be grateful if you ___ me the reading list for the summer course.",
+    "accept": [
+     "would send",
+     "would kindly send"
+    ],
+    "model": "would send",
+    "hint": "A polite request in a formal email: which verb softens it after if?",
+    "why": "In a formal request, would after if is polite: it asks whether the reader is willing. It is not a future form here."
+   }
+  ]
+ }
+}

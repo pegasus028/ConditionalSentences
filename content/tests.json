@@ -1,0 +1,2032 @@
+{
+ "placement": {
+  "items": [
+   {
+    "id": "pl-1",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "0",
+    "cefr": "A2",
+    "lesson": "w1l1",
+    "world": "w1",
+    "stem": "Mint says: \"If I drink bubble tea after 8 p.m., I can't sleep.\" What does she mean?",
+    "options": [
+     "It happens every time she drinks it late.",
+     "She plans to drink it late tonight.",
+     "She drank it late last night, just once.",
+     "She never drinks it, so she is only imagining."
+    ],
+    "answer": 0,
+    "near": 1,
+    "fb": [
+     "Yes: present plus present is a fact about her life, true every time.",
+     "There is no will here, so it is not a plan. Both halves are present: a general fact.",
+     "Both verbs are present, not past, so this is not the story of one night.",
+     "Nothing is imagined: no verb has stepped back. This really happens to her."
+    ],
+    "hint": "Look at both verbs. Are they about one time or every time?",
+    "why": "Present simple in both halves gives a general truth: whenever the condition happens, the result follows."
+   },
+   {
+    "id": "pl-2",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "0",
+    "cefr": "A2",
+    "lesson": "w1l3",
+    "world": "w1",
+    "stem": "On school days, if Fah ___ the BTS before seven, she always gets a seat.",
+    "options": [
+     "take",
+     "takes",
+     "will take",
+     "taking"
+    ],
+    "answer": 1,
+    "near": 2,
+    "fb": [
+     "Fah is one person (she), so the present simple needs -s.",
+     "Yes: a habit, so present simple, and with she the verb takes -s.",
+     "No will after if. And this is a habit, not a prediction about one day.",
+     "Taking alone is not a full verb. A habit needs the present simple."
+    ],
+    "hint": "Is this a habit or one future event? And who is the subject?",
+    "why": "The word always shows a habit, so both halves are present simple, and Fah (she) needs the -s form."
+   },
+   {
+    "id": "pl-3",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "1",
+    "cefr": "B1",
+    "lesson": "w2l1",
+    "world": "w2",
+    "stem": "Praew says: \"If it rains this afternoon, I'll take a taxi home.\" What is true?",
+    "options": [
+     "It is raining now, so she is in a taxi.",
+     "Rain is possible, and she has a plan.",
+     "It won't rain, so she is only dreaming.",
+     "It rained, and she took a taxi home."
+    ],
+    "answer": 1,
+    "near": 2,
+    "fb": [
+     "The afternoon has not come yet, and I'll take is about the future, not now.",
+     "Yes: present after if plus will is a real, possible future with a decision ready.",
+     "A dream would step back: if it rained, I'd take. Here the forms are real.",
+     "Nothing here is past: rains is present and I'll is future."
+    ],
+    "hint": "Is anything denied here? Look at the tense after if and the helping verb in the result.",
+    "why": "If plus present with will in the result is a real, possible future: she doesn't know yet, but she has decided what to do."
+   },
+   {
+    "id": "pl-4",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "1",
+    "cefr": "B1",
+    "lesson": "w2l1",
+    "world": "w2",
+    "stem": "Tickets for the concert go on sale tomorrow. If they ___ out before Friday, we'll watch the live stream instead.",
+    "options": [
+     "will sell",
+     "sold",
+     "sell",
+     "would sell"
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "No will after if for a plain future condition. The prediction lives in the result.",
+     "Sold is a past form, but the tickets are not even on sale yet. A real future condition takes the present.",
+     "Yes: a real future condition takes the present simple after if.",
+     "Would never goes in a plain if half, and this future is real, not imagined."
+    ],
+    "hint": "Which half makes the prediction? Does the if half need a future word?",
+    "why": "The sale is still in the future and really possible, so the if half takes the present simple; will belongs only in the result."
+   },
+   {
+    "id": "pl-5",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "2",
+    "cefr": "B1",
+    "lesson": "w3l1",
+    "world": "w3",
+    "stem": "Nan says: \"If I had a cat, I'd call her Mochi.\" What is true now?",
+    "options": [
+     "Nan has a cat called Mochi.",
+     "Nan had a cat, but not any more.",
+     "Nan doesn't have a cat.",
+     "Nan is getting a cat soon."
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "If that were true, she would not need if at all. The step back denies it.",
+     "Had is past in form only. It is not about past time here; it is about reality.",
+     "Yes: one step back from reality. The truth now is the opposite of the if half.",
+     "A real plan would be: if I get a cat, I'll call her Mochi."
+    ],
+    "hint": "The verb is past in form. Is it about past time, or about reality?",
+    "why": "Had with would is one step back from reality, not past time: it imagines a present that is not true.",
+    "truth": "Nan doesn't have a cat (now)."
+   },
+   {
+    "id": "pl-6",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "2",
+    "cefr": "B2",
+    "lesson": "w3l2",
+    "world": "w3",
+    "stem": "Fern lives two hours from school, sadly. If she ___ nearer, she'd walk there with us every morning.",
+    "options": [
+     "lives",
+     "lived",
+     "would live",
+     "has lived"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "Present is for something real. She does not live nearer, so step back once.",
+     "Yes: imagined now, so one step back in the if half: the past simple.",
+     "Would goes in the result (she'd walk), not in the if half.",
+     "Has lived is real time up to now. An imagined present needs the past simple."
+    ],
+    "hint": "Is it true now that she is near the school? How many steps back?",
+    "why": "She does not live nearer now, so the condition is imagined: one step back to the past simple, with would in the result.",
+    "truth": "Fern doesn't live near the school (now)."
+   },
+   {
+    "id": "pl-7",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "3",
+    "cefr": "B2",
+    "lesson": "w4l1",
+    "world": "w4",
+    "stem": "\"If Pim had set an alarm, she wouldn't have missed the school bus.\" What really happened?",
+    "options": [
+     "She set an alarm, so she caught the bus.",
+     "She didn't set an alarm, but she still caught the bus.",
+     "She set an alarm, but she missed the bus.",
+     "She didn't set an alarm, and she missed the bus."
+    ],
+    "answer": 3,
+    "near": 1,
+    "fb": [
+     "That is the imagined world. The truth is the opposite of both halves.",
+     "The if half is right, but flip the result too: wouldn't have missed means she did miss it.",
+     "Flip the if half: had set is imagined, so in fact she did not set one.",
+     "Yes: both halves are imagined past, so the truth is the opposite of each."
+    ],
+    "hint": "Flip each half to find the truth: positive becomes negative, negative becomes positive.",
+    "why": "Both halves are two steps back, so both are imagined past. The truth is the opposite of each half.",
+    "truth": "Pim didn't set an alarm, and she missed the bus (past)."
+   },
+   {
+    "id": "pl-8",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "3",
+    "cefr": "B2",
+    "lesson": "w4l1",
+    "world": "w4",
+    "lines": [
+     {
+      "who": "Jane",
+      "text": "How was the school fair on Saturday?"
+     },
+     {
+      "who": "Bam",
+      "text": "Great, but our stall ran out of mango sticky rice by noon."
+     }
+    ],
+    "stem": "If we'd made more, we ___ twice as much.",
+    "options": [
+     "would earn",
+     "would have earned",
+     "will earn",
+     "would earned"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "No past ticket: would earn is about now or the future, but the fair was on Saturday.",
+     "Yes: an imagined past result takes would, the have ticket and the past participle.",
+     "Will is for a real future. The fair is over, and they did not make more.",
+     "The have ticket is missing: would cannot be followed directly by a past participle."
+    ],
+    "hint": "When is the result? Does it have a past ticket?",
+    "why": "Saturday is over and they did not make more, so the result needs would have plus the past participle.",
+    "truth": "They didn't make more on Saturday, so they didn't earn twice as much."
+   },
+   {
+    "id": "pl-9",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "m32",
+    "cefr": "B2",
+    "lesson": "w5l1",
+    "world": "w5",
+    "stem": "\"If Mook had charged her phone last night, she'd be able to call her mum now.\" What is true?",
+    "options": [
+     "She charged it last night, and she can call now.",
+     "She didn't charge it last night, but she can call now.",
+     "She didn't charge it last night, and she can't call now.",
+     "She isn't charging it now, so she couldn't call last night."
+    ],
+    "answer": 2,
+    "near": 3,
+    "fb": [
+     "That is the imagined world. Flip both halves to find the truth.",
+     "The first half is right, but she'd be able to is imagined too: in fact she can't.",
+     "Yes: two truths with two dates: no charging last night, no call now.",
+     "The times are the wrong way round: the condition is last night and the result is now."
+    ],
+    "hint": "Date each half. Which half is about last night and which is about now?",
+    "why": "The condition is imagined past (had charged) and the result is imagined present (would be able), so there are two truths with two dates.",
+    "truth": "Mook didn't charge her phone (last night); she can't call (now)."
+   },
+   {
+    "id": "pl-10",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "m32",
+    "cefr": "B2",
+    "lesson": "w5l1",
+    "world": "w5",
+    "stem": "Fah stayed up until 2 a.m. watching a K-pop live stream. If she had gone to bed earlier, she ___ so sleepy in class right now.",
+    "options": [
+     "wouldn't have been",
+     "won't be",
+     "wouldn't be",
+     "isn't"
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "The have ticket makes the result past, but right now is the present.",
+     "Will is for a real future. This result is imagined: in fact she is sleepy.",
+     "Yes: a past condition with a present result: would plus the verb, no have ticket.",
+     "The present says it as a fact, but in fact she is sleepy. Step back once."
+    ],
+    "hint": "When is the result: last night or right now? Does it need a past ticket?",
+    "why": "The condition is past, but the result is about right now, so it takes would plus the verb with no have.",
+    "truth": "Fah didn't go to bed early (last night); she is sleepy (now)."
+   },
+   {
+    "id": "pl-11",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "conn",
+    "cefr": "B2",
+    "lesson": "w6l3",
+    "world": "w6",
+    "stem": "Mum says: \"Take an umbrella in case it rains.\" When should you take the umbrella?",
+    "options": [
+     "Later, but only when the rain has started.",
+     "Now, before you know whether it will rain.",
+     "Never, because it isn't going to rain.",
+     "Only if the forecast says that rain is certain."
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "That is the meaning of if. In case is a precaution, taken before the event.",
+     "Yes: in case means because it might happen, so you act first.",
+     "In case means the rain is possible, so Mum does want you to take it.",
+     "The rain does not need to be certain: maybe is enough for a precaution."
+    ],
+    "hint": "Try the umbrella test: does the action come before the event or after it?",
+    "why": "In case means as a precaution: you act now because something might happen later. It does not mean if."
+   },
+   {
+    "id": "pl-12",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "conn",
+    "cefr": "B2",
+    "lesson": "w6l1",
+    "world": "w6",
+    "stem": "The BTS is packed after 7 a.m. You won't get a seat ___ early.",
+    "options": [
+     "unless you don't go",
+     "if you go",
+     "unless you go",
+     "in case you go"
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "Unless already means if not, so never add a second negative.",
+     "This says that going early stops you getting a seat: the opposite of the meaning.",
+     "Yes: unless means except if. Going early is the one thing that gets you a seat.",
+     "In case is for a precaution taken before an event, not for a condition."
+    ],
+    "hint": "Try the except test, and count the negatives.",
+    "why": "Unless means except if, and it already holds the negative idea, so the verb after it stays positive."
+   },
+   {
+    "id": "pl-13",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "wish",
+    "cefr": "B2",
+    "lesson": "w7l1",
+    "world": "w7",
+    "stem": "Bam says: \"I wish I lived near the school.\" What do we know?",
+    "options": [
+     "She lived near the school in the past.",
+     "She doesn't live near the school now.",
+     "She will move near the school soon.",
+     "She lives near the school and likes it."
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "Lived is past in form only. After wish it is about now, not about the past.",
+     "Yes: wish plus a past form is one step back, so the truth now is the opposite.",
+     "A wish is not a plan. For a real future she would say: I hope to move.",
+     "Nobody wishes for what she already has. The past form shows it is not real."
+    ],
+    "hint": "Past form, or past time? Ask what is true now.",
+    "why": "Wish plus a past form is one step back from reality: it is about now, and the truth is the opposite.",
+    "truth": "Bam doesn't live near the school (now)."
+   },
+   {
+    "id": "pl-14",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "wish",
+    "cefr": "B2",
+    "lesson": "w7l2",
+    "world": "w7",
+    "stem": "I forgot my PE kit this morning, so I had to sit and watch. If only I ___ my bag last night!",
+    "options": [
+     "packed",
+     "have packed",
+     "would have packed",
+     "had packed"
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "One step back is a wish about now. Last night is past, so step back twice.",
+     "Have packed is real time up to now. A regret about last night needs had.",
+     "Would have is the result form. After if only, a past regret takes had plus V3.",
+     "Yes: a regret about a finished past time takes had plus the past participle."
+    ],
+    "hint": "When is the wish about: now or last night? How many steps back?",
+    "why": "If only about a finished past time is a regret, so the verb goes two steps back: had plus the past participle.",
+    "truth": "She didn't pack her bag last night."
+   },
+   {
+    "id": "pl-15",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "formal",
+    "cefr": "C1",
+    "lesson": "w8l1",
+    "world": "w8",
+    "stem": "\"Had the coach known about the storm, she would have cancelled training.\" What do we learn?",
+    "options": [
+     "The coach knew, so training was cancelled.",
+     "Somebody is asking if the coach knew about the storm.",
+     "The coach didn't know, and training went ahead.",
+     "The coach may find out and cancel training later."
+    ],
+    "answer": 2,
+    "near": 1,
+    "fb": [
+     "That is the imagined world. The truth is the opposite of both halves.",
+     "It looks like a question, but there is no question mark: had has replaced if.",
+     "Yes: had before the subject means if she had known, an imagined past.",
+     "Had known and would have cancelled are both about the past, not the future."
+    ],
+    "hint": "Had comes first, but is this a question? Try putting if back.",
+    "why": "Had the coach known means if the coach had known: a formal imagined past. So she did not know, and training was not cancelled.",
+    "truth": "The coach didn't know about the storm, and training wasn't cancelled."
+   },
+   {
+    "id": "pl-16",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "formal",
+    "cefr": "C1",
+    "lesson": "w8l1",
+    "world": "w8",
+    "stem": "From a school email: \"___ any further information about the exchange programme, please contact the office.\"",
+    "options": [
+     "If should you need",
+     "Should you needed",
+     "Should you need",
+     "Would you need"
+    ],
+    "answer": 2,
+    "near": 0,
+    "fb": [
+     "The inverted should does the job of if, so if cannot stay in the clause.",
+     "After should the verb stays in its base form.",
+     "Yes: formal inversion: should, then the subject, then the base verb, and no if.",
+     "Only should, were and had can replace if in this way; would cannot."
+    ],
+    "hint": "Which helping verbs can stand in for if at the front of a formal sentence, and what form follows?",
+    "why": "Formal inversion replaces if with should before the subject, followed by the base verb. It means if you need."
+   },
+   {
+    "id": "pl-17",
+    "type": "mcq",
+    "skill": "meaning",
+    "ctype": "3",
+    "cefr": "B2",
+    "lesson": "w9l1",
+    "world": "w9",
+    "stem": "\"I only got to the audition on time because my aunt drove me.\" Which sentence means the same?",
+    "options": [
+     "If my aunt had driven me, I'd have arrived at the audition on time.",
+     "Even though my aunt drove me, I was late for the audition.",
+     "If my aunt doesn't drive me, I'll be late for the audition.",
+     "If my aunt hadn't driven me, I'd have been late for the audition."
+    ],
+    "answer": 3,
+    "near": 0,
+    "fb": [
+     "This imagines that she drove, so its truth is that she didn't. But she did.",
+     "The facts say she was on time, and the lift was the reason.",
+     "This is a real future. The audition is already over.",
+     "Yes: she did drive and I was on time, so we imagine the opposite of both."
+    ],
+    "hint": "Write the truth behind each sentence and compare it with the facts given.",
+    "why": "The facts are past and real, so the same idea imagines the opposite of each: no lift from her aunt, and a late arrival.",
+    "truth": "Her aunt drove her, and she was on time (past)."
+   },
+   {
+    "id": "pl-18",
+    "type": "mcq",
+    "skill": "form",
+    "ctype": "formal",
+    "cefr": "C1",
+    "lesson": "w9l2",
+    "world": "w9",
+    "stem": "From an essay: \"Were governments ___ public transport free, far fewer people would drive to work.\"",
+    "options": [
+     "made",
+     "to make",
+     "make",
+     "would make"
+    ],
+    "answer": 1,
+    "near": 0,
+    "fb": [
+     "Made fits after if (if governments made). With inverted were, the pattern needs to plus the verb.",
+     "Yes: were, subject, to plus verb is the formal twin of if governments made.",
+     "A bare verb cannot follow were plus subject here; it needs to.",
+     "Would belongs in the result half, and it is already there."
+    ],
+    "hint": "Put if back and say it the everyday way. What does the formal pattern add after the subject?",
+    "why": "Were plus subject plus to-infinitive is the formal, inverted form of an imagined future condition; use it once in an essay.",
+    "truth": "Governments have not made public transport free."
+   }
+  ]
+ },
+ "u6": {
+  "title": "Unit 6 grammar check",
+  "sections": [
+   {
+    "title": "Conditionals",
+    "instructions": "Type the verb in brackets in the correct form to make a zero, first, second or third conditional. Use short forms if you like, but do not add extra words such as might or could.",
+    "items": [
+     {
+      "id": "u6-1",
+      "type": "type",
+      "skill": "form",
+      "ctype": "0",
+      "cefr": "B2",
+      "lesson": "w1l1",
+      "stem": "Look after the basil in the hot season. If it ___ (not get) enough water, the leaves turn yellow within a week.",
+      "accept": [
+       "doesn't get",
+       "does not get"
+      ],
+      "model": "doesn't get",
+      "hint": "Look at the verb in the result. Is this one event or something that is always true?",
+      "why": "The result (turn) is present simple, so this is a general truth: present simple in the if half too, with does for it."
+     },
+     {
+      "id": "u6-2",
+      "type": "type",
+      "skill": "form",
+      "ctype": "3",
+      "cefr": "B2",
+      "lesson": "w4l1",
+      "stem": "Mook left her umbrella at home yesterday and got soaked. If she ___ (take) it with her, she would have stayed dry.",
+      "accept": [
+       "had taken",
+       "'d taken",
+       "she'd taken"
+      ],
+      "model": "had taken",
+      "hint": "When is the condition about? How many steps back?",
+      "why": "Yesterday is finished and she did not take it, so the if half goes two steps back: had plus the past participle.",
+      "truth": "Mook didn't take her umbrella yesterday."
+     },
+     {
+      "id": "u6-3",
+      "type": "type",
+      "skill": "form",
+      "ctype": "1",
+      "cefr": "B2",
+      "lesson": "w2l1",
+      "stem": "If Mum ___ (say) yes tonight, I'll come to the concert with you on Saturday.",
+      "accept": [
+       "says"
+      ],
+      "model": "says",
+      "hint": "Which half makes the prediction? Check the subject as well.",
+      "why": "A real future condition takes the present simple after if, never will; Mum (she) needs the -s form."
+     },
+     {
+      "id": "u6-4",
+      "type": "type",
+      "skill": "form",
+      "ctype": "2",
+      "cefr": "B2",
+      "lesson": "w3l2",
+      "stem": "Bam lives a long way from school, so she gets up at five. If she ___ (live) nearer, she'd sleep until half past six every day.",
+      "accept": [
+       "lived"
+      ],
+      "model": "lived",
+      "hint": "Is the condition true now? How many steps back?",
+      "why": "She does not live nearer, so the condition is imagined now: one step back to the past simple.",
+      "truth": "Bam doesn't live near the school (now)."
+     },
+     {
+      "id": "u6-5",
+      "type": "type",
+      "skill": "form",
+      "ctype": "3",
+      "cefr": "B2",
+      "lesson": "w4l1",
+      "stem": "We got to the cinema ten minutes late last night. If we had left on time, we ___ (see) the start of the film.",
+      "accept": [
+       "would have seen",
+       "would've seen",
+       "'d have seen",
+       "'d've seen",
+       "we'd have seen",
+       "we would have seen",
+       "we would've seen"
+      ],
+      "model": "would have seen",
+      "hint": "When is the result? Does it need a past ticket?",
+      "why": "Last night is over and they did not leave on time, so the result is imagined past: would, the have ticket and the past participle.",
+      "truth": "They didn't leave on time last night, so they missed the start."
+     },
+     {
+      "id": "u6-6",
+      "type": "type",
+      "skill": "form",
+      "ctype": "1",
+      "cefr": "B2",
+      "lesson": "w2l1",
+      "stem": "Hurry up, Pim! If we miss the 7.15 train, we ___ (be) late for the first lesson again.",
+      "accept": [
+       "will be",
+       "'ll be",
+       "shall be",
+       "are going to be",
+       "'re going to be",
+       "we'll be"
+      ],
+      "model": "will be",
+      "hint": "Is missing the train still possible? Which half makes the prediction?",
+      "why": "Missing the train is a real possibility this morning, so the result is a real prediction about the future."
+     },
+     {
+      "id": "u6-7",
+      "type": "type",
+      "skill": "form",
+      "ctype": "2",
+      "cefr": "B2",
+      "lesson": "w3l2",
+      "stem": "Jane's phone is always on silent. If she turned the sound on, she ___ (not miss) so many calls from her mum every day.",
+      "accept": [
+       "wouldn't miss",
+       "would not miss"
+      ],
+      "model": "wouldn't miss",
+      "hint": "Look at the tense after if. Is the result about now or about the past?",
+      "why": "Turned is one step back for an imagined present, so the result is would not plus the base verb, with no have ticket.",
+      "truth": "Jane doesn't turn the sound on, so she misses calls (now)."
+     },
+     {
+      "id": "u6-8",
+      "type": "type",
+      "skill": "form",
+      "ctype": "3",
+      "cefr": "B2",
+      "lesson": "w4l2",
+      "stem": "Nan didn't see the wet-floor sign in the canteen on Monday. If she'd seen it, she ___ (not slip).",
+      "accept": [
+       "wouldn't have slipped",
+       "would not have slipped",
+       "wouldn't've slipped",
+       "would not've slipped"
+      ],
+      "model": "wouldn't have slipped",
+      "hint": "Read the contraction after if: what follows it? Then ask when the result is.",
+      "why": "She'd seen is she had seen, an imagined past, so the result needs would not have plus the past participle.",
+      "truth": "Nan didn't see the sign on Monday, and she slipped."
+     }
+    ]
+   },
+   {
+    "title": "unless, as long as, provided, in case",
+    "instructions": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Write between two and five words. Do not add might, may, could or should.",
+    "items": [
+     {
+      "id": "u6-9",
+      "type": "type",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l1",
+      "given": "You can't join the trip if you don't hand in the form by Friday.",
+      "keyword": "UNLESS",
+      "stem": "You can't join the trip ___ in the form by Friday.",
+      "accept": [
+       "unless you hand",
+       "unless you have handed",
+       "unless you've handed"
+      ],
+      "model": "unless you hand",
+      "hint": "The key word already holds a negative idea. What happens to the verb after it?",
+      "why": "Unless means if not, so if you don't hand becomes the positive verb after it."
+     },
+     {
+      "id": "u6-10",
+      "type": "type",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l2",
+      "given": "You can borrow my tablet, but you must give it back before dinner.",
+      "keyword": "LONG",
+      "stem": "You can borrow my tablet ___ it back before dinner.",
+      "accept": [
+       "as long as you give",
+       "so long as you give",
+       "as long as I get",
+       "so long as I get",
+       "as long as you bring",
+       "so long as you bring",
+       "as long as you hand",
+       "so long as you hand"
+      ],
+      "model": "as long as you give",
+      "hint": "This is a bargain: yes, but on one condition. Which three-word linker carries that?",
+      "why": "The phrase with long means only if: it sets the one condition for the permission, and takes the present simple."
+     },
+     {
+      "id": "u6-11",
+      "type": "type",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l2",
+      "given": "Mum will let me go to the concert only if I finish my project first.",
+      "keyword": "PROVIDED",
+      "stem": "Mum will let me go to the concert ___ my project first.",
+      "accept": [
+       "provided I finish",
+       "provided that I finish",
+       "provided I have finished",
+       "provided I've finished",
+       "provided that I have finished",
+       "provided that I've finished",
+       "provided I complete",
+       "provided that I complete"
+      ],
+      "model": "provided I finish",
+      "hint": "Which tense follows this linker when the condition is in the future?",
+      "why": "Provided (that) means only if. Like if, it takes the present simple for a future condition, never will."
+     },
+     {
+      "id": "u6-12",
+      "type": "type",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l3",
+      "given": "Take a jacket because the cinema might be cold.",
+      "keyword": "CASE",
+      "stem": "Take a jacket ___ cold in the cinema.",
+      "accept": [
+       "in case it is",
+       "in case it's",
+       "in case it gets",
+       "in case it feels",
+       "in case it becomes",
+       "in case you get",
+       "in case you are",
+       "in case you're",
+       "in case you feel"
+      ],
+      "model": "in case it is",
+      "hint": "Is the jacket a precaution? Which tense follows the linker for a possible future?",
+      "why": "The jacket is a precaution against a possible problem, and the linker takes the present simple, not will or might."
+     },
+     {
+      "id": "u6-13",
+      "type": "type",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l1",
+      "given": "If it doesn't rain on Saturday, we'll have the picnic in Lumphini Park.",
+      "keyword": "UNLESS",
+      "stem": "We'll have the picnic in Lumphini Park on Saturday ___.",
+      "accept": [
+       "unless it rains",
+       "unless it is raining",
+       "unless it's raining"
+      ],
+      "model": "unless it rains",
+      "hint": "Rain is the one thing that stops the picnic. Count the negatives in your answer.",
+      "why": "Unless means except if: the negative if-clause becomes a positive verb after it."
+     },
+     {
+      "id": "u6-14",
+      "type": "type",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l3",
+      "given": "Fah might get hungry on the bus, so she is taking some snacks.",
+      "keyword": "CASE",
+      "stem": "Fah is taking some snacks ___ hungry on the bus.",
+      "accept": [
+       "in case she gets",
+       "in case she is",
+       "in case she's",
+       "in case she feels",
+       "in case she becomes"
+      ],
+      "model": "in case she gets",
+      "hint": "She packs first; the problem may or may not come later. Which tense follows the linker?",
+      "why": "The snacks are a precaution for something that might happen, so the linker is followed by the present simple."
+     }
+    ]
+   },
+   {
+    "title": "I wish / If only",
+    "instructions": "Read the situation. Then type the verb in brackets in the correct form to complete what the girl says. Use short forms if you like.",
+    "items": [
+     {
+      "id": "u6-15",
+      "type": "type",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l1",
+      "lines": [
+       {
+        "who": "Situation",
+        "text": "Mook's best friend moved to Chiang Mai last year, and Mook misses her."
+       }
+      ],
+      "stem": "I wish she still ___ (live) in Bangkok.",
+      "accept": [
+       "lived"
+      ],
+      "model": "lived",
+      "hint": "Is the wish about now or about the past? How many steps back?",
+      "why": "A wish about the present takes one step back: the past simple, although the time is now.",
+      "truth": "Her friend doesn't live in Bangkok now."
+     },
+     {
+      "id": "u6-16",
+      "type": "type",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l1",
+      "lines": [
+       {
+        "who": "Situation",
+        "text": "Nan loves swimming, but her school has no pool."
+       }
+      ],
+      "stem": "If only there ___ (be) a pool at my school.",
+      "accept": [
+       "were",
+       "was"
+      ],
+      "model": "were",
+      "hint": "What is true at her school now? Step back once from that.",
+      "why": "If only about the present takes a past form of be. Write were in exams; was is also heard in speech.",
+      "truth": "There isn't a pool at Nan's school (now)."
+     },
+     {
+      "id": "u6-17",
+      "type": "type",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l1",
+      "lines": [
+       {
+        "who": "Situation",
+        "text": "Fern would love to join the trip on Saturday, but she has an extra class that day."
+       }
+      ],
+      "stem": "I wish I ___ (not have) an extra class on Saturday.",
+      "accept": [
+       "didn't have",
+       "did not have"
+      ],
+      "model": "didn't have",
+      "hint": "The class is a fact she cannot change. Which form shows distance from reality?",
+      "why": "The class is real, so the wish steps back once: a negative past simple, even though Saturday is still to come.",
+      "truth": "Fern has an extra class on Saturday."
+     },
+     {
+      "id": "u6-18",
+      "type": "type",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l2",
+      "lines": [
+       {
+        "who": "Situation",
+        "text": "Jane spent all her pocket money on stickers on Monday. Now she can't buy a birthday present for her friend."
+       }
+      ],
+      "stem": "I wish I ___ (not spend) all my money on Monday.",
+      "accept": [
+       "hadn't spent",
+       "had not spent"
+      ],
+      "model": "hadn't spent",
+      "hint": "When did it happen? How many steps back for a regret?",
+      "why": "Monday is finished, so this is a regret: two steps back, had not plus the past participle.",
+      "truth": "Jane spent all her money on Monday."
+     },
+     {
+      "id": "u6-19",
+      "type": "type",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l2",
+      "lines": [
+       {
+        "who": "Situation",
+        "text": "Praew didn't save her essay last night, and then the laptop crashed."
+       }
+      ],
+      "stem": "If only I ___ (save) my essay last night!",
+      "accept": [
+       "had saved",
+       "'d saved",
+       "I'd saved"
+      ],
+      "model": "had saved",
+      "hint": "Is this about now or about a finished time? Count the steps back.",
+      "why": "Last night is finished and she did not do it, so if only takes had plus the past participle.",
+      "truth": "Praew didn't save her essay last night."
+     },
+     {
+      "id": "u6-20",
+      "type": "type",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l3",
+      "lines": [
+       {
+        "who": "Situation",
+        "text": "Bam is trying to revise. Her neighbours are playing loud music again, and it annoys her."
+       }
+      ],
+      "stem": "I wish they ___ (turn) the music down!",
+      "accept": [
+       "would turn",
+       "'d turn",
+       "they'd turn"
+      ],
+      "model": "would turn",
+      "hint": "She wants other people to act differently. Which helping verb shows that after wish?",
+      "why": "For someone else's annoying behaviour that you want to change, wish is followed by would plus the base verb.",
+      "truth": "The neighbours aren't turning the music down."
+     }
+    ]
+   }
+  ]
+ },
+ "finalB2": {
+  "title": "Final check B2",
+  "sections": [
+   {
+    "title": "Choose the best answer",
+    "instructions": "Choose the one answer that fits the meaning and the grammar.",
+    "items": [
+     {
+      "id": "fb2-1",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "0",
+      "cefr": "B2",
+      "lesson": "w1l2",
+      "stem": "A school rule: if a student ___ late three times in one month, she must see the head of year.",
+      "options": [
+       "will arrive",
+       "arrive",
+       "arrives",
+       "would arrive"
+      ],
+      "answer": 2,
+      "near": 0,
+      "fb": [
+       "No will after if. A rule is always true, so the if half is present simple.",
+       "A student is one person (she), so the present simple needs -s.",
+       "Yes: a rule is a real, always-true conditional: present simple, with -s.",
+       "Would is for an imagined result. A rule is real, and would never follows a plain if."
+      ],
+      "hint": "Is this a rule that is always true, or one imagined event? Check the subject too.",
+      "why": "A rule is a real, always-true conditional: present simple after if (with -s for a student), and must in the result."
+     },
+     {
+      "id": "fb2-2",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "1",
+      "cefr": "B2",
+      "lesson": "w2l3",
+      "stem": "Which speaker is sure that her mum will come home?",
+      "options": [
+       "If Mum gets home, I'll ask her about the trip.",
+       "When Mum gets home, I'll ask her about the trip.",
+       "If Mum got home, I'd ask her about the trip.",
+       "If Mum had got home, I'd have asked her about the trip."
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "If leaves it open: maybe she will come home, maybe not.",
+       "Yes: when treats the event as expected; only the time is unknown.",
+       "The step back shows the speaker is only imagining it.",
+       "Two steps back: this imagines a past that did not happen."
+      ],
+      "hint": "Which linking word treats the event as expected, not just possible?",
+      "why": "When presents the event as expected; if leaves it open; the stepped-back forms only imagine it."
+     },
+     {
+      "id": "fb2-3",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "2",
+      "cefr": "B2",
+      "lesson": "w3l1",
+      "stem": "Fern says: \"If I spoke Japanese, I'd watch anime without subtitles.\" What is true now?",
+      "options": [
+       "She speaks Japanese well.",
+       "She spoke Japanese when she was younger.",
+       "She is going to learn Japanese next year.",
+       "She doesn't speak Japanese."
+      ],
+      "answer": 3,
+      "near": 1,
+      "fb": [
+       "If that were true, she would not need to imagine it.",
+       "Spoke is past in form only. Here it shows distance from reality, not past time.",
+       "The sentence makes no plan. A plan would be: if I learn Japanese, I'll watch.",
+       "Yes: one step back from reality, so the truth now is the opposite."
+      ],
+      "hint": "The verb after if is past in form. Is it about past time, or about reality?",
+      "why": "Spoke with would is one step back from reality: it imagines a present that is not true.",
+      "truth": "Fern doesn't speak Japanese (now)."
+     },
+     {
+      "id": "fb2-4",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "2",
+      "cefr": "B2",
+      "lesson": "w3l2",
+      "stem": "My laptop is at home, sadly. If I had it here, I ___ you the file right now.",
+      "options": [
+       "can send",
+       "could send",
+       "could have sent",
+       "will send"
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "Can is for a real result. The laptop is not here, so step back once.",
+       "Yes: imagined now, so can steps back once and takes the base verb.",
+       "The have ticket makes the result past, but the result is right now.",
+       "Will is for a real future. This situation is imagined."
+      ],
+      "hint": "Is the result real or imagined? Is it about now or the past?",
+      "why": "The laptop is not here, so the result is imagined and present: can steps back once to could plus the base verb.",
+      "truth": "I don't have my laptop here (now)."
+     },
+     {
+      "id": "fb2-5",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "3",
+      "cefr": "B2",
+      "lesson": "w4l2",
+      "stem": "Jane went to the wrong room this morning. If she ___ the LINE group last night, she'd have known about the change.",
+      "options": [
+       "checked",
+       "has checked",
+       "would have checked",
+       "had checked"
+      ],
+      "answer": 3,
+      "near": 2,
+      "fb": [
+       "One step back is for now. Last night is past and imagined: step back twice.",
+       "Has checked is real time up to now. An imagined past needs had.",
+       "Would have is the result form. It never goes in the if half.",
+       "Yes: imagined past in the if half: had plus the past participle."
+      ],
+      "hint": "When is the condition about? Which half takes would?",
+      "why": "Last night is finished and she did not check, so the if half needs had plus the past participle; would have stays in the result.",
+      "truth": "Jane didn't check the LINE group last night."
+     },
+     {
+      "id": "fb2-6",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "3",
+      "cefr": "B2",
+      "lesson": "w4l3",
+      "stem": "Which sentence tells us that Praew <b>did</b> bring her umbrella?",
+      "options": [
+       "If Praew had brought her umbrella, she wouldn't have got soaked.",
+       "If Praew brings her umbrella, she won't get soaked.",
+       "If Praew hadn't brought her umbrella, she'd have got soaked.",
+       "If Praew brought her umbrella, she wouldn't get soaked."
+      ],
+      "answer": 2,
+      "near": 0,
+      "fb": [
+       "Flip it: had brought is imagined, so in fact she did not bring it.",
+       "A real future: we don't know yet whether she will bring it.",
+       "Yes: flip the imagined negative and you get the fact: she brought it. This is relief.",
+       "This imagines now or the future; it says nothing about what she did."
+      ],
+      "hint": "Flip each if half to find the fact behind it.",
+      "why": "An imagined past shows the opposite of the facts, so the negative if half means that she really did bring it.",
+      "truth": "Praew brought her umbrella, and she didn't get soaked (past)."
+     },
+     {
+      "id": "fb2-7",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "m32",
+      "cefr": "B2",
+      "lesson": "w5l3",
+      "stem": "\"If I had joined the debate club in M1, I'd be a more confident speaker now.\" What time is each half about?",
+      "options": [
+       "past condition, past result",
+       "present condition, past result",
+       "past condition, present result",
+       "present condition, present result"
+      ],
+      "answer": 2,
+      "near": 0,
+      "fb": [
+       "The condition is past, but the result has no have ticket and says now.",
+       "The times are the wrong way round: M1 is the past and now is the present.",
+       "Yes: had joined is the past and would be is now: a mixed conditional.",
+       "Had joined with in M1 is two steps back: that half is about the past."
+      ],
+      "hint": "Date each half with its own time word.",
+      "why": "Had joined (in M1) is an imagined past; would be (now) is an imagined present. Each half is built from its own time.",
+      "truth": "She didn't join in M1 (past); she isn't such a confident speaker (now)."
+     },
+     {
+      "id": "fb2-8",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l4",
+      "stem": "We all got soaked, but nobody stayed at home. ___ it was pouring with rain yesterday, the whole team turned up for training.",
+      "options": [
+       "Even if",
+       "Provided that",
+       "Even though",
+       "Unless"
+      ],
+      "answer": 2,
+      "near": 0,
+      "fb": [
+       "Even if is for something that may or may not be true. The rain was a fact.",
+       "Provided that sets a condition for a bargain. The rain was no condition for coming.",
+       "Yes: the rain really happened, and the result is a surprise: that is the truth test.",
+       "Unless means except if, but the team came and it did rain."
+      ],
+      "hint": "Try the truth test: did it really rain, or is it only a maybe?",
+      "why": "The rain is a fact, not a possibility, so the linker must be the one for true things that do not stop the result."
+     }
+    ]
+   },
+   {
+    "title": "Find the mistake",
+    "instructions": "One of the four marked parts is wrong. Tap it.",
+    "items": [
+     {
+      "id": "fb2-9",
+      "type": "spot",
+      "skill": "form",
+      "ctype": "1",
+      "cefr": "B2",
+      "lesson": "w2l1",
+      "stem": "If the rain [[will stop]] before four, we [[will play]] the match [[as planned]], so [[bring]] your racket.",
+      "answer": 0,
+      "fix": "stops",
+      "fb": [
+       "Yes: this is the mistake. No will after if for a plain future condition: the rain stops.",
+       "This part is fine: will belongs in the result, where the prediction is made.",
+       "This part is fine: as planned is a normal fixed phrase.",
+       "This part is fine: an imperative is a normal result in a real conditional."
+      ],
+      "hint": "Which half takes the photo and which half makes the promise?",
+      "why": "A real future condition takes the present simple after if; will belongs only in the result."
+     },
+     {
+      "id": "fb2-10",
+      "type": "spot",
+      "skill": "form",
+      "ctype": "3",
+      "cefr": "B2",
+      "lesson": "w4l1",
+      "stem": "If Mint [[had saved]] her work last night, she [[wouldn't lose]] the whole essay [[when]] the laptop [[crashed]].",
+      "answer": 1,
+      "fix": "wouldn't have lost",
+      "fb": [
+       "This part is fine: an imagined past condition takes had plus the past participle.",
+       "Yes: this is the mistake. The result is past too, so it needs the have ticket.",
+       "This part is fine: when introduces the real past event.",
+       "This part is fine: the crash really happened, so the past simple is right."
+      ],
+      "hint": "When did she lose the essay? Is there a past ticket in the result?",
+      "why": "Both halves are about last night, so the result needs would not have plus the past participle."
+     },
+     {
+      "id": "fb2-11",
+      "type": "spot",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l1",
+      "stem": "You [[won't improve]] your serve unless you [[don't practise]] it [[every week]] with [[a partner]].",
+      "answer": 1,
+      "fix": "practise",
+      "fb": [
+       "This part is fine: will not is a normal real result.",
+       "Yes: this is the mistake. Unless already means if not, so the verb stays positive.",
+       "This part is fine: every week is a normal time phrase.",
+       "This part is fine: with a partner is correct."
+      ],
+      "hint": "Count the negatives after the linker.",
+      "why": "Unless means except if. A second negative after it reverses the meaning, so the verb must be positive."
+     },
+     {
+      "id": "fb2-12",
+      "type": "spot",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l1",
+      "stem": "I wish I [[have]] more free time [[this term]], because I [[would love]] to join the art club [[as well]].",
+      "answer": 0,
+      "fix": "had",
+      "fb": [
+       "Yes: this is the mistake. After wish, a present situation takes a past form.",
+       "This part is fine: this term tells us the wish is about now.",
+       "This part is fine: would love is a normal polite way to say what you want.",
+       "This part is fine: as well is correct at the end."
+      ],
+      "hint": "After wish, how far does the verb step back for a wish about now?",
+      "why": "Wish about the present is one step back from reality: the past simple, although the time is now."
+     }
+    ]
+   },
+   {
+    "title": "In conversation",
+    "instructions": "Read the conversation and choose the answer that fits what the speakers mean.",
+    "items": [
+     {
+      "id": "fb2-13",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l3",
+      "lines": [
+       {
+        "who": "Mook",
+        "text": "Why are you carrying two power banks?"
+       },
+       {
+        "who": "Fah",
+        "text": "The concert doesn't finish until eleven."
+       }
+      ],
+      "stem": "I'm taking a spare one ___ the first one runs out.",
+      "options": [
+       "unless",
+       "in case",
+       "even though",
+       "as long as"
+      ],
+      "answer": 1,
+      "near": 3,
+      "fb": [
+       "Unless means except if: she would then leave the spare at home when it is needed.",
+       "Yes: a precaution taken now, because the problem might come later.",
+       "Even though is for a fact. The first one has not run out yet.",
+       "As long as makes a bargain, but running out is a risk, not a deal."
+      ],
+      "hint": "Is the spare one packed before or after the problem happens?",
+      "why": "She packs the spare one now as a precaution, because the first one might run out later."
+     },
+     {
+      "id": "fb2-14",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "3",
+      "cefr": "B2",
+      "lesson": "w4l3",
+      "lines": [
+       {
+        "who": "Pim",
+        "text": "Coach, I'm so sorry I missed the start of training yesterday."
+       },
+       {
+        "who": "Coach",
+        "text": "What happened?"
+       },
+       {
+        "who": "Pim",
+        "text": "My mum's car broke down on the way."
+       }
+      ],
+      "stem": "What does Pim say next?",
+      "options": [
+       "If it doesn't break down, I'll be here on time.",
+       "If it hadn't broken down, I'd have been here on time.",
+       "If it didn't break down, I'd be here on time.",
+       "Unless it breaks down, I'll be here on time."
+      ],
+      "answer": 1,
+      "near": 2,
+      "fb": [
+       "A real future, but Pim is explaining yesterday, and the car did break down.",
+       "Yes: an imagined past explains what went wrong yesterday.",
+       "One step back is about now. The breakdown was yesterday: step back twice.",
+       "This is about the future. It does not explain yesterday."
+      ],
+      "hint": "When did the problem happen? How many steps back does the reply need?",
+      "why": "The breakdown is a finished past fact, so the excuse imagines the opposite past: had not plus V3, would have plus V3.",
+      "truth": "The car broke down yesterday, and Pim wasn't on time."
+     },
+     {
+      "id": "fb2-15",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l3",
+      "lines": [
+       {
+        "who": "Jane",
+        "text": "Good luck in the speech contest tomorrow!"
+       },
+       {
+        "who": "Fern",
+        "text": "Thanks! I've practised all week."
+       }
+      ],
+      "stem": "What does Fern say next?",
+      "options": [
+       "I wish I didn't forget my lines.",
+       "I hope I don't forget my lines.",
+       "I wish I hadn't forgotten my lines.",
+       "If only I hadn't forgotten them."
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "Wish plus past is for something unreal now. Tomorrow is still open, so she hopes.",
+       "Yes: a possible future takes hope plus the present.",
+       "That is a regret about the past, but the contest has not happened yet.",
+       "If only plus had is a past regret. Nothing has gone wrong yet."
+      ],
+      "hint": "Is the contest finished, or still to come? Is the good result possible?",
+      "why": "The contest is tomorrow and remembering is possible, so she hopes. Wish with a past form is for something unreal now or a past regret."
+     },
+     {
+      "id": "fb2-16",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "m32",
+      "cefr": "B2",
+      "lesson": "w5l1",
+      "lines": [
+       {
+        "who": "Fern",
+        "text": "Why are you yawning so much? It's only nine o'clock."
+       },
+       {
+        "who": "Jane",
+        "text": "I stayed up reading until two."
+       }
+      ],
+      "stem": "What does Jane say next?",
+      "options": [
+       "If I hadn't stayed up so late, I'd be very sleepy now.",
+       "If I'd stayed up until two, I wouldn't be so sleepy now.",
+       "If I'd gone to bed at ten, I wouldn't be so sleepy now.",
+       "If I stay up until two, I'm never sleepy the next day."
+      ],
+      "answer": 2,
+      "near": 0,
+      "fb": [
+       "The logic is reversed: staying up is the reason she is sleepy.",
+       "She did stay up until two, so she cannot imagine it as unreal.",
+       "Yes: an imagined past (bed at ten) with an imagined present result (not sleepy now).",
+       "This is a general fact, but her yawning shows the opposite."
+      ],
+      "hint": "Write the two truths: what she did last night, and how she feels now.",
+      "why": "She did not go to bed at ten (past) and she is sleepy (now): a past condition with a present result.",
+      "truth": "Jane didn't go to bed at ten (last night); she is sleepy (now)."
+     }
+    ]
+   },
+   {
+    "title": "Rewrite it",
+    "instructions": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Write between two and five words.",
+    "items": [
+     {
+      "id": "fb2-17",
+      "type": "type",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "B2",
+      "lesson": "w6l1",
+      "given": "We'll miss the start of the film if we don't leave now.",
+      "keyword": "UNLESS",
+      "stem": "We'll miss the start of the film ___ now.",
+      "accept": [
+       "unless we leave"
+      ],
+      "model": "unless we leave",
+      "hint": "The key word already holds a negative idea. What happens to the verb?",
+      "why": "Unless means if not, so the negative verb becomes positive after it."
+     },
+     {
+      "id": "fb2-18",
+      "type": "type",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "B2",
+      "lesson": "w7l2",
+      "given": "I didn't bring a jacket to the cinema last night, and I regret it.",
+      "keyword": "WISH",
+      "stem": "I ___ a jacket to the cinema last night.",
+      "accept": [
+       "wish I had brought",
+       "wish I'd brought",
+       "wish that I had brought",
+       "wish that I'd brought",
+       "wish I had taken",
+       "wish I'd taken",
+       "wish that I had taken",
+       "wish that I'd taken"
+      ],
+      "model": "wish I had brought",
+      "hint": "Last night is finished. How many steps back for a regret?",
+      "why": "A regret about a finished past time takes wish plus had plus the past participle.",
+      "truth": "She didn't bring a jacket last night."
+     },
+     {
+      "id": "fb2-19",
+      "type": "type",
+      "skill": "form",
+      "ctype": "3",
+      "cefr": "B2",
+      "lesson": "w4l1",
+      "given": "Mook didn't hear her alarm, so she missed the school bus.",
+      "keyword": "HAD",
+      "stem": "If Mook ___ her alarm, she wouldn't have missed the school bus.",
+      "accept": [
+       "had heard"
+      ],
+      "model": "had heard",
+      "hint": "The fact is negative and past. Flip it, then step back twice.",
+      "why": "She did not hear it, so the imagined past condition is positive: the key word plus the past participle.",
+      "truth": "Mook didn't hear her alarm, and she missed the bus."
+     },
+     {
+      "id": "fb2-20",
+      "type": "type",
+      "skill": "form",
+      "ctype": "2",
+      "cefr": "B2",
+      "lesson": "w3l2",
+      "given": "My advice is to tell the teacher today.",
+      "keyword": "WERE",
+      "stem": "If ___ tell the teacher today.",
+      "accept": [
+       "I were you, I would",
+       "I were you I would",
+       "I were you, I'd",
+       "I were you I'd"
+      ],
+      "model": "I were you, I would",
+      "hint": "Which fixed phrase gives advice by imagining a swap of places? What follows it in the result?",
+      "why": "Advice with an imagined swap is one step back: the past form of be in the if half and would plus the base verb in the result.",
+      "truth": "The speaker isn't the other person; she is only imagining it to give advice."
+     }
+    ]
+   }
+  ]
+ },
+ "finalC1": {
+  "title": "Final check C1",
+  "sections": [
+   {
+    "title": "Choose the best answer",
+    "instructions": "Choose the one answer that fits the meaning and the grammar.",
+    "items": [
+     {
+      "id": "fc1-1",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "conn",
+      "cefr": "C1",
+      "lesson": "w6l4",
+      "stem": "I wrote the room number on my hand; ___ I would have forgotten it before I reached the exam hall this morning.",
+      "options": [
+       "unless",
+       "otherwise",
+       "in case",
+       "even though"
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "Unless needs a condition after it and never takes would have.",
+       "Yes: it stands for a whole unspoken if-clause: if I had not written it down.",
+       "In case gives the reason for a precaution and takes a simple tense, not would have.",
+       "Even though introduces a fact, but forgetting the number did not happen."
+      ],
+      "hint": "The first half is a fact. Which word can stand for 'if I had not done that'?",
+      "why": "After a semicolon, one linker can replace a whole negative if-clause; the would have result shows the imagined past.",
+      "truth": "She wrote the number down, so she didn't forget it."
+     },
+     {
+      "id": "fc1-2",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "m32",
+      "cefr": "C1",
+      "lesson": "w5l1",
+      "stem": "I didn't take that IELTS course last summer. If I ___ it, I'd feel far more confident about tomorrow's test.",
+      "options": [
+       "took",
+       "would have taken",
+       "have taken",
+       "had taken"
+      ],
+      "answer": 3,
+      "near": 0,
+      "fb": [
+       "One step back is for now or the future, but the course was last summer.",
+       "Would have is a result form. It never goes in the if half.",
+       "Have taken is real time up to now. An imagined past needs had.",
+       "Yes: the condition is an imagined past; the result (I'd feel) is about now."
+      ],
+      "hint": "Date each half separately. Which time is the condition about?",
+      "why": "The condition is last summer (two steps back), while the result is about now (one step back): a mixed conditional.",
+      "truth": "She didn't take the course (last summer); she doesn't feel so confident (now)."
+     },
+     {
+      "id": "fc1-3",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "formal",
+      "cefr": "C1",
+      "lesson": "w8l1",
+      "stem": "You handled the judges so calmly yesterday. ___ in your place, I would have frozen completely.",
+      "options": [
+       "If had I been",
+       "Had I been",
+       "Would I have been",
+       "Have I been"
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "The inverted had does the job of if, so if cannot stay.",
+       "Yes: had before the subject is the formal form of if I had been.",
+       "Would cannot be inverted to make a condition; only should, were and had can.",
+       "Have cannot replace if. An imagined past needs had."
+      ],
+      "hint": "Which helping verbs can move in front of the subject to replace if? Which one fits an imagined past?",
+      "why": "Yesterday is an imagined past, so the formal condition inverts had with the subject and drops if.",
+      "truth": "The speaker wasn't in her place yesterday."
+     },
+     {
+      "id": "fc1-4",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "formal",
+      "cefr": "C1",
+      "lesson": "w8l2",
+      "stem": "It is only a rumour, but if the school ___ phones altogether next term, most of us would complain for a week and then get used to it.",
+      "options": [
+       "would ban",
+       "were to ban",
+       "will ban",
+       "would have banned"
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "Would stays in the result half. A plain if half does not take it.",
+       "Yes: were to marks a future event as remote, and it matches would in the result.",
+       "Will does not follow a plain if, and it does not match would complain.",
+       "Would have is a past result form. Next term is the future."
+      ],
+      "hint": "The result has would. Which form keeps the if half imagined and in the future?",
+      "why": "Were to plus the base verb presents a future event as remote or unlikely; the result then takes would.",
+      "truth": "There is no such plan: the speaker treats it as remote."
+     },
+     {
+      "id": "fc1-5",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "formal",
+      "cefr": "C1",
+      "lesson": "w8l2",
+      "stem": "But for ___, I would never have found the exam room in time this morning.",
+      "options": [
+       "Fah gave me directions",
+       "Fah had given me directions",
+       "Fah's directions",
+       "Fah would give me directions"
+      ],
+      "answer": 2,
+      "near": 1,
+      "fb": [
+       "But for cannot take a clause with a subject and a verb.",
+       "The tense is right for an if-clause, but but for is never followed by a clause.",
+       "Yes: but for is followed by a noun phrase and means if it had not been for.",
+       "No clause after but for, and would never goes in the condition."
+      ],
+      "hint": "What kind of words can follow this phrase: a clause or a noun phrase?",
+      "why": "But for means if it had not been for, and it takes a noun phrase, never a clause.",
+      "truth": "Fah gave directions, and the speaker found the room in time."
+     },
+     {
+      "id": "fc1-6",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "C1",
+      "lesson": "w7l4",
+      "stem": "It's nearly midnight and your exam starts at eight. It's high time you ___ to bed.",
+      "options": [
+       "would go",
+       "went",
+       "will go",
+       "have gone"
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "Would is not used after it's high time. The verb itself steps back: the past simple.",
+       "Yes: past form, present meaning: you should be in bed already and you are not.",
+       "Will does not follow it's time.",
+       "Have gone is real time up to now; the structure needs the past simple."
+      ],
+      "hint": "Is the person in bed? Which form shows distance from reality after this phrase?",
+      "why": "It's high time plus subject takes a past form with present meaning: it should already be happening.",
+      "truth": "You are not in bed yet (now)."
+     },
+     {
+      "id": "fc1-7",
+      "type": "mcq",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "C1",
+      "lesson": "w7l4",
+      "stem": "Bam only watched the trailer, but she talks about the film as if she ___ the whole thing.",
+      "options": [
+       "sees",
+       "would see",
+       "had seen",
+       "will have seen"
+      ],
+      "answer": 2,
+      "near": 0,
+      "fb": [
+       "A present form suggests it may be true, but we know she only watched the trailer.",
+       "Would is not used after as if for an unreal past event.",
+       "Yes: the unreal event is earlier than the talking, so two steps back.",
+       "A future form cannot describe an unreal event that would be in the past."
+      ],
+      "hint": "Is the comparison real? Is the unreal event at the same time as the talking, or before it?",
+      "why": "The seeing is unreal and earlier than the talking, so as if takes had plus the past participle.",
+      "truth": "Bam didn't see the whole film."
+     },
+     {
+      "id": "fc1-8",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "mix",
+      "cefr": "C1",
+      "lesson": "w8l3",
+      "stem": "Fah replies: \"If Ploy said she'd finished the poster, she was joking. It's still blank.\" What, if anything, needs changing in Fah's reply?",
+      "options": [
+       "Change <em>said</em> to <em>had said</em>.",
+       "Nothing: it is correct as it stands.",
+       "Change <em>was joking</em> to <em>would be joking</em>.",
+       "Change <em>was joking</em> to <em>would have been joking</em>."
+      ],
+      "answer": 1,
+      "near": 3,
+      "fb": [
+       "Had said would imagine a past that did not happen, but Fah accepts that Ploy probably did say it.",
+       "Yes: a real past event with a conclusion about it. Nothing is imagined, so nothing steps back.",
+       "Would be imagines a present result. The speaker is stating a conclusion about the past.",
+       "That builds a third conditional, but Fah is not imagining an unreal past: she accepts what Mint heard."
+      ],
+      "hint": "Is Fah imagining something, or working out a conclusion from a real past event?",
+      "why": "Fah accepts that Ploy said it and draws a conclusion. Real past conditionals keep normal past tenses; nothing is imagined, so nothing steps back.",
+      "lines": [
+       {
+        "who": "Mint",
+        "text": "Ploy told me she'd finished the poster for the open day."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Find the mistake",
+    "instructions": "One of the four marked parts is wrong. Tap it.",
+    "items": [
+     {
+      "id": "fc1-9",
+      "type": "spot",
+      "skill": "form",
+      "ctype": "m23",
+      "cefr": "C1",
+      "lesson": "w5l2",
+      "stem": "If Fern [[weren't]] such a careful planner, she [[would forget]] to book the minibus for [[last month's]] trip, and we [[would all have stayed]] at school.",
+      "answer": 1,
+      "fix": "would have forgotten",
+      "fb": [
+       "This part is fine: being a careful planner is permanent, so one step back is right.",
+       "Yes: this is the mistake. The booking was last month, so the result needs the have ticket.",
+       "This part is fine: it tells us the result is in the past.",
+       "This part is fine: an imagined past result with would, have and the past participle."
+      ],
+      "hint": "Date each half. Which result has no past ticket?",
+      "why": "The condition is permanent (weren't), but the result happened last month, so it needs would have plus the past participle."
+     },
+     {
+      "id": "fc1-10",
+      "type": "spot",
+      "skill": "form",
+      "ctype": "formal",
+      "cefr": "C1",
+      "lesson": "w8l1",
+      "stem": "[[Hadn't it been]] for the delay on the MRT, we [[would have arrived]] [[in plenty of time]] for the opening ceremony [[yesterday]].",
+      "answer": 0,
+      "fix": "Had it not been",
+      "fb": [
+       "Yes: this is the mistake. In an inverted condition, not stays uncontracted after the subject.",
+       "This part is fine: an imagined past result.",
+       "This part is fine: a normal fixed phrase.",
+       "This part is fine: the time word shows the past."
+      ],
+      "hint": "In a formal inverted condition, where does not go?",
+      "why": "Inverted conditions never contract the negative: had, then the subject, then not."
+     },
+     {
+      "id": "fc1-11",
+      "type": "spot",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "C1",
+      "lesson": "w7l3",
+      "stem": "I wish I [[would be]] more confident [[when I speak]] in front of the class, but I [[always freeze]] [[at the start]].",
+      "answer": 0,
+      "fix": "were",
+      "fb": [
+       "Yes: this is the mistake. Wish plus would is for other people's behaviour, not your own state.",
+       "This part is fine: a present time clause about a habit.",
+       "This part is fine: the real present habit.",
+       "This part is fine: a normal time phrase."
+      ],
+      "hint": "Whose behaviour can follow wish plus would? What does a wish about your own state take?",
+      "why": "For your own present state, wish takes a past form. Wish plus would is kept for someone else's behaviour."
+     },
+     {
+      "id": "fc1-12",
+      "type": "spot",
+      "skill": "form",
+      "ctype": "formal",
+      "cefr": "C1",
+      "lesson": "w8l2",
+      "stem": "[[Were]] the school [[to move]] the exam to Saturday, half the class [[will miss]] it [[because of]] tutoring.",
+      "answer": 2,
+      "fix": "would miss",
+      "fb": [
+       "This part is fine: were can stand at the front in place of if.",
+       "This part is fine: were plus subject plus to-infinitive is the formal pattern.",
+       "Yes: this is the mistake. A remote condition needs an imagined result, not a real one.",
+       "This part is fine: because of plus a noun is correct."
+      ],
+      "hint": "The condition is remote. Does the result match it?",
+      "why": "Were to presents the event as remote, so the result must step back as well."
+     }
+    ]
+   },
+   {
+    "title": "In conversation",
+    "instructions": "Read the conversation and choose the answer that fits what the speakers mean.",
+    "items": [
+     {
+      "id": "fc1-13",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "wish",
+      "cefr": "C1",
+      "lesson": "w7l3",
+      "lines": [
+       {
+        "who": "Mint",
+        "text": "Is your little sister still learning the recorder?"
+       },
+       {
+        "who": "Fah",
+        "text": "Every single evening. I wish she'd give it a rest for one night."
+       }
+      ],
+      "stem": "What is Fah doing in her last sentence?",
+      "options": [
+       "Regretting something her sister did last night.",
+       "Complaining about a habit she wants to change.",
+       "Politely asking her sister for a favour.",
+       "Describing a plan her sister has already made."
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "A past regret would need had plus a past participle; here a base verb follows the contraction.",
+       "Yes: wish plus would shows annoyance at someone else's repeated behaviour.",
+       "She is talking to Mint about her sister, not asking her sister for anything.",
+       "A wish is the opposite of a plan: the truth is that her sister does not rest."
+      ],
+      "hint": "Read the contraction: what follows it, a base verb or a past participle?",
+      "why": "She'd give is she would give. Wish plus would shows annoyance at someone else's repeated behaviour and a desire for change.",
+      "truth": "Her sister doesn't give it a rest."
+     },
+     {
+      "id": "fc1-14",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "1",
+      "cefr": "C1",
+      "lesson": "w8l3",
+      "lines": [
+       {
+        "who": "Visitor",
+        "text": "Good morning. I have an appointment with the director at ten."
+       },
+       {
+        "who": "Officer",
+        "text": "She's still in a meeting, I'm afraid. If you'll take a seat, I'll let her know you're here."
+       }
+      ],
+      "stem": "Why does the officer use <em>will</em> after <em>if</em>?",
+      "options": [
+       "It is a mistake; it should be <em>if you take</em>.",
+       "It is a polite request: <em>will</em> means <em>are willing to</em>.",
+       "It is correct because the result also has <em>will</em>.",
+       "It is correct because the whole event is in the future."
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "The plain rule bends here: this will is not a future marker.",
+       "Yes: after if, will can mean willingness, which makes a polite request.",
+       "A will in the result never allows a future will in the if half.",
+       "Future time alone takes the present after if. Something else makes this one right."
+      ],
+      "hint": "Try replacing the word with another phrase. Is it about time, or about being ready to do something?",
+      "why": "Will after if is fine when it means willingness: here it turns the condition into a polite request."
+     },
+     {
+      "id": "fc1-15",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "conn",
+      "cefr": "C1",
+      "lesson": "w6l4",
+      "lines": [
+       {
+        "who": "Pim",
+        "text": "Will the parade be cancelled if it rains on sports day?"
+       },
+       {
+        "who": "Coach",
+        "text": "No chance. We've waited all year for this."
+       }
+      ],
+      "stem": "It's going ahead ___ it rains.",
+      "options": [
+       "unless",
+       "whether or not",
+       "on condition that",
+       "in case"
+      ],
+      "answer": 1,
+      "near": 0,
+      "fb": [
+       "Unless would mean that rain stops the parade, but the coach has just said no chance.",
+       "Yes: the result is the same either way.",
+       "That would make rain the requirement for the parade.",
+       "In case is for a precaution, not for something that makes no difference."
+      ],
+      "hint": "Does the rain change the result at all?",
+      "why": "The coach rules out cancelling, so the rain makes no difference: the linker must mean in both cases."
+     },
+     {
+      "id": "fc1-16",
+      "type": "mcq",
+      "skill": "meaning",
+      "ctype": "wish",
+      "cefr": "C1",
+      "lesson": "w7l4",
+      "lines": [
+       {
+        "who": "Bam",
+        "text": "Shall I post the group photo on the class page tonight?"
+       },
+       {
+        "who": "Fern",
+        "text": "Hmm. Half of us had our eyes closed in that one."
+       }
+      ],
+      "stem": "What does Fern say next?",
+      "options": [
+       "I'd rather you hadn't, to be honest.",
+       "It's high time you did, to be honest.",
+       "I'd rather you didn't, to be honest.",
+       "If only you had, to be honest."
+      ],
+      "answer": 2,
+      "near": 0,
+      "fb": [
+       "Had plus not looks back at something already done, but Bam has not posted it yet.",
+       "This urges Bam to post it, which does not fit the closed eyes.",
+       "Yes: a preference about someone else's action, now or in the future.",
+       "This regrets that Bam did not post it earlier: the opposite of what Fern wants."
+      ],
+      "hint": "Has Bam posted it yet? Which time is Fern's preference about?",
+      "why": "The photo isn't posted yet, so the preference is about the future: would rather plus subject plus past simple.",
+      "truth": "Bam hasn't posted the photo yet."
+     }
+    ]
+   },
+   {
+    "title": "Rewrite it",
+    "instructions": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Write between two and six words.",
+    "items": [
+     {
+      "id": "fc1-17",
+      "type": "type",
+      "skill": "form",
+      "ctype": "formal",
+      "cefr": "C1",
+      "lesson": "w8l1",
+      "given": "If you need any more information, please email the office.",
+      "keyword": "SHOULD",
+      "stem": "___ any more information, please email the office.",
+      "accept": [
+       "Should you need",
+       "Should you require",
+       "Should you want"
+      ],
+      "model": "Should you need",
+      "hint": "The key word takes the place of if. What word order and verb form follow?",
+      "why": "In formal inversion the key word replaces if and comes before the subject, followed by the base verb."
+     },
+     {
+      "id": "fc1-18",
+      "type": "type",
+      "skill": "form",
+      "ctype": "formal",
+      "cefr": "C1",
+      "lesson": "w8l2",
+      "given": "If my coach hadn't encouraged me, I would have given up badminton last year.",
+      "keyword": "BUT",
+      "stem": "___ encouragement, I would have given up badminton last year.",
+      "accept": [
+       "But for my coach's"
+      ],
+      "model": "But for my coach's",
+      "hint": "The phrase with the key word cannot take a clause. What can it take?",
+      "why": "But for means if it had not been for and is followed by a noun phrase, so the clause becomes a possessive plus noun.",
+      "truth": "Her coach encouraged her, and she didn't give up."
+     },
+     {
+      "id": "fc1-19",
+      "type": "type",
+      "skill": "form",
+      "ctype": "m23",
+      "cefr": "C1",
+      "lesson": "w5l2",
+      "given": "Nan doesn't speak Japanese, so she didn't understand the announcement at the station.",
+      "keyword": "SPOKE",
+      "stem": "If Nan ___ understood the announcement at the station.",
+      "accept": [
+       "spoke Japanese, she would have",
+       "spoke Japanese, she would've",
+       "spoke Japanese, she'd have",
+       "spoke Japanese, she could have",
+       "spoke Japanese, she could've",
+       "spoke Japanese she would have",
+       "spoke Japanese she would've",
+       "spoke Japanese she'd have",
+       "spoke Japanese she could have",
+       "spoke Japanese she could've",
+       "spoke Japanese she'd've"
+      ],
+      "model": "spoke Japanese, she would have",
+      "hint": "Date each half: which is always true, and which happened once in the past?",
+      "why": "Not speaking Japanese is a permanent fact (one step back); the announcement is past, so the result needs the have ticket.",
+      "truth": "Nan doesn't speak Japanese (always); she didn't understand the announcement (then)."
+     },
+     {
+      "id": "fc1-20",
+      "type": "type",
+      "skill": "form",
+      "ctype": "wish",
+      "cefr": "C1",
+      "lesson": "w7l3",
+      "given": "My brother keeps borrowing my headphones without asking, and it annoys me.",
+      "keyword": "WISH",
+      "stem": "I ___ borrowing my headphones without asking.",
+      "accept": [
+       "wish my brother would stop",
+       "wish that my brother would stop",
+       "wish my brother wouldn't keep",
+       "wish that my brother wouldn't keep",
+       "wish my brother'd stop",
+       "wish he would stop",
+       "wish he'd stop",
+       "wish he wouldn't keep",
+       "wish my brother would not keep",
+       "wish he would not keep",
+       "wish that he would stop",
+       "wish that he'd stop",
+       "wish that he wouldn't keep",
+       "wish my brother didn't keep",
+       "wish my brother did not keep",
+       "wish he didn't keep",
+       "wish he did not keep",
+       "wish that my brother didn't keep",
+       "wish that he didn't keep",
+       "wish my brother wouldn't keep on",
+       "wish he wouldn't keep on"
+      ],
+      "model": "wish my brother would stop",
+      "hint": "It is someone else's repeated behaviour. Which helping verb follows the key word?",
+      "why": "For another person's annoying habit that you want to change, wish is usually followed by would plus the base verb.",
+      "truth": "Her brother keeps borrowing them."
+     }
+    ]
+   }
+  ]
+ }
+}
